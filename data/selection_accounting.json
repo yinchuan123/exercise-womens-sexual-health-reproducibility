@@ -1,0 +1,188 @@
+{
+  "status": "BOUNDED_PRISMA_ACCOUNTING_RECONCILED_WHOLE_REVIEW_SEQUENCE_NOT_ASCERTAINABLE",
+  "record_accounting": {
+    "focused_native_export_members": 28511,
+    "focused_duplicate_representations": 7303,
+    "canonical_focused_record_groups": 21208,
+    "archive_representations": 851,
+    "archive_within_archive_duplicate_representations": 45,
+    "archive_focused_overlap": 148,
+    "net_additional_archival_record_groups": 658,
+    "canonical_total_record_groups": 21866,
+    "source_members_by_stream": {
+      "PubMed": 2262,
+      "WOS": 4420,
+      "CENTRAL": 2194,
+      "EmbaseArticles": 6433,
+      "EBSCO": 1538,
+      "LILACS": 727,
+      "EmbaseRegistry": 683,
+      "ClinicalTrials.gov": 8639,
+      "WHO_ICTRP": 1615
+    },
+    "source_group_routes": {
+      "RECORD_SCREEN_EXCLUDED": 13050,
+      "RETAIN_OR_LINK_AUTHOR_ADOPTED": 5862,
+      "FORMAL_HOLD": 2838,
+      "RETAIN_OR_LINK_TECHNICAL_EXISTING_POLICY": 116
+    },
+    "source_group_routes_by_origin": {
+      "focused": {
+        "RECORD_SCREEN_EXCLUDED": 12716,
+        "RETAIN_OR_LINK_AUTHOR_ADOPTED": 5665,
+        "FORMAL_HOLD": 2747,
+        "RETAIN_OR_LINK_TECHNICAL_EXISTING_POLICY": 80
+      },
+      "prior_archive_only": {
+        "RETAIN_OR_LINK_AUTHOR_ADOPTED": 197,
+        "RECORD_SCREEN_EXCLUDED": 334,
+        "FORMAL_HOLD": 91,
+        "RETAIN_OR_LINK_TECHNICAL_EXISTING_POLICY": 36
+      }
+    }
+  },
+  "report_catalogue": {
+    "reports": 392,
+    "reports_with_exact_current_record_anchor": 270,
+    "reports_without_exact_current_record_anchor": 122,
+    "carrier_to_report_edges": 275,
+    "exact_edge_record_routes": {
+      "RETAIN_OR_LINK_AUTHOR_ADOPTED": 193,
+      "RETAIN_OR_LINK_TECHNICAL_EXISTING_POLICY": 60,
+      "FORMAL_HOLD": 20,
+      "RECORD_SCREEN_EXCLUDED": 2
+    },
+    "by_category": [
+      {
+        "category": "AWAITING_CLASSIFICATION",
+        "reports": 114,
+        "exact_current_anchor": 91,
+        "in_bounded_request_union": 67,
+        "both_anchor_and_request_union": 52,
+        "complete_body_positive_in_request_union": 24
+      },
+      {
+        "category": "NO_RANDOMIZED_EFFECT",
+        "reports": 36,
+        "exact_current_anchor": 29,
+        "in_bounded_request_union": 19,
+        "both_anchor_and_request_union": 15,
+        "complete_body_positive_in_request_union": 8
+      },
+      {
+        "category": "OUTSIDE_FOCUSED_SCOPE",
+        "reports": 84,
+        "exact_current_anchor": 28,
+        "in_bounded_request_union": 71,
+        "both_anchor_and_request_union": 19,
+        "complete_body_positive_in_request_union": 64
+      },
+      {
+        "category": "QUALIFIED_PRINCIPAL_SOURCE",
+        "reports": 85,
+        "exact_current_anchor": 68,
+        "in_bounded_request_union": 62,
+        "both_anchor_and_request_union": 52,
+        "complete_body_positive_in_request_union": 58
+      },
+      {
+        "category": "SUPPORTING_CONTEXT_OR_COMPANION",
+        "reports": 73,
+        "exact_current_anchor": 54,
+        "in_bounded_request_union": 44,
+        "both_anchor_and_request_union": 37,
+        "complete_body_positive_in_request_union": 28
+      }
+    ]
+  },
+  "bounded_request_evidence": {
+    "unique_catalogue_ids": 263,
+    "with_exact_current_anchor": 175,
+    "with_positive_complete_own_body_evidence": 182,
+    "with_both_exact_anchor_and_complete_body_evidence": 96,
+    "with_neither_confirmed_anchor_nor_positive_complete_body": 2,
+    "catalogue_ids_outside_request_archive": 129,
+    "requests_outside_archive_are_unknown": true,
+    "vendor_request_targets_by_purpose": {
+      "P1_CANDIDATE_ELIGIBILITY_OR_SOURCE_ESTIMATE": 54,
+      "P1_EXISTING_REPORT_LAYOUT_CHECK": 2,
+      "P1_EXISTING_REPORT_COMPONENT_CHECK": 4,
+      "P2_SCREENING_SOURCE_GAP": 204,
+      "P3_BROAD_ARCHIVE_ONLY": 1
+    }
+  },
+  "historical_event_subflow": {
+    "documented_request_targets": 173,
+    "complete_body_at_event": 112,
+    "not_retrieved_at_event": 61,
+    "historical_human_fulltext_assessed": 109,
+    "later_ai_review_on_complete_body_without_historical_human_assessment": 3
+  },
+  "retained_awaiting_report_evidence": {
+    "reports": 114,
+    "in_bounded_request_union": 67,
+    "exact_current_anchor": 91,
+    "both_anchor_and_request_union": 52,
+    "complete_own_body_evidence_tiers": {
+      "complete_own_body_availability_unestablished": 28,
+      "complete_own_body_unavailable_explicitly": 9,
+      "complete_own_body_confirmed": 40,
+      "partial_or_main_body_only_verified": 37
+    }
+  },
+  "bounded_synthesis_counts": {
+    "principal_report_carriers": 85,
+    "source_supported_families": 84,
+    "typed_numerical_or_descriptive_records": 152,
+    "measurement_holds_in_152": 2,
+    "separately_author_adopted_descriptive_result": 1,
+    "restricted_model_comparison_K": [
+      2,
+      2,
+      2
+    ]
+  },
+  "whole_review_cells": {
+    "sequential_records_excluded_before_retrieval": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "13,050 record carrier exclusion routes are documented. Ordering relative to retrieval is incomplete, and some archived requests concern initial screening or another carrier."
+    },
+    "reports_sought": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "263 is the identified archived request union. Request purposes differ, and the record frame lacks an exhaustive chronology and selected report-target map."
+    },
+    "reports_not_retrieved": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "61 was a historical count within 173 requests. Later evidence and different purposes prevent conversion to a final all-review count. Lack of a verified complete body is not proof of nonretrieval."
+    },
+    "reports_assessed": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "Historical archive tracks 109 human and 3 later AI reviews; 182 is positive complete-body evidence in the broader request union. Acquisition and eligibility assessment are distinct events."
+    },
+    "reports_excluded_by_reason": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "The catalogue contains 84 outside the focused scope and 36 without a randomized effect. These categories lack an exhaustive formal eligibility sequence. 114 remain awaiting classification."
+    },
+    "reports_included": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "85 principal report carriers support the approved bounded synthesis. The 392 catalogue rows lack all-review eligibility dispositions."
+    },
+    "independent_trial_K": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "84 source-supported families are in the bounded synthesis. Unmapped/unresolved reports and final selection prevent a review-wide count."
+    },
+    "independent_unique_participant_N": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "Final independently eligible trials and reconciled participant denominators are unavailable. Use comparison-specific observed denominators only."
+    }
+  },
+  "final_PRISMA": false
+}

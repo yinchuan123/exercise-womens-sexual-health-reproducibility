@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the original studies used in any secondary analysis."
+title: "Exercise and exercise-containing interventions for women's sexual health: review methods and reproducibility materials"
+type: software
+authors:
+  - family-names: Qiu
+    given-names: Linwen
+  - family-names: Wen
+    given-names: Kaiting
+  - family-names: Yin
+    given-names: Chuan

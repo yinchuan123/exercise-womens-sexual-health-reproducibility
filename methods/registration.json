@@ -1,0 +1,20 @@
+{
+  "registration_number": "CRD420261549870",
+  "public_url": "https://www.crd.york.ac.uk/PROSPERO/view/CRD420261549870",
+  "review_title": "Comparative effects of interventions on female sexual function and sexual distress: a systematic review with clinically stratified Bayesian network and dose-response meta-analyses",
+  "date_registered": "2026-10-24",
+  "version": "1.0",
+  "version_publication_date": "2026-10-24",
+  "verified_at_utc": "2026-11-03T07:26:08Z",
+  "public_record_protocol_url": "https://www.crd.york.ac.uk/PROSPEROFILES/9ec31764e53f4f736717af5e46c0f3ea.pdf",
+  "official_record_content_observed": {
+    "population": "Women18orolder; mixed-sex/mixed-age studies require separately extractable randomized data for adult women; sex/gender definitions recorded as reported.",
+    "interventions": "Broad pharmacological,hormonal,psychological/behavioural,counselling,physical/exercise,manual,device,procedure,complementary and combinations; not exercise-only.",
+    "main_outcomes": "Global sexual function and sexually related personal distress separately; standard weightedFSFI19 distinct from modified/uncertain versions.",
+    "main_window": "Closest to12weeks within8–16weeks after randomization, later if tied; other windows retained.",
+    "review_roles": "The registered plan specified independent screening by two reviewers and adjudication by a third. AI-assisted checks do not constitute independent human review.",
+    "synthesis": "Bayesian pairwise/network and within-modality dose-response conditional on clinically coherent independent comparisons, network and data support; pairwise or structured narrative when not supported.",
+    "preparatory_work": "The public record explicitly discloses2711 public candidate records,120-record AI feasibility pilot, selective numerical outcome inspection/extraction before registration; formal review-wide human procedures and pooled models not completed at submission."
+  },
+  "public_exercise_only_amendment_verified": false
+}

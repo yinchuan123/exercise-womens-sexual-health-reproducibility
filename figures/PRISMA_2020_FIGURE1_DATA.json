@@ -1,0 +1,85 @@
+{
+  "scope": "Exercise-focused synthesis. Record routing and report catalogue evidence use separate counting units.",
+  "source": {
+    "file": "R81_PRISMA_EXISTING_ARCHIVE_READBACK.json",
+    "sha256": "a406400fef662110a0e538004f9c6d141e11858e2d77824d9add761bfe4a7df6"
+  },
+  "template": {
+    "citation": "Page MJ et al. BMJ 2021;372:n71. doi:10.1136/bmj.n71.",
+    "type": "New systematic reviews with databases, registers and other sources",
+    "url": "https://www.prisma-statement.org/prisma-2020-flow-diagram",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "counts": {
+    "database_members": 17574,
+    "register_members": 10937,
+    "focused_export_members": 28511,
+    "focused_duplicates": 7303,
+    "focused_unique": 21208,
+    "archive_members": 851,
+    "archive_duplicates": 45,
+    "archive_focused_overlap": 148,
+    "archive_net": 658,
+    "screening_frame": 21866,
+    "record_routes": {
+      "excluded": 13050,
+      "author_retained": 5862,
+      "technical_retained": 116,
+      "hold": 2838
+    },
+    "principal_reports": 85,
+    "study_families": 84,
+    "result_records": 152,
+    "awaiting_catalogue_reports": 114
+  },
+  "unresolved_whole_review_fields": {
+    "sequential_records_excluded_before_retrieval": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "13,050 record carrier exclusion routes are documented. Ordering relative to retrieval is incomplete, and some archived requests concern initial screening or another carrier."
+    },
+    "reports_sought": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "263 is the identified archived request union. Request purposes differ, and the record frame lacks an exhaustive chronology and selected report-target map."
+    },
+    "reports_not_retrieved": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "61 was a historical count within 173 requests. Later evidence and different purposes prevent conversion to a final all-review count. Lack of a verified complete body is not proof of nonretrieval."
+    },
+    "reports_assessed": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "Historical archive tracks 109 human and 3 later AI reviews; 182 is positive complete-body evidence in the broader request union. Acquisition and eligibility assessment are distinct events."
+    },
+    "reports_excluded_by_reason": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "The catalogue contains 84 outside the focused scope and 36 without a randomized effect. These categories lack an exhaustive formal eligibility sequence. 114 remain awaiting classification."
+    },
+    "reports_included": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "85 principal report carriers support the approved bounded synthesis. The 392 catalogue rows lack all-review eligibility dispositions."
+    },
+    "independent_trial_K": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "84 source-supported families are in the bounded synthesis. Unmapped/unresolved reports and final selection prevent a review-wide count."
+    },
+    "independent_unique_participant_N": {
+      "value": null,
+      "status": "NOT_ASCERTAINABLE_FROM_AVAILABLE_SEQUENTIAL_EVIDENCE",
+      "reason": "Final independently eligible trials and reconciled participant denominators are unavailable. Use comparison-specific observed denominators only."
+    }
+  },
+  "additional_provenance": {
+    "count_unit_screening_frame": "canonical record group",
+    "count_unit_catalogue": "distinct report",
+    "count_unit_synthesis_families": "source-supported study family",
+    "source_count_split": "Embase Registry, ClinicalTrials.gov, and WHO ICTRP are registers. Other focused export members are database records.",
+    "documented_exclusion_route": "Chronology relative to report retrieval could not be recovered. The sequential record-exclusion field is unknown.",
+    "full_prisma_complete": false
+  }
+}

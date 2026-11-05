@@ -1,0 +1,85 @@
+Supplement S1 focused search strategies and record accounting
+
+The searches below were executed on 29 October 2026 (China Standard Time). They are the declared focused update streams for the exercise-containing synthesis. The registered broader intervention review and the known-source-informed query refinement are described separately in the dated methods chronology.
+
+The eight platforms contributed 28,511 source export members. Within the current identity projection, 7,303 duplicate representations were removed, leaving 21,208 focused record groups. The targeted archive intake supplied 851 additional representations. Removing 45 duplicates within that intake and 148 overlaps with the focused frame left 658 additional groups. The resulting recorded frame comprised 21,866 canonical record groups. These are counts of record units. The final sequential flow of reports sought, assessed and included is handled separately.
+
+MEDLINE via PubMed (NCBI E-utilities)
+Export members in the focused frame 2,262
+Publication cutoff 29 October 2026. No language or design filter. The 1,587 initial members were supplemented by 85 precise sexual-domain and 20 lifestyle records. The wider instrument branch returned 655 members. Its 85-member precise subset had already been counted, leaving 570 additional records.
+
+Initial
+(Female[Mesh] OR women[tiab] OR woman[tiab] OR female*[tiab]) AND ("sexual function"[tiab] OR "sexual dysfunction"[tiab] OR "sexual distress"[tiab] OR dyspareunia[tiab] OR vaginismus[tiab] OR vulvodynia[tiab] OR orgasm*[tiab] OR "sexual satisfaction"[tiab] OR "sexual quality of life"[tiab] OR FSFI[tiab] OR FSDS[tiab] OR PISQ[tiab]) AND ("Exercise Therapy"[Mesh] OR "pelvic floor muscle training"[tiab] OR PFMT[tiab] OR Kegel[tiab] OR exercise*[tiab] OR "physical activity"[tiab] OR yoga[tiab] OR Pilates[tiab] OR "tai chi"[tiab] OR qigong[tiab] OR "physical therapy"[tiab] OR physiotherap*[tiab] OR rehabilitation[tiab] OR "breathing training"[tiab] OR "breathing exercises"[tiab]) AND ("1800/01/01"[Date - Publication] : "2026/10/29"[Date - Publication])
+
+S3_sexual_domain_and_functioning
+(Female[Mesh] OR women[tiab] OR woman[tiab] OR female*[tiab]) AND ("Exercise Therapy"[Mesh] OR "pelvic floor muscle training"[tiab] OR PFMT[tiab] OR Kegel[tiab] OR exercise*[tiab] OR "physical activity"[tiab] OR yoga[tiab] OR Pilates[tiab] OR "tai chi"[tiab] OR qigong[tiab] OR "physical therapy"[tiab] OR physiotherap*[tiab] OR rehabilitation[tiab] OR "breathing training"[tiab] OR "breathing exercises"[tiab]) AND ("sexual domain"[tiab] OR "sexuality domain"[tiab] OR "sexual functioning"[tiab]) AND ("1800/01/01"[Date - Publication] : "2026/10/29"[Date - Publication]) NOT ((Female[Mesh] OR women[tiab] OR woman[tiab] OR female*[tiab]) AND ("sexual function"[tiab] OR "sexual dysfunction"[tiab] OR "sexual distress"[tiab] OR dyspareunia[tiab] OR vaginismus[tiab] OR vulvodynia[tiab] OR orgasm*[tiab] OR "sexual satisfaction"[tiab] OR "sexual quality of life"[tiab] OR FSFI[tiab] OR FSDS[tiab] OR PISQ[tiab]) AND ("Exercise Therapy"[Mesh] OR "pelvic floor muscle training"[tiab] OR PFMT[tiab] OR Kegel[tiab] OR exercise*[tiab] OR "physical activity"[tiab] OR yoga[tiab] OR Pilates[tiab] OR "tai chi"[tiab] OR qigong[tiab] OR "physical therapy"[tiab] OR physiotherap*[tiab] OR rehabilitation[tiab] OR "breathing training"[tiab] OR "breathing exercises"[tiab]) AND ("1800/01/01"[Date - Publication] : "2026/10/29"[Date - Publication]))
+
+S2_lifestyle_modification
+(Female[Mesh] OR women[tiab] OR woman[tiab] OR female*[tiab]) AND ("sexual function"[tiab] OR "sexual dysfunction"[tiab] OR "sexual distress"[tiab] OR dyspareunia[tiab] OR vaginismus[tiab] OR vulvodynia[tiab] OR orgasm*[tiab] OR "sexual satisfaction"[tiab] OR "sexual quality of life"[tiab] OR FSFI[tiab] OR FSDS[tiab] OR PISQ[tiab]) AND ("lifestyle modification"[tiab] OR "life style modification"[tiab] OR "therapeutic lifestyle"[tiab] OR "lifestyle intervention"[tiab]) AND ("1800/01/01"[Date - Publication] : "2026/10/29"[Date - Publication]) NOT ((Female[Mesh] OR women[tiab] OR woman[tiab] OR female*[tiab]) AND ("sexual function"[tiab] OR "sexual dysfunction"[tiab] OR "sexual distress"[tiab] OR dyspareunia[tiab] OR vaginismus[tiab] OR vulvodynia[tiab] OR orgasm*[tiab] OR "sexual satisfaction"[tiab] OR "sexual quality of life"[tiab] OR FSFI[tiab] OR FSDS[tiab] OR PISQ[tiab]) AND ("Exercise Therapy"[Mesh] OR "pelvic floor muscle training"[tiab] OR PFMT[tiab] OR Kegel[tiab] OR exercise*[tiab] OR "physical activity"[tiab] OR yoga[tiab] OR Pilates[tiab] OR "tai chi"[tiab] OR qigong[tiab] OR "physical therapy"[tiab] OR physiotherap*[tiab] OR rehabilitation[tiab] OR "breathing training"[tiab] OR "breathing exercises"[tiab]) AND ("1800/01/01"[Date - Publication] : "2026/10/29"[Date - Publication]))
+
+S1 embedded sexual domains
+(Female[Mesh] OR women[tiab] OR woman[tiab] OR female*[tiab]) AND ("Exercise Therapy"[Mesh] OR "pelvic floor muscle training"[tiab] OR PFMT[tiab] OR Kegel[tiab] OR exercise*[tiab] OR "physical activity"[tiab] OR yoga[tiab] OR Pilates[tiab] OR "tai chi"[tiab] OR qigong[tiab] OR "physical therapy"[tiab] OR physiotherap*[tiab] OR rehabilitation[tiab] OR "breathing training"[tiab] OR "breathing exercises"[tiab]) AND ("sexual domain"[tiab] OR "sexuality domain"[tiab] OR "sexual functioning"[tiab] OR "sexual health"[tiab] OR sexuality[tiab]) AND ("1800/01/01"[Date - Publication] : "2026/10/29"[Date - Publication]) NOT ((Female[Mesh] OR women[tiab] OR woman[tiab] OR female*[tiab]) AND ("sexual function"[tiab] OR "sexual dysfunction"[tiab] OR "sexual distress"[tiab] OR dyspareunia[tiab] OR vaginismus[tiab] OR vulvodynia[tiab] OR orgasm*[tiab] OR "sexual satisfaction"[tiab] OR "sexual quality of life"[tiab] OR FSFI[tiab] OR FSDS[tiab] OR PISQ[tiab]) AND ("Exercise Therapy"[Mesh] OR "pelvic floor muscle training"[tiab] OR PFMT[tiab] OR Kegel[tiab] OR exercise*[tiab] OR "physical activity"[tiab] OR yoga[tiab] OR Pilates[tiab] OR "tai chi"[tiab] OR qigong[tiab] OR "physical therapy"[tiab] OR physiotherap*[tiab] OR rehabilitation[tiab] OR "breathing training"[tiab] OR "breathing exercises"[tiab]) AND ("1800/01/01"[Date - Publication] : "2026/10/29"[Date - Publication]))
+
+Embase.com
+Export members in the focused frame 7,116
+Official Quick search with explicit title, abstract and keyword fields. No manually selected language, year, design, human, adult or full-text limit. The platform counted 6,433 articles and 683 registry records as separate stream members.
+
+Full query
+(women OR woman OR female*):ti,ab,kw AND ("sexual function" OR "sexual functioning" OR "sexual dysfunction" OR "sexual health" OR "sexuality domain" OR "sexual domain" OR "sexual satisfaction" OR "sexual distress" OR "sexual quality of life" OR dyspareunia OR vaginismus OR vulvodynia OR orgasm* OR FSFI OR FSDS OR PISQ OR MENQOL OR "Menopause Rating Scale" OR "EORTC QLQ" OR "QLQ-BR23" OR "QLQ-BR42" OR "QLQ-BR45" OR MSQOL OR "Sexual Activity Questionnaire" OR "Body Image and Relationships Scale"):ti,ab,kw AND ("pelvic floor" OR PFMT OR Kegel OR pubococcyg* OR perineal OR exercise* OR "physical activity" OR aerobic OR "resistance training" OR "strength training" OR yoga OR Pilates OR "tai chi" OR qigong OR "qi gong" OR dance OR dancing OR "physical therapy" OR physiotherap* OR rehabilitat* OR "breathing exercise" OR "breathing training" OR "lifestyle modification" OR "therapeutic lifestyle"):ti,ab,kw
+
+Web of Science Core Collection
+Export members in the focused frame 4,420
+All editions. No further refinement selected. The query file is confirmed by the native execution receipt and five RIS full-record batches.
+
+Topic query
+TS=(women OR woman OR female*) AND TS=("sexual function" OR "sexual functioning" OR "sexual dysfunction" OR "sexual health" OR "sexuality domain" OR "sexual domain" OR "sexual satisfaction" OR "sexual distress" OR "sexual quality of life" OR dyspareunia OR vaginismus OR vulvodynia OR orgasm* OR FSFI OR FSDS OR PISQ OR MENQOL OR "Menopause Rating Scale" OR "EORTC QLQ" OR "QLQ-BR23" OR "QLQ-BR42" OR "QLQ-BR45" OR MSQOL OR "Sexual Activity Questionnaire" OR "Body Image and Relationships Scale") AND TS=("pelvic floor" OR PFMT OR Kegel OR pubococcyg* OR perineal OR exercise* OR "physical activity" OR aerobic OR "resistance training" OR "strength training" OR yoga OR Pilates OR "tai chi" OR qigong OR "qi gong" OR dance OR dancing OR "physical therapy" OR physiotherap* OR rehabilitat* OR "breathing exercise" OR "breathing training" OR "lifestyle modification" OR "therapeutic lifestyle")
+
+Cochrane CENTRAL
+Export members in the focused frame 2,194
+Native line 4 returned 2,217 in all Cochrane Library content, of which 2,194 were Trials, the exported set. The submitted line used no publication-year, language or design filter, and results were exported without a retraction filter.
+
+Line 4
+(women OR woman OR female*):ti,ab,kw AND ("sexual function" OR "sexual functioning" OR "sexual dysfunction" OR "sexual health" OR "sexuality domain" OR "sexual domain" OR "sexual satisfaction" OR "sexual distress" OR "sexual quality of life" OR dyspareunia OR vaginismus OR vulvodynia OR orgasm* OR FSFI OR FSDS OR PISQ OR MENQOL OR "Menopause Rating Scale" OR "EORTC QLQ" OR "QLQ-BR23" OR "QLQ-BR42" OR "QLQ-BR45" OR MSQOL OR "Sexual Activity Questionnaire" OR "Body Image and Relationships Scale"):ti,ab,kw AND ("pelvic floor" OR PFMT OR Kegel OR pubococcyg* OR perineal OR exercise* OR "physical activity" OR aerobic OR "resistance training" OR "strength training" OR yoga OR Pilates OR "tai chi" OR qigong OR "qi gong" OR dance OR dancing OR "physical therapy" OR physiotherap* OR rehabilitat* OR "breathing exercise" OR "breathing training" OR "lifestyle modification" OR "therapeutic lifestyle"):ti,ab,kw
+
+EBSCOhost CINAHL Complete, APA PsycInfo and SPORTDiscus with Full Text
+Export members in the focused frame 1,538
+One Boolean search combined all three databases, with the concept expander and no date, language, full-text or peer-reviewed limiter. The platform displayed 1,772 results and the terminal native export contained 1,538 unique source records. The 234 difference is a display-to-export difference without a row-level duplicate list.
+
+Row 1
+(TI (women OR woman OR female*) OR AB (women OR woman OR female*))
+
+Row 2
+(TI ("sexual function" OR "sexual functioning" OR "sexual dysfunction" OR "sexual health" OR "sexuality domain" OR "sexual domain" OR "sexual satisfaction" OR "sexual distress" OR "sexual quality of life" OR dyspareunia OR vaginismus OR vulvodynia OR orgasm* OR FSFI OR FSDS OR PISQ OR MENQOL OR "Menopause Rating Scale" OR "EORTC QLQ" OR "QLQ-BR23" OR "QLQ-BR42" OR "QLQ-BR45" OR MSQOL OR "Sexual Activity Questionnaire" OR "Body Image and Relationships Scale") OR AB ("sexual function" OR "sexual functioning" OR "sexual dysfunction" OR "sexual health" OR "sexuality domain" OR "sexual domain" OR "sexual satisfaction" OR "sexual distress" OR "sexual quality of life" OR dyspareunia OR vaginismus OR vulvodynia OR orgasm* OR FSFI OR FSDS OR PISQ OR MENQOL OR "Menopause Rating Scale" OR "EORTC QLQ" OR "QLQ-BR23" OR "QLQ-BR42" OR "QLQ-BR45" OR MSQOL OR "Sexual Activity Questionnaire" OR "Body Image and Relationships Scale"))
+
+Row 3
+(TI ("pelvic floor" OR PFMT OR Kegel OR pubococcyg* OR perineal OR exercise* OR "physical activity" OR aerobic OR "resistance training" OR "strength training" OR yoga OR Pilates OR "tai chi" OR qigong OR "qi gong" OR dance OR dancing OR "physical therapy" OR physiotherap* OR rehabilitat* OR "breathing exercise" OR "breathing training" OR "lifestyle modification" OR "therapeutic lifestyle") OR AB ("pelvic floor" OR PFMT OR Kegel OR pubococcyg* OR perineal OR exercise* OR "physical activity" OR aerobic OR "resistance training" OR "strength training" OR yoga OR Pilates OR "tai chi" OR qigong OR "qi gong" OR dance OR dancing OR "physical therapy" OR physiotherap* OR rehabilitat* OR "breathing exercise" OR "breathing training" OR "lifestyle modification" OR "therapeutic lifestyle"))
+
+Combination
+Row 1 AND Row 2 AND Row 3
+
+LILACS via VHL LILACS Plus
+Export members in the focused frame 727
+The database facet was LILACS. The search ran 29 October; the complete native DOM XML acquisition finished 30 October.
+
+Native query
+(women OR woman OR female OR mulher OR mulheres OR mujer OR mujeres OR feminino OR feminina OR femenino) AND ("sexual function" OR "sexual dysfunction" OR "sexual health" OR "sexual satisfaction" OR "sexual distress" OR "sexual quality of life" OR "função sexual" OR "disfunção sexual" OR "función sexual" OR "disfunción sexual" OR sexualidade OR sexualidad OR dyspareunia OR dispareunia OR vaginismus OR vaginismo OR vulvodynia OR vulvodinia OR orgasm OR orgasmo OR FSFI OR FSDS OR PISQ OR MENQOL OR "Menopause Rating Scale" OR "EORTC QLQ" OR "QLQ-BR23" OR "QLQ-BR42" OR "QLQ-BR45" OR MSQOL OR "Sexual Activity Questionnaire" OR "Body Image and Relationships Scale") AND ("pelvic floor" OR "assoalho pélvico" OR "suelo pélvico" OR "piso pélvico" OR PFMT OR Kegel OR perineal OR exercise OR exercises OR exercício OR exercícios OR ejercicio OR ejercicios OR "physical activity" OR "atividade física" OR "actividad física" OR aerobic OR aeróbico OR "resistance training" OR "strength training" OR yoga OR Pilates OR "tai chi" OR qigong OR "qi gong" OR dance OR dancing OR dança OR danza OR "physical therapy" OR physiotherapy OR fisioterapia OR rehabilitation OR reabilitação OR rehabilitación OR "breathing training" OR "lifestyle modification" OR "therapeutic lifestyle") AND db:("LILACS") AND instance:"lilacsplus"
+
+ClinicalTrials.gov
+Export members in the focused frame 8,639
+API v2 studies endpoint, query.term, nine pages at pageSize=1000. No population, language or design filter.
+
+Query
+(sexual OR sexuality OR dyspareunia OR vaginismus OR vulvodynia OR orgasm OR FSFI OR FSDS OR PISQ) AND ("pelvic floor" OR exercise OR "physical activity" OR yoga OR Pilates OR "tai chi" OR qigong OR "physical therapy" OR physiotherapy OR rehabilitation OR breathing OR "lifestyle modification")
+
+WHO ICTRP Trial Search
+Export members in the focused frame 1,615
+Native direct branches ran separately and yielded 1,173 and 339 Trial nodes. The embedded instrument branch yielded 231 nodes and had no population or exercise restriction. The union of 1,743 nodes contained 1,615 unique TrialIDs.
+
+Direct branch 1
+(women OR woman OR female) AND ("sexual function" OR "sexual dysfunction" OR "sexual distress" OR "sexual desire" OR "sexual arousal" OR orgasm OR anorgasmia OR libido OR dyspareunia OR vulvodynia OR vaginismus OR "sexual pain" OR "sexual satisfaction" OR "sexual quality of life")
+
+Direct branch 2
+(women OR woman OR female) AND ("sexual wellbeing" OR "sexual well-being" OR "sexual pleasure" OR "satisfying sexual event" OR FSFI OR FSDS OR PISQ OR SexFS OR "genitourinary syndrome of menopause" OR "vulvovaginal atrophy" OR "vaginal atrophy")
+
+Embedded instrument branch
+MENQOL OR "Menopause Rating Scale" OR "EORTC QLQ" OR "QLQ-BR23" OR "QLQ-BR42" OR "QLQ-BR45" OR MSQOL OR "Sexual Activity Questionnaire" OR "Body Image and Relationships Scale"

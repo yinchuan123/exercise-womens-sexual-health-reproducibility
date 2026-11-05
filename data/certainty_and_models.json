@@ -1,0 +1,186 @@
+{
+  "status": "APPROVED_BOUNDED_KN_AND_EXACT_CERTAINTY_VERIFIED_WHOLE_REVIEW_UNDETERMINED",
+  "full_search": {
+    "K": null,
+    "N": null,
+    "GRADE": null,
+    "awaiting_catalogue_reports_preserved": 114,
+    "K_limit": "No exhaustive report dispositions and record–report–study linkage for the full search.",
+    "N_limit": "No fully determined trial set or complete nonoverlapping eligible participant counts. Allocation, analysis, observation, female subgroup, and model N have different meanings.",
+    "GRADE_limit": "GRADE belongs to the body of evidence for a specific comparison, outcome, timing and effect question. Existing exact bodies do not establish exhaustive outcome-level certainty or a single rating for the review."
+  },
+  "bounded_set": {
+    "principal_reports": 85,
+    "distinct_source_supported_families": 84,
+    "indexed_denominator_families": 84,
+    "denominator_source_layers": {
+      "prior_current_or_legacy": 65,
+      "R76_local_original_delta": 19,
+      "R76_positive_female_or_index_woman_allocation": 18,
+      "R76_initial_female_N_unresolved_family_ids": [
+        "NCT03775239"
+      ]
+    },
+    "combined_independent_participant_N": null,
+    "typed_results": 152,
+    "families_with_any_result_display": 51,
+    "families_with_nonHOLD_display": 50,
+    "result_use_counts": {
+      "CONDITIONAL_TIME_WINDOW_OR_METHOD_SENSITIVITY": 53,
+      "MAIN_CLINICALLY_STRATIFIED_SOURCE_SYNTHESIS": 75,
+      "HOLD_QUANTIFICATION": 2,
+      "SOURCE_DESCRIPTIVE_OR_NATIVE_MODEL_PARAMETER_RETENTION": 22
+    },
+    "literal_effective_or_female_model_N_rows": [
+      {
+        "result_id": "R29-Wang2025_TLM",
+        "family": "ChiCTR2300070648",
+        "literal_positive_N_fields": [
+          {
+            "field": "N_layers_exact/effective_model_N",
+            "literal_N": 94
+          }
+        ]
+      },
+      {
+        "result_id": "R34-MSIR-CSFQF",
+        "family": "NCT03775239",
+        "literal_positive_N_fields": [
+          {
+            "field": "N_layers_exact/female_model_N",
+            "literal_N": 15
+          }
+        ]
+      },
+      {
+        "result_id": "R34-MSIR-FSFI",
+        "family": "NCT03775239",
+        "literal_positive_N_fields": [
+          {
+            "field": "N_layers_exact/female_model_N",
+            "literal_N": 15
+          }
+        ]
+      }
+    ],
+    "prioritised_overlapping_comparison_rows": 26,
+    "restricted_distinct_analysis_comparisons": 3,
+    "existing_sensitivity_fits": 6,
+    "effectively_pooled_participant_N_available_comparisons": 0
+  },
+  "certainty_scope": {
+    "result_RoB2_layer_counts": {
+      "EXISTING122_RECORDED_RESULT_TOOLS": 121,
+      "R65_ACTUAL_AUTHOR_SPECIFIC_NEW_RESULT_POSITIONS": 25,
+      "DESCRIPTION_OR_MEASUREMENT_HOLD_NO_NEW_CAUSAL_RoB2_EFFECT_TOOL": 6
+    },
+    "result_grade_route_counts": {
+      "METHOD_SENSITIVITY_NO_NEW_CAUSAL_BODY": 7,
+      "EXISTING_EXACT_TARGET": 43,
+      "REQUIRED_TARGET_COMPLETED_BY_ACTUAL_R60_NEW22_CHOICES_WITHIN_OLD61": 22,
+      "UNRATED_NONPRIMARY_CLOCK_OR_LATER_EARLIER_SOURCE_RESULT": 35,
+      "CLINICAL_GRADE_NOT_RATEABLE_AS_CURRENTLY_DEFINED": 3,
+      "UNRATED_EXPLORATORY_OR_DESCRIPTIVE_SOURCE_RESULT": 11,
+      "R65_ACTUAL_TARGET_ACTIONS_APPLIED_PER_AUTHOR": 25,
+      "NONCAUSAL_DESCRIPTION_OR_MEASUREMENT_HOLD_NOT_GRADED": 6
+    },
+    "legacy_exact_target_entries": 61,
+    "later_target_action_vectors": 26,
+    "legacy_publication_use_category_counts": {
+      "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS": 18,
+      "NOT_RATEABLE_AS_ONE_MIXED_ESTIMAND_BODY": 1,
+      "SOURCE_DEFINED_DOMAIN_AUTHOR_LABEL_ONLY_MEASUREMENT_LIMIT": 10,
+      "NOT_RATEABLE_AS_RANDOMIZED_ASSIGNMENT_EFFECT_POSTRANDOM_SELECTION": 1,
+      "SOURCE_PARAMETER_AUTHOR_LABEL_ONLY_NOT_CLINICAL_GRADE": 8,
+      "PI_LABEL_PRESERVED_NON_DUPLICATED_IMPRECISION_JUSTIFICATION_PENDING": 1,
+      "SAME_NORMALIZED_ACTION_SCOPED_LABELS_AUTHOR_RATIONALES_NOT_MERGED": 12,
+      "AUTHOR_SPECIFIC_DIFFERENCE_NO_SINGLE_CLINICAL_GRADE": 8,
+      "HOLD_EXACT_OUTCOME_TARGET": 1,
+      "NOT_CLINICALLY_RATEABLE_SOURCE_ONLY": 1
+    },
+    "nonadditivity": "The 61 entries and 26 later target-action vectors are scoped records; no 87 independent GRADE bodies or consensus ratings are inferred.",
+    "legacy_author_disagreement_count": 8,
+    "later_direction_difference_count": 5
+  },
+  "restricted_comparisons": [
+    {
+      "id": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY",
+      "analysis_scope": "EXISTING_TWO_SOURCE_METHOD_SENSITIVITY_NOT_UNRESTRICTED_PRIMARY_POOL",
+      "model_entry_K": 2,
+      "exact_N_layers": {
+        "selected_allocated_total": 177,
+        "printed_source_analysis_total": 164,
+        "observed_item_N": null,
+        "effective_model_N": null,
+        "explanation": "77+100 selected allocated, 64+100 source analysis. The parent150 in Khosravi includes another arm; no new participant sum across outcomes. This is endpoint sensitivity, not final assignment-effect primary model."
+      },
+      "certified_effective_pooled_N": null,
+      "preserved_scoped_certainty": {
+        "target": "R56:G01",
+        "existing_label": "Very low",
+        "restriction": "Only unadjusted endpoint method sensitivity."
+      }
+    },
+    {
+      "id": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY",
+      "analysis_scope": "EXISTING_TWO_SOURCE_EARLY_WINDOW_EXPLORATORY_NOT_PRIMARY_WINDOW",
+      "model_entry_K": 2,
+      "exact_N_layers": {
+        "selected_allocated_total": 112,
+        "selected_allocated_by_trial": [
+          48,
+          64
+        ],
+        "printed_analysis_total": 107,
+        "printed_analysis_by_trial": [
+          43,
+          64
+        ],
+        "observed_item_N": null,
+        "effective_model_N": null,
+        "explanation": "43 derives Table2 PFMT21/control22 with retained control21 flow conflict;64 is other source printed32/32, not proof complete item observations. Six-week exploratory and different ANCOVA/raw estimands; two source families, no new clinical primary pool."
+      },
+      "certified_effective_pooled_N": null,
+      "preserved_scoped_certainty": {
+        "target": null,
+        "existing_label": null,
+        "restriction": "Legacy R56:G06 covers mixed adjusted/raw source results and is not rateable as one body. It does not apply to the exploratory raw endpoint fit."
+      }
+    },
+    {
+      "id": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST",
+      "analysis_scope": "ACTUAL_POSTHOC_CONDITIONAL_CLINICAL_METHOD_SENSITIVITY_NOT_PRIMARY",
+      "model_entry_K": 2,
+      "exact_N_layers": [
+        {
+          "family_randomized": 266,
+          "selected_allocated": 160,
+          "visit_provided_data": {
+            "iMBST": 62,
+            "waiting_list": 36
+          },
+          "item_specific_N": null,
+          "effective_model_N": null
+        },
+        {
+          "family_initial_randomized_N": 129,
+          "initial_arm_N": {
+            "CBT": 43,
+            "MBT": 43,
+            "WL": 43
+          },
+          "selected_first_randomized_N": 86,
+          "outcome_observed_N": null,
+          "effective_model_N": null,
+          "model_df": null
+        }
+      ],
+      "certified_effective_pooled_N": null,
+      "preserved_scoped_certainty": {
+        "target": "R64-G-FSDS_TWO_SOURCE_FIRST_PLANNED_POST",
+        "existing_label": "Very low in each of the three preserved positions",
+        "restriction": "Post hoc broad first-planned post-assessment target only. Domain downgrade vectors differ. Clinical importance was not rated."
+      }
+    }
+  ]
+}
