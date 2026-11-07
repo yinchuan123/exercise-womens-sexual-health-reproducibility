@@ -10,15 +10,17 @@ limits are documented in [Scope changes](methods/scope_changes.txt).
 
 ## Latest aggregate process update
 
-The [R138 process snapshot](snapshots/r138-2026-11-08/README.md) records the
+The [R139 process snapshot](snapshots/r139-2026-11-08/README.md) records the
 8 November 2026 source framework and actual review-adoption aggregates. It is
 separate from the historical v0.1.0 numerical dataset below. Final whole-review
 PRISMA, independent K and unique N remain unresolved; no new clinical model
 input or certainty rating is released by this update.
 
 ```sh
-python3 snapshots/r138-2026-11-08/verify_snapshot.py
+python3 snapshots/r139-2026-11-08/verify_snapshot.py
 ```
+
+Earlier source-adoption aggregates remain in the [R138 snapshot](snapshots/r138-2026-11-08/README.md).
 
 ## Run the historical v0.1.0 checks
 
@@ -61,7 +63,7 @@ The frozen v0.1.0/R82 accounting snapshot identifies 21,866 record groups and a 
 catalogue. The bounded synthesis uses 85 principal reports from 84 families
 and records 152 results, including non-causal descriptions and held values.
 Its 114 awaiting-classification labels describe that historical snapshot. Later
-source dispositions are documented separately in the R138 process update. The report
+source dispositions are documented separately in the R138 and R139 process updates. The report
 catalogue does not establish a complete chronological selection sequence.
 Eight whole-review flow/count fields remain unknown. Each of the three
 restricted comparisons has two fitted families. None has a verified pooled

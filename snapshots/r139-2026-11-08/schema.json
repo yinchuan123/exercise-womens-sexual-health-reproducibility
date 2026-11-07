@@ -1,0 +1,25 @@
+{
+  "title": "R139 derived process aggregates; no source text or clinical release",
+  "type": "object",
+  "required": [
+    "snapshot_id",
+    "status",
+    "record_framework",
+    "current_working_routes",
+    "this_round",
+    "previously_adopted_anchor",
+    "limits",
+    "historical_analysis"
+  ],
+  "top_level_types": {
+    "snapshot_id": "str",
+    "status": "str",
+    "record_framework": "dict",
+    "current_working_routes": "dict",
+    "this_round": "dict",
+    "previously_adopted_anchor": "dict",
+    "limits": "dict",
+    "historical_analysis": "dict"
+  },
+  "null_final_K_N_is_unknown_not_zero": true
+}

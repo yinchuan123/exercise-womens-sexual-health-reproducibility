@@ -1,0 +1,50 @@
+{
+  "snapshot_id": "r139-2026-11-08",
+  "status": "DERIVED_PROCESS_AGGREGATES_NOT_FINAL_SELECTION_OR_CLINICAL_ANALYSIS",
+  "record_framework": {
+    "identified": 29490,
+    "duplicates": 7535,
+    "canonical_groups": 21955
+  },
+  "current_working_routes": {
+    "RECORD_SCREEN_EXCLUDED": 18456,
+    "RETAIN_OR_LINK_AUTHOR_ADOPTED": 2866,
+    "FORMAL_HOLD": 288,
+    "RETAIN_OR_LINK_TECHNICAL_EXISTING_POLICY": 345
+  },
+  "this_round": {
+    "same_published_report_aliases": 38,
+    "old_specific_author_fact_own_source_actions": 499,
+    "source_qualification_rows": 1277,
+    "unadopted_proposal_rows_before_alias": 417,
+    "canonical_unadopted_sources": 415,
+    "new_human_signatures": 0,
+    "new_model_inputs": 0,
+    "new_models": 0,
+    "new_GRADE": 0
+  },
+  "previously_adopted_anchor": {
+    "reports": 99,
+    "source_supported_family_groups": 98,
+    "whole_search_final": false
+  },
+  "limits": {
+    "final_PRISMA": false,
+    "whole_review_independent_K": null,
+    "whole_review_unique_N": null,
+    "submission_ready": false,
+    "other_clinical_and_registry_gates_remain": true,
+    "missing_source_not_clinical_exclusion": true,
+    "same_report_merge_not_trial_merge": true,
+    "raw_and_versioned_carriers_retained_privately": true,
+    "planned_duplicate_human_original_reading_not_established_by_AI_adoption": true,
+    "previous_eight_GRADE_differences_preserved": true
+  },
+  "historical_analysis": {
+    "unchanged_commit": "1f4131d50445727c44c3e1210bf78e45ed7121fc",
+    "tag": "v0.1.0",
+    "comparisons": 3,
+    "fits": 6,
+    "diagnostic_fits_separate": 22
+  }
+}
