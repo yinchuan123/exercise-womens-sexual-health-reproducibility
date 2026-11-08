@@ -1,0 +1,65 @@
+{
+  "snapshot_id": "r141-2026-11-08",
+  "status": "CURRENT_DATE_SOURCE_STAGE_AND_IDENTITY_AUDIT_NOT_FINAL_PRISMA_OR_TRIAL_CENSUS",
+  "record_framework": {
+    "identified": 29490,
+    "duplicates": 7550,
+    "canonical_groups": 21940
+  },
+  "legacy_working_routes_before_stage_migration": {
+    "RECORD_SCREEN_EXCLUDED": 18834,
+    "RETAIN_OR_LINK_AUTHOR_ADOPTED": 2476,
+    "FORMAL_HOLD": 287,
+    "RETAIN_OR_LINK_TECHNICAL_EXISTING_POLICY": 343
+  },
+  "dated_record_phases": {
+    "record_screen_excluded": 18827,
+    "record_groups_advanced_to_report_or_resource_assessment": 3113
+  },
+  "source_extent_flags_not_eligibility": {
+    "complete_own_or_prior_obtained": 1522,
+    "complete_own_not_bound": 1591
+  },
+  "bounded_own_report_nodes": 3114,
+  "actual_selected_result_source_objects": 122,
+  "mother_identity_range_not_final_K": [
+    120,
+    121
+  ],
+  "source_selected_female_allocation_subtotal": {
+    "family_groups": 107,
+    "subtotal": 12109,
+    "remaining_N_exception_families": 13,
+    "not_unique_adult_N": true
+  },
+  "this_round": {
+    "verified_same_own_report_aliases": 15,
+    "different_conference_container_DOI_sets_preserved": 4,
+    "new_formal_human_receipts": 0,
+    "AI_cases_read_independently_per_role": 24,
+    "new_only_human_cases": 23,
+    "new_only_role_choice_cells": 69,
+    "consensus_existing_gate_not_resent": 1,
+    "remaining_AI_choice_difference_cases": 2,
+    "new_models": 0,
+    "new_effect_inputs": 0,
+    "new_GRADE": 0
+  },
+  "limits": {
+    "whole_review_final_PRISMA": false,
+    "whole_review_independent_K": null,
+    "whole_review_unique_N": null,
+    "all_reports_of_included_studies": null,
+    "submission_ready": false,
+    "source_extents_not_retrieval_failure_or_exclusion_counts": true,
+    "record_report_trial_units_kept_separate": true,
+    "historical_first_dates_not_invented": true
+  },
+  "historical_analysis": {
+    "tag": "v0.1.0",
+    "commit": "1f4131d50445727c44c3e1210bf78e45ed7121fc",
+    "comparisons": 3,
+    "fits": 6,
+    "diagnostic_fits_separate": 22
+  }
+}
