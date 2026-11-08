@@ -10,17 +10,17 @@ limits are documented in [Scope changes](methods/scope_changes.txt).
 
 ## Latest aggregate process update
 
-The [R139 process snapshot](snapshots/r139-2026-11-08/README.md) records the
+The [R140 process snapshot](snapshots/r140-2026-11-08/README.md) records the
 8 November 2026 source framework and actual review-adoption aggregates. It is
 separate from the historical v0.1.0 numerical dataset below. Final whole-review
 PRISMA, independent K and unique N remain unresolved; no new clinical model
 input or certainty rating is released by this update.
 
 ```sh
-python3 snapshots/r139-2026-11-08/verify_snapshot.py
+python3 snapshots/r140-2026-11-08/verify_snapshot.py
 ```
 
-Earlier source-adoption aggregates remain in the [R138 snapshot](snapshots/r138-2026-11-08/README.md).
+Earlier snapshots remain available: [R138](snapshots/r138-2026-11-08/README.md) and [R139](snapshots/r139-2026-11-08/README.md).
 
 ## Run the historical v0.1.0 checks
 

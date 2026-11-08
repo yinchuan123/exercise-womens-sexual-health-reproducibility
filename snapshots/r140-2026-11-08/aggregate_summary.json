@@ -1,0 +1,63 @@
+{
+  "snapshot_id": "r140-2026-11-08",
+  "status": "ACTUAL_SOURCE_ADOPTION_PROCESS_AGGREGATES_NOT_FINAL_PRISMA_OR_NEW_ANALYSIS",
+  "record_framework": {
+    "identified": 29490,
+    "duplicates": 7535,
+    "canonical_groups": 21955
+  },
+  "current_working_routes": {
+    "RECORD_SCREEN_EXCLUDED": 18835,
+    "RETAIN_OR_LINK_AUTHOR_ADOPTED": 2487,
+    "FORMAL_HOLD": 288,
+    "RETAIN_OR_LINK_TECHNICAL_EXISTING_POLICY": 345
+  },
+  "actual_author_review": {
+    "receipt_files": 3,
+    "top_level_choice_cells": 18,
+    "source_actions_per_role": 415,
+    "actual_source_action_cells": 1245,
+    "two_reviewer_differences_using_actual_adjudicator": 22,
+    "adjudicator_dissent_to_agreed_reviewers_retained": 27,
+    "source_action_differences_preserved": 49,
+    "AI_adoption_not_planned_independent_duplicate_human_original_reading": true,
+    "discussion_not_inferred": true
+  },
+  "applied_source_actions": {
+    "COMPANION_KEEP_PARENT_NO_NEW_K": 26,
+    "LIMITED_WHOLE_PACKAGE_NARRATIVE_NO_NUMERIC_ADMISSION": 5,
+    "CLOSE_OWN_NONRESULT_OR_NONRANDOM_SOURCE_KEEP_PARENT": 354,
+    "CLOSE_OWN_OUTSIDE_ADULT_FEMALE_OR_ACTIVE_TASK_SCOPE_KEEP_PARENT": 25,
+    "KEEP_SPECIFIC_GATE_NO_NEW_SCIENCE_CHANGE": 5
+  },
+  "this_round": {
+    "own_record_screen_closures": 379,
+    "additional_same_report_merges": 0,
+    "parent_trial_exclusions": 0,
+    "new_model_inputs": 0,
+    "new_models": 0,
+    "new_GRADE": 0,
+    "pending_new_author_cases": 0
+  },
+  "previously_adopted_anchor": {
+    "reports": 99,
+    "source_family_groups": 98,
+    "whole_search_final": false
+  },
+  "limits": {
+    "final_PRISMA": false,
+    "whole_review_independent_K": null,
+    "whole_review_unique_N": null,
+    "submission_ready": false,
+    "other_clinical_registry_and_resource_gates_remain": true,
+    "source_roles_not_independent_studies": true,
+    "previous_eight_GRADE_differences_preserved": true
+  },
+  "historical_analysis": {
+    "unchanged_commit": "1f4131d50445727c44c3e1210bf78e45ed7121fc",
+    "tag": "v0.1.0",
+    "comparisons": 3,
+    "fits": 6,
+    "diagnostic_fits_separate": 22
+  }
+}
