@@ -1,0 +1,53 @@
+{
+  "snapshot_id": "r144-2026-11-08",
+  "status": "ACTUAL_S27_PLUS_VERIFIED_TECHNICAL_REPORT_IDENTITIES_NO_NEW_CLINICAL_SOURCE_ADMISSION",
+  "record_framework": {
+    "records_identified": 29490,
+    "database_export_records": 17574,
+    "trial_register_export_records": 10937,
+    "other_source_records": 979,
+    "duplicates_removed": 7566,
+    "records_screened": 21924,
+    "records_excluded_at_record_phase": 18827,
+    "record_groups_advanced_to_report_or_resource_assessment": 3097
+  },
+  "reports_sought": 3099,
+  "available_assessed": 2372,
+  "terminal_counts": {
+    "protocol_or_no_posted_result_own_carriers": 1593,
+    "not_retrieved": 727,
+    "awaiting_classification_reports": 379,
+    "included_reports": 221,
+    "reports_excluded_with_actual_source_reasons": 179
+  },
+  "record_to_report_transfer": "3097 +3 held distinct carriers -1 same MS report duplicate =3099",
+  "technical_changes": {
+    "same_own_record_report_aliases": 16,
+    "exact_existing_parent_companions": 9,
+    "already_held_Gouveia_thesis_own_report_node": 1,
+    "own_source_coarse_type_corrected_from_fullbody_to_complete_ICS_abstract": 1,
+    "new_database_records": 0
+  },
+  "selected_result_reports": 125,
+  "possible_dependency_clusters_primary": 121,
+  "split_Yun_sensitivity": 122,
+  "Yun_proven_same_RCT": false,
+  "reported_female_or_preallocation_indexwoman_subtotal": 14156,
+  "known_denominator_source_groups": 118,
+  "strict_parallel_subtotal": 13781,
+  "strict_parallel_groups": 117,
+  "unique_adult_female_N": null,
+  "actual_S27_cases": 41,
+  "actual_S27_choice_cells": 123,
+  "actual_S27_two_reviewer_agreements": 41,
+  "actual_S27_arbitrations": 0,
+  "S27_pending": 0,
+  "existing_clinical_fits": 6,
+  "separate_diagnostic_fits": 22,
+  "new_unique_clinical_models": 0,
+  "new_effect_inputs_RoB2_GRADE": 0,
+  "new_clinical_candidates_or_independent_AI_recommendations_applied": false,
+  "whole_review_eligibility_final": false,
+  "whole_manuscript_author_approval": false,
+  "submission_ready": false
+}

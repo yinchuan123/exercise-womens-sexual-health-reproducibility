@@ -1,0 +1,40 @@
+{
+  "record_alias_to_canonical": {
+    "ALL5-3982DD5F4DB1459F": "ALL5-0BCE32A8B68F6FBC",
+    "ALL5-C6F9CB307390FB1E": "ALL5-950DE683E42A2224",
+    "ALL5-224A5B08121AD507": "ALL5-CD653098530399E4",
+    "ALL5-6E7BAF4869B99FAE": "ALL5-06371646E4C09B2D",
+    "ALL5-388D92F964F7B5FC": "ALL5-1D26E2D23CF24659",
+    "ALL5-3C99A1F2261811AC": "ALL5-25EAE1DCEFDCF126",
+    "ALL5-4C77BE429675B757": "ALL5-3D505BE137F8BD85",
+    "ALL5-580C78351952B40C": "ALL5-45052F1FA22407E5",
+    "ALL5-7BF1720B429892F0": "ALL5-C9BC7E05F3437592",
+    "ALL5-8648FD941069252E": "ALL5-ADC4CDEA34881C6C",
+    "ALL5-BC31BA43A76CA336": "ALL5-B1D523ECD2C95685",
+    "ALL5-581FF0DF5B3C656B": "ALL5-F62C2FE3EA02039B",
+    "ALL5-597EC27213106AE7": "ALL5-903B43E4A9F42571",
+    "ALL5-2F6A7AD2A1241F64": "ALL5-997F74205B8DDA22",
+    "ALL5-4122970A20A103A0": "ALL5-89C72F36AF34A054",
+    "ALL5-761B1C22678B6879": "ALL5-25EAE1DCEFDCF126"
+  },
+  "own_report_alias_to_canonical": {
+    "bibliographic:ALL5-3982DD5F4DB1459F": "bibliographic:ALL5-0BCE32A8B68F6FBC",
+    "bibliographic:ALL5-C6F9CB307390FB1E": "bibliographic:ALL5-950DE683E42A2224",
+    "conference-bibliographic:ALL5-224A5B08121AD507": "bibliographic:ALL5-CD653098530399E4",
+    "conference-bibliographic:ALL5-6E7BAF4869B99FAE": "conference-bibliographic:ALL5-06371646E4C09B2D",
+    "conference-bibliographic:ALL5-388D92F964F7B5FC": "conference-bibliographic:ALL5-1D26E2D23CF24659",
+    "conference-bibliographic:ALL5-3C99A1F2261811AC": "conference-bibliographic:ALL5-25EAE1DCEFDCF126",
+    "conference-bibliographic:ALL5-4C77BE429675B757": "conference-bibliographic:ALL5-3D505BE137F8BD85",
+    "conference-bibliographic:ALL5-580C78351952B40C": "conference-bibliographic:ALL5-45052F1FA22407E5",
+    "conference-bibliographic:ALL5-7BF1720B429892F0": "bibliographic:ALL5-C9BC7E05F3437592",
+    "doi:10.1590/fm.2http://172.24.132.63/toc/master/analyze.aspx#abstract024.37137": "doi:10.1590/fm.2024.37137",
+    "bibliographic:ALL5-BC31BA43A76CA336": "conference-bibliographic:ALL5-B1D523ECD2C95685",
+    "bibliographic:ALL5-581FF0DF5B3C656B": "conference-bibliographic:ALL5-F62C2FE3EA02039B",
+    "bibliographic:ALL5-597EC27213106AE7": "doi:10.1002/nau.23302",
+    "bibliographic:ALL5-2F6A7AD2A1241F64": "doi:10.1007/s00192-015-2713-x",
+    "bibliographic:ALL5-4122970A20A103A0": "doi:10.1111/j.1743-6109.2012.02863.x",
+    "doi:10.1097/ncc.0000000000000555": "conference-bibliographic:ALL5-25EAE1DCEFDCF126"
+  },
+  "same_parent_edges_are_not_own_report_aliases": true,
+  "new_clinical_adoption": false
+}
