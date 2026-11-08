@@ -11,4 +11,6 @@ The earlier eight certainty disagreements, original precision gates, source iden
 
 Counts are 238 included reports (140 selected result-source objects and 98 available companions), with 328 awaiting-classification fact gates and 727 sources unavailable at the required extent. The 136/137 identity/dependency-policy groups are not certified whole-review independent K; 15,619 is a source enrolment/allocation/index subtotal, not unique women or model N. No source fact has been filled by voting. This is not final full-manuscript approval, preprint publication or journal submission.
 
+`replay_target_adoption.py` reproduces the four applied labels, domain vectors and full-strategy views from the recorded normalized author positions. It applies saved target-specific decisions; it does not generate new clinical GRADE judgements or reproduce private signatures. Run it with `python3 snapshots/r146-2026-11-08/replay_target_adoption.py`.
+
 Run `python3 snapshots/r146-2026-11-08/verify_snapshot.py` to check files, count conservation and the four target-specific derived labels. Original papers, licensed abstracts or database exports, private author files, ICMJE forms, correspondence and the unpublished manuscript are excluded. Historical snapshots remain immutable.
