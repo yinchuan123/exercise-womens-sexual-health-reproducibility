@@ -10,35 +10,26 @@ limits are documented in [Scope changes](methods/scope_changes.txt).
 
 ## Latest aggregate process update
 
-The [R150 actual S31/source-account update](snapshots/r150-2026-11-09/README.md)
-applies164 source-scope decisions after492 actual author-choice cells were
-validated, and reuses11 existing narrow report roles/links without repeat
-signatures. The current accounting includes259 reports (143 selected result
-sources and116 companions),139 conservative source-identity/dependency groups,
-and126 reports awaiting classification. Reported female allocation or index
-counts sum to15,833 across135 groups; this is not unique women or model N.
+The [R151 actual S32 adoption](snapshots/r151-2026-11-09/README.md) applies20
+new cases after60 actual author-choice cells were checked, plus five narrow
+existing-source identity links. Current accounting:3,098 report nodes;263
+included reports(143 principal sources/120 companions);139 conservative linked
+families;104 awaiting classification(103 reviewed information-limited reports
+and one new limited-narrative candidate). Pending S33 actions are not applied.
 
-Available-source disposition closure is2,248/2,374(94.6925%).
-**This measures one workflow, not whole-study completion.** Twenty S32 new
-scientific judgments remain pending:17 own-source-use questions and3 specific
-RoB2 plans. Their proposed actions have not been applied. The previous eight
-GRADE disagreements remain retained. The six clinical fits across three bounded
-comparisons are unchanged;22 historical diagnostic fits remain a separate audit.
+Available-source disposition closure is2,269/2,373(95.6174%), not whole-study
+completion. Reported source N15,833 is not unique women or effective outcome N.
+Six existing clinical fits across three K=2 comparisons are unchanged; early
+OAB remains ungraded exploratory;22 diagnostic fits stay separate. No new
+GRADE/model, journal submission or preprint publication is asserted.
 
 ```sh
-python3 snapshots/r150-2026-11-09/verify_snapshot.py
+python3 snapshots/r151-2026-11-09/verify_snapshot.py
 ```
 
-The [R149 existing-role update](snapshots/r149-2026-11-09/README.md),
-[R148 exact-publication/source-N update](snapshots/r148-2026-11-08/README.md),
-[R147a author-status addendum](snapshots/r147a-2026-11-08/README.md),
-[R147 approval snapshot](snapshots/r147-2026-11-08/README.md) and
-[R146 certainty snapshot](snapshots/r146-2026-11-08/README.md) remain immutable.
-S31 adoption does not approve new numeric models or certainty ratings. Final
-whole-review independent K/N, PRISMA and GRADE remain uncertified; the work is
-not submission ready. No journal submission or preprint publication has been
-authorized or performed. Raw licensed sources, private receipts/disclosures and
-the unpublished manuscript are excluded from this public snapshot.
+The [R150 snapshot](snapshots/r150-2026-11-09/README.md) and all earlier releases
+remain immutable. Licensed sources, private disclosures/receipts and the
+unpublished manuscript are excluded from this public process repository.
 
 ## Separate published-input diagnostic audit
 

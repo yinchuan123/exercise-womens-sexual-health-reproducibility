@@ -1,0 +1,40 @@
+{
+  "snapshot": "r151-2026-11-09",
+  "files": [
+    {
+      "name": "README.md",
+      "bytes": 2322,
+      "sha256": "6ee7f8ccc9e9f35e577cc4263c71c464139b789a2a4e55b60bd14f8894a948d3"
+    },
+    {
+      "name": "actual_S32_result_risk3.json",
+      "bytes": 7556,
+      "sha256": "bfdcf147a2da810d704d5770202dde46f34d281d9cb5fd773e8120cd65fe7dfb"
+    },
+    {
+      "name": "actual_S32_source_actions17.tsv",
+      "bytes": 4504,
+      "sha256": "b1e06580c570f479aa2886f7ab273f651b6783be8110515ed65f7d51b0dff341"
+    },
+    {
+      "name": "aggregate_counts.json",
+      "bytes": 1711,
+      "sha256": "28c002b8efabcc4151f3032d05ed70a651137b713f149b3c44766055b220aaf4"
+    },
+    {
+      "name": "report_dispositions3098.tsv",
+      "bytes": 1302941,
+      "sha256": "629eb44293fdd217395a52a7d2d676e9f557be7d499937823d29ab8cfc322973"
+    },
+    {
+      "name": "source_families139.tsv",
+      "bytes": 32074,
+      "sha256": "3b75508935d68cd27d4ad3d5faab62d618f3c4d9bb9c0bcaa362eb77bd84a814"
+    },
+    {
+      "name": "verify_snapshot.py",
+      "bytes": 1803,
+      "sha256": "fbf2ada549a2e8dd201a70e12d3adbb08d1de706f6f39245be32f5ef040e3370"
+    }
+  ]
+}

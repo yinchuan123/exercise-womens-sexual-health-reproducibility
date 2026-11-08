@@ -1,0 +1,198 @@
+{
+  "status": "ACTUAL_ADOPTED_RESULT_SPECIFIC_PLANS_NOT_NEW_GRADE",
+  "rows": [
+    {
+      "source_case_id": "R148-CLINICAL-BERGMAN",
+      "target_id": "R150-ROB-BERGMAN",
+      "target": {
+        "population": "Adultwomenwithsymptomaticpoorlyhealedsecond-degreeperinealtear",
+        "comparison": "AssignmenttosurgicalperinealrepairversustutoredPFMT(activealternative)",
+        "outcome": "PISQ-12sexualfunction",
+        "time": "6monthsafterintervention/surgeryorstartofPFMT;not8–16weekprimarywindow",
+        "numeric_release": "No verifiednewbetween-groupestimate/variance;sourcePISQchangeclaimonly",
+        "N": "70allocated35/35;PISQeffectiveobservedNunknown"
+      },
+      "target_effect": "Effect of assignment to intervention (intention-to-treat strategy)",
+      "complete22_signal_answers": {
+        "1.1": "NI",
+        "1.2": "NI",
+        "1.3": "PN",
+        "2.1": "Y",
+        "2.2": "Y",
+        "2.3": "NI",
+        "2.4": "NA",
+        "2.5": "NA",
+        "2.6": "PY",
+        "2.7": "NA",
+        "3.1": "NI",
+        "3.2": "PN",
+        "3.3": "NI",
+        "3.4": "NI",
+        "4.1": "PN",
+        "4.2": "PN",
+        "4.3": "Y",
+        "4.4": "PY",
+        "4.5": "NI",
+        "5.1": "NI",
+        "5.2": "PN",
+        "5.3": "NI"
+      },
+      "official_local_algorithm_domain_suggestions": {
+        "D1": "Some concerns",
+        "D2": "Some concerns",
+        "D3": "High",
+        "D4": "High",
+        "D5": "Some concerns"
+      },
+      "official_local_algorithm_overall_suggestion": "High",
+      "actual_author_domain_plan": {
+        "D1": "Some concerns",
+        "D2": "Some concerns",
+        "D3": "High",
+        "D4": "High",
+        "D5": "Some concerns"
+      },
+      "actual_author_overall_plan": "High",
+      "manual_domain_override_actually_adopted": [],
+      "original_signalling_answers_not_rewritten_to_force_manual_grade": true,
+      "factual_unknowns_retained": [
+        "Exactsequenceandconcealment",
+        "PISQitem/completerN,missing-outcomehandlingandcrossoveranalysis",
+        "ActualpreunblindSAPandoriginalregistrationhistory",
+        "Conferenceversusjournalpopulationdescriptiondifferences"
+      ]
+    },
+    {
+      "source_case_id": "R148-CLINICAL-REESE",
+      "target_id": "R150-ROB-REESE",
+      "target": {
+        "population": "Adultfemaleindexsurvivorsoflocalizedbreastcancerwithsexualconcerns",
+        "comparison": "Wholefour-sessionIntimacyEnhancementvsattention-matchedLivingHealthyTogether",
+        "outcome": "FSFItotaladjustedbetween-groupchangeLMMparameter",
+        "time": "Postprogramme(nativebaselineupto6weeks);notautomaticallyexactbaseline8–16weeks",
+        "numeric_release": "Publishedcoefficient4.48,SE1.50istranscribedworksheetonly,noinversevariancepoolornewauthornumericapproval",
+        "N": "120femaleindexsurvivors61/59;nativepostprogramme60/55;effectiveLMMNnotseparatelyestablished;partners120notwomen"
+      },
+      "target_effect": "Effect of assignment to intervention (intention-to-treat strategy)",
+      "complete22_signal_answers": {
+        "1.1": "Y",
+        "1.2": "PY",
+        "1.3": "PN",
+        "2.1": "Y",
+        "2.2": "Y",
+        "2.3": "PN",
+        "2.4": "NA",
+        "2.5": "NA",
+        "2.6": "PY",
+        "2.7": "NA",
+        "3.1": "PY",
+        "3.2": "NA",
+        "3.3": "NA",
+        "3.4": "NA",
+        "4.1": "PN",
+        "4.2": "PN",
+        "4.3": "Y",
+        "4.4": "PY",
+        "4.5": "NI",
+        "5.1": "NI",
+        "5.2": "PN",
+        "5.3": "NI"
+      },
+      "official_local_algorithm_domain_suggestions": {
+        "D1": "Low",
+        "D2": "Low",
+        "D3": "Low",
+        "D4": "High",
+        "D5": "Some concerns"
+      },
+      "official_local_algorithm_overall_suggestion": "High",
+      "actual_author_domain_plan": {
+        "D1": "Low",
+        "D2": "Low",
+        "D3": "Low",
+        "D4": "Some concerns",
+        "D5": "Some concerns"
+      },
+      "actual_author_overall_plan": "Some concerns",
+      "manual_domain_override_actually_adopted": [
+        {
+          "domain": "D4",
+          "algorithm_suggestion": "High",
+          "independent_AI_clinical_proposal": "Some concerns",
+          "reason": "独立临床建议：分组知识可能影响主观性结局，但现有来源尚未确定“很可能影响评分”的程度，且部分感受改变可能就是治疗效应。官方4.5=NI导向High的结果原样保留；Some concerns是明示的人工临床覆盖建议，绝不是算法输出或已采纳的人类覆盖。本试验两组等时长且使用可信主动注意对照、同样的问卷收集，能减轻但不能排除期望/报告偏倚。",
+          "requires_actual_author_confirmation_if_used": true
+        }
+      ],
+      "original_signalling_answers_not_rewritten_to_force_manual_grade": true,
+      "factual_unknowns_retained": [
+        "EffectiveLMMN/dfandfemalevisititemcompletenessbeyondnativepostprogramme",
+        "Pre-unblindinglockedanalysisplanandMIprimary/sensitivityhierarchy",
+        "MissingnessdependenceonunobservedfunctionnotexcludedbyMARimputation",
+        "Likelihoodofallocationknowledgeinducedmeasurementbias"
+      ]
+    },
+    {
+      "source_case_id": "R148-CLINICAL-SHIFT",
+      "target_id": "R150-ROB-SHIFT",
+      "target": {
+        "population": "AdultfemaleHCTsurvivorswithinmixedsexpilottrial",
+        "comparison": "AssignmenttowholeSHIFTapp+sharedsexual-healthclinicalvisitvsclinicalvisitalone",
+        "outcome": "Nativecombinedlubrication/vaginal-comfort-labelledPROMIS8weeksummary(onepairnot2effects)",
+        "time": "8weeksfromclinicianconsult/examinationinprotocol;registrationown8weeklabel;allocationclockalignmentnotassumed",
+        "numeric_release": "Armmeans/CIretained;between-groupestimand/varianceunverified",
+        "N": "Nativeinitialfemale12/12directlyverifiedbaseline;endpoint12/12maynotproveallobserved;60mixedallocated30/30vs61enrolledpublication"
+      },
+      "target_effect": "Effect of assignment to intervention (intention-to-treat strategy)",
+      "complete22_signal_answers": {
+        "1.1": "PY",
+        "1.2": "PY",
+        "1.3": "NI",
+        "2.1": "Y",
+        "2.2": "Y",
+        "2.3": "NI",
+        "2.4": "NA",
+        "2.5": "NA",
+        "2.6": "NI",
+        "2.7": "NI",
+        "3.1": "NI",
+        "3.2": "PN",
+        "3.3": "NI",
+        "3.4": "NI",
+        "4.1": "NI",
+        "4.2": "PN",
+        "4.3": "Y",
+        "4.4": "PY",
+        "4.5": "NI",
+        "5.1": "NI",
+        "5.2": "NI",
+        "5.3": "NI"
+      },
+      "official_local_algorithm_domain_suggestions": {
+        "D1": "Low",
+        "D2": "High",
+        "D3": "High",
+        "D4": "High",
+        "D5": "Some concerns"
+      },
+      "official_local_algorithm_overall_suggestion": "High",
+      "actual_author_domain_plan": {
+        "D1": "Low",
+        "D2": "High",
+        "D3": "High",
+        "D4": "High",
+        "D5": "Some concerns"
+      },
+      "actual_author_overall_plan": "High",
+      "manual_domain_override_actually_adopted": [],
+      "original_signalling_answers_not_rewritten_to_force_manual_grade": true,
+      "factual_unknowns_retained": [
+        "Actualfemaleobserved/imputedNandmissing-dataimplementation",
+        "Exactcombinednativeconstructandassignmentmodel",
+        "Actualconcealmentimplementation/femaleclinicalbaselinebalance",
+        "Priorversions/pre-unblindinganalysisplan",
+        "Separateappmanualandactualbodilypracticefidelitynotobtained"
+      ]
+    }
+  ],
+  "old8_GRADE_differences_preserved": true
+}
