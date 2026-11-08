@@ -10,11 +10,13 @@ limits are documented in [Scope changes](methods/scope_changes.txt).
 
 ## Latest aggregate process update
 
-The [R145 actualS28 source-and-analysis snapshot](snapshots/r145-2026-11-08/README.md) records140selected result sources and238included reports after actual source-use adoption. It preserves unresolved qualification,source-identity versus independentK,and sourceN versus unique-woman distinctions. Seven new early completer expressions concern one trial; no new compatible pooled model or whole-review certainty is released. Four exact certainty proposals await author confirmation. The historical v0.1.0 dataset below remains unchanged.
+The [R146 actual S29 certainty snapshot](snapshots/r146-2026-11-08/README.md) applies all four target-specific certainty cases from the three authors’ saved choices. Restricted completer contrasts and complete randomized-strategy targets are preserved separately, with dissent and original precision gates retained. No new pooled model is released; whole-review independent K and unique female N remain uncertified. Full-manuscript approval and journal release remain separate author actions.
 
 ```sh
-python3 snapshots/r145-2026-11-08/verify_snapshot.py
+python3 snapshots/r146-2026-11-08/verify_snapshot.py
 ```
+
+The [R145 source-and-analysis snapshot](snapshots/r145-2026-11-08/README.md) remains immutable; its pending-S29 status describes that historical snapshot and is superseded only in R146.
 
 Earlier snapshots remain available: [R138](snapshots/r138-2026-11-08/README.md) and [R139](snapshots/r139-2026-11-08/README.md).
 

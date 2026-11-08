@@ -1,0 +1,224 @@
+{
+  "cases": 4,
+  "rows": [
+    {
+      "case_id": "R145-G-030-E15",
+      "source_id": "FULL136-030",
+      "comparison": "Sensate focus plus common PFMT versus common PFMT",
+      "outcome": "FSFI total adjusted between-group difference in change",
+      "assessment_policy": "2calendar months post-intervention",
+      "source_parameter_certainty": "Moderate",
+      "parameter_target_qualifier": "Only the reported adjusted FSFI-total change parameter at two calendar months after intervention; model/precision relationship and clinical importance not certified.",
+      "domain_deductions_for_applied_target": {
+        "risk_of_bias": 1,
+        "inconsistency": 0,
+        "indirectness": 0,
+        "imprecision": 0,
+        "publication_bias": 0
+      },
+      "complete_randomized_strategy_causal_grade": "NOT_EXTRAPOLATED_BEYOND_THE_REPORTED_NARROW_PARAMETER",
+      "retained_dissent_authors": [
+        "Kaiting Wen"
+      ],
+      "interpretation": "Moderate certainty only for the narrowly reported regression parameter; a not-rateable position remains because the model/precision relationship is unresolved. No model validation, MID certification or pooled-input release follows.",
+      "recorded_author_positions": {
+        "Linwen Qiu": {
+          "normalized_certainty": "Moderate",
+          "normalized_domain_deductions": {
+            "risk_of_bias": 1,
+            "inconsistency": 0,
+            "indirectness": 0,
+            "imprecision": 0,
+            "publication_bias": 0
+          }
+        },
+        "Kaiting Wen": {
+          "normalized_certainty": "NOT_RATEABLE",
+          "normalized_domain_deductions": {
+            "risk_of_bias": 1,
+            "inconsistency": 0,
+            "indirectness": 0,
+            "imprecision": null,
+            "publication_bias": 0
+          }
+        },
+        "Chuan Yin": {
+          "normalized_certainty": "Moderate",
+          "normalized_domain_deductions": {
+            "risk_of_bias": 1,
+            "inconsistency": 0,
+            "indirectness": 0,
+            "imprecision": 0,
+            "publication_bias": 0
+          }
+        }
+      },
+      "not_a_generic_study_grade": true,
+      "precision_admission_restrictions_unchanged": true
+    },
+    {
+      "case_id": "R145-G-039-E01",
+      "source_id": "FULL136-039",
+      "comparison": "Vaginal spheres plus common PFMT versus common PFMT",
+      "outcome": "FSFI total",
+      "assessment_policy": "6week programmeend",
+      "source_parameter_certainty": "Very low",
+      "parameter_target_qualifier": "Only the six-week observed14-completer(7per arm) FSFI mean-change contrast, not the causal effect in all26allocated women.",
+      "domain_deductions_for_applied_target": {
+        "risk_of_bias": 2,
+        "inconsistency": 0,
+        "indirectness": 0,
+        "imprecision": 1,
+        "publication_bias": 0
+      },
+      "complete_randomized_strategy_causal_grade": "NOT_RATEABLE",
+      "retained_dissent_authors": [
+        "Chuan Yin"
+      ],
+      "interpretation": "Very low certainty for the selected completer comparison, based on the two reviewers’ aligned grade and domain deductions. The full randomized-strategy causal effect is not rateable. Yin’s actual not-rateable plan is retained, without treating it as a vote on an identical target.",
+      "recorded_author_positions": {
+        "Linwen Qiu": {
+          "normalized_certainty": "Very low",
+          "normalized_domain_deductions": {
+            "risk_of_bias": 2,
+            "inconsistency": 0,
+            "indirectness": 0,
+            "imprecision": 1,
+            "publication_bias": 0
+          }
+        },
+        "Kaiting Wen": {
+          "normalized_certainty": "Very low",
+          "normalized_domain_deductions": {
+            "risk_of_bias": 2,
+            "inconsistency": 0,
+            "indirectness": 0,
+            "imprecision": 1,
+            "publication_bias": 0
+          }
+        },
+        "Chuan Yin": {
+          "normalized_certainty": "NOT_RATEABLE",
+          "normalized_domain_deductions": {
+            "risk_of_bias": null,
+            "inconsistency": null,
+            "indirectness": null,
+            "imprecision": null,
+            "publication_bias": null
+          }
+        }
+      },
+      "not_a_generic_study_grade": true,
+      "precision_admission_restrictions_unchanged": true
+    },
+    {
+      "case_id": "R145-G-069-E02",
+      "source_id": "FULL136-069",
+      "comparison": "electricaladdon+PFMT minusPFMT",
+      "outcome": "PISQ physical",
+      "assessment_policy": "planned6months post-randomisation; earlier valid outcome can be included",
+      "source_parameter_certainty": "Low",
+      "parameter_target_qualifier": "PISQ physical native adjusted difference at the planned six-month policy allowing an earlier valid observation and adjusting actual time; observed64andphysicalmodel60notall114randomized.",
+      "domain_deductions_for_applied_target": {
+        "risk_of_bias": 1,
+        "inconsistency": 0,
+        "indirectness": 0,
+        "imprecision": 1,
+        "publication_bias": 0
+      },
+      "complete_randomized_strategy_causal_grade": "LIMITED_LOW_CERTAINTY_INTERPRETATION_NOT_RECOVERED_FULL_ITT_ESTIMATE",
+      "retained_dissent_authors": [],
+      "interpretation": "Low certainty for the precise PISQ-physical parameter and actual assessment-time policy; the extra benefit is uncertain and the interval does not establish equivalence.",
+      "recorded_author_positions": {
+        "Linwen Qiu": {
+          "normalized_certainty": "Low",
+          "normalized_domain_deductions": {
+            "risk_of_bias": 1,
+            "inconsistency": 0,
+            "indirectness": 0,
+            "imprecision": 1,
+            "publication_bias": 0
+          }
+        },
+        "Kaiting Wen": {
+          "normalized_certainty": "Low",
+          "normalized_domain_deductions": {
+            "risk_of_bias": 1,
+            "inconsistency": 0,
+            "indirectness": 0,
+            "imprecision": 1,
+            "publication_bias": 0
+          }
+        },
+        "Chuan Yin": {
+          "normalized_certainty": "Low",
+          "normalized_domain_deductions": {
+            "risk_of_bias": 1,
+            "inconsistency": 0,
+            "indirectness": 0,
+            "imprecision": 1,
+            "publication_bias": 0
+          }
+        }
+      },
+      "not_a_generic_study_grade": true,
+      "precision_admission_restrictions_unchanged": true
+    },
+    {
+      "case_id": "R145-G-107-E03",
+      "source_id": "FULL136-107",
+      "comparison": "Internet ACT plus daily PFMT/desensitisation whole package versus initially waiting/usual care; at later follow-up controls could receive usual clinical treatment",
+      "outcome": "pain duringintercourse NRS",
+      "assessment_policy": "post6weeks",
+      "source_parameter_certainty": "NOT_RATEABLE",
+      "parameter_target_qualifier": "Six-week intercourse-conditioned6/17 observation does not identify pain relief from strategy assignment in all99randomized women.",
+      "domain_deductions_for_applied_target": {
+        "risk_of_bias": null,
+        "inconsistency": null,
+        "indirectness": null,
+        "imprecision": null,
+        "publication_bias": null
+      },
+      "complete_randomized_strategy_causal_grade": "NOT_RATEABLE",
+      "retained_dissent_authors": [],
+      "interpretation": "The causal effect in all randomized women is not rateable from this activity-conditioned observation. Source values and all distinct domain annotations remain; not rateable is not no data, no effect or source exclusion.",
+      "recorded_author_positions": {
+        "Linwen Qiu": {
+          "normalized_certainty": "NOT_RATEABLE",
+          "normalized_domain_deductions": {
+            "risk_of_bias": null,
+            "inconsistency": null,
+            "indirectness": null,
+            "imprecision": null,
+            "publication_bias": null
+          }
+        },
+        "Kaiting Wen": {
+          "normalized_certainty": "NOT_RATEABLE",
+          "normalized_domain_deductions": {
+            "risk_of_bias": 2,
+            "inconsistency": 0,
+            "indirectness": 0,
+            "imprecision": null,
+            "publication_bias": 0
+          }
+        },
+        "Chuan Yin": {
+          "normalized_certainty": "NOT_RATEABLE",
+          "normalized_domain_deductions": {
+            "risk_of_bias": null,
+            "inconsistency": null,
+            "indirectness": null,
+            "imprecision": null,
+            "publication_bias": null
+          }
+        }
+      },
+      "not_a_generic_study_grade": true,
+      "precision_admission_restrictions_unchanged": true
+    }
+  ],
+  "restricted_and_whole_strategy_views_not_extra_trials": true,
+  "new_pooled_fits": 0,
+  "original8certainty_differences_retained": true
+}
