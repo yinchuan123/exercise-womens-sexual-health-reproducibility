@@ -1,0 +1,174 @@
+{
+  "date_local": "2026-10-29",
+  "stage": "诊断性刊载输入影响审计，在查看本轮新情景结果前固定；不是前瞻性注册",
+  "known_results_before_plan": [
+    "刊载图18行固定效应5.31[4.87,5.75]已恢复",
+    "本项目旧19家族混合时间结果已知",
+    "上一轮11差异原源核查已知"
+  ],
+  "objective": "逐因素量化刊载结果对模型描述、非标准量表、分母和可疑方差来源的敏感程度，帮助排序原源核查，不生成校正后的临床疗效。",
+  "not_done": [
+    "不改变本项目锁定主模型、正式纳入、RoB2或GRADE",
+    "不把刊载18行视为18个独立试验",
+    "不把数学重算当作者原分析文件复现",
+    "不对未确认方差作自动修正",
+    "不据显著性选择最终分析集"
+  ],
+  "models": [
+    {
+      "id": "IV_FIXED",
+      "method": "逆方差固定效应、正态95%区间；只为恢复/比较刊载算术"
+    },
+    {
+      "id": "REML_MHK",
+      "method": "REML随机效应，修正Hartung–Knapp：q=max(1,Σw_RE(yi−mu_RE)^2/(m−1))，w_RE=1/(vi+tau²)，t(m−1)区间；预测区间用t(m−2)且仅作诊断。"
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "S0",
+      "name": "原图18行",
+      "drop": [],
+      "N_updates": {},
+      "purpose": "基准；含非标准量表和未解决依赖/方差问题，不能临床解释"
+    },
+    {
+      "id": "S1",
+      "name": "单独移出Hossini两行",
+      "drop": [
+        "Hossini 2022a",
+        "Hossini 2022b"
+      ],
+      "N_updates": {},
+      "purpose": "D03量表不相容影响；不作量表换算，其他问题原样保留"
+    },
+    {
+      "id": "S2",
+      "name": "仅校准Pourkhiz分臂N",
+      "drop": [],
+      "N_updates": {
+        "Pourkhiz 2017": {
+          "I": 41,
+          "C": 41
+        }
+      },
+      "purpose": "D05对应原表分析N；保留刊载变化SD，不能称已验证其变化精度"
+    },
+    {
+      "id": "S3",
+      "name": "仅校准Citak分臂N",
+      "drop": [],
+      "N_updates": {
+        "Citak 2010": {
+          "I": 37,
+          "C": 38
+        }
+      },
+      "purpose": "D10对应原表FSFI完成者N；保留刊载变化SD，不能称ITT或已验证精度"
+    },
+    {
+      "id": "S4",
+      "name": "单独持留Schvartzman方差行",
+      "drop": [
+        "Schvartzman 2019"
+      ],
+      "N_updates": {},
+      "purpose": "D06 GEE边际SEM与图SD疑点；没有可验证对比SE时不制造替代值。试验仍保留于综述候选"
+    },
+    {
+      "id": "S5a",
+      "name": "Nazarpour仅保留2018报告行",
+      "drop": [
+        "Nazarpour 2017"
+      ],
+      "N_updates": {},
+      "purpose": "D08同母家族候选的一个选择路径；保留行效应仍存在调整均值/变化精度问题，不等于正确最终输入"
+    },
+    {
+      "id": "S5b",
+      "name": "Nazarpour仅保留2017报告行",
+      "drop": [
+        "Nazarpour 2018"
+      ],
+      "N_updates": {
+        "Nazarpour 2017": {
+          "I": 47,
+          "C": 50
+        }
+      },
+      "purpose": "D08另一报告选择路径，干预N核回Kegel47；效应与精度的其他问题不被此算术处理解决"
+    },
+    {
+      "id": "S6",
+      "name": "仅校准Lopes主动臂N配对",
+      "drop": [],
+      "N_updates": {
+        "Lopes 2018a": {
+          "I": 23,
+          "C": 24
+        },
+        "Lopes 2018b": {
+          "I": 22,
+          "C": 24
+        }
+      },
+      "purpose": "D09新核主动臂mean–N互换；保留刊载SD及行独立约定，未解决共享control/变化SD。事后原源跟进诊断。"
+    },
+    {
+      "id": "S7",
+      "name": "Citak使用原配对t的条件精度",
+      "drop": [],
+      "N_updates": {
+        "Citak 2010": {
+          "I": 37,
+          "C": 38
+        }
+      },
+      "SD_updates": {
+        "Citak 2010": {
+          "I": 2.6022801613233306,
+          "C": 3.9833092848184086
+        }
+      },
+      "purpose": "D10从明确配对t和同完成者均值变化恢复近似changeSD；受印值舍入、完成者选择和随机时钟冲突限制，不是作者直接报告SD或最终准入。事后原源跟进诊断。"
+    },
+    {
+      "id": "S8",
+      "name": "单独持留Bahmani两行计分",
+      "drop": [
+        "Bahmani 2020a",
+        "Bahmani 2020b"
+      ],
+      "N_updates": {},
+      "purpose": "D09原源虽命名FSFI19，但回答0–4、域权重/总量程不能核对至标准加权单位；另post为modelSE。此为事后标准原单位相容性诊断，不称删除另一种非FSFI试验。"
+    },
+    {
+      "id": "S9",
+      "name": "同时持留两报告的计分冲突行",
+      "drop": [
+        "Bahmani 2020a",
+        "Bahmani 2020b",
+        "Hossini 2022a",
+        "Hossini 2022b"
+      ],
+      "N_updates": {},
+      "purpose": "D03/D09同一标准FSFI19原单位准入原则下的事后计分相容性限制；剩余行的N、精度、独立性和临床相容性仍未全部验证，不命名校正后的真实疗效。"
+    }
+  ],
+  "shared_control_limit": "Bahmani/Hossini/Lopes的共享对照相关性尚未在本诊断重算中处理。全部合并区间仅说明刊载行独立约定下的敏感性，不是有效独立RCT综合。",
+  "conditional_combination": "不将上述单因素改动累加后命名校正主模型；真实比较、时点、相关结构和精度须完成原源与双路核验后才制定新的合适分析。",
+  "source_of_N_changes": "上轮competitor D05/D10原PDF明确的随机与FSFI分析N，待本轮逐原源输入裁决再次核实。",
+  "publication_boundaries": "刊载分值含不相容量表，基准/混合行不能称统一FSFI19平均差；模型改变不自动证明临床结论被推翻，未建立MID。",
+  "software": "R metafor REML；不拟合Bayesian/NMA/剂量模型；记录版本和每情景输入哈希",
+  "references": [
+    "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-06",
+    "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-10"
+  ],
+  "post_source_followup_scenarios_note": "S6/S7是在初始7情景结果已经可见后，按本轮新增原源核查预先写明处理而追加的探索性诊断；不称所有情景均在任何结果前设定。S5b包含报告选择与N校准两步，不是纯删除单因素。",
+  "calculation_check_note": "R初版曾误用metafor的固定权重QE构造HK缩放；代码交叉核验发现后在交付前纠正为随机权重残差q，且与metafor knha原SE自检一致。情景和原源未因结果作选择。",
+  "source_provenance": {
+    "original_artifact_basename": "IMPACT_AUDIT_PLAN.json",
+    "original_sha256": "e0023531a7fdac73d111a6207e2aaed7a1c388b489c789dd8a489eae6be205f5",
+    "derived_exclusion": "Private absolute source-followup paths removed; scenario definitions and numeric updates unchanged."
+  }
+}

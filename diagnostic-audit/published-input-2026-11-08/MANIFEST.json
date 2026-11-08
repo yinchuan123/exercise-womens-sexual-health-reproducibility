@@ -1,0 +1,101 @@
+{
+  "status": "PUBLIC_SAFE_DERIVED_DIAGNOSTIC22_ACTUALLY_REPLAYED_NO_UPLOAD_BY_THIS_AGENT",
+  "date_local": "2026-11-08",
+  "scope_status_file": "SCOPE_AND_REPLAY_STATUS.json",
+  "file_count_excluding_manifest_and_checksum_index": 18,
+  "files": [
+    {
+      "path": "README.txt",
+      "sha256": "8818c03905ce00e39959f6450f38b8469b44140cf47f976fce1eac6b673eabfb",
+      "bytes": 3378
+    },
+    {
+      "path": "SCOPE_AND_REPLAY_STATUS.json",
+      "sha256": "d60b9f75ca4aba3d0d871c9d989c9a955ce65ebf0e03c615a0ea1baa318861d1",
+      "bytes": 1967
+    },
+    {
+      "path": "data/FROZEN_PUBLISHED_INPUT_IMPACT_AUDIT.json",
+      "sha256": "a474539539e29cac6d02fedfedd07d3f85610a156a2a1bd5d68c861c8c981bcf",
+      "bytes": 12363
+    },
+    {
+      "path": "data/IMPACT_AUDIT_PLAN.json",
+      "sha256": "0c6e611f2213a6a7e05623e49d203008e1cc140cb64e6d60e5a7ba0f03960b89",
+      "bytes": 6893
+    },
+    {
+      "path": "data/INDEPENDENT_TRANSCRIBED_REFERENCE_ROWS.json",
+      "sha256": "efdce3a49c37ad51b894a8ab1b2ecd73806a90fcd3e0580ab7561e1f69426c1a",
+      "bytes": 5545
+    },
+    {
+      "path": "data/PUBLISHED_FIGURE_ROWS_REUSED.json",
+      "sha256": "5f9e26434bfaafdabb1ba5ba39fc5fe2630609576fb7e745cc3865daae632024",
+      "bytes": 7696
+    },
+    {
+      "path": "data/SCENARIO_INPUTS11.json",
+      "sha256": "487f468941c0ed0cbf23c5445a80aec0947fbdb044d7d2c800923f7d84a30e22",
+      "bytes": 92608
+    },
+    {
+      "path": "qa/ARCHIVED_INDEPENDENT_IMPACT_CHECK_SAFE.json",
+      "sha256": "98f27cd49a3e09cb65e5f87e46539ed009e641dc259cb0cd7373e1333e714d8b",
+      "bytes": 18556
+    },
+    {
+      "path": "qa/ARCHIVED_R_SESSION_INFO.txt",
+      "sha256": "cead8f6206575169703dfc6d7ee48ec4148e88d789fce55514c909eee970a669",
+      "bytes": 786
+    },
+    {
+      "path": "qa/PORTABILITY_MATH_QA_SAFE.json",
+      "sha256": "0e9e429789e6d68a282776f1a1fefcea9d1d845422ecc82068a5981a2691cfb6",
+      "bytes": 1229
+    },
+    {
+      "path": "replay/FROZEN_REPLAY_VERIFICATION.json",
+      "sha256": "19cb3c9758cb50778b63674d2e855da65600e89e849161186e4df37abe261440",
+      "bytes": 46686
+    },
+    {
+      "path": "replay/INDEPENDENT_IMPACT_CHECK.json",
+      "sha256": "15219ce15cbfaea5a61dff7135fb50586b1090a00ed89a882419fa908102e824",
+      "bytes": 18411
+    },
+    {
+      "path": "replay/PUBLISHED_INPUT_IMPACT_AUDIT.json",
+      "sha256": "cc910c537c5003fec44e86f773c13639d6ff392847e8b20b295b1b9c5c84c7ba",
+      "bytes": 105833
+    },
+    {
+      "path": "replay/R_SESSION_INFO.txt",
+      "sha256": "cead8f6206575169703dfc6d7ee48ec4148e88d789fce55514c909eee970a669",
+      "bytes": 786
+    },
+    {
+      "path": "replay/R_STDOUT_SUMMARIES.json",
+      "sha256": "dc9d831a811d64bbd4b5274f6228983c9783c7285e08342d4fc0ee3c5ba00893",
+      "bytes": 2619
+    },
+    {
+      "path": "scripts/independent_impact_check.py",
+      "sha256": "8e16c5a4cc7a55d61c6142a6a5740a1ea9a25eac488d80a108b4ff8d40afa2be",
+      "bytes": 9592
+    },
+    {
+      "path": "scripts/run_impact_audit.R",
+      "sha256": "721ce0ea36252e287060ce34ddec46ea7ffd93a014e85d3f670d5b9ae6562a21",
+      "bytes": 3015
+    },
+    {
+      "path": "scripts/verify_frozen_replay.py",
+      "sha256": "ef0ca4a8d27b95f16e417b1eb2ad112850733f651f1f4042ff38cc180d6ab376",
+      "bytes": 3073
+    }
+  ],
+  "licensed_material_private_paths_receipts_manuscript_excluded": true,
+  "clinical_fits_changed": 0,
+  "new_unique_scientific_models": 0
+}

@@ -1,0 +1,223 @@
+{
+  "competitor_figure2": {
+    "transcribed_rows": [
+      {
+        "label": "Bahmani 2020a",
+        "mean_I": 10.74,
+        "SD_I": 10.71,
+        "N_I_displayed": 20,
+        "mean_C": -7.79,
+        "SD_C": 10.1,
+        "N_C_displayed": 22,
+        "MD": 18.53,
+        "variance": 10.372023181818182,
+        "weight": 0.09641320526095307
+      },
+      {
+        "label": "Bahmani 2020b",
+        "mean_I": 3.13,
+        "SD_I": 11.06,
+        "N_I_displayed": 18,
+        "mean_C": -7.79,
+        "SD_C": 10.1,
+        "N_C_displayed": 22,
+        "MD": 10.92,
+        "variance": 11.432573737373737,
+        "weight": 0.08746936805060289
+      },
+      {
+        "label": "Citak 2010",
+        "mean_I": 4.83,
+        "SD_I": 4.99,
+        "N_I_displayed": 58,
+        "mean_C": 1.64,
+        "SD_C": 4.37,
+        "N_C_displayed": 60,
+        "MD": 3.1900000000000004,
+        "variance": 0.747593735632184,
+        "weight": 1.337624905530241
+      },
+      {
+        "label": "Denig 2022",
+        "mean_I": -1.3,
+        "SD_I": 9.4,
+        "N_I_displayed": 11,
+        "mean_C": -0.9,
+        "SD_C": 8.15,
+        "N_C_displayed": 13,
+        "MD": -0.4,
+        "variance": 13.14215034965035,
+        "weight": 0.07609104852666712
+      },
+      {
+        "label": "Franco 2021",
+        "mean_I": 1.8,
+        "SD_I": 4.68,
+        "N_I_displayed": 37,
+        "mean_C": 0.5,
+        "SD_C": 5.9,
+        "N_C_displayed": 33,
+        "MD": 1.3,
+        "variance": 1.6468052416052417,
+        "weight": 0.6072363475265836
+      },
+      {
+        "label": "Hossini 2022a",
+        "mean_I": 26.66,
+        "SD_I": 5.28,
+        "N_I_displayed": 18,
+        "mean_C": 4.53,
+        "SD_C": 5.37,
+        "N_C_displayed": 18,
+        "MD": 22.13,
+        "variance": 3.15085,
+        "weight": 0.3173746766745481
+      },
+      {
+        "label": "Hossini 2022b",
+        "mean_I": 10.87,
+        "SD_I": 5.37,
+        "N_I_displayed": 18,
+        "mean_C": 4.53,
+        "SD_C": 5.37,
+        "N_C_displayed": 18,
+        "MD": 6.339999999999999,
+        "variance": 3.2041,
+        "weight": 0.3121001217190475
+      },
+      {
+        "label": "Kim 2013",
+        "mean_I": 2.35,
+        "SD_I": 6.66,
+        "N_I_displayed": 17,
+        "mean_C": 0.56,
+        "SD_C": 7.21,
+        "N_C_displayed": 20,
+        "MD": 1.79,
+        "variance": 5.208357941176471,
+        "weight": 0.19199909286075653
+      },
+      {
+        "label": "Lopes 2018a",
+        "mean_I": 3.09,
+        "SD_I": 5.05,
+        "N_I_displayed": 22,
+        "mean_C": -0.81,
+        "SD_C": 5.5,
+        "N_C_displayed": 24,
+        "MD": 3.9,
+        "variance": 2.4196212121212124,
+        "weight": 0.413287829925796
+      },
+      {
+        "label": "Lopes 2018b",
+        "mean_I": 4.83,
+        "SD_I": 5.68,
+        "N_I_displayed": 23,
+        "mean_C": -0.81,
+        "SD_C": 5.5,
+        "N_C_displayed": 24,
+        "MD": 5.640000000000001,
+        "variance": 2.6631297101449274,
+        "weight": 0.3754980450973152
+      },
+      {
+        "label": "Nazarpour 2017",
+        "mean_I": -0.09,
+        "SD_I": 5.56,
+        "N_I_displayed": 48,
+        "mean_C": -0.15,
+        "SD_C": 6.36,
+        "N_C_displayed": 50,
+        "MD": 0.06,
+        "variance": 1.4530253333333332,
+        "weight": 0.688219246464159
+      },
+      {
+        "label": "Nazarpour 2018",
+        "mean_I": -0.38,
+        "SD_I": 5.51,
+        "N_I_displayed": 47,
+        "mean_C": -0.42,
+        "SD_C": 6.4,
+        "N_C_displayed": 50,
+        "MD": 0.03999999999999998,
+        "variance": 1.4651595744680852,
+        "weight": 0.6825195135233254
+      },
+      {
+        "label": "Pourkhiz 2017",
+        "mean_I": 8.9,
+        "SD_I": 4.01,
+        "N_I_displayed": 84,
+        "mean_C": -1.4,
+        "SD_C": 3.9,
+        "N_C_displayed": 84,
+        "MD": 10.3,
+        "variance": 0.37250119047619046,
+        "weight": 2.6845551787945707
+      },
+      {
+        "label": "Rezaei 2020",
+        "mean_I": 5.22,
+        "SD_I": 4.39,
+        "N_I_displayed": 25,
+        "mean_C": -0.33,
+        "SD_C": 4.46,
+        "N_C_displayed": 26,
+        "MD": 5.55,
+        "variance": 1.5359455384615384,
+        "weight": 0.6510647512942667
+      },
+      {
+        "label": "Salehi 2021",
+        "mean_I": 6.4,
+        "SD_I": 11.29,
+        "N_I_displayed": 7,
+        "mean_C": 6.0,
+        "SD_C": 10.92,
+        "N_C_displayed": 4,
+        "MD": 0.40000000000000036,
+        "variance": 48.020757142857136,
+        "weight": 0.020824328050994618
+      },
+      {
+        "label": "Scarpel 2025",
+        "mean_I": 2.68,
+        "SD_I": 2.26,
+        "N_I_displayed": 22,
+        "mean_C": 2.22,
+        "SD_C": 2.37,
+        "N_C_displayed": 20,
+        "MD": 0.45999999999999996,
+        "variance": 0.5130086363636364,
+        "weight": 1.9492849225469357
+      },
+      {
+        "label": "Schvartzman 2019",
+        "mean_I": 9.6,
+        "SD_I": 1.22,
+        "N_I_displayed": 21,
+        "mean_C": 2.7,
+        "SD_C": 1.86,
+        "N_C_displayed": 21,
+        "MD": 6.8999999999999995,
+        "variance": 0.23561904761904762,
+        "weight": 4.244139046079224
+      },
+      {
+        "label": "Zachariou 2024",
+        "mean_I": 4.85,
+        "SD_I": 1.81,
+        "N_I_displayed": 33,
+        "mean_C": 0.36,
+        "SD_C": 1.87,
+        "N_C_displayed": 36,
+        "MD": 4.489999999999999,
+        "variance": 0.19641186868686872,
+        "weight": 5.091342018614254
+      }
+    ]
+  },
+  "not_validated_clinical_input": true
+}

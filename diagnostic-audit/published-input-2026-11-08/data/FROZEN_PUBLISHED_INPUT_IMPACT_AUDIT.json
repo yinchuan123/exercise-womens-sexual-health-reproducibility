@@ -1,0 +1,402 @@
+{
+  "mode": "published-input single-factor diagnostic audit; not corrected clinical synthesis",
+  "software": {
+    "R": "R version 4.6.1 (2026-06-24)",
+    "metafor": "5.0.1",
+    "jsonlite": "2.0.0"
+  },
+  "results": {
+    "S0": {
+      "scenario_id": "S0",
+      "name": "原图18行",
+      "source_effect_rows": 18,
+      "independent_trial_k": null,
+      "fixed": {
+        "estimate": 5.307187098943734,
+        "se": 0.2245799695865512,
+        "ci": [
+          4.867018446904993,
+          5.747355750982475
+        ],
+        "Q": 296.5365242760582,
+        "I2": 94.2671480211409
+      },
+      "random_REML_modified_HK": {
+        "estimate": 5.660908350877048,
+        "se": 1.467980318881375,
+        "ci": [
+          2.563740606148405,
+          8.758076095605691
+        ],
+        "tau2": 33.77622712921046,
+        "I2": 97.09956303600471,
+        "q_modified_HK": 1.018680455668432,
+        "df": 17,
+        "diagnostic_prediction_interval": [
+          -7.046362331567367,
+          18.368179033321464
+        ]
+      },
+      "valid_clinical_pool": false,
+      "project_primary_model": false,
+      "interpretation": "基准；含非标准量表和未解决依赖/方差问题，不能临床解释"
+    },
+    "S1": {
+      "scenario_id": "S1",
+      "name": "单独移出Hossini两行",
+      "source_effect_rows": 16,
+      "independent_trial_k": null,
+      "fixed": {
+        "estimate": 5.012281224030917,
+        "se": 0.2282321824151486,
+        "ci": [
+          4.56495436638425,
+          5.459608081677584
+        ],
+        "Q": 204.71473793252937,
+        "I2": 92.6727307708819
+      },
+      "random_REML_modified_HK": {
+        "estimate": 4.480746061164994,
+        "se": 1.179587432428484,
+        "ci": [
+          1.96651496436728,
+          6.994977157962707
+        ],
+        "tau2": 16.38194717429476,
+        "I2": 94.62920576728482,
+        "q_modified_HK": 1.107391581634296,
+        "df": 15,
+        "diagnostic_prediction_interval": [
+          -4.561348436056435,
+          13.522840558386424
+        ]
+      },
+      "valid_clinical_pool": false,
+      "project_primary_model": false,
+      "interpretation": "D03量表不相容影响；不作量表换算，其他问题原样保留"
+    },
+    "S2": {
+      "scenario_id": "S2",
+      "name": "仅校准Pourkhiz分臂N",
+      "source_effect_rows": 18,
+      "independent_trial_k": null,
+      "fixed": {
+        "estimate": 4.935357160064915,
+        "se": 0.2327923902168439,
+        "ci": [
+          4.479092459364907,
+          5.391621860764923
+        ],
+        "Q": 259.72806750622226,
+        "I2": 93.4546927626169
+      },
+      "random_REML_modified_HK": {
+        "estimate": 5.657638619846364,
+        "se": 1.468183829142384,
+        "ci": [
+          2.560041505998795,
+          8.755235733693933
+        ],
+        "tau2": 33.76637323366319,
+        "I2": 96.86409509619334,
+        "q_modified_HK": 1.018519060584922,
+        "df": 17,
+        "diagnostic_prediction_interval": [
+          -7.047995175721275,
+          18.363272415414002
+        ]
+      },
+      "valid_clinical_pool": false,
+      "project_primary_model": false,
+      "interpretation": "D05对应原表分析N；保留刊载变化SD，不能称已验证其变化精度"
+    },
+    "S3": {
+      "scenario_id": "S3",
+      "name": "仅校准Citak分臂N",
+      "source_effect_rows": 18,
+      "independent_trial_k": null,
+      "fixed": {
+        "estimate": 5.360493260185611,
+        "se": 0.2273896116775221,
+        "ci": [
+          4.914817810839119,
+          5.806168709532103
+        ],
+        "Q": 294.2988616398576,
+        "I2": 94.22355903611907
+      },
+      "random_REML_modified_HK": {
+        "estimate": 5.662792289288681,
+        "se": 1.468455404021441,
+        "ci": [
+          2.564622202530728,
+          8.760962376046633
+        ],
+        "tau2": 33.79477821114315,
+        "I2": 97.01389601750638,
+        "q_modified_HK": 1.018066913171686,
+        "df": 17,
+        "diagnostic_prediction_interval": [
+          -7.048004936487739,
+          18.3735895150651
+        ]
+      },
+      "valid_clinical_pool": false,
+      "project_primary_model": false,
+      "interpretation": "D10对应原表FSFI完成者N；保留刊载变化SD，不能称ITT或已验证精度"
+    },
+    "S4": {
+      "scenario_id": "S4",
+      "name": "单独持留Schvartzman方差行",
+      "source_effect_rows": 17,
+      "independent_trial_k": null,
+      "fixed": {
+        "estimate": 4.873370708495479,
+        "se": 0.2533236833311897,
+        "ci": [
+          4.376865412735317,
+          5.36987600425564
+        ],
+        "Q": 282.8362682323021,
+        "I2": 94.34301686272472
+      },
+      "random_REML_modified_HK": {
+        "estimate": 5.583288542111794,
+        "se": 1.56235063745704,
+        "ci": [
+          2.271253146524911,
+          8.895323937698677
+        ],
+        "tau2": 36.388000935809096,
+        "I2": 96.71623020196743,
+        "q_modified_HK": 1.011449511164198,
+        "df": 16,
+        "diagnostic_prediction_interval": [
+          -7.698385776688725,
+          18.864962860912314
+        ]
+      },
+      "valid_clinical_pool": false,
+      "project_primary_model": false,
+      "interpretation": "D06 GEE边际SEM与图SD疑点；没有可验证对比SE时不制造替代值。试验仍保留于综述候选"
+    },
+    "S5a": {
+      "scenario_id": "S5a",
+      "name": "Nazarpour仅保留2018报告行",
+      "source_effect_rows": 17,
+      "independent_trial_k": null,
+      "fixed": {
+        "estimate": 5.495872416066827,
+        "se": 0.2285821804339415,
+        "ci": [
+          5.047859574908665,
+          5.943885257224988
+        ],
+        "Q": 276.90641944667,
+        "I2": 94.22187465643732
+      },
+      "random_REML_modified_HK": {
+        "estimate": 6.018920663109275,
+        "se": 1.517617954029513,
+        "ci": [
+          2.801714320168792,
+          9.236127006049758
+        ],
+        "tau2": 33.952457902190645,
+        "I2": 97.15265224173301,
+        "q_modified_HK": 1.018541224511249,
+        "df": 16,
+        "diagnostic_prediction_interval": [
+          -6.815100107176288,
+          18.852941433394836
+        ]
+      },
+      "valid_clinical_pool": false,
+      "project_primary_model": false,
+      "interpretation": "D08同母家族候选的一个选择路径；保留行效应仍存在调整均值/变化精度问题，不等于正确最终输入"
+    },
+    "S5b": {
+      "scenario_id": "S5b",
+      "name": "Nazarpour仅保留2017报告行",
+      "source_effect_rows": 17,
+      "independent_trial_k": null,
+      "fixed": {
+        "estimate": 5.496792996395429,
+        "se": 0.2285865394253418,
+        "ci": [
+          5.048771611771113,
+          5.944814381019744
+        ],
+        "Q": 276.7361584064356,
+        "I2": 94.21831968321928
+      },
+      "random_REML_modified_HK": {
+        "estimate": 6.020193668558042,
+        "se": 1.517287264637216,
+        "ci": [
+          2.803688355812686,
+          9.236698981303398
+        ],
+        "tau2": 33.934240589386505,
+        "I2": 97.15103043674554,
+        "q_modified_HK": 1.018590191303213,
+        "df": 16,
+        "diagnostic_prediction_interval": [
+          -6.810424671656973,
+          18.850812008773055
+        ]
+      },
+      "valid_clinical_pool": false,
+      "project_primary_model": false,
+      "interpretation": "D08另一报告选择路径，干预N核回Kegel47；效应与精度的其他问题不被此算术处理解决"
+    },
+    "S6": {
+      "scenario_id": "S6",
+      "name": "仅校准Lopes主动臂N配对",
+      "source_effect_rows": 18,
+      "independent_trial_k": null,
+      "fixed": {
+        "estimate": 5.306415739239571,
+        "se": 0.2245799016485732,
+        "ci": [
+          4.86624722035682,
+          5.746584258122322
+        ],
+        "Q": 296.55294935231433,
+        "I2": 94.26746554464259
+      },
+      "random_REML_modified_HK": {
+        "estimate": 5.660769148112722,
+        "se": 1.468001177928139,
+        "ci": [
+          2.563557394642276,
+          8.757980901583169
+        ],
+        "tau2": 33.77757895450622,
+        "I2": 97.09967107606285,
+        "q_modified_HK": 1.018652033379803,
+        "df": 17,
+        "diagnostic_prediction_interval": [
+          -7.046751401474349,
+          18.368289697699794
+        ]
+      },
+      "valid_clinical_pool": false,
+      "project_primary_model": false,
+      "interpretation": "D09新核主动臂mean–N互换；保留刊载SD及行独立约定，未解决共享control/变化SD。事后原源跟进诊断。"
+    },
+    "S7": {
+      "scenario_id": "S7",
+      "name": "Citak使用原配对t的条件精度",
+      "source_effect_rows": 18,
+      "independent_trial_k": null,
+      "fixed": {
+        "estimate": 5.272787975628067,
+        "se": 0.2227480598917878,
+        "ci": [
+          4.836209800613992,
+          5.709366150642142
+        ],
+        "Q": 297.9805155740299,
+        "I2": 94.29492899317555
+      },
+      "random_REML_modified_HK": {
+        "estimate": 5.660250480581134,
+        "se": 1.467814368908618,
+        "ci": [
+          2.563432859690155,
+          8.757068101472115
+        ],
+        "tau2": 33.76978514969931,
+        "I2": 97.15268842962698,
+        "q_modified_HK": 1.018893902270798,
+        "df": 17,
+        "diagnostic_prediction_interval": [
+          -7.045794871808764,
+          18.366295832971034
+        ]
+      },
+      "valid_clinical_pool": false,
+      "project_primary_model": false,
+      "interpretation": "D10从明确配对t和同完成者均值变化恢复近似changeSD；受印值舍入、完成者选择和随机时钟冲突限制，不是作者直接报告SD或最终准入。事后原源跟进诊断。"
+    },
+    "S8": {
+      "scenario_id": "S8",
+      "name": "单独持留Bahmani两行计分",
+      "source_effect_rows": 16,
+      "independent_trial_k": null,
+      "fixed": {
+        "estimate": 5.217293065839008,
+        "se": 0.2256286843779709,
+        "ci": [
+          4.77506897057903,
+          5.659517161098986
+        ],
+        "Q": 276.7650302015668,
+        "I2": 94.58024014483492
+      },
+      "random_REML_modified_HK": {
+        "estimate": 4.725843185819093,
+        "se": 1.40429268430882,
+        "ci": [
+          1.732664182016142,
+          7.719022189622043
+        ],
+        "tau2": 28.09522973762344,
+        "I2": 96.89100199365025,
+        "q_modified_HK": 1,
+        "df": 15,
+        "diagnostic_prediction_interval": [
+          -7.034800369151458,
+          16.486486740789644
+        ]
+      },
+      "valid_clinical_pool": false,
+      "project_primary_model": false,
+      "interpretation": "D09原源虽命名FSFI19，但回答0–4、域权重/总量程不能核对至标准加权单位；另post为modelSE。此为事后标准原单位相容性诊断，不称删除另一种非FSFI试验。"
+    },
+    "S9": {
+      "scenario_id": "S9",
+      "name": "同时持留两报告的计分冲突行",
+      "source_effect_rows": 14,
+      "independent_trial_k": null,
+      "fixed": {
+        "estimate": 4.916559069123435,
+        "se": 0.229333150936144,
+        "ci": [
+          4.467074352827505,
+          5.366043785419365
+        ],
+        "Q": 183.87027820580798,
+        "I2": 92.92979804737722
+      },
+      "random_REML_modified_HK": {
+        "estimate": 3.532110741270375,
+        "se": 0.9176977754415604,
+        "ci": [
+          1.549545231100799,
+          5.514676251439951
+        ],
+        "tau2": 9.272004508266063,
+        "I2": 91.9060004301124,
+        "q_modified_HK": 1,
+        "df": 13,
+        "diagnostic_prediction_interval": [
+          -3.397121670945634,
+          10.461343153486384
+        ]
+      },
+      "valid_clinical_pool": false,
+      "project_primary_model": false,
+      "interpretation": "D03/D09同一标准FSFI19原单位准入原则下的事后计分相容性限制；剩余行的N、精度、独立性和临床相容性仍未全部验证，不命名校正后的真实疗效。"
+    }
+  },
+  "project_models_modified": false,
+  "formal_human_eligibility": null,
+  "whole_SR_final_K": null,
+  "formal_GRADE": null,
+  "plan_path": "data/IMPACT_AUDIT_PLAN.json",
+  "original_artifact_sha256": "16af4a2eb9f7fe7fadd6341590164f41161f35c30e03106be0db4a02634a1f5b",
+  "saved_numeric_result_subtrees_preserved_exactly": true
+}

@@ -1,0 +1,1426 @@
+{
+  "status": "PASS_ENGINEERING_REPLAY_OF_SAME22_HISTORICAL_FITS",
+  "scope": "Existing diagnostic scenario-model runs only;0newunique scientific models; separate current clinical6unchanged.",
+  "model_fit_summaries_replayed": 22,
+  "scenarios": 11,
+  "numeric_output_fields_checked": 176,
+  "per_scenario_input_numeric_fields_checked": 2431,
+  "maximum_saved_output_absolute_difference": 0.0,
+  "independent_scalar_REML_QA_pass_for11": true,
+  "independent_max_tau2_absolute_difference": 1.5007222486929095e-06,
+  "independent_max_mu_SE_CI_PI_absolute_difference": 3.8217853814970226e-07,
+  "frozen_output_sha256": "a474539539e29cac6d02fedfedd07d3f85610a156a2a1bd5d68c861c8c981bcf",
+  "replay_output_sha256": "cc910c537c5003fec44e86f773c13639d6ff392847e8b20b295b1b9c5c84c7ba",
+  "replay_QA_sha256": "15219ce15cbfaea5a61dff7135fb50586b1090a00ed89a882419fa908102e824",
+  "models": [
+    {
+      "fit_id": "S0:IV_FIXED",
+      "numeric_fields_checked": 6,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S0/fixed/estimate",
+          "frozen": 5.307187098943734,
+          "replayed": 5.307187098943734,
+          "absolute_difference": 0.0,
+          "tolerance": 5.307187098943734e-10
+        },
+        {
+          "path": "/results/S0/fixed/se",
+          "frozen": 0.2245799695865512,
+          "replayed": 0.2245799695865512,
+          "absolute_difference": 0.0,
+          "tolerance": 1e-10
+        },
+        {
+          "path": "/results/S0/fixed/ci/0",
+          "frozen": 4.867018446904993,
+          "replayed": 4.867018446904993,
+          "absolute_difference": 0.0,
+          "tolerance": 4.867018446904993e-10
+        },
+        {
+          "path": "/results/S0/fixed/ci/1",
+          "frozen": 5.747355750982475,
+          "replayed": 5.747355750982475,
+          "absolute_difference": 0.0,
+          "tolerance": 5.747355750982475e-10
+        },
+        {
+          "path": "/results/S0/fixed/Q",
+          "frozen": 296.5365242760582,
+          "replayed": 296.5365242760582,
+          "absolute_difference": 0.0,
+          "tolerance": 2.965365242760582e-08
+        },
+        {
+          "path": "/results/S0/fixed/I2",
+          "frozen": 94.2671480211409,
+          "replayed": 94.2671480211409,
+          "absolute_difference": 0.0,
+          "tolerance": 9.42671480211409e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S0:REML_MHK",
+      "numeric_fields_checked": 10,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S0/random_REML_modified_HK/estimate",
+          "frozen": 5.660908350877048,
+          "replayed": 5.660908350877048,
+          "absolute_difference": 0.0,
+          "tolerance": 5.660908350877049e-10
+        },
+        {
+          "path": "/results/S0/random_REML_modified_HK/se",
+          "frozen": 1.467980318881375,
+          "replayed": 1.467980318881375,
+          "absolute_difference": 0.0,
+          "tolerance": 1.467980318881375e-10
+        },
+        {
+          "path": "/results/S0/random_REML_modified_HK/ci/0",
+          "frozen": 2.563740606148405,
+          "replayed": 2.563740606148405,
+          "absolute_difference": 0.0,
+          "tolerance": 2.563740606148405e-10
+        },
+        {
+          "path": "/results/S0/random_REML_modified_HK/ci/1",
+          "frozen": 8.758076095605691,
+          "replayed": 8.758076095605691,
+          "absolute_difference": 0.0,
+          "tolerance": 8.758076095605692e-10
+        },
+        {
+          "path": "/results/S0/random_REML_modified_HK/tau2",
+          "frozen": 33.77622712921046,
+          "replayed": 33.77622712921046,
+          "absolute_difference": 0.0,
+          "tolerance": 3.377622712921046e-09
+        },
+        {
+          "path": "/results/S0/random_REML_modified_HK/I2",
+          "frozen": 97.09956303600471,
+          "replayed": 97.09956303600471,
+          "absolute_difference": 0.0,
+          "tolerance": 9.70995630360047e-09
+        },
+        {
+          "path": "/results/S0/random_REML_modified_HK/q_modified_HK",
+          "frozen": 1.018680455668432,
+          "replayed": 1.018680455668432,
+          "absolute_difference": 0.0,
+          "tolerance": 1.0186804556684319e-10
+        },
+        {
+          "path": "/results/S0/random_REML_modified_HK/df",
+          "frozen": 17,
+          "replayed": 17,
+          "absolute_difference": 0,
+          "tolerance": 1.7000000000000001e-09
+        },
+        {
+          "path": "/results/S0/random_REML_modified_HK/diagnostic_prediction_interval/0",
+          "frozen": -7.046362331567367,
+          "replayed": -7.046362331567367,
+          "absolute_difference": 0.0,
+          "tolerance": 7.046362331567367e-10
+        },
+        {
+          "path": "/results/S0/random_REML_modified_HK/diagnostic_prediction_interval/1",
+          "frozen": 18.368179033321464,
+          "replayed": 18.368179033321464,
+          "absolute_difference": 0.0,
+          "tolerance": 1.8368179033321466e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S1:IV_FIXED",
+      "numeric_fields_checked": 6,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S1/fixed/estimate",
+          "frozen": 5.012281224030917,
+          "replayed": 5.012281224030917,
+          "absolute_difference": 0.0,
+          "tolerance": 5.012281224030918e-10
+        },
+        {
+          "path": "/results/S1/fixed/se",
+          "frozen": 0.2282321824151486,
+          "replayed": 0.2282321824151486,
+          "absolute_difference": 0.0,
+          "tolerance": 1e-10
+        },
+        {
+          "path": "/results/S1/fixed/ci/0",
+          "frozen": 4.56495436638425,
+          "replayed": 4.56495436638425,
+          "absolute_difference": 0.0,
+          "tolerance": 4.5649543663842503e-10
+        },
+        {
+          "path": "/results/S1/fixed/ci/1",
+          "frozen": 5.459608081677584,
+          "replayed": 5.459608081677584,
+          "absolute_difference": 0.0,
+          "tolerance": 5.459608081677584e-10
+        },
+        {
+          "path": "/results/S1/fixed/Q",
+          "frozen": 204.71473793252937,
+          "replayed": 204.71473793252937,
+          "absolute_difference": 0.0,
+          "tolerance": 2.0471473793252937e-08
+        },
+        {
+          "path": "/results/S1/fixed/I2",
+          "frozen": 92.6727307708819,
+          "replayed": 92.6727307708819,
+          "absolute_difference": 0.0,
+          "tolerance": 9.26727307708819e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S1:REML_MHK",
+      "numeric_fields_checked": 10,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S1/random_REML_modified_HK/estimate",
+          "frozen": 4.480746061164994,
+          "replayed": 4.480746061164994,
+          "absolute_difference": 0.0,
+          "tolerance": 4.480746061164994e-10
+        },
+        {
+          "path": "/results/S1/random_REML_modified_HK/se",
+          "frozen": 1.179587432428484,
+          "replayed": 1.179587432428484,
+          "absolute_difference": 0.0,
+          "tolerance": 1.1795874324284842e-10
+        },
+        {
+          "path": "/results/S1/random_REML_modified_HK/ci/0",
+          "frozen": 1.96651496436728,
+          "replayed": 1.96651496436728,
+          "absolute_difference": 0.0,
+          "tolerance": 1.96651496436728e-10
+        },
+        {
+          "path": "/results/S1/random_REML_modified_HK/ci/1",
+          "frozen": 6.994977157962707,
+          "replayed": 6.994977157962707,
+          "absolute_difference": 0.0,
+          "tolerance": 6.994977157962708e-10
+        },
+        {
+          "path": "/results/S1/random_REML_modified_HK/tau2",
+          "frozen": 16.38194717429476,
+          "replayed": 16.38194717429476,
+          "absolute_difference": 0.0,
+          "tolerance": 1.638194717429476e-09
+        },
+        {
+          "path": "/results/S1/random_REML_modified_HK/I2",
+          "frozen": 94.62920576728482,
+          "replayed": 94.62920576728482,
+          "absolute_difference": 0.0,
+          "tolerance": 9.462920576728482e-09
+        },
+        {
+          "path": "/results/S1/random_REML_modified_HK/q_modified_HK",
+          "frozen": 1.107391581634296,
+          "replayed": 1.107391581634296,
+          "absolute_difference": 0.0,
+          "tolerance": 1.1073915816342962e-10
+        },
+        {
+          "path": "/results/S1/random_REML_modified_HK/df",
+          "frozen": 15,
+          "replayed": 15,
+          "absolute_difference": 0,
+          "tolerance": 1.5e-09
+        },
+        {
+          "path": "/results/S1/random_REML_modified_HK/diagnostic_prediction_interval/0",
+          "frozen": -4.561348436056435,
+          "replayed": -4.561348436056435,
+          "absolute_difference": 0.0,
+          "tolerance": 4.5613484360564354e-10
+        },
+        {
+          "path": "/results/S1/random_REML_modified_HK/diagnostic_prediction_interval/1",
+          "frozen": 13.522840558386424,
+          "replayed": 13.522840558386424,
+          "absolute_difference": 0.0,
+          "tolerance": 1.3522840558386424e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S2:IV_FIXED",
+      "numeric_fields_checked": 6,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S2/fixed/estimate",
+          "frozen": 4.935357160064915,
+          "replayed": 4.935357160064915,
+          "absolute_difference": 0.0,
+          "tolerance": 4.935357160064915e-10
+        },
+        {
+          "path": "/results/S2/fixed/se",
+          "frozen": 0.2327923902168439,
+          "replayed": 0.2327923902168439,
+          "absolute_difference": 0.0,
+          "tolerance": 1e-10
+        },
+        {
+          "path": "/results/S2/fixed/ci/0",
+          "frozen": 4.479092459364907,
+          "replayed": 4.479092459364907,
+          "absolute_difference": 0.0,
+          "tolerance": 4.4790924593649067e-10
+        },
+        {
+          "path": "/results/S2/fixed/ci/1",
+          "frozen": 5.391621860764923,
+          "replayed": 5.391621860764923,
+          "absolute_difference": 0.0,
+          "tolerance": 5.391621860764924e-10
+        },
+        {
+          "path": "/results/S2/fixed/Q",
+          "frozen": 259.72806750622226,
+          "replayed": 259.72806750622226,
+          "absolute_difference": 0.0,
+          "tolerance": 2.5972806750622226e-08
+        },
+        {
+          "path": "/results/S2/fixed/I2",
+          "frozen": 93.4546927626169,
+          "replayed": 93.4546927626169,
+          "absolute_difference": 0.0,
+          "tolerance": 9.345469276261691e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S2:REML_MHK",
+      "numeric_fields_checked": 10,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S2/random_REML_modified_HK/estimate",
+          "frozen": 5.657638619846364,
+          "replayed": 5.657638619846364,
+          "absolute_difference": 0.0,
+          "tolerance": 5.657638619846364e-10
+        },
+        {
+          "path": "/results/S2/random_REML_modified_HK/se",
+          "frozen": 1.468183829142384,
+          "replayed": 1.468183829142384,
+          "absolute_difference": 0.0,
+          "tolerance": 1.4681838291423843e-10
+        },
+        {
+          "path": "/results/S2/random_REML_modified_HK/ci/0",
+          "frozen": 2.560041505998795,
+          "replayed": 2.560041505998795,
+          "absolute_difference": 0.0,
+          "tolerance": 2.560041505998795e-10
+        },
+        {
+          "path": "/results/S2/random_REML_modified_HK/ci/1",
+          "frozen": 8.755235733693933,
+          "replayed": 8.755235733693933,
+          "absolute_difference": 0.0,
+          "tolerance": 8.755235733693933e-10
+        },
+        {
+          "path": "/results/S2/random_REML_modified_HK/tau2",
+          "frozen": 33.76637323366319,
+          "replayed": 33.76637323366319,
+          "absolute_difference": 0.0,
+          "tolerance": 3.376637323366319e-09
+        },
+        {
+          "path": "/results/S2/random_REML_modified_HK/I2",
+          "frozen": 96.86409509619334,
+          "replayed": 96.86409509619334,
+          "absolute_difference": 0.0,
+          "tolerance": 9.686409509619334e-09
+        },
+        {
+          "path": "/results/S2/random_REML_modified_HK/q_modified_HK",
+          "frozen": 1.018519060584922,
+          "replayed": 1.018519060584922,
+          "absolute_difference": 0.0,
+          "tolerance": 1.018519060584922e-10
+        },
+        {
+          "path": "/results/S2/random_REML_modified_HK/df",
+          "frozen": 17,
+          "replayed": 17,
+          "absolute_difference": 0,
+          "tolerance": 1.7000000000000001e-09
+        },
+        {
+          "path": "/results/S2/random_REML_modified_HK/diagnostic_prediction_interval/0",
+          "frozen": -7.047995175721275,
+          "replayed": -7.047995175721275,
+          "absolute_difference": 0.0,
+          "tolerance": 7.047995175721275e-10
+        },
+        {
+          "path": "/results/S2/random_REML_modified_HK/diagnostic_prediction_interval/1",
+          "frozen": 18.363272415414002,
+          "replayed": 18.363272415414002,
+          "absolute_difference": 0.0,
+          "tolerance": 1.8363272415414003e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S3:IV_FIXED",
+      "numeric_fields_checked": 6,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S3/fixed/estimate",
+          "frozen": 5.360493260185611,
+          "replayed": 5.360493260185611,
+          "absolute_difference": 0.0,
+          "tolerance": 5.360493260185611e-10
+        },
+        {
+          "path": "/results/S3/fixed/se",
+          "frozen": 0.2273896116775221,
+          "replayed": 0.2273896116775221,
+          "absolute_difference": 0.0,
+          "tolerance": 1e-10
+        },
+        {
+          "path": "/results/S3/fixed/ci/0",
+          "frozen": 4.914817810839119,
+          "replayed": 4.914817810839119,
+          "absolute_difference": 0.0,
+          "tolerance": 4.914817810839118e-10
+        },
+        {
+          "path": "/results/S3/fixed/ci/1",
+          "frozen": 5.806168709532103,
+          "replayed": 5.806168709532103,
+          "absolute_difference": 0.0,
+          "tolerance": 5.806168709532103e-10
+        },
+        {
+          "path": "/results/S3/fixed/Q",
+          "frozen": 294.2988616398576,
+          "replayed": 294.2988616398576,
+          "absolute_difference": 0.0,
+          "tolerance": 2.942988616398576e-08
+        },
+        {
+          "path": "/results/S3/fixed/I2",
+          "frozen": 94.22355903611907,
+          "replayed": 94.22355903611907,
+          "absolute_difference": 0.0,
+          "tolerance": 9.422355903611908e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S3:REML_MHK",
+      "numeric_fields_checked": 10,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S3/random_REML_modified_HK/estimate",
+          "frozen": 5.662792289288681,
+          "replayed": 5.662792289288681,
+          "absolute_difference": 0.0,
+          "tolerance": 5.662792289288681e-10
+        },
+        {
+          "path": "/results/S3/random_REML_modified_HK/se",
+          "frozen": 1.468455404021441,
+          "replayed": 1.468455404021441,
+          "absolute_difference": 0.0,
+          "tolerance": 1.4684554040214412e-10
+        },
+        {
+          "path": "/results/S3/random_REML_modified_HK/ci/0",
+          "frozen": 2.564622202530728,
+          "replayed": 2.564622202530728,
+          "absolute_difference": 0.0,
+          "tolerance": 2.5646222025307283e-10
+        },
+        {
+          "path": "/results/S3/random_REML_modified_HK/ci/1",
+          "frozen": 8.760962376046633,
+          "replayed": 8.760962376046633,
+          "absolute_difference": 0.0,
+          "tolerance": 8.760962376046633e-10
+        },
+        {
+          "path": "/results/S3/random_REML_modified_HK/tau2",
+          "frozen": 33.79477821114315,
+          "replayed": 33.79477821114315,
+          "absolute_difference": 0.0,
+          "tolerance": 3.3794778211143147e-09
+        },
+        {
+          "path": "/results/S3/random_REML_modified_HK/I2",
+          "frozen": 97.01389601750638,
+          "replayed": 97.01389601750638,
+          "absolute_difference": 0.0,
+          "tolerance": 9.701389601750639e-09
+        },
+        {
+          "path": "/results/S3/random_REML_modified_HK/q_modified_HK",
+          "frozen": 1.018066913171686,
+          "replayed": 1.018066913171686,
+          "absolute_difference": 0.0,
+          "tolerance": 1.018066913171686e-10
+        },
+        {
+          "path": "/results/S3/random_REML_modified_HK/df",
+          "frozen": 17,
+          "replayed": 17,
+          "absolute_difference": 0,
+          "tolerance": 1.7000000000000001e-09
+        },
+        {
+          "path": "/results/S3/random_REML_modified_HK/diagnostic_prediction_interval/0",
+          "frozen": -7.048004936487739,
+          "replayed": -7.048004936487739,
+          "absolute_difference": 0.0,
+          "tolerance": 7.048004936487739e-10
+        },
+        {
+          "path": "/results/S3/random_REML_modified_HK/diagnostic_prediction_interval/1",
+          "frozen": 18.3735895150651,
+          "replayed": 18.3735895150651,
+          "absolute_difference": 0.0,
+          "tolerance": 1.83735895150651e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S4:IV_FIXED",
+      "numeric_fields_checked": 6,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S4/fixed/estimate",
+          "frozen": 4.873370708495479,
+          "replayed": 4.873370708495479,
+          "absolute_difference": 0.0,
+          "tolerance": 4.873370708495479e-10
+        },
+        {
+          "path": "/results/S4/fixed/se",
+          "frozen": 0.2533236833311897,
+          "replayed": 0.2533236833311897,
+          "absolute_difference": 0.0,
+          "tolerance": 1e-10
+        },
+        {
+          "path": "/results/S4/fixed/ci/0",
+          "frozen": 4.376865412735317,
+          "replayed": 4.376865412735317,
+          "absolute_difference": 0.0,
+          "tolerance": 4.376865412735317e-10
+        },
+        {
+          "path": "/results/S4/fixed/ci/1",
+          "frozen": 5.36987600425564,
+          "replayed": 5.36987600425564,
+          "absolute_difference": 0.0,
+          "tolerance": 5.36987600425564e-10
+        },
+        {
+          "path": "/results/S4/fixed/Q",
+          "frozen": 282.8362682323021,
+          "replayed": 282.8362682323021,
+          "absolute_difference": 0.0,
+          "tolerance": 2.828362682323021e-08
+        },
+        {
+          "path": "/results/S4/fixed/I2",
+          "frozen": 94.34301686272472,
+          "replayed": 94.34301686272472,
+          "absolute_difference": 0.0,
+          "tolerance": 9.434301686272473e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S4:REML_MHK",
+      "numeric_fields_checked": 10,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S4/random_REML_modified_HK/estimate",
+          "frozen": 5.583288542111794,
+          "replayed": 5.583288542111794,
+          "absolute_difference": 0.0,
+          "tolerance": 5.583288542111794e-10
+        },
+        {
+          "path": "/results/S4/random_REML_modified_HK/se",
+          "frozen": 1.56235063745704,
+          "replayed": 1.56235063745704,
+          "absolute_difference": 0.0,
+          "tolerance": 1.56235063745704e-10
+        },
+        {
+          "path": "/results/S4/random_REML_modified_HK/ci/0",
+          "frozen": 2.271253146524911,
+          "replayed": 2.271253146524911,
+          "absolute_difference": 0.0,
+          "tolerance": 2.2712531465249112e-10
+        },
+        {
+          "path": "/results/S4/random_REML_modified_HK/ci/1",
+          "frozen": 8.895323937698677,
+          "replayed": 8.895323937698677,
+          "absolute_difference": 0.0,
+          "tolerance": 8.895323937698677e-10
+        },
+        {
+          "path": "/results/S4/random_REML_modified_HK/tau2",
+          "frozen": 36.388000935809096,
+          "replayed": 36.388000935809096,
+          "absolute_difference": 0.0,
+          "tolerance": 3.6388000935809096e-09
+        },
+        {
+          "path": "/results/S4/random_REML_modified_HK/I2",
+          "frozen": 96.71623020196743,
+          "replayed": 96.71623020196743,
+          "absolute_difference": 0.0,
+          "tolerance": 9.671623020196744e-09
+        },
+        {
+          "path": "/results/S4/random_REML_modified_HK/q_modified_HK",
+          "frozen": 1.011449511164198,
+          "replayed": 1.011449511164198,
+          "absolute_difference": 0.0,
+          "tolerance": 1.011449511164198e-10
+        },
+        {
+          "path": "/results/S4/random_REML_modified_HK/df",
+          "frozen": 16,
+          "replayed": 16,
+          "absolute_difference": 0,
+          "tolerance": 1.6e-09
+        },
+        {
+          "path": "/results/S4/random_REML_modified_HK/diagnostic_prediction_interval/0",
+          "frozen": -7.698385776688725,
+          "replayed": -7.698385776688725,
+          "absolute_difference": 0.0,
+          "tolerance": 7.698385776688726e-10
+        },
+        {
+          "path": "/results/S4/random_REML_modified_HK/diagnostic_prediction_interval/1",
+          "frozen": 18.864962860912314,
+          "replayed": 18.864962860912314,
+          "absolute_difference": 0.0,
+          "tolerance": 1.8864962860912315e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S5a:IV_FIXED",
+      "numeric_fields_checked": 6,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S5a/fixed/estimate",
+          "frozen": 5.495872416066827,
+          "replayed": 5.495872416066827,
+          "absolute_difference": 0.0,
+          "tolerance": 5.495872416066827e-10
+        },
+        {
+          "path": "/results/S5a/fixed/se",
+          "frozen": 0.2285821804339415,
+          "replayed": 0.2285821804339415,
+          "absolute_difference": 0.0,
+          "tolerance": 1e-10
+        },
+        {
+          "path": "/results/S5a/fixed/ci/0",
+          "frozen": 5.047859574908665,
+          "replayed": 5.047859574908665,
+          "absolute_difference": 0.0,
+          "tolerance": 5.047859574908666e-10
+        },
+        {
+          "path": "/results/S5a/fixed/ci/1",
+          "frozen": 5.943885257224988,
+          "replayed": 5.943885257224988,
+          "absolute_difference": 0.0,
+          "tolerance": 5.943885257224988e-10
+        },
+        {
+          "path": "/results/S5a/fixed/Q",
+          "frozen": 276.90641944667,
+          "replayed": 276.90641944667,
+          "absolute_difference": 0.0,
+          "tolerance": 2.7690641944666998e-08
+        },
+        {
+          "path": "/results/S5a/fixed/I2",
+          "frozen": 94.22187465643732,
+          "replayed": 94.22187465643732,
+          "absolute_difference": 0.0,
+          "tolerance": 9.422187465643733e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S5a:REML_MHK",
+      "numeric_fields_checked": 10,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S5a/random_REML_modified_HK/estimate",
+          "frozen": 6.018920663109275,
+          "replayed": 6.018920663109275,
+          "absolute_difference": 0.0,
+          "tolerance": 6.018920663109275e-10
+        },
+        {
+          "path": "/results/S5a/random_REML_modified_HK/se",
+          "frozen": 1.517617954029513,
+          "replayed": 1.517617954029513,
+          "absolute_difference": 0.0,
+          "tolerance": 1.517617954029513e-10
+        },
+        {
+          "path": "/results/S5a/random_REML_modified_HK/ci/0",
+          "frozen": 2.801714320168792,
+          "replayed": 2.801714320168792,
+          "absolute_difference": 0.0,
+          "tolerance": 2.801714320168792e-10
+        },
+        {
+          "path": "/results/S5a/random_REML_modified_HK/ci/1",
+          "frozen": 9.236127006049758,
+          "replayed": 9.236127006049758,
+          "absolute_difference": 0.0,
+          "tolerance": 9.236127006049758e-10
+        },
+        {
+          "path": "/results/S5a/random_REML_modified_HK/tau2",
+          "frozen": 33.952457902190645,
+          "replayed": 33.952457902190645,
+          "absolute_difference": 0.0,
+          "tolerance": 3.3952457902190646e-09
+        },
+        {
+          "path": "/results/S5a/random_REML_modified_HK/I2",
+          "frozen": 97.15265224173301,
+          "replayed": 97.15265224173301,
+          "absolute_difference": 0.0,
+          "tolerance": 9.715265224173301e-09
+        },
+        {
+          "path": "/results/S5a/random_REML_modified_HK/q_modified_HK",
+          "frozen": 1.018541224511249,
+          "replayed": 1.018541224511249,
+          "absolute_difference": 0.0,
+          "tolerance": 1.0185412245112491e-10
+        },
+        {
+          "path": "/results/S5a/random_REML_modified_HK/df",
+          "frozen": 16,
+          "replayed": 16,
+          "absolute_difference": 0,
+          "tolerance": 1.6e-09
+        },
+        {
+          "path": "/results/S5a/random_REML_modified_HK/diagnostic_prediction_interval/0",
+          "frozen": -6.815100107176288,
+          "replayed": -6.815100107176288,
+          "absolute_difference": 0.0,
+          "tolerance": 6.815100107176288e-10
+        },
+        {
+          "path": "/results/S5a/random_REML_modified_HK/diagnostic_prediction_interval/1",
+          "frozen": 18.852941433394836,
+          "replayed": 18.852941433394836,
+          "absolute_difference": 0.0,
+          "tolerance": 1.8852941433394837e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S5b:IV_FIXED",
+      "numeric_fields_checked": 6,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S5b/fixed/estimate",
+          "frozen": 5.496792996395429,
+          "replayed": 5.496792996395429,
+          "absolute_difference": 0.0,
+          "tolerance": 5.496792996395429e-10
+        },
+        {
+          "path": "/results/S5b/fixed/se",
+          "frozen": 0.2285865394253418,
+          "replayed": 0.2285865394253418,
+          "absolute_difference": 0.0,
+          "tolerance": 1e-10
+        },
+        {
+          "path": "/results/S5b/fixed/ci/0",
+          "frozen": 5.048771611771113,
+          "replayed": 5.048771611771113,
+          "absolute_difference": 0.0,
+          "tolerance": 5.048771611771114e-10
+        },
+        {
+          "path": "/results/S5b/fixed/ci/1",
+          "frozen": 5.944814381019744,
+          "replayed": 5.944814381019744,
+          "absolute_difference": 0.0,
+          "tolerance": 5.944814381019744e-10
+        },
+        {
+          "path": "/results/S5b/fixed/Q",
+          "frozen": 276.7361584064356,
+          "replayed": 276.7361584064356,
+          "absolute_difference": 0.0,
+          "tolerance": 2.7673615840643563e-08
+        },
+        {
+          "path": "/results/S5b/fixed/I2",
+          "frozen": 94.21831968321928,
+          "replayed": 94.21831968321928,
+          "absolute_difference": 0.0,
+          "tolerance": 9.421831968321928e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S5b:REML_MHK",
+      "numeric_fields_checked": 10,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S5b/random_REML_modified_HK/estimate",
+          "frozen": 6.020193668558042,
+          "replayed": 6.020193668558042,
+          "absolute_difference": 0.0,
+          "tolerance": 6.020193668558042e-10
+        },
+        {
+          "path": "/results/S5b/random_REML_modified_HK/se",
+          "frozen": 1.517287264637216,
+          "replayed": 1.517287264637216,
+          "absolute_difference": 0.0,
+          "tolerance": 1.517287264637216e-10
+        },
+        {
+          "path": "/results/S5b/random_REML_modified_HK/ci/0",
+          "frozen": 2.803688355812686,
+          "replayed": 2.803688355812686,
+          "absolute_difference": 0.0,
+          "tolerance": 2.803688355812686e-10
+        },
+        {
+          "path": "/results/S5b/random_REML_modified_HK/ci/1",
+          "frozen": 9.236698981303398,
+          "replayed": 9.236698981303398,
+          "absolute_difference": 0.0,
+          "tolerance": 9.236698981303398e-10
+        },
+        {
+          "path": "/results/S5b/random_REML_modified_HK/tau2",
+          "frozen": 33.934240589386505,
+          "replayed": 33.934240589386505,
+          "absolute_difference": 0.0,
+          "tolerance": 3.3934240589386507e-09
+        },
+        {
+          "path": "/results/S5b/random_REML_modified_HK/I2",
+          "frozen": 97.15103043674554,
+          "replayed": 97.15103043674554,
+          "absolute_difference": 0.0,
+          "tolerance": 9.715103043674555e-09
+        },
+        {
+          "path": "/results/S5b/random_REML_modified_HK/q_modified_HK",
+          "frozen": 1.018590191303213,
+          "replayed": 1.018590191303213,
+          "absolute_difference": 0.0,
+          "tolerance": 1.0185901913032129e-10
+        },
+        {
+          "path": "/results/S5b/random_REML_modified_HK/df",
+          "frozen": 16,
+          "replayed": 16,
+          "absolute_difference": 0,
+          "tolerance": 1.6e-09
+        },
+        {
+          "path": "/results/S5b/random_REML_modified_HK/diagnostic_prediction_interval/0",
+          "frozen": -6.810424671656973,
+          "replayed": -6.810424671656973,
+          "absolute_difference": 0.0,
+          "tolerance": 6.810424671656973e-10
+        },
+        {
+          "path": "/results/S5b/random_REML_modified_HK/diagnostic_prediction_interval/1",
+          "frozen": 18.850812008773055,
+          "replayed": 18.850812008773055,
+          "absolute_difference": 0.0,
+          "tolerance": 1.8850812008773055e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S6:IV_FIXED",
+      "numeric_fields_checked": 6,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S6/fixed/estimate",
+          "frozen": 5.306415739239571,
+          "replayed": 5.306415739239571,
+          "absolute_difference": 0.0,
+          "tolerance": 5.306415739239572e-10
+        },
+        {
+          "path": "/results/S6/fixed/se",
+          "frozen": 0.2245799016485732,
+          "replayed": 0.2245799016485732,
+          "absolute_difference": 0.0,
+          "tolerance": 1e-10
+        },
+        {
+          "path": "/results/S6/fixed/ci/0",
+          "frozen": 4.86624722035682,
+          "replayed": 4.86624722035682,
+          "absolute_difference": 0.0,
+          "tolerance": 4.86624722035682e-10
+        },
+        {
+          "path": "/results/S6/fixed/ci/1",
+          "frozen": 5.746584258122322,
+          "replayed": 5.746584258122322,
+          "absolute_difference": 0.0,
+          "tolerance": 5.746584258122322e-10
+        },
+        {
+          "path": "/results/S6/fixed/Q",
+          "frozen": 296.55294935231433,
+          "replayed": 296.55294935231433,
+          "absolute_difference": 0.0,
+          "tolerance": 2.9655294935231435e-08
+        },
+        {
+          "path": "/results/S6/fixed/I2",
+          "frozen": 94.26746554464259,
+          "replayed": 94.26746554464259,
+          "absolute_difference": 0.0,
+          "tolerance": 9.426746554464259e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S6:REML_MHK",
+      "numeric_fields_checked": 10,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S6/random_REML_modified_HK/estimate",
+          "frozen": 5.660769148112722,
+          "replayed": 5.660769148112722,
+          "absolute_difference": 0.0,
+          "tolerance": 5.660769148112722e-10
+        },
+        {
+          "path": "/results/S6/random_REML_modified_HK/se",
+          "frozen": 1.468001177928139,
+          "replayed": 1.468001177928139,
+          "absolute_difference": 0.0,
+          "tolerance": 1.468001177928139e-10
+        },
+        {
+          "path": "/results/S6/random_REML_modified_HK/ci/0",
+          "frozen": 2.563557394642276,
+          "replayed": 2.563557394642276,
+          "absolute_difference": 0.0,
+          "tolerance": 2.563557394642276e-10
+        },
+        {
+          "path": "/results/S6/random_REML_modified_HK/ci/1",
+          "frozen": 8.757980901583169,
+          "replayed": 8.757980901583169,
+          "absolute_difference": 0.0,
+          "tolerance": 8.757980901583169e-10
+        },
+        {
+          "path": "/results/S6/random_REML_modified_HK/tau2",
+          "frozen": 33.77757895450622,
+          "replayed": 33.77757895450622,
+          "absolute_difference": 0.0,
+          "tolerance": 3.377757895450622e-09
+        },
+        {
+          "path": "/results/S6/random_REML_modified_HK/I2",
+          "frozen": 97.09967107606285,
+          "replayed": 97.09967107606285,
+          "absolute_difference": 0.0,
+          "tolerance": 9.709967107606285e-09
+        },
+        {
+          "path": "/results/S6/random_REML_modified_HK/q_modified_HK",
+          "frozen": 1.018652033379803,
+          "replayed": 1.018652033379803,
+          "absolute_difference": 0.0,
+          "tolerance": 1.0186520333798031e-10
+        },
+        {
+          "path": "/results/S6/random_REML_modified_HK/df",
+          "frozen": 17,
+          "replayed": 17,
+          "absolute_difference": 0,
+          "tolerance": 1.7000000000000001e-09
+        },
+        {
+          "path": "/results/S6/random_REML_modified_HK/diagnostic_prediction_interval/0",
+          "frozen": -7.046751401474349,
+          "replayed": -7.046751401474349,
+          "absolute_difference": 0.0,
+          "tolerance": 7.04675140147435e-10
+        },
+        {
+          "path": "/results/S6/random_REML_modified_HK/diagnostic_prediction_interval/1",
+          "frozen": 18.368289697699794,
+          "replayed": 18.368289697699794,
+          "absolute_difference": 0.0,
+          "tolerance": 1.8368289697699794e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S7:IV_FIXED",
+      "numeric_fields_checked": 6,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S7/fixed/estimate",
+          "frozen": 5.272787975628067,
+          "replayed": 5.272787975628067,
+          "absolute_difference": 0.0,
+          "tolerance": 5.272787975628067e-10
+        },
+        {
+          "path": "/results/S7/fixed/se",
+          "frozen": 0.2227480598917878,
+          "replayed": 0.2227480598917878,
+          "absolute_difference": 0.0,
+          "tolerance": 1e-10
+        },
+        {
+          "path": "/results/S7/fixed/ci/0",
+          "frozen": 4.836209800613992,
+          "replayed": 4.836209800613992,
+          "absolute_difference": 0.0,
+          "tolerance": 4.836209800613992e-10
+        },
+        {
+          "path": "/results/S7/fixed/ci/1",
+          "frozen": 5.709366150642142,
+          "replayed": 5.709366150642142,
+          "absolute_difference": 0.0,
+          "tolerance": 5.709366150642141e-10
+        },
+        {
+          "path": "/results/S7/fixed/Q",
+          "frozen": 297.9805155740299,
+          "replayed": 297.9805155740299,
+          "absolute_difference": 0.0,
+          "tolerance": 2.9798051557402987e-08
+        },
+        {
+          "path": "/results/S7/fixed/I2",
+          "frozen": 94.29492899317555,
+          "replayed": 94.29492899317555,
+          "absolute_difference": 0.0,
+          "tolerance": 9.429492899317556e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S7:REML_MHK",
+      "numeric_fields_checked": 10,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S7/random_REML_modified_HK/estimate",
+          "frozen": 5.660250480581134,
+          "replayed": 5.660250480581134,
+          "absolute_difference": 0.0,
+          "tolerance": 5.660250480581134e-10
+        },
+        {
+          "path": "/results/S7/random_REML_modified_HK/se",
+          "frozen": 1.467814368908618,
+          "replayed": 1.467814368908618,
+          "absolute_difference": 0.0,
+          "tolerance": 1.4678143689086182e-10
+        },
+        {
+          "path": "/results/S7/random_REML_modified_HK/ci/0",
+          "frozen": 2.563432859690155,
+          "replayed": 2.563432859690155,
+          "absolute_difference": 0.0,
+          "tolerance": 2.5634328596901553e-10
+        },
+        {
+          "path": "/results/S7/random_REML_modified_HK/ci/1",
+          "frozen": 8.757068101472115,
+          "replayed": 8.757068101472115,
+          "absolute_difference": 0.0,
+          "tolerance": 8.757068101472115e-10
+        },
+        {
+          "path": "/results/S7/random_REML_modified_HK/tau2",
+          "frozen": 33.76978514969931,
+          "replayed": 33.76978514969931,
+          "absolute_difference": 0.0,
+          "tolerance": 3.376978514969931e-09
+        },
+        {
+          "path": "/results/S7/random_REML_modified_HK/I2",
+          "frozen": 97.15268842962698,
+          "replayed": 97.15268842962698,
+          "absolute_difference": 0.0,
+          "tolerance": 9.715268842962698e-09
+        },
+        {
+          "path": "/results/S7/random_REML_modified_HK/q_modified_HK",
+          "frozen": 1.018893902270798,
+          "replayed": 1.018893902270798,
+          "absolute_difference": 0.0,
+          "tolerance": 1.018893902270798e-10
+        },
+        {
+          "path": "/results/S7/random_REML_modified_HK/df",
+          "frozen": 17,
+          "replayed": 17,
+          "absolute_difference": 0,
+          "tolerance": 1.7000000000000001e-09
+        },
+        {
+          "path": "/results/S7/random_REML_modified_HK/diagnostic_prediction_interval/0",
+          "frozen": -7.045794871808764,
+          "replayed": -7.045794871808764,
+          "absolute_difference": 0.0,
+          "tolerance": 7.045794871808764e-10
+        },
+        {
+          "path": "/results/S7/random_REML_modified_HK/diagnostic_prediction_interval/1",
+          "frozen": 18.366295832971034,
+          "replayed": 18.366295832971034,
+          "absolute_difference": 0.0,
+          "tolerance": 1.8366295832971033e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S8:IV_FIXED",
+      "numeric_fields_checked": 6,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S8/fixed/estimate",
+          "frozen": 5.217293065839008,
+          "replayed": 5.217293065839008,
+          "absolute_difference": 0.0,
+          "tolerance": 5.217293065839008e-10
+        },
+        {
+          "path": "/results/S8/fixed/se",
+          "frozen": 0.2256286843779709,
+          "replayed": 0.2256286843779709,
+          "absolute_difference": 0.0,
+          "tolerance": 1e-10
+        },
+        {
+          "path": "/results/S8/fixed/ci/0",
+          "frozen": 4.77506897057903,
+          "replayed": 4.77506897057903,
+          "absolute_difference": 0.0,
+          "tolerance": 4.77506897057903e-10
+        },
+        {
+          "path": "/results/S8/fixed/ci/1",
+          "frozen": 5.659517161098986,
+          "replayed": 5.659517161098986,
+          "absolute_difference": 0.0,
+          "tolerance": 5.659517161098986e-10
+        },
+        {
+          "path": "/results/S8/fixed/Q",
+          "frozen": 276.7650302015668,
+          "replayed": 276.7650302015668,
+          "absolute_difference": 0.0,
+          "tolerance": 2.7676503020156678e-08
+        },
+        {
+          "path": "/results/S8/fixed/I2",
+          "frozen": 94.58024014483492,
+          "replayed": 94.58024014483492,
+          "absolute_difference": 0.0,
+          "tolerance": 9.458024014483493e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S8:REML_MHK",
+      "numeric_fields_checked": 10,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S8/random_REML_modified_HK/estimate",
+          "frozen": 4.725843185819093,
+          "replayed": 4.725843185819093,
+          "absolute_difference": 0.0,
+          "tolerance": 4.725843185819093e-10
+        },
+        {
+          "path": "/results/S8/random_REML_modified_HK/se",
+          "frozen": 1.40429268430882,
+          "replayed": 1.40429268430882,
+          "absolute_difference": 0.0,
+          "tolerance": 1.40429268430882e-10
+        },
+        {
+          "path": "/results/S8/random_REML_modified_HK/ci/0",
+          "frozen": 1.732664182016142,
+          "replayed": 1.732664182016142,
+          "absolute_difference": 0.0,
+          "tolerance": 1.732664182016142e-10
+        },
+        {
+          "path": "/results/S8/random_REML_modified_HK/ci/1",
+          "frozen": 7.719022189622043,
+          "replayed": 7.719022189622043,
+          "absolute_difference": 0.0,
+          "tolerance": 7.719022189622044e-10
+        },
+        {
+          "path": "/results/S8/random_REML_modified_HK/tau2",
+          "frozen": 28.09522973762344,
+          "replayed": 28.09522973762344,
+          "absolute_difference": 0.0,
+          "tolerance": 2.8095229737623444e-09
+        },
+        {
+          "path": "/results/S8/random_REML_modified_HK/I2",
+          "frozen": 96.89100199365025,
+          "replayed": 96.89100199365025,
+          "absolute_difference": 0.0,
+          "tolerance": 9.689100199365025e-09
+        },
+        {
+          "path": "/results/S8/random_REML_modified_HK/q_modified_HK",
+          "frozen": 1,
+          "replayed": 1,
+          "absolute_difference": 0,
+          "tolerance": 1e-10
+        },
+        {
+          "path": "/results/S8/random_REML_modified_HK/df",
+          "frozen": 15,
+          "replayed": 15,
+          "absolute_difference": 0,
+          "tolerance": 1.5e-09
+        },
+        {
+          "path": "/results/S8/random_REML_modified_HK/diagnostic_prediction_interval/0",
+          "frozen": -7.034800369151458,
+          "replayed": -7.034800369151458,
+          "absolute_difference": 0.0,
+          "tolerance": 7.034800369151458e-10
+        },
+        {
+          "path": "/results/S8/random_REML_modified_HK/diagnostic_prediction_interval/1",
+          "frozen": 16.486486740789644,
+          "replayed": 16.486486740789644,
+          "absolute_difference": 0.0,
+          "tolerance": 1.6486486740789645e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S9:IV_FIXED",
+      "numeric_fields_checked": 6,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S9/fixed/estimate",
+          "frozen": 4.916559069123435,
+          "replayed": 4.916559069123435,
+          "absolute_difference": 0.0,
+          "tolerance": 4.916559069123435e-10
+        },
+        {
+          "path": "/results/S9/fixed/se",
+          "frozen": 0.229333150936144,
+          "replayed": 0.229333150936144,
+          "absolute_difference": 0.0,
+          "tolerance": 1e-10
+        },
+        {
+          "path": "/results/S9/fixed/ci/0",
+          "frozen": 4.467074352827505,
+          "replayed": 4.467074352827505,
+          "absolute_difference": 0.0,
+          "tolerance": 4.4670743528275055e-10
+        },
+        {
+          "path": "/results/S9/fixed/ci/1",
+          "frozen": 5.366043785419365,
+          "replayed": 5.366043785419365,
+          "absolute_difference": 0.0,
+          "tolerance": 5.366043785419365e-10
+        },
+        {
+          "path": "/results/S9/fixed/Q",
+          "frozen": 183.87027820580798,
+          "replayed": 183.87027820580798,
+          "absolute_difference": 0.0,
+          "tolerance": 1.83870278205808e-08
+        },
+        {
+          "path": "/results/S9/fixed/I2",
+          "frozen": 92.92979804737722,
+          "replayed": 92.92979804737722,
+          "absolute_difference": 0.0,
+          "tolerance": 9.292979804737723e-09
+        }
+      ],
+      "pass": true
+    },
+    {
+      "fit_id": "S9:REML_MHK",
+      "numeric_fields_checked": 10,
+      "max_absolute_difference": 0.0,
+      "fields": [
+        {
+          "path": "/results/S9/random_REML_modified_HK/estimate",
+          "frozen": 3.532110741270375,
+          "replayed": 3.532110741270375,
+          "absolute_difference": 0.0,
+          "tolerance": 3.532110741270375e-10
+        },
+        {
+          "path": "/results/S9/random_REML_modified_HK/se",
+          "frozen": 0.9176977754415604,
+          "replayed": 0.9176977754415604,
+          "absolute_difference": 0.0,
+          "tolerance": 1e-10
+        },
+        {
+          "path": "/results/S9/random_REML_modified_HK/ci/0",
+          "frozen": 1.549545231100799,
+          "replayed": 1.549545231100799,
+          "absolute_difference": 0.0,
+          "tolerance": 1.549545231100799e-10
+        },
+        {
+          "path": "/results/S9/random_REML_modified_HK/ci/1",
+          "frozen": 5.514676251439951,
+          "replayed": 5.514676251439951,
+          "absolute_difference": 0.0,
+          "tolerance": 5.514676251439951e-10
+        },
+        {
+          "path": "/results/S9/random_REML_modified_HK/tau2",
+          "frozen": 9.272004508266063,
+          "replayed": 9.272004508266063,
+          "absolute_difference": 0.0,
+          "tolerance": 9.272004508266063e-10
+        },
+        {
+          "path": "/results/S9/random_REML_modified_HK/I2",
+          "frozen": 91.9060004301124,
+          "replayed": 91.9060004301124,
+          "absolute_difference": 0.0,
+          "tolerance": 9.19060004301124e-09
+        },
+        {
+          "path": "/results/S9/random_REML_modified_HK/q_modified_HK",
+          "frozen": 1,
+          "replayed": 1,
+          "absolute_difference": 0,
+          "tolerance": 1e-10
+        },
+        {
+          "path": "/results/S9/random_REML_modified_HK/df",
+          "frozen": 13,
+          "replayed": 13,
+          "absolute_difference": 0,
+          "tolerance": 1.3e-09
+        },
+        {
+          "path": "/results/S9/random_REML_modified_HK/diagnostic_prediction_interval/0",
+          "frozen": -3.397121670945634,
+          "replayed": -3.397121670945634,
+          "absolute_difference": 0.0,
+          "tolerance": 3.397121670945634e-10
+        },
+        {
+          "path": "/results/S9/random_REML_modified_HK/diagnostic_prediction_interval/1",
+          "frozen": 10.461343153486384,
+          "replayed": 10.461343153486384,
+          "absolute_difference": 0.0,
+          "tolerance": 1.0461343153486385e-09
+        }
+      ],
+      "pass": true
+    }
+  ],
+  "no_new_clinical_eligibility_or_effect_admission_or_GRADE": true
+}

@@ -1,0 +1,24 @@
+{
+  "R_estimation_loop_byte_identical": true,
+  "R_math_block_sha256": "25a37f1659bf331006a6ee464ce6384dc741cb63b88faa4c4f025db1cc836fcd",
+  "Python_independent_numeric_block_equal_after_only_executable_path_normalization": true,
+  "Python_math_block_sha256": "964aa19a8dc2c549699218447ebb6ac5c238b9b0c555c9a0e3c50052bd51668d",
+  "edits_only": [
+    "Use package CLI/relative base path instead of private absolute project root.",
+    "Write replay products to replay directory instead of frozen source artifacts.",
+    "Locate preinstalledRscript or optionalRSCRIPT environment variable.",
+    "Reduce generated source provenance file paths to package-relative or basename paths."
+  ],
+  "no_math_model_parameter_or_source_value_edits": true,
+  "original_R_source": {
+    "path": "run_impact_audit.R",
+    "sha256": "18661b6540fc5fe686873d015bcea4c36d41ed5ca31e9e2bee42da286339244d",
+    "bytes": 2951
+  },
+  "original_Python_QC_source": {
+    "path": "independent_impact_check.py",
+    "sha256": "1e7d81fcdf4dd7098a7e05959e1afb2832a2b194569d9f5e37bcee9e3683af3c",
+    "bytes": 9463
+  },
+  "current_scope": "Filesystem portability edits only; both original mathematical blocks retained. Engineering replay of frozen22 passed."
+}

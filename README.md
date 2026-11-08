@@ -22,6 +22,10 @@ python3 snapshots/r143-2026-11-08/verify_snapshot.py
 
 Earlier snapshots remain available: [R138](snapshots/r138-2026-11-08/README.md) and [R139](snapshots/r139-2026-11-08/README.md).
 
+## Separate published-input diagnostic audit
+
+The [portable diagnostic package](diagnostic-audit/published-input-2026-11-08/README.txt) preserves 11 conditional published-input scenarios and their 22 historical summaries. The 8 November engineering replay matched all 176 output fields exactly, with the independent 11-scenario numerical check also passing. This is separate from the six clinical fits: it adds no clinical trials, eligible effects, K/N or certainty ratings. Conditional source-N/dispersion alternatives remain assumptions rather than validated corrections.
+
 ## Run the historical v0.1.0 checks
 
 Use Python 3.10 or later and R with `jsonlite` and `metafor`. The verified

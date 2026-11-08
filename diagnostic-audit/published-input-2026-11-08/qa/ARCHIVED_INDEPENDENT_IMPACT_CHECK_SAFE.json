@@ -1,0 +1,475 @@
+{
+  "date_local": "2026-10-29",
+  "verifier": "evidence_audit independent AI numerical/method review, not human review",
+  "status": "pass_for_bounded_published_row_diagnostic_only",
+  "source_files": [
+    {
+      "path": "IMPACT_AUDIT_PLAN.json",
+      "sha256": "e0023531a7fdac73d111a6207e2aaed7a1c388b489c789dd8a489eae6be205f5"
+    },
+    {
+      "path": "PUBLISHED_INPUT_IMPACT_AUDIT.json",
+      "sha256": "16af4a2eb9f7fe7fadd6341590164f41161f35c30e03106be0db4a02634a1f5b"
+    },
+    {
+      "path": "PUBLISHED_FIGURE_ROWS_REUSED.json",
+      "sha256": "95d7f04dcf8c9cfdaa08dca8ffcd1f15f55b7be1ac307ca5864c90c6278d4ecf"
+    },
+    {
+      "path": "run_impact_audit.R",
+      "sha256": "18661b6540fc5fe686873d015bcea4c36d41ed5ca31e9e2bee42da286339244d"
+    }
+  ],
+  "independent_method": "Independently transcribed Figure2 rows from prior own visual check; independently apply plan changes; fixed IV arithmetic; direct scalar minimization of intercept-only REML negative restricted log likelihood =.5[Σlog(vi+tau²)+logΣw+Σw(yi−mu)²]; REweights, q, mHK and PI assembled in Python. R base only supplies Student-t quantiles, no metafor in independent estimation.",
+  "checked_scenario_count": 11,
+  "scenario_checks": [
+    {
+      "scenario_id": "S0",
+      "m_effect_rows": 18,
+      "independent_trial_k": null,
+      "canonical_independent_input_sha256": "26802b5d0d36a42252c5ffcacaaef1aeb4fe9a4c389f20044127718bc3a814e9",
+      "intended_inputs_match_saved_scenario": true,
+      "fixed_independent": {
+        "mu": 5.307187098943739,
+        "se": 0.22457996958655133,
+        "CI95": [
+          4.867018446904998,
+          5.74735575098248
+        ],
+        "Q": 296.53652427605823
+      },
+      "REML_independent_scalar_optimum": {
+        "tau2": 33.77622778878609,
+        "mu": 5.660908351939209,
+        "q_HK_raw": 1.0186804383729093,
+        "q_HK_modified": 1.0186804383729093,
+        "se_mHK": 1.4679803194595331,
+        "df": 17,
+        "CI95": [
+          2.5637406059907586,
+          8.75807609788766
+        ],
+        "diagnostic_PI95": [
+          -7.046362447436694,
+          18.36817915131511
+        ]
+      },
+      "tau2_abs_difference_from_metafor": 6.595756261162933e-07,
+      "max_mu_SE_CI_PI_abs_difference_from_metafor": 1.1799364685316505e-07,
+      "wrong_QE_based_q_counterexample": 17.44332495741519,
+      "q_is_RE_residual_based_not_QE": true,
+      "row_counts_and_null_k_labels_correct": true,
+      "pass": true
+    },
+    {
+      "scenario_id": "S1",
+      "m_effect_rows": 16,
+      "independent_trial_k": null,
+      "canonical_independent_input_sha256": "02db3f7e1c6223baf07bd739e31a37debc67245802b086b5ab655c05108a45ac",
+      "intended_inputs_match_saved_scenario": true,
+      "fixed_independent": {
+        "mu": 5.012281224030918,
+        "se": 0.22823218241514864,
+        "CI95": [
+          4.564954366384251,
+          5.459608081677585
+        ],
+        "Q": 204.71473793252937
+      },
+      "REML_independent_scalar_optimum": {
+        "tau2": 16.38194605564358,
+        "mu": 4.4807460525819724,
+        "q_HK_raw": 1.1073916370502916,
+        "q_HK_modified": 1.1073916370502916,
+        "se_mHK": 1.1795874271105482,
+        "df": 15,
+        "CI95": [
+          1.9665149671191702,
+          6.994977138044774
+        ],
+        "diagnostic_PI95": [
+          -4.561348156894667,
+          13.522840262058612
+        ]
+      },
+      "tau2_abs_difference_from_metafor": 1.1186511770233665e-06,
+      "max_mu_SE_CI_PI_abs_difference_from_metafor": 2.9632781206601067e-07,
+      "wrong_QE_based_q_counterexample": 13.647649195501959,
+      "q_is_RE_residual_based_not_QE": true,
+      "row_counts_and_null_k_labels_correct": true,
+      "pass": true
+    },
+    {
+      "scenario_id": "S2",
+      "m_effect_rows": 18,
+      "independent_trial_k": null,
+      "canonical_independent_input_sha256": "8f58754713c38253a87cffcbe7226c9e3a1a8270899cb76b93d173572d6db087",
+      "intended_inputs_match_saved_scenario": true,
+      "fixed_independent": {
+        "mu": 4.935357160064915,
+        "se": 0.23279239021684386,
+        "CI95": [
+          4.479092459364907,
+          5.391621860764923
+        ],
+        "Q": 259.7280675062223
+      },
+      "REML_independent_scalar_optimum": {
+        "tau2": 33.766373705617255,
+        "mu": 5.657638620655656,
+        "q_HK_raw": 1.0185190482145605,
+        "q_HK_modified": 1.0185190482145605,
+        "se_mHK": 1.4681838295534988,
+        "df": 17,
+        "CI95": [
+          2.5600415059407102,
+          8.755235735370603
+        ],
+        "diagnostic_PI95": [
+          -7.047995258590844,
+          18.363272499902155
+        ]
+      },
+      "tau2_abs_difference_from_metafor": 4.7195406693845143e-07,
+      "max_mu_SE_CI_PI_abs_difference_from_metafor": 8.448815336237203e-08,
+      "wrong_QE_based_q_counterexample": 15.278121618013078,
+      "q_is_RE_residual_based_not_QE": true,
+      "row_counts_and_null_k_labels_correct": true,
+      "pass": true
+    },
+    {
+      "scenario_id": "S3",
+      "m_effect_rows": 18,
+      "independent_trial_k": null,
+      "canonical_independent_input_sha256": "5f4043f96f7de200c305b59b6e8db40ecd6c02998939d08b8da5da5b0336b09a",
+      "intended_inputs_match_saved_scenario": true,
+      "fixed_independent": {
+        "mu": 5.36049326018561,
+        "se": 0.22738961167752209,
+        "CI95": [
+          4.914817810839118,
+          5.806168709532102
+        ],
+        "Q": 294.29886163985753
+      },
+      "REML_independent_scalar_optimum": {
+        "tau2": 33.794779540605845,
+        "mu": 5.662792291352349,
+        "q_HK_raw": 1.0180668783535378,
+        "q_HK_modified": 1.0180668783535378,
+        "se_mHK": 1.4684554051672798,
+        "df": 17,
+        "CI95": [
+          2.564622202176888,
+          8.76096238052781
+        ],
+        "diagnostic_PI95": [
+          -7.048005170039763,
+          18.37358975274446
+        ]
+      },
+      "tau2_abs_difference_from_metafor": 1.3294626981519286e-06,
+      "max_mu_SE_CI_PI_abs_difference_from_metafor": 2.376793624137008e-07,
+      "wrong_QE_based_q_counterexample": 17.31169774352103,
+      "q_is_RE_residual_based_not_QE": true,
+      "row_counts_and_null_k_labels_correct": true,
+      "pass": true
+    },
+    {
+      "scenario_id": "S4",
+      "m_effect_rows": 17,
+      "independent_trial_k": null,
+      "canonical_independent_input_sha256": "1607167fba5530f7cd7e9f8bc16170cf55e4d82ec22cea6310df112329fd191f",
+      "intended_inputs_match_saved_scenario": true,
+      "fixed_independent": {
+        "mu": 4.873370708495479,
+        "se": 0.2533236833311897,
+        "CI95": [
+          4.3768654127353175,
+          5.36987600425564
+        ],
+        "Q": 282.8362682323021
+      },
+      "REML_independent_scalar_optimum": {
+        "tau2": 36.38800235325395,
+        "mu": 5.583288544340486,
+        "q_HK_raw": 1.0114494766673614,
+        "q_HK_modified": 1.0114494766673614,
+        "se_mHK": 1.56235063846426,
+        "df": 16,
+        "CI95": [
+          2.2712531466183914,
+          8.89532394206258
+        ],
+        "diagnostic_PI95": [
+          -7.698386017421103,
+          18.864963106102074
+        ]
+      },
+      "tau2_abs_difference_from_metafor": 1.417444856599559e-06,
+      "max_mu_SE_CI_PI_abs_difference_from_metafor": 2.451897600508346e-07,
+      "wrong_QE_based_q_counterexample": 17.67726676451888,
+      "q_is_RE_residual_based_not_QE": true,
+      "row_counts_and_null_k_labels_correct": true,
+      "pass": true
+    },
+    {
+      "scenario_id": "S5a",
+      "m_effect_rows": 17,
+      "independent_trial_k": null,
+      "canonical_independent_input_sha256": "10a42143f50278b218a36c3c4ef93374a12cecdb9023a696f540cf910f7ea72a",
+      "intended_inputs_match_saved_scenario": true,
+      "fixed_independent": {
+        "mu": 5.495872416066831,
+        "se": 0.2285821804339416,
+        "CI95": [
+          5.04785957490867,
+          5.943885257224992
+        ],
+        "Q": 276.90641944667
+      },
+      "REML_independent_scalar_optimum": {
+        "tau2": 33.95245940291289,
+        "mu": 6.018920664820441,
+        "q_HK_raw": 1.018541185537199,
+        "q_HK_modified": 1.018541185537199,
+        "se_mHK": 1.5176179554131146,
+        "df": 16,
+        "CI95": [
+          2.8017143189468543,
+          9.236127010694027
+        ],
+        "diagnostic_PI95": [
+          -6.815100371826534,
+          18.852941701467415
+        ]
+      },
+      "tau2_abs_difference_from_metafor": 1.5007222486929095e-06,
+      "max_mu_SE_CI_PI_abs_difference_from_metafor": 2.6807257924588157e-07,
+      "wrong_QE_based_q_counterexample": 17.306651215416874,
+      "q_is_RE_residual_based_not_QE": true,
+      "row_counts_and_null_k_labels_correct": true,
+      "pass": true
+    },
+    {
+      "scenario_id": "S5b",
+      "m_effect_rows": 17,
+      "independent_trial_k": null,
+      "canonical_independent_input_sha256": "dbf9e8ca9cd4f9e4ae5629862809b2a3afa3bdb228cd79b4aa41d69eb009e171",
+      "intended_inputs_match_saved_scenario": true,
+      "fixed_independent": {
+        "mu": 5.4967929963954285,
+        "se": 0.22858653942534177,
+        "CI95": [
+          5.048771611771114,
+          5.944814381019743
+        ],
+        "Q": 276.7361584064357
+      },
+      "REML_independent_scalar_optimum": {
+        "tau2": 33.934240330579385,
+        "mu": 6.020193668263015,
+        "q_HK_raw": 1.0185901980277317,
+        "q_HK_modified": 1.0185901980277317,
+        "se_mHK": 1.5172872643982158,
+        "df": 16,
+        "CI95": [
+          2.803688356024317,
+          9.236698980501712
+        ],
+        "diagnostic_PI95": [
+          -6.810424626004267,
+          18.850811962530297
+        ]
+      },
+      "tau2_abs_difference_from_metafor": 2.5880711973513826e-07,
+      "max_mu_SE_CI_PI_abs_difference_from_metafor": 4.6242757179015825e-08,
+      "wrong_QE_based_q_counterexample": 17.296009900402233,
+      "q_is_RE_residual_based_not_QE": true,
+      "row_counts_and_null_k_labels_correct": true,
+      "pass": true
+    },
+    {
+      "scenario_id": "S6",
+      "m_effect_rows": 18,
+      "independent_trial_k": null,
+      "canonical_independent_input_sha256": "d3f8aaf43df7409215f894bd76289f686a5b4c33b1bd95a1eacb9c2740e5c898",
+      "intended_inputs_match_saved_scenario": true,
+      "fixed_independent": {
+        "mu": 5.306415739239572,
+        "se": 0.2245799016485732,
+        "CI95": [
+          4.866247220356821,
+          5.746584258122323
+        ],
+        "Q": 296.5529493523144
+      },
+      "REML_independent_scalar_optimum": {
+        "tau2": 33.77757999843247,
+        "mu": 5.660769149797857,
+        "q_HK_raw": 1.0186520060073034,
+        "q_HK_modified": 1.0186520060073034,
+        "se_mHK": 1.4680011788426055,
+        "df": 17,
+        "CI95": [
+          2.563557394398056,
+          8.757980905197659
+        ],
+        "diagnostic_PI95": [
+          -7.046751584855561,
+          18.368289884451276
+        ]
+      },
+      "tau2_abs_difference_from_metafor": 1.0439262538852745e-06,
+      "max_mu_SE_CI_PI_abs_difference_from_metafor": 1.867514818343352e-07,
+      "wrong_QE_based_q_counterexample": 17.444291138371433,
+      "q_is_RE_residual_based_not_QE": true,
+      "row_counts_and_null_k_labels_correct": true,
+      "pass": true
+    },
+    {
+      "scenario_id": "S7",
+      "m_effect_rows": 18,
+      "independent_trial_k": null,
+      "canonical_independent_input_sha256": "804ae7bee22d481378dd38344f3120c3d0b50048d865126af4ab2a3f813c91fc",
+      "intended_inputs_match_saved_scenario": true,
+      "fixed_independent": {
+        "mu": 5.2727879756280664,
+        "se": 0.2227480598917877,
+        "CI95": [
+          4.836209800613992,
+          5.709366150642141
+        ],
+        "Q": 297.9805155740299
+      },
+      "REML_independent_scalar_optimum": {
+        "tau2": 33.76978585397755,
+        "mu": 5.660250481729784,
+        "q_HK_raw": 1.0188938837950796,
+        "q_HK_modified": 1.0188938837950796,
+        "se_mHK": 1.4678143695296262,
+        "df": 17,
+        "CI95": [
+          2.5634328595285907,
+          8.757068103930976
+        ],
+        "diagnostic_PI95": [
+          -7.045794995530522,
+          18.36629595899009
+        ]
+      },
+      "tau2_abs_difference_from_metafor": 7.042782428356986e-07,
+      "max_mu_SE_CI_PI_abs_difference_from_metafor": 1.260190565233188e-07,
+      "wrong_QE_based_q_counterexample": 17.528265622001758,
+      "q_is_RE_residual_based_not_QE": true,
+      "row_counts_and_null_k_labels_correct": true,
+      "pass": true
+    },
+    {
+      "scenario_id": "S8",
+      "m_effect_rows": 16,
+      "independent_trial_k": null,
+      "canonical_independent_input_sha256": "844deb512bc87f6608737c3c04893f4dbf0749743a8400455ef9dfdce4c784bf",
+      "intended_inputs_match_saved_scenario": true,
+      "fixed_independent": {
+        "mu": 5.2172930658390095,
+        "se": 0.22562868437797096,
+        "CI95": [
+          4.7750689705790315,
+          5.659517161098988
+        ],
+        "Q": 276.7650302015669
+      },
+      "REML_independent_scalar_optimum": {
+        "tau2": 28.095230911300675,
+        "mu": 4.725843181794731,
+        "q_HK_raw": 0.9895968518165786,
+        "q_HK_modified": 1.0,
+        "se_mHK": 1.4042927112057146,
+        "df": 15,
+        "CI95": [
+          1.7326641206624056,
+          7.719022242927055
+        ],
+        "diagnostic_PI95": [
+          -7.034800617488421,
+          16.48648698107788
+        ]
+      },
+      "tau2_abs_difference_from_metafor": 1.1736772336234935e-06,
+      "max_mu_SE_CI_PI_abs_difference_from_metafor": 2.483369634376231e-07,
+      "wrong_QE_based_q_counterexample": 18.451002013437794,
+      "q_is_RE_residual_based_not_QE": true,
+      "row_counts_and_null_k_labels_correct": true,
+      "pass": true
+    },
+    {
+      "scenario_id": "S9",
+      "m_effect_rows": 14,
+      "independent_trial_k": null,
+      "canonical_independent_input_sha256": "ca89d9c3e012fb3cd6c4cbfac96f48be9b4212d8b60f751a45ca227bab5a300a",
+      "intended_inputs_match_saved_scenario": true,
+      "fixed_independent": {
+        "mu": 4.916559069123436,
+        "se": 0.22933315093614406,
+        "CI95": [
+          4.467074352827506,
+          5.366043785419366
+        ],
+        "Q": 183.87027820580798
+      },
+      "REML_independent_scalar_optimum": {
+        "tau2": 9.272005490728915,
+        "mu": 3.5321107216738827,
+        "q_HK_raw": 0.8894414197801018,
+        "q_HK_modified": 1.0,
+        "se_mHK": 0.9176978168574446,
+        "df": 13,
+        "CI95": [
+          1.5495451220307281,
+          5.5146763213170376
+        ],
+        "diagnostic_PI95": [
+          -3.397122053124172,
+          10.461343496471937
+        ]
+      },
+      "tau2_abs_difference_from_metafor": 9.824628524057744e-07,
+      "max_mu_SE_CI_PI_abs_difference_from_metafor": 3.8217853814970226e-07,
+      "wrong_QE_based_q_counterexample": 14.143867554292921,
+      "q_is_RE_residual_based_not_QE": true,
+      "row_counts_and_null_k_labels_correct": true,
+      "pass": true
+    }
+  ],
+  "errors_found": [],
+  "current_code_formula_check": {
+    "current_RE_residual_q_formula_verified": true,
+    "current_script_checks_raw_HK_SE_against_metafor_knha_SE": true,
+    "all_current_scenarios_q_greater_than_1": false,
+    "q_floor_exercised_scenario_ids": [
+      "S8",
+      "S9"
+    ],
+    "q_floor_branch_checked_numerically": true,
+    "prior_code_issue_record": "Parent reported that an initial code draft used metafor$QE for HK. This auditor verifies the corrected current code, independently reproduces current q≈1.01–1.11 and demonstrates QE/(m−1) would be materially different. The obsolete draft was not independently inspected and is not treated as a scientific scenario/result.",
+    "data_and_scenarios_redefined_due_to_code_correction": false
+  },
+  "interpretation_and_design_limits": [
+    "m denotes displayed effect rows, not independent studies. Current null independent_trial_k and false valid_clinical_pool labels are correct.",
+    "S0 restores5.31[4.87,5.75] under the displayed fixed IV convention; this does not validate source means, scales, paired-change SDs, N, comparisons or author workflow.",
+    "Correlated multiarm contrasts, overlapping Nazarpour reports and source precision/measurement issues remain unresolved in these scalar independent-row models. Hence neither HK intervals nor PI have certified clinical coverage.",
+    "N-only scenarios retain the original displayed dispersion and effect; they diagnose the isolated effect of changing denominators, not the true corrected trial effect/precision or ITT.",
+    "S5b intentionally changes both the report retained and its I N48→47. It is a documented report-selection-plus-N path, not a pure single-numeric-factor deletion contrast; do not attribute its full shift to report removal alone.",
+    "Dropping a suspicious source row from a diagnostic calculation is not formal exclusion of that trial from the systematic review.",
+    "Prediction intervals use t(m−2) and the declared plug-in tau²+mHKmeanvariance approximation, without full tau uncertainty; they are diagnostic arithmetic and not predictions for a clinical population.",
+    "No combined corrected clinical model, final independent-trial count, confirmed MID/benefit, RoB2 or GRADE follows from these checks."
+  ],
+  "N_only_variance_source_readiness": "Pourkhiz/Citak original N reviewed by another AI source route; this independent numerical audit checks plan application, not a second complete extraction of those trial Ns.",
+  "posthoc_followup": "S6 originalLopes CAT23/IAT22 mean–N binding checked against source D09; variance still displayed/assumed and sharedcontrol unresolved. S7 Citakpaired-t conditionalprecision is checked here for plan-application/numericalcalculation, with source qualification from anotherAI route, not a second complete rawPDF extraction. S6–S9 are explicitly posthoc additions after the first seven diagnostic results were visible. CurrentS8 holds outBahmani two rows andS9 holds outBahmani/Hossini four rows under the same standardFSFI19 original-unit compatibility gate; sourceauthor callsBahmani instrumentFSFI19 with0–4answers, not a verifieddifferentnonFSFIinstrument. RemainingN,variance,dependence,selectionandclinicalpooling problems persist.",
+  "project_models_modified": false,
+  "formal_human_eligibility": null,
+  "formal_GRADE": null,
+  "whole_SR_final_K": null,
+  "archive_boundary": "Original2026-10-29 independent numerical QA; paths reduced to basenames only. It is not a new current clinical fit or human eligibility review."
+}
