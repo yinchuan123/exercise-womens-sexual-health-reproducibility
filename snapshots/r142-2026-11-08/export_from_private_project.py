@@ -18,12 +18,12 @@ def export(project_dir,output):
  fields=["own_report_id","record_groups","title","own_PMIDs","own_DOIs","own_registry_primary_ids","confirmed_adopted_mother_family_ids","current_report_stage","formal_current_flow","coarse_actual_source_extent","source_report_role"]
  rows=rd(h/"report_flow/R142_REPORT_FLOW_CURRENT.json")["rows"]
  with(output/"current_report_identity_and_stage3114.tsv").open("w",newline="")as f:
-  w=csv.DictWriter(f,fields,delimiter="\t");w.writeheader()
+  w=csv.DictWriter(f,fields,delimiter="\t",lineterminator="\n");w.writeheader()
   for r in rows:w.writerow({k:json.dumps(r.get(k),ensure_ascii=False,separators=(",",":"))if isinstance(r.get(k),(dict,list))else r.get(k,"")for k in fields})
  fields=["census_report_id","source_use_id","stratum","own_title","own_report_identity_key","own_DOIs","own_PMIDs","source_family_identity_key","current_report_counting_cluster_key"]
  rows=rd(h/"census/CURRENT_ACTUALLY_ADOPTED_SELECTED_RESULT_REPORTS125.json")["rows"]
  with(output/"selected_result_to_source_cluster125.tsv").open("w",newline="")as f:
-  w=csv.DictWriter(f,fields,delimiter="\t");w.writeheader()
+  w=csv.DictWriter(f,fields,delimiter="\t",lineterminator="\n");w.writeheader()
   for r in rows:w.writerow({k:json.dumps(r.get(k),ensure_ascii=False,separators=(",",":"))if isinstance(r.get(k),(dict,list))else r.get(k,"")for k in fields})
 
 if __name__=="__main__":
