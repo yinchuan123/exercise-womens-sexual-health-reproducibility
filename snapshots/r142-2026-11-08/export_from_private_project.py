@@ -26,5 +26,8 @@ def export(project_dir,output):
   w=csv.DictWriter(f,fields,delimiter="\t",lineterminator="\n");w.writeheader()
   for r in rows:w.writerow({k:json.dumps(r.get(k),ensure_ascii=False,separators=(",",":"))if isinstance(r.get(k),(dict,list))else r.get(k,"")for k in fields})
 
+ # Canonicalize embedded record-title line endings as well as TSV separators.
+ for p in output.glob("*.tsv"):p.write_text(p.read_text())
+
 if __name__=="__main__":
  p=argparse.ArgumentParser();p.add_argument("--project",type=Path,required=True);p.add_argument("--output",type=Path,required=True);a=p.parse_args();export(a.project,a.output)
