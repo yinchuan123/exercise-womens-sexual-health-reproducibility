@@ -1,0 +1,102 @@
+{
+  "snapshot_id": "r143-2026-11-08",
+  "status": "ACTUAL_S27_APPLIED_CURRENT_AVAILABLE_EVIDENCE_CUTOFF_COUNTS_NOT_WHOLE_REVIEW_ELIGIBILITY_OR_SUBMISSION",
+  "record_framework": {
+    "records_identified": 29490,
+    "database_export_records": 17574,
+    "trial_register_export_records": 10937,
+    "other_source_records": 979,
+    "duplicates_removed": 7550,
+    "records_screened": 21940,
+    "records_excluded_at_record_phase": 18827,
+    "record_groups_advanced_to_report_or_resource_assessment": 3113
+  },
+  "report_inventory": {
+    "reports_sought": 3114,
+    "terminal_counts": {
+      "protocol_or_no_posted_result_own_carriers": 1593,
+      "not_retrieved": 732,
+      "awaiting_classification_reports": 398,
+      "included_reports": 212,
+      "reports_excluded_with_actual_source_reasons": 179
+    },
+    "available_source_assessed": 2382,
+    "record_to_report_transfer": "3113 + 2 - 1 = 3114",
+    "selected_results": 125,
+    "available_exact_parent_companions": 87,
+    "own_source_extent_counts": {
+      "AVAILABLE_PARTIAL_OWN_ARTICLE_ABSTRACT_OR_REGISTRY_MIRROR": 1209,
+      "COMPLETE_ORIGINAL_REGISTRY_ENTRY": 1057,
+      "COMPLETE_OWN_ARTICLE_THESIS_BODY_OR_DOCUMENTED_PRIOR_FULL_BODY": 377,
+      "COMPLETE_OWN_NATIVE_ABSTRACT_OR_POSTER_REPORT": 270,
+      "OWN_REPORT_TEXT_NOT_RETRIEVED_TITLE_IDENTITY_ONLY": 201
+    },
+    "report_extent_flags_restored_from_preexisting_local_sources_not_new_database_hits": true
+  },
+  "selected_source_counting_policy": {
+    "reports": 125,
+    "possible_dependency_clusters_primary": 121,
+    "separate_Yun_sensitivity": 122,
+    "Yun_proven_same_RCT": false,
+    "new_K_or_N_from_S27": 0
+  },
+  "female_source_N_layers": {
+    "female_allocation_or_prerandomization_indexwoman_subtotal": 14156,
+    "known_source_family_groups": 118,
+    "parallel_stricter_first_allocation_excluding_LookAHEAD_index375": 13781,
+    "parallel_stricter_known_family_groups": 117,
+    "initial_female_allocation_unknown_families": 3,
+    "unknown_families": [
+      "MSIR",
+      "CAT_DM",
+      "Brasil_Teles_RF"
+    ],
+    "individual_level_unique_adult_female_N": null,
+    "sexual_endpoint_N": null,
+    "not_whole_review_participant_total": true,
+    "baseline107groups_12109_inherited_not_all_reread": true
+  },
+  "actual_S27_author_intake_aggregate": {
+    "receipt_files": 3,
+    "actual_author_cells": 123,
+    "source_use_questions": 41,
+    "two_named_reviewer_agreements": 41,
+    "actual_third_author_arbitrations": 0,
+    "preserved_dissent_cases": 0,
+    "current_own_module_actions": {
+      "CLOSE_CURRENT_POSTED_MODULE_DIRECT_FEMALE_SEXUAL_EFFECT_USE_KEEP_PARENT": 38,
+      "NO_WOMEN_SEPARABLE_CURRENT_POSTED_SEXUAL_RESULT_KEEP_PARENT": 3
+    },
+    "new_parent_clinical_exclusions": 0,
+    "not_full_manuscript_or_submission_approval": true
+  },
+  "new_only_author_review": {
+    "S27_closed": true,
+    "pending_S27_cases": 0,
+    "pending_S27_role_choices": 0,
+    "older_S26_not_repeated": true
+  },
+  "analysis": {
+    "existing_restricted_comparisons": 3,
+    "existing_fits": 6,
+    "diagnostic_fits_separate": 22,
+    "new_effect_inputs": 0,
+    "new_fits": 0,
+    "new_RoB2_or_GRADE": 0,
+    "old_eight_GRADE_differences_retained": true,
+    "historical_tag": "v0.1.0",
+    "historical_commit": "1f4131d50445727c44c3e1210bf78e45ed7121fc"
+  },
+  "limits": {
+    "count_equations_locked_at_available_cutoff": true,
+    "whole_review_final_eligibility_complete": false,
+    "whole_review_final_K": null,
+    "whole_review_unique_N": null,
+    "all_current_sources_are_full_journal_papers": false,
+    "protocol_and_awaiting_carriers_not_parent_trial_exclusions": true,
+    "original_independent_dual_human_fulltext_reading_claimed": false,
+    "current_full_manuscript_author_approval_obtained": false,
+    "submission_ready": false,
+    "submitted": false
+  }
+}
