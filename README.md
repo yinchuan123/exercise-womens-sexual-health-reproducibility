@@ -10,13 +10,13 @@ limits are documented in [Scope changes](methods/scope_changes.txt).
 
 ## Latest aggregate process update
 
-The [R147 author-approved status snapshot](snapshots/r147-2026-11-08/README.md) records that three actual final-manuscript approvals have been verified. Scientific files are unchanged; only administrative delivery-status notes were refreshed. This is not complete whole-review eligibility, certified independent K/unique female N, or authorization for preprint publication or journal submission. The bounded delivery checklist is complete and all disclosed source limits remain.
+The [current author-approval declaration addendum](snapshots/r147a-2026-11-08/README.md) records a single administrative update to the Authors paragraph after the three verified S30 approvals. Scientific content and all 87 references are unchanged; Word/PDF file bytes change only because the approval-pending statement was made current and the document was rendered again. Whole-review independent K, unique female N and qualification gaps remain explicit. This is not authorization for journal submission or preprint publication.
 
 ```sh
-python3 snapshots/r147-2026-11-08/verify_snapshot.py
+python3 snapshots/r147a-2026-11-08/verify_snapshot.py
 ```
 
-The [R146 scoped certainty snapshot](snapshots/r146-2026-11-08/README.md) and its saved-decision replay remain immutable. Its then-pending full-manuscript approval status is superseded only by this new snapshot; its scientific data are unchanged.
+The [earlier R147 approval snapshot](snapshots/r147-2026-11-08/README.md) and [R146 certainty snapshot](snapshots/r146-2026-11-08/README.md) remain immutable.
 
 Earlier snapshots remain available: [R138](snapshots/r138-2026-11-08/README.md) and [R139](snapshots/r139-2026-11-08/README.md).
 
