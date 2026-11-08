@@ -10,13 +10,13 @@ limits are documented in [Scope changes](methods/scope_changes.txt).
 
 ## Latest aggregate process update
 
-The [R146 actual S29 certainty snapshot](snapshots/r146-2026-11-08/README.md) applies all four target-specific certainty cases from the three authors’ saved choices. Restricted completer contrasts and complete randomized-strategy targets are preserved separately, with dissent and original precision gates retained. No new pooled model is released; whole-review independent K and unique female N remain uncertified. Full-manuscript approval and journal release remain separate author actions.
+The [R147 author-approved status snapshot](snapshots/r147-2026-11-08/README.md) records that three actual final-manuscript approvals have been verified. Scientific files are unchanged; only administrative delivery-status notes were refreshed. This is not complete whole-review eligibility, certified independent K/unique female N, or authorization for preprint publication or journal submission. The bounded delivery checklist is complete and all disclosed source limits remain.
 
 ```sh
-python3 snapshots/r146-2026-11-08/verify_snapshot.py
+python3 snapshots/r147-2026-11-08/verify_snapshot.py
 ```
 
-The [R145 source-and-analysis snapshot](snapshots/r145-2026-11-08/README.md) remains immutable; its pending-S29 status describes that historical snapshot and is superseded only in R146.
+The [R146 scoped certainty snapshot](snapshots/r146-2026-11-08/README.md) and its saved-decision replay remain immutable. Its then-pending full-manuscript approval status is superseded only by this new snapshot; its scientific data are unchanged.
 
 Earlier snapshots remain available: [R138](snapshots/r138-2026-11-08/README.md) and [R139](snapshots/r139-2026-11-08/README.md).
 
