@@ -118,9 +118,11 @@
         {
           "domain": "D4",
           "algorithm_suggestion": "High",
-          "independent_AI_clinical_proposal": "Some concerns",
-          "reason": "独立临床建议：分组知识可能影响主观性结局，但现有来源尚未确定“很可能影响评分”的程度，且部分感受改变可能就是治疗效应。官方4.5=NI导向High的结果原样保留；Some concerns是明示的人工临床覆盖建议，绝不是算法输出或已采纳的人类覆盖。本试验两组等时长且使用可信主动注意对照、同样的问卷收集，能减轻但不能排除期望/报告偏倚。",
-          "requires_actual_author_confirmation_if_used": true
+          "adopted_clinical_override": "Some concerns",
+          "current_status": "ACTUALLY_ADOPTED_IN_S32_NO_REPEAT_CONFIRMATION_REQUIRED",
+          "historical_pre_adoption_AI_proposal_reason": "独立临床建议：分组知识可能影响主观性结局，但现有来源尚未确定“很可能影响评分”的程度，且部分感受改变可能就是治疗效应。官方4.5=NI导向High的结果原样保留；Some concerns是明示的人工临床覆盖建议，绝不是算法输出或已采纳的人类覆盖。本试验两组等时长且使用可信主动注意对照、同样的问卷收集，能减轻但不能排除期望/报告偏倚。",
+          "historical_requires_confirmation_flag_before_S32": true,
+          "original_signal_answers_and_algorithm_default_retained": true
         }
       ],
       "original_signalling_answers_not_rewritten_to_force_manual_grade": true,
