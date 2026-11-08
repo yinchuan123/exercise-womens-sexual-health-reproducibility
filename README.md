@@ -10,14 +10,10 @@ limits are documented in [Scope changes](methods/scope_changes.txt).
 
 ## Latest aggregate process update
 
-The [R144 technical process snapshot](snapshots/r144-2026-11-08/README.md) records the
-8 November 2026 source framework and actual review-adoption aggregates. It is
-separate from the historical v0.1.0 numerical dataset below. Final whole-review
-PRISMA, independent K and unique N remain unresolved; no new clinical model
-input or certainty rating is released by this update.
+The [R145 actualS28 source-and-analysis snapshot](snapshots/r145-2026-11-08/README.md) records140selected result sources and238included reports after actual source-use adoption. It preserves unresolved qualification,source-identity versus independentK,and sourceN versus unique-woman distinctions. Seven new early completer expressions concern one trial; no new compatible pooled model or whole-review certainty is released. Four exact certainty proposals await author confirmation. The historical v0.1.0 dataset below remains unchanged.
 
 ```sh
-python3 snapshots/r144-2026-11-08/verify_snapshot.py
+python3 snapshots/r145-2026-11-08/verify_snapshot.py
 ```
 
 Earlier snapshots remain available: [R138](snapshots/r138-2026-11-08/README.md) and [R139](snapshots/r139-2026-11-08/README.md).
@@ -88,3 +84,5 @@ The [R141 dated-source audit](snapshots/r141-2026-11-08/README.md) remains immut
 The [R142 S26 cutoff snapshot](snapshots/r142-2026-11-08/README.md) remains immutable.
 
 The [R143 actualS27 intake and extent snapshot](snapshots/r143-2026-11-08/README.md) is retained unchanged.
+
+The [R144 technical snapshot](snapshots/r144-2026-11-08/README.md) remains immutable.

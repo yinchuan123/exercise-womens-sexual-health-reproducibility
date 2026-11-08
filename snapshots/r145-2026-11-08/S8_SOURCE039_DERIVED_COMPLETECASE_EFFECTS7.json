@@ -1,0 +1,224 @@
+{
+  "status": "ONE_EARLY_COMPLETER_TRIAL_RELATED_RESULTS_NOT_POOLED",
+  "independent_trial_K": 1,
+  "analysis_N_per_endpoint": 14,
+  "rows": [
+    {
+      "endpoint_id": "R145-F039-039-E01",
+      "construct": "FSFI total",
+      "assigned_arm_N": [
+        12,
+        14
+      ],
+      "observed_complete_case_arm_N": [
+        7,
+        7
+      ],
+      "analysis_N": 14,
+      "source_arm_change_means": [
+        2.4,
+        2.66
+      ],
+      "source_arm_change_SDs": [
+        2.66,
+        2.49
+      ],
+      "estimate": -0.26000000000000023,
+      "sampling_variance": 1.8965285714285716,
+      "standard_error": 1.3771450800219167,
+      "Welch_df": 11.948037025773479,
+      "CI95_Welch": [
+        -3.261989328658987,
+        2.7419893286589865
+      ],
+      "status": "EXPLORATORY_SINGLE_SOURCE_EFFECT_OUTSIDE_PRIMARY_WINDOW_NOT_POOLED",
+      "not_full_randomized_population_effect": true
+    },
+    {
+      "endpoint_id": "R145-F039-039-E02",
+      "construct": "Desire",
+      "assigned_arm_N": [
+        12,
+        14
+      ],
+      "observed_complete_case_arm_N": [
+        7,
+        7
+      ],
+      "analysis_N": 14,
+      "source_arm_change_means": [
+        0.69,
+        0.6
+      ],
+      "source_arm_change_SDs": [
+        0.54,
+        0.69
+      ],
+      "estimate": 0.08999999999999997,
+      "sampling_variance": 0.10967142857142856,
+      "standard_error": 0.33116676851916854,
+      "Welch_df": 11.344753480225666,
+      "CI95_Welch": [
+        -0.6361997711108435,
+        0.8161997711108434
+      ],
+      "status": "EXPLORATORY_SINGLE_SOURCE_EFFECT_OUTSIDE_PRIMARY_WINDOW_NOT_POOLED",
+      "not_full_randomized_population_effect": true
+    },
+    {
+      "endpoint_id": "R145-F039-039-E03",
+      "construct": "Arousal",
+      "assigned_arm_N": [
+        12,
+        14
+      ],
+      "observed_complete_case_arm_N": [
+        7,
+        7
+      ],
+      "analysis_N": 14,
+      "source_arm_change_means": [
+        0.51,
+        0.77
+      ],
+      "source_arm_change_SDs": [
+        0.88,
+        0.81
+      ],
+      "estimate": -0.26,
+      "sampling_variance": 0.20435714285714288,
+      "standard_error": 0.4520587825240683,
+      "Welch_df": 11.918489234179807,
+      "CI95_Welch": [
+        -1.2456990899506462,
+        0.7256990899506461
+      ],
+      "status": "EXPLORATORY_SINGLE_SOURCE_EFFECT_OUTSIDE_PRIMARY_WINDOW_NOT_POOLED",
+      "not_full_randomized_population_effect": true
+    },
+    {
+      "endpoint_id": "R145-F039-039-E04",
+      "construct": "Lubrication",
+      "assigned_arm_N": [
+        12,
+        14
+      ],
+      "observed_complete_case_arm_N": [
+        7,
+        7
+      ],
+      "analysis_N": 14,
+      "source_arm_change_means": [
+        0.86,
+        0.26
+      ],
+      "source_arm_change_SDs": [
+        0.84,
+        0.47
+      ],
+      "estimate": 0.6,
+      "sampling_variance": 0.13235714285714284,
+      "standard_error": 0.3638092121664085,
+      "Welch_df": 9.421462200735046,
+      "CI95_Welch": [
+        -0.2174155847583774,
+        1.4174155847583774
+      ],
+      "status": "EXPLORATORY_SINGLE_SOURCE_EFFECT_OUTSIDE_PRIMARY_WINDOW_NOT_POOLED",
+      "not_full_randomized_population_effect": true
+    },
+    {
+      "endpoint_id": "R145-F039-039-E05",
+      "construct": "Orgasm",
+      "assigned_arm_N": [
+        12,
+        14
+      ],
+      "observed_complete_case_arm_N": [
+        7,
+        7
+      ],
+      "analysis_N": 14,
+      "source_arm_change_means": [
+        0.4,
+        0.23
+      ],
+      "source_arm_change_SDs": [
+        0.65,
+        0.31
+      ],
+      "estimate": 0.17,
+      "sampling_variance": 0.0740857142857143,
+      "standard_error": 0.27218691057013433,
+      "Welch_df": 8.595201933552664,
+      "CI95_Welch": [
+        -0.4501784197157026,
+        0.7901784197157027
+      ],
+      "status": "EXPLORATORY_SINGLE_SOURCE_EFFECT_OUTSIDE_PRIMARY_WINDOW_NOT_POOLED",
+      "not_full_randomized_population_effect": true
+    },
+    {
+      "endpoint_id": "R145-F039-039-E06",
+      "construct": "Satisfaction",
+      "assigned_arm_N": [
+        12,
+        14
+      ],
+      "observed_complete_case_arm_N": [
+        7,
+        7
+      ],
+      "analysis_N": 14,
+      "source_arm_change_means": [
+        0.23,
+        0.34
+      ],
+      "source_arm_change_SDs": [
+        0.69,
+        0.75
+      ],
+      "estimate": -0.11000000000000001,
+      "sampling_variance": 0.14837142857142857,
+      "standard_error": 0.38519012003350833,
+      "Welch_df": 11.917526019216485,
+      "CI95_Welch": [
+        -0.9499017880106134,
+        0.7299017880106135
+      ],
+      "status": "EXPLORATORY_SINGLE_SOURCE_EFFECT_OUTSIDE_PRIMARY_WINDOW_NOT_POOLED",
+      "not_full_randomized_population_effect": true
+    },
+    {
+      "endpoint_id": "R145-F039-039-E07",
+      "construct": "Pain",
+      "assigned_arm_N": [
+        12,
+        14
+      ],
+      "observed_complete_case_arm_N": [
+        7,
+        7
+      ],
+      "analysis_N": 14,
+      "source_arm_change_means": [
+        -0.29,
+        0.46
+      ],
+      "source_arm_change_SDs": [
+        0.5,
+        0.54
+      ],
+      "estimate": -0.75,
+      "sampling_variance": 0.07737142857142856,
+      "standard_error": 0.2781572011856399,
+      "Welch_df": 11.9296189209883,
+      "CI95_Welch": [
+        -1.3564492747686463,
+        -0.1435507252313537
+      ],
+      "status": "EXPLORATORY_SINGLE_SOURCE_EFFECT_OUTSIDE_PRIMARY_WINDOW_NOT_POOLED",
+      "not_full_randomized_population_effect": true
+    }
+  ]
+}
