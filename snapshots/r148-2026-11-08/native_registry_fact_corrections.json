@@ -1,0 +1,38 @@
+{
+  "NCT06152224": {
+    "PISQ_IR": "Explicitly NOT_POSTED; do not treat this as an unresolved adult/randomization/task fact."
+  },
+  "NCT01648751": {
+    "native_estimate_type": "MEAN",
+    "native_dispersion": "Full Range",
+    "reported_sexual_endpoint_N": [
+      7,
+      6
+    ],
+    "not_SD": true,
+    "direction_conflict_retained": true
+  },
+  "NCT03930797": {
+    "female_FSFI_change_and_FSDS_R_native_results_already_available": true,
+    "native_endpoint_N": [
+      60,
+      55
+    ],
+    "not_a_new_result_N_or_effect_adoption": true
+  },
+  "NCT03967379": {
+    "female_specific_PROMIS_native_endpoint_N": [
+      12,
+      12
+    ],
+    "male_specific_N": [
+      18,
+      18
+    ],
+    "mixed_sex_N_not_substituted_for_female": [
+      30,
+      30
+    ],
+    "new_body_task_admission": false
+  }
+}

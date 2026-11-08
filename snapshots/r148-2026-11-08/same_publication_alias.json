@@ -1,0 +1,35 @@
+{
+  "identity": "PMID32227713",
+  "canonical_own_report_id": "bibliographic:ALL5-CACE2CDD23D6A826",
+  "merged_representation": "pmid:32227713",
+  "preserved_record_groups": [
+    "ALL5-CACE2CDD23D6A826",
+    "ALL5-E59E9CEA1895B7C9"
+  ],
+  "preserved_native_members": [
+    "PubMed:32227713",
+    "CENTRAL:CN-02102683",
+    "EmbaseArticles:L631705935"
+  ],
+  "primary_native_identifier_evidence": "Embase C5 and CENTRAL C3 identify PMID32227713; own PubMed record agrees on title, six authors, journal, year and pages.",
+  "same_publication_not_same_trial_inference": true,
+  "full_journal_article_still_not_obtained": true,
+  "counts_before_after": {
+    "report_nodes": [
+      3099,
+      3098
+    ],
+    "not_retrieved": [
+      727,
+      726
+    ],
+    "selected_result_sources": [
+      140,
+      140
+    ],
+    "included_reports": [
+      238,
+      238
+    ]
+  }
+}

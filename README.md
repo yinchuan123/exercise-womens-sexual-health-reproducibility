@@ -10,15 +10,21 @@ limits are documented in [Scope changes](methods/scope_changes.txt).
 
 ## Latest aggregate process update
 
-The [current author-approval declaration addendum](snapshots/r147a-2026-11-08/README.md) records a single administrative update to the Authors paragraph after the three verified S30 approvals. Scientific content and all 87 references are unchanged; Word/PDF file bytes change only because the approval-pending statement was made current and the document was rendered again. Whole-review independent K, unique female N and qualification gaps remain explicit. This is not authorization for journal submission or preprint publication.
+The [R148 scientific-closure update](snapshots/r148-2026-11-08/README.md) applies
+one independently checked exact-publication alias and replays the complete
+reported source-denominator subtotal. **The research remains incomplete.**
+Available-source disposition closure is 2,044/2,372 (86.172%), not an overall
+article-completion percentage. 328 reports remain awaiting classification;
+final whole-review independent K and unique female N are not established.
 
 ```sh
-python3 snapshots/r147a-2026-11-08/verify_snapshot.py
+python3 snapshots/r148-2026-11-08/verify_snapshot.py
 ```
 
-The [earlier R147 approval snapshot](snapshots/r147-2026-11-08/README.md) and [R146 certainty snapshot](snapshots/r146-2026-11-08/README.md) remain immutable.
-
-Earlier snapshots remain available: [R138](snapshots/r138-2026-11-08/README.md) and [R139](snapshots/r139-2026-11-08/README.md).
+The [R147a administrative approval addendum](snapshots/r147a-2026-11-08/README.md),
+[R147 approval snapshot](snapshots/r147-2026-11-08/README.md) and
+[R146 certainty snapshot](snapshots/r146-2026-11-08/README.md) remain immutable.
+No journal submission or preprint release has been authorized or performed.
 
 ## Separate published-input diagnostic audit
 
