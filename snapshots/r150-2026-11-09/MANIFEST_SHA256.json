@@ -1,0 +1,37 @@
+{
+  "schema": "PUBLIC_SNAPSHOT_SHA256_MANIFEST_V1",
+  "snapshot": "r150-2026-11-09",
+  "files": [
+    {
+      "name": "aggregate_counts.json",
+      "sha256": "87d4e3d0a72869cb75c93cb382c5cd529764ad181bbfb00004c5a141bff596e3",
+      "bytes": 3435
+    },
+    {
+      "name": "report_dispositions3099.tsv",
+      "sha256": "080be58bc57531a1c039f341d22d05e9a7a72b68326f8ede9b0fef31713f81df",
+      "bytes": 1319716
+    },
+    {
+      "name": "source_families139.tsv",
+      "sha256": "3b75508935d68cd27d4ad3d5faab62d618f3c4d9bb9c0bcaa362eb77bd84a814",
+      "bytes": 32074
+    },
+    {
+      "name": "actual_S31_scope_actions164.tsv",
+      "sha256": "7fdf198e021a04f45d6525ab816991bee264fa7f0af8552ebafa9ae03251812f",
+      "bytes": 93468
+    },
+    {
+      "name": "README.md",
+      "sha256": "3ec92c4d008afb30120d6ce94d37ef6cb930e89375607cce41207efa4b1a54aa",
+      "bytes": 4533
+    },
+    {
+      "name": "verify_snapshot.py",
+      "sha256": "9b7d5621fd9c013c39f7fb03d64cd402eea848c36849d465da8f8d5d4fd0c6e3",
+      "bytes": 4935
+    }
+  ],
+  "manifest_itself_excluded_from_hash_list": true
+}
