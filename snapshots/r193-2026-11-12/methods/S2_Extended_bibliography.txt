@@ -1,0 +1,191 @@
+Supplement S2 | Extended source bibliography
+
+S1. Ruiz-Pérez I, Ruiz-Rios M, Cuesta-Ibáñez S, Maldonado-Martín S. Systematic review and meta-analysis on the beneficial effect of exercise on sexual dysfunction in women. J Sex Med 2026;23:qdag128. doi:10.1093/jsxmed/qdag128. https://doi.org/10.1093/jsxmed/qdag128
+
+S2. Yin C, Qiu L, Wen K. Comparative effects of interventions on female sexual function and sexual distress: a systematic review with clinically stratified Bayesian network and dose-response meta-analyses. PROSPERO 2026;CRD420261549870. Version 1.0, 24 October 2026. https://www.crd.york.ac.uk/PROSPERO/view/CRD420261549870
+
+S3. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ 2021;372:n71. doi:10.1136/bmj.n71. https://www.bmj.com/content/372/bmj.n71
+
+S4. Campbell M, McKenzie JE, Sowden A, et al. Synthesis without meta-analysis (SWiM) in systematic reviews: reporting guideline. BMJ 2020;368:l6890. doi:10.1136/bmj.l6890. https://www.bmj.com/content/368/bmj.l6890
+
+S5. Röver C, Knapp G, Friede T. Hartung-Knapp-Sidik-Jonkman approach and its modification for random-effects meta-analysis with few studies. BMC Med Res Methodol 2015;15:99. doi:10.1186/s12874-015-0091-1. https://link.springer.com/article/10.1186/s12874-015-0091-1
+
+S6. Virtanen P, Gommers R, Oliphant TE, et al. SciPy 1.0: fundamental algorithms for scientific computing in Python. Nat Methods. 2020;17:261–272. doi:10.1038/s41592-019-0686-2. https://doi.org/10.1038/s41592-019-0686-2
+
+S7. RoB 2 Development Group. Revised Cochrane risk-of-bias tool for randomized trials: parallel-group guidance. Version 22 August 2019. https://www.riskofbias.info/welcome/rob-2-0-tool/current-version-of-rob-2
+
+S8. Schünemann H, Brożek J, Guyatt G, Oxman A, eds. GRADE handbook for grading quality of evidence and strength of recommendations. Updated October 2013. https://gdt.gradepro.org/app/handbook/handbook.html
+
+S9. Franco MM, Pena CC, de Freitas LM, Antônio FI, Lara LAS, Ferreira CHJ. Pelvic Floor Muscle Training Effect in Sexual Function in Postmenopausal Women: A Randomized Controlled Trial. J Sex Med 2021;18:1236. doi:10.1016/j.jsxm.2021.05.005. https://doi.org/10.1016/j.jsxm.2021.05.005
+
+S10. Khosravi A, Riazi H, Simbar M, Montazeri A. Effectiveness of Kegel exercise and lubricant gel for improving sexual function in menopausal women: A randomized trial. Eur J Obstet Gynecol Reprod Biol 2022;274:106. doi:10.1016/j.ejogrb.2022.05.022. https://doi.org/10.1016/j.ejogrb.2022.05.022
+
+S11. Celenay ST, Karaaslan Y, Ozdemir E. Effects of Pelvic Floor Muscle Training on Sexual Dysfunction, Sexual Satisfaction of Partners, Urinary Symptoms, and Pelvic Floor Muscle Strength in Women With Overactive Bladder: A Randomized Controlled Study. J Sex Med 2022;19:1421. doi:10.1016/j.jsxm.2022.07.003. https://doi.org/10.1016/j.jsxm.2022.07.003
+
+S12. Yılmaz Aladağ F, Kızılkaya Beji N. The effect of pelvic floor muscle training on sexual function, depressive symptoms, and pelvic floor muscle performance in women with overactive bladder: a randomized controlled. BMC Womens Health 2026;26:565. doi:10.1186/s12905-026-04723-5. https://doi.org/10.1186/s12905-026-04723-5
+
+S13. Abril-Coello R, Jiménez-Del-Barrio S, Marcos AD, Pardos-Aguilella P, Correyero-León M, Ceballos-Laita L. Therapeutic exercise and pain neurophysiology education in quality of life and abdominal wall muscle thickness of women with endometriosis: A randomized controlled trial. Eur J Obstet Gynecol Reprod Biol 2026;325:115275. doi:10.1016/j.ejogrb.2026.115275. https://doi.org/10.1016/j.ejogrb.2026.115275
+
+S14. Gabrielsen R, Tellum T, Bø K, Engh ME, Tennfjord MK. Effect of pain management, supervised exercise, and pelvic floor muscle training on sexual function in women with endometriosis: A randomized controlled trial. Acta Obstet Gynecol Scand 2026. doi:10.1111/aogs.70318. https://doi.org/10.1111/aogs.70318
+
+S15. Morin M, Dumoulin C, Bergeron S, Mayrand MH, Khalifé S, Waddell G, et al. Multimodal physical therapy versus topical lidocaine for provoked vestibulodynia: a multicenter, randomized trial. Am J Obstet Gynecol 2021;224:189.e1. doi:10.1016/j.ajog.2020.08.038. https://doi.org/10.1016/j.ajog.2020.08.038
+
+S16. Ghaderi F, Bastani P, Hajebrahimi S, Jafarabadi MA, Berghmans B. Pelvic floor rehabilitation in the treatment of women with dyspareunia: a randomized controlled clinical trial. Int Urogynecol J 2019;30:1849. doi:10.1007/s00192-019-04019-3. https://doi.org/10.1007/s00192-019-04019-3
+
+S17. Bergeron S, Vaillancourt-Morel MP, Corsini-Munt S, Steben M, Delisle I, Mayrand MH, et al. Cognitive-behavioral couple therapy versus lidocaine for provoked vestibulodynia: A randomized clinical trial. J Consult Clin Psychol 2021;89:316. doi:10.1037/ccp0000631. https://doi.org/10.1037/ccp0000631
+
+S18. Zarski AC, Berking M, Ebert DD. Efficacy of internet-based treatment for genito-pelvic pain/penetration disorder: Results of a randomized controlled trial. J Consult Clin Psychol 2021;89:909. doi:10.1037/ccp0000665. https://doi.org/10.1037/ccp0000665
+
+S19. Velten J, Hirschfeld G, Meyers M, Margraf J. Results of a randomized waitlist-controlled trial of online cognitive behavioral sex therapy and online mindfulness-based sex therapy for hypoactive sexual desire dysfunction in women. J Consult Clin Psychol 2024;92:742. doi:10.1037/ccp0000922. https://doi.org/10.1037/ccp0000922
+
+S20. Blaszcyk W, Büttner M, Betz LT, Riepenhausen A, Jacob GA, Klein JP, et al. Digital intervention mylovia improves sexual functioning in women with sexual dysfunction in randomized controlled trial. NPJ Digit Med 2026;9:115. doi:10.1038/s41746-026-02385-z. https://doi.org/10.1038/s41746-026-02385-z
+
+S21. van Driel CMG, de Bock GH, Schroevers MJ, Mourits MJ. Mindfulness-based stress reduction for menopausal symptoms after risk-reducing salpingo-oophorectomy (PURSUE study): a randomised controlled trial. BJOG. 2019;126:402–411. doi:10.1111/1471-0528.15471. https://doi.org/10.1111/1471-0528.15471
+
+S22. Krieger JF, Kristensen E, Marquardsen M, Ofer S, Mortensen EL, Giraldi A. Mindfulness in sex therapy and intimate relationships: a feasibility and randomized controlled pilot study in a cross-diagnostic group. Sex Med 2023;11:qfad033. doi:10.1093/sexmed/qfad033. https://doi.org/10.1093/sexmed/qfad033
+
+S23. Kronthaler SM, Kosman E, Tissen-Diabaté T, Mühle E, Weber-Schallauer L, Pross T, et al. Adherence, Acceptability, and Sexual Health Outcomes of the Odeya App-Based Intervention for Sexual Distress in Women With Endometriosis: Randomized Controlled Mixed Methods Trial. J Med Internet Res 2026;28:e86042. doi:10.2196/86042. https://doi.org/10.2196/86042
+
+S24. Yang N, Subak LL, Shatkin-Margolis A, Schembri M, Raghunathan H, Chesney MA, et al. Sexual Function in a Randomized Trial of Pelvic Yoga for Urinary Incontinence. Urogynecology (Phila) 2026;32:635. doi:10.1097/spv.0000000000001705. https://doi.org/10.1097/spv.0000000000001705
+
+S25. Suvaal I, Hummel SB, Mens JM, Tuijnman-Raasveld CC, Tsonaka R, Velema LA, et al. Efficacy of a nurse-led sexual rehabilitation intervention for women with gynaecological cancers receiving radiotherapy: results of a randomised trial. Br J Cancer 2024;131:808. doi:10.1038/s41416-024-02775-8. https://doi.org/10.1038/s41416-024-02775-8
+
+S26. Duijts SF, van Beurden M, Oldenburg HS, Hunter MS, Kieffer JM, Stuiver MM, et al. Efficacy of cognitive behavioral therapy and physical exercise in alleviating treatment-induced menopausal symptoms in patients with breast cancer: results of a randomized, controlled, multicenter trial. J Clin Oncol 2012;30:4124. doi:10.1200/jco.2012.41.8525. https://doi.org/10.1200/jco.2012.41.8525
+
+S27. Wekker V, Karsten MDA, Painter RC, van de Beek C, Groen H, Mol BWJ, et al. A lifestyle intervention improves sexual function of women with obesity and infertility: A 5 year follow-up of a RCT. PLoS One 2018;13:e0205934. doi:10.1371/journal.pone.0205934. https://doi.org/10.1371/journal.pone.0205934
+
+S28. Saruhan Ç, Özkan M. The effect of psychoeducation on body image and sexual quality of life in patients undergoing mastectomy: a randomized controlled trial. Eur J Oncol Nurs 2025;79:103001. doi:10.1016/j.ejon.2025.103001. https://doi.org/10.1016/j.ejon.2025.103001
+
+S29. Koçak V, Koçak AT, Arslan S, Uca AU. Enhancing Sexual Health in Multiple Sclerosis: A Randomized Controlled Trial of EX-PLISSIT Counseling. Sex Disabil 2026;44:4. doi:10.1007/s11195-025-09915-9. https://doi.org/10.1007/s11195-025-09915-9
+
+S30. Salinas-Asensio MDM, Álvarez-Salvago F, Mundo-López A, Ocón-Hernández O, Lozano-Lozano M, López-Garzón M, et al. Changes in fatigue, health-related fitness, sleep quality, mental health, gastrointestinal complaints and sexual function after a multimodal supervised therapeutic exercise program in women with endometriosis unresponsive to conventional therapy: a secondary analysis of a randomized controlled trial. Eur J Obstet Gynecol Reprod Biol. 2025;312:114083. doi:10.1016/j.ejogrb.2025.114083. https://doi.org/10.1016/j.ejogrb.2025.114083
+
+S31. Kadah S, Soh SE, Morin M, Colombage UN, Tsaltas J, Gwata N, et al. Pelvic floor muscle contraction-plus-relaxation versus relaxation-only with mindfulness for women with endometriosis-associated pelvic pain: A randomised controlled feasibility study. Journal of Endometriosis and Pelvic Pain Disorders. 2026;18(3):146–157. doi:10.1177/22840265251406141. https://doi.org/10.1177/22840265251406141
+
+S32. Tabatabaie NS, Rasti Borujeni F, Tavakol Z, Raeisi Shahraki H. The Effect of Yoga and Pelvic Floor Muscle Exercise on Sexual Function and Sexual Self-esteem of Reproductive-age Women: A Randomized Clinical Trial. Int J Community Based Nurs Midwifery. 2024;12(3):188–198. doi:10.30476/ijcbnm.2024.101743.2441. https://doi.org/10.30476/ijcbnm.2024.101743.2441
+
+S33. Rocha-Rangel SC, Varella Pereira GM, Teatin Juliato CR, Oliveira Brito LG. Carbon-dioxide laser versus pelvic floor muscle training for women with stress urinary incontinence: One-year follow-up of a randomized clinical trial. Eur J Obstet Gynecol Reprod Biol. 2026;316:114821. doi:10.1016/j.ejogrb.2025.114821. https://doi.org/10.1016/j.ejogrb.2025.114821
+
+S34. Jokar F, Fani M, Isfahani NT, Sabahi R. Effectiveness of Biofeedback with Dilator Therapy for Sexual Function in Women with Primary Vaginismus: Randomized Controlled Trial Study. Int Urogynecol J. 2025;36(3):557–565. doi:10.1007/s00192-024-06011-y. https://doi.org/10.1007/s00192-024-06011-y
+
+S35. Bergeron S, Khalifé S, Dupuis MJ, McDuff P. A randomized clinical trial comparing group cognitive-behavioral therapy and a topical steroid for women with dyspareunia. J Consult Clin Psychol. 2016;84(3):259–268. doi:10.1037/ccp0000072. https://doi.org/10.1037/ccp0000072
+
+S36. Yildiz Karaahmet A, Sule Bilgic F, Yilmaz T, Dinc Kaya H. The effect of yoga on sexual function and body image in primiparous pregnant Women: A randomized controlled single-blind study. Eur J Obstet Gynecol Reprod Biol. 2022;278:100–106. doi:10.1016/j.ejogrb.2022.09.014. https://doi.org/10.1016/j.ejogrb.2022.09.014
+
+S37. Wing RR, Bond DS, Gendrano IN 3rd, Wadden T, Bahnson J, Lewis CE, et al. Effect of intensive lifestyle intervention on sexual dysfunction in women with type 2 diabetes: results from an ancillary Look AHEAD study. Diabetes Care. 2013;36(10):2937–2944. doi:10.2337/dc13-0315. https://doi.org/10.2337/dc13-0315
+
+S38. Yilmaz Babacan G, Cekic SG, Algun ZC, Durmusoglu AF. Effects of exercise training on vasomotor symptoms and quality of life in postmenopausal women: a randomized controlled trial. BMC Womens Health. 2025;25:612. doi:10.1186/s12905-025-04231-y. https://doi.org/10.1186/s12905-025-04231-y
+
+S39. Shahla E, Fatemeh M, Mahmonir H, Rasool GA. “Silent Suffering”: Affirming Iranian Women’s Right to Sexual Health Through a Whatsapp-Based “Good Enough Sex” Counseling Program: A Parallel-Group Randomized Controlled Trial. Health Sci Rep. 2026;9:e73340. doi:10.1002/hsr2.73340. https://doi.org/10.1002/hsr2.73340
+
+S40. Jha S, Walters SJ, Bortolami O, Dixon S, Alshreef A. Impact of pelvic floor muscle training on sexual function of women with urinary incontinence and a comparison of electrical stimulation versus standard treatment (IPSU trial): a randomised controlled trial. Physiotherapy 2018;104:91. doi:10.1016/j.physio.2017.06.003. https://doi.org/10.1016/j.physio.2017.06.003
+
+S41. Sacomori C, Cardoso FL. Predictors of improvement in sexual function of women with urinary incontinence after treatment with pelvic floor exercises: a secondary analysis. J Sex Med 2015;12:746. doi:10.1111/jsm.12814. https://doi.org/10.1111/jsm.12814
+
+S42. Limbutara W, Bunyavejchevin S, Ruanphoo P, Chiengthong K. Patient-reported goal achievements after pelvic floor muscle training versus pessary in women with pelvic organ prolapse. A randomised controlled trial. J Obstet Gynaecol 2023;43:2181061. doi:10.1080/01443615.2023.2181061. https://doi.org/10.1080/01443615.2023.2181061
+
+S43. Bottini DAMC, da Silva DV, da Silva Filho RM, Lúcio A, Saiki F, Pegorare ABGS. Efeitos do treinamento muscular do assoalho pélvico versus Ginástica Abdominal Hipopressiva (GAH) na incontinência urinária de esforço de mulheres climatéricas: ensaio clínico randomizado. Fisioter Pesqui 2024;31:e23000824pt. doi:10.1590/1809-2950/e23000824pt. https://doi.org/10.1590/1809-2950/e23000824pt
+
+S44. Deliktas Demirci A, Buyuk A, Kabukcuoglu K. Effects of positive sex education and pelvic floor strengthening program on sexual and pelvic health among youngest old: a randomized controlled trial. BMC Geriatr 2025;25:488. doi:10.1186/s12877-025-06152-9. https://doi.org/10.1186/s12877-025-06152-9
+
+S45. Bolsoy N, Sen S, Sezer G, Cakıl M. The effect of training on women with postpartum sexual dysfunction: a randomized controlled trial. Niger J Clin Pract 2023;26(7):949–956. doi:10.4103/njcp.njcp_656_22. https://doi.org/10.4103/njcp.njcp_656_22
+
+S46. Hummel SB, van Lankveld JJDM, Oldenburg HSA, et al. Efficacy of Internet-Based Cognitive Behavioral Therapy in Improving Sexual Functioning of Breast Cancer Survivors: Results of a Randomized Controlled Trial. J Clin Oncol 2017;35:1328–1340. doi:10.1200/JCO.2016.69.6021. https://doi.org/10.1200/JCO.2016.69.6021
+
+S47. Mahar EA, Stephenson KR, Brotto LA. A randomized controlled trial of online mindfulness and cognitive-behavioral interventions for sexual interest/arousal disorder in women: eSense. Behav Res Ther 2025;188:104732. doi:10.1016/j.brat.2025.104732. https://doi.org/10.1016/j.brat.2025.104732
+
+S48. ClinicalTrials.gov. Systematized Quality Exercise Alternatives for Stress Incontinence (SQEASI), NCT03443687. Posted results; first posted 21 December 2023. Existing local registry API snapshot. https://clinicaltrials.gov/study/NCT03443687?tab=results
+
+S49. Cengizhan SÖ, Uçar T. The effect of mindfulness-based sexual counseling on sexual distress, attitude toward sexuality, and body image concerns in pregnant women: a randomized controlled trial. J Midwifery Womens Health 2023;68:611–618. doi:10.1111/jmwh.13518.
+
+S50. Eftekhar T, Sohrabi M, Haghollahi F, Shariat M, Miri E. Comparison effect of physiotherapy with surgery on sexual function in patients with pelvic floor disorder: a randomized clinical trial. Iran J Reprod Med 2014;12(1):7. PMID:24799856. https://pmc.ncbi.nlm.nih.gov/articles/PMC4009589/
+
+S51. Kanter G, Komesu YM, Qaedan F, Jeppson PC, Dunivan GC, Cichowski SB, Rogers RG. Mindfulness-based stress reduction as a novel treatment for interstitial cystitis/bladder pain syndrome: a randomized controlled trial. Int Urogynecol J 2016;27(11):1705. doi:10.1007/s00192-016-3022-8. https://doi.org/10.1007/s00192-016-3022-8
+
+S52. ClinicalTrials.gov registration NCT02549729. Effect of the Pelvic Floor Training in Postmenopausal Women With or Without Hormonal Therapy. Archived CENTRAL registration transcription CN-02035414; source record retained October 2026. https://clinicaltrials.gov/study/NCT02549729
+
+S53. Vargas TM, Vargas LM, Antunes EL, Sochodolak RC, de Oliveira JV, de Goveia JC, Pedroso B. Effects of physical exercise on postpartum pelvic floor dysfunctions: a randomized placebo-controlled trial. Fisioter Mov 2024;37:e37137. doi:10.1590/fm.2024.37137.
+
+S54. Jones LM, McCabe MP. The effectiveness of an internet-based psychological treatment program for female sexual dysfunction. J Sex Med 2011;8:2781–2792. doi:10.1111/j.1743-6109.2011.02381.x.
+
+S55. Atema V, van Leeuwen M, Kieffer JM, et al. Efficacy of internet-based cognitive behavioral therapy for treatment-induced menopausal symptoms in breast cancer survivors: results of a randomized controlled trial. J Clin Oncol 2019;37:809–822. doi:10.1200/JCO.18.00655.
+
+S56. Yang EJ, Lim JY, Rah UW, Kim YB. Effect of a pelvic floor muscle training program on gynecologic cancer survivors with pelvic floor dysfunction: a randomized controlled trial. Gynecol Oncol 2012;125:705–711. doi:10.1016/j.ygyno.2012.03.045.
+
+S57. Aalaie B, Tavana B, Rezasoltani Z, Aalaei S, Ghaderi J, Dadarkhah A. Biofeedback versus electrical stimulation for sexual dysfunction: a randomized clinical trial. Int Urogynecol J 2021;32:1195–1203. doi:10.1007/s00192-020-04373-7.
+
+S58. Bardin MG, Giraldo PC, Lenzi J, Witkin SS, De Mira TAA, Morin M. Does the addition of electrical stimulation or kinesiotherapy improve outcomes of amitriptyline treatment for women with vulvodynia? A randomized clinical trial. Int Urogynecol J 2023;34:1293–1304. doi:10.1007/s00192-023-05454-z.
+
+S59. Maleki M, Bahadoran P, Shekarchizadeh P. Effect of core stability training on postpartum mother's sexual desire. Iran J Nurs Midwifery Res 2023;28:105–109. doi:10.4103/1735-9066.368498.
+
+S60. Sobhgol SS, Smith CA, Thomson R, Dahlen HG. The effect of antenatal pelvic floor muscle exercise on sexual function and labour and birth outcomes: A randomised controlled trial. Women Birth 2022;35:e607–e614. doi:10.1016/j.wombi.2022.02.009.
+
+S61. Denstel KD, Mire EF, Martin CK, et al. Effects of a 2-Year Primary Care Weight Loss Intervention on Quality of Life in Patients With Obesity. Obesity (Silver Spring) 2026;34:1032–1044. doi:10.1002/oby.70189.
+
+S62. Reese JB, Zimmaro LA, Sorice KA, Zhang L, Gorman JR, Daly MB, Zaleta AK, Porter LS. Efficacy of a sexual quality of life intervention for couples facing metastatic breast cancer: results of a randomized controlled trial. Cancer. 2026;132(5):e70334. doi:10.1002/cncr.70334.
+
+S63. Goldfinger C, Pukall CF, Thibault-Gagnon S, McLean L, Chamberlain S. Effectiveness of cognitive-behavioral therapy and physical therapy for provoked vestibulodynia: a randomized pilot study. J Sex Med. 2016;13:88–94. doi:10.1016/j.jsxm.2015.12.003.
+
+S64. Goldfinger CA. A randomized comparison of individual cognitive-behavioural therapy and pelvic floor rehabilitation in the treatment of provoked vestibulodynia [doctoral thesis]. Kingston, Ontario: Queen’s University; 2013.
+
+S65. Mojtehedi M, Salehi-Pourmehr H, Ostadrahimi A, Asnaashari S, Esmaeilpour K, Farshbaf-Khalili A. Effect of aromatherapy with essential oil of Lavandula angustifolia Mill-Citrus bergamia and mindfulness-based intervention on sexual function, anxiety, and depression in postmenopausal women: a randomized controlled trial with factorial design. Iran J Nurs Midwifery Res. 2022;27:392–405. doi:10.4103/ijnmr.ijnmr_129_21.
+
+S66. Handa VL, Whitcomb E, Weidner AC, et al. Sexual function before and after non-surgical treatment for stress urinary incontinence. Female Pelvic Med Reconstr Surg 2011;17(1):30–35. doi:10.1097/SPV.0b013e318205e263.
+
+S67. Weiss MS, Roe AH, Allison KC, et al. Lifestyle modifications alone or combined with hormonal contraceptives improve sexual dysfunction in women with polycystic ovary syndrome. Fertil Steril 2021;115(2):474–482. Published online 12 October 2020. doi:10.1016/j.fertnstert.2020.08.1396.
+
+S68. Castillo P, Smith D, Sherburn M. A prospective multicentre randomised controlled trial of quality of life and sexual satisfaction comparing clinician assisted pelvic floor exercises with PeriCoach assisted pelvic floor exercises in the management of female stress urinary incontinence [conference poster; associated abstract]. J Sex Med 2017;14(6):e357. doi:10.1016/j.jsxm.2017.04.024.
+
+S69. Weidner AC, Barber MD, Markland AD, et al. Perioperative behavioral therapy & pelvic muscle strengthening does not improve quality of life after apical prolapse surgery: a randomized controlled trial [conference abstract]. Int Urogynecol J 2015;26:S59–S60. Meeting collection doi:10.1007/s00192-015-2713-x.
+
+S70. Leibaschoff G, De La Torre S. Histological outcomes in the treatment of vulvovaginal atrophy using photobiomodulation technology [conference abstract]. Lasers Surg Med 2019;51(Suppl 30):38. ASLMS 2019; CENTRAL CN-01912738.
+
+S71. Yang N, Subak L, Shatkin-Margolis A, et al. Sexual function among women with urinary incontinence in a multicenter randomized trial of pelvic floor yoga [conference abstract]. J Gen Intern Med 2025;40:S874–S875.
+
+S72. Due U, Brostrøm S, Lose G. Lifestyle advices with or without pelvic floor muscle training for women with symptomatic stage II-III pelvic organ prolapse, a singleblinded randomized controlled trial [conference abstract]. Neurourol Urodyn 2015;34:S445–S446.
+
+S73. Elfeqi R. Dance movement therapy for patients suffering from breast cancer: how does it impact their sexuality and sense of intimacy? [conference abstract]. J Sex Med 2023;20:i9. doi:10.1093/jsxmed/qdad060.013.
+
+S74. Oliveira Brito, LG; Pereira, GM; Almeida, CM; Martinho, N; Andrade, KC; Juliato, CR. Pelvic floor muscle training versus radiofrequency for women with vaginal laxity: randomized clinical trial [conference abstract/poster]. American journal of obstetrics and gynecology 2023;228(3):S806. Conference DOI (level unresolved): 10.1016/j.ajog.2022.12.033.
+
+S75. Blanco-Ratto Laia; Ramirez-Garcia Inés; Kauffmann Stephanie; Ortiz Cristina Naranjo; Farrés Montserrat Girabent. Effect of Vaginal Spheres and Pelvic Floor Exercises on Female Sexual Function in Women with Urinary Incontinence: A Randomized Controlled Trial (Secondary Analysis). International urogynecology journal 2026;37(4):945-955. DOI: 10.1007/s00192-025-06404-7. PMID: 41186701.
+
+S76. Hess Engström Andrea; Bohm-Starke Nina; Kullinger Merit; Hesselman Susanne; Högberg Ulf; Buhrman Monica; Skalkidou Alkistis. Internet-based Treatment for Vulvodynia (EMBLA) - A Randomized Controlled Study. The journal of sexual medicine 2022;19(2):319-330. DOI: 10.1016/j.jsxm.2021.11.019. PMID: 34972640.
+
+S77. Halbedl Heidi; Pfabigan Daniela Melitta; Ebhardt Irene; Trutnovsky Gerda. Mindfulness-based body scan training in multimodal physiotherapy for vulvodynia - a randomized controlled feasibility study. Journal of psychosomatic obstetrics and gynaecology 2025;46(1):2531057. DOI: 10.1080/0167482x.2025.2531057. PMID: 40653877.
+
+S78. Oliveira Bezerra Lívia; Silva-Filho Edson; Leticia Araújo Silva de Carvalho Maria; Froes Meyer Patrícia; Rodrigues de Andrade Palloma; Micussi Maria Thereza Albuquerque Barbosa Cabral. Photobiomodulation and pelvic floor training for genitourinary syndrome: RCT results. Climacteric : the journal of the International Menopause Society 2026;29(5):786-794. DOI: 10.1080/13697137.2026.2702818. PMID: 42566226.
+
+S79. Gouveia, PF; Ambrogini, CC; Silva, I; Haidar, MA; Lordello, MC; Alcides, MA. Comparison between perineal exercises and sexual exercises as physiotherapeutic treatment method in female orgasmic dysfunction [conference abstract/poster]. Journal of sexual medicine 2012;9:189. Conference collection DOI: 10.1111/j.1743-6109.2012.02863.x(not a report-specific article DOI).
+
+S80. Meng Qunli; Cui Haifeng. Enhanced Postpartum Pelvic Floor Rehabilitation with Triple Therapy: Effects of Acupuncture, Biofeedback Electrical Stimulation, and Pelvic Floor Muscle Training on Urinary Incontinence and Sexual Function. Urologia internationalis 2026;[volume not reported]:1. DOI: 10.1159/uin/aewag001. PMID: 42545945.
+
+S81. Naghavi Seyedeh Fatemeh; Shahali Shadab. Combined Sensate Focus and Pelvic Floor Muscle Training versus Pelvic Floor Muscle Training Alone for Sexual Function in Women with Stress Urinary Incontinence: A Randomized Controlled Trial. International journal of women's health 2026;18:633408. DOI: 10.2147/ijwh.s633408. PMID: 42866095.
+
+S82. Piao JunJie; Shin Dongho; Moon MyeongKeon; Kim SaeWoong; Bae WoongJin. Effectiveness of Electrical Stimulation Combined with Pelvic Floor Muscle Training on Female Sexual Dysfunction with Overactive Bladder: A Randomized Controlled Clinical Trial. Journal of personalized medicine 2024;14(9):938. DOI: 10.3390/jpm14090938. PMID: 39338192.
+
+S83. Sahra Sultan Kara; Esra Keleş; İsmail Bağlar; Yeliz Çeçen Dönmez; Fatih Şanlıkan; Beyzanur Kahyaoğlu. Effects of vaginal spheres combined with pelvic floor muscle training on sexual function, urinary incontinence, and quality of life: A pilot randomized controlled trial. Pelviperineology 2025;44(3):116–125. DOI: 10.34057/ppj.2025.44.03.28291.
+
+S84. Elgayar Saher Lotfy. Combined effects of high-intensity focused electromagnetic therapy and pelvic floor exercises on pelvic floor muscles and sexual function in postmenopausal women. Obstetrics & gynecology science 2024;67(6):574-585. DOI: 10.5468/ogs.24103. PMID: 39500313.
+
+S85. Mao Ye-Ran; Fan Wenjun; Zhu Yinjie; Gu Qing; Jin Quanfang; Liu Zhidan. Effectiveness of pelvic myofascial trigger point release for the therapy of sexual dysfunction in women after vaginal delivery: A prospective pilot study. Turkish journal of physical medicine and rehabilitation 2025;71(3):304-315. DOI: 10.5606/tftrd.2025.15136. PMID: 41256784.
+
+S86. ReBEC. To verify the influence of moderate or strenuous Physical Activity and Sedentary lifestyle on the rate of Urinary Incontinence in young women who had never had children. RBR-27FVRY. Registry entry.
+
+S87. ClinicalTrials.gov. Effects of Surgical Treatment Enhanced With Exercise for Mixed Urinary Incontinence (ESTEEM). NCT01959347. Registry record and posted results.
+
+S88. Bergman I, Westergren Söderberg M, Ek M. Colpoperineorrhaphy versus pelvic floor muscle therapy in women with improperly healed perineal tears—a randomized controlled trial. International Continence Society 2019; abstract 16. https://www.ics.org/2019/abstract/16.
+
+S89. ClinicalTrials.gov. Perineorraphy Versus Pelvic Floor Exercise - a Randomized Trial. NCT02545218. Original trial registry record. https://clinicaltrials.gov/study/NCT02545218.
+
+S90. Reese JB, Lepore SJ, Sorice KA, et al. Efficacy of a couple-based intervention addressing sexual concerns for breast cancer survivors: results of a randomized controlled trial. Cancer 2025;131:e35685. doi:10.1002/cncr.35685.
+
+S91. Reese JB, Zimmaro LA, Lepore SJ, et al. Evaluating a couple-based intervention addressing sexual concerns for breast cancer survivors: study protocol for a randomized controlled trial. Trials 2020;21:173. doi:10.1186/s13063-019-3975-2.
+
+S92. ClinicalTrials.gov. Multimodal Mobile Intervention Application (App) to Address Sexual Dysfunction in Hematopoietic Stem Cell Transplant Survivors. NCT03967379. Original registry entry and posted results. https://clinicaltrials.gov/study/NCT03967379.
+
+S93. NCT03967379. Protocol and statistical analysis plan. Version 08, 3 February 2022. Official 62-page document. https://cdn.clinicaltrials.gov/large-docs/79/NCT03967379/Prot_SAP_000.pdf.
+
+S94. Brækken IH, Majida M, Ellström Engh M, Bø K. Can pelvic floor muscle training improve sexual function in women with pelvic organ prolapse? A randomized controlled trial. J Sex Med 2015;12:470–80. doi:10.1111/jsm.12746.
+
+S95. RoB 2 Development Group. RoB 2 for cluster-randomized parallel-group trials, effect of assignment. Version 18 March 2021. https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials.

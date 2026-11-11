@@ -1,0 +1,150 @@
+{
+  "snapshot": "snapshots/r193-2026-11-12",
+  "files": [
+    {
+      "name": "README.md",
+      "bytes": 3488,
+      "sha256": "8572eb0a7267a701d820becef7e786e342a2f317f8cdbba533aff03d3674c82e"
+    },
+    {
+      "name": "additional47_descriptive_sources.tsv",
+      "bytes": 30851,
+      "sha256": "13adbe2d5ac21abaf6722cb88addea81852b0504745c5a44c2c9c6b666360f1e"
+    },
+    {
+      "name": "aggregate_counts.json",
+      "bytes": 2128,
+      "sha256": "b01c9a8dbec71f2297739aea95c8b28ba82c3a9a288215bc3680994bd7deacbc"
+    },
+    {
+      "name": "aliases_or_containers11.tsv",
+      "bytes": 3776,
+      "sha256": "6500acd70d3ad092ba2d213418c523fc1a14201fa19028cd5c495d8c9aae78c1"
+    },
+    {
+      "name": "analysis/AGGREGATE_INPUTS_THREE_RESTRICTED_COMPARISONS.json",
+      "bytes": 6460,
+      "sha256": "c04c8494996c078fcd560f40e227c63acbcb9e1d079b5abd783a6ee088e2c5cd"
+    },
+    {
+      "name": "analysis/EXPECTED_SIX_EXISTING_CLINICAL_FITS.json",
+      "bytes": 2358,
+      "sha256": "00f028d794b643113ae914ac121a032c39a87b2682a76b596dd38c8a448d44f4"
+    },
+    {
+      "name": "analysis/LOCKED_COMPARISON_K_AND_N_LAYERS.json",
+      "bytes": 4124,
+      "sha256": "8e6cc613b9aee39e2cbeffaf9b5a6b5e7fb4fabfaaaf399dddc3c362ded3a667"
+    },
+    {
+      "name": "analysis/VERIFICATION_SESSION_INFO.txt",
+      "bytes": 786,
+      "sha256": "51e780d241ff9a38e6fc6e68cf8a33eb57e94cb418b959a94b1a440ba89a815b"
+    },
+    {
+      "name": "analysis/VERIFICATION_SIX_EXISTING_CLINICAL_FITS.json",
+      "bytes": 21521,
+      "sha256": "73b82093249ce05996d7d46d2a89cc84d46a88c005f4292f4850b361cee580d7"
+    },
+    {
+      "name": "analysis/verify_existing_six_clinical_fits.R",
+      "bytes": 5106,
+      "sha256": "e454c206622f2adbfd0fa092f103211b8c4b7d405027733b4774f751bb3dad2f"
+    },
+    {
+      "name": "awaiting_classification48.tsv",
+      "bytes": 19418,
+      "sha256": "e441b0e8b60c9f7f2286a3c8b66efdc71c30e19a7d604bccbc3c1e5295fbedea"
+    },
+    {
+      "name": "figures/Figure_1_PRISMA.pdf",
+      "bytes": 4210,
+      "sha256": "81417ce5da340dc5c64515f53fe8b38b54be121af8f50440bee8fc40893f10e0"
+    },
+    {
+      "name": "figures/Figure_2.pdf",
+      "bytes": 24837,
+      "sha256": "5566f7edccb6e4ac1f961c16a8c6274992626c5b115c5a8b5de8e1201d270f5a"
+    },
+    {
+      "name": "figures/Figure_3.pdf",
+      "bytes": 31980,
+      "sha256": "e65a57a2572d49c785c81b9258b250dcedb1b39c44df6506e1b432c09ce5e6d0"
+    },
+    {
+      "name": "figures/Figure_4.pdf",
+      "bytes": 25652,
+      "sha256": "be807178146035ac8223c5bf9ae9d985d77c39382918c2c99d3ea5540edfbeb4"
+    },
+    {
+      "name": "methods/S1_AS_RUN_SEARCH_STRATEGIES.txt",
+      "bytes": 15403,
+      "sha256": "c43cbfd38a376b313beae328ef77aebe817ea24bc7dae9dcd0b70dedca08a448"
+    },
+    {
+      "name": "methods/S1_dated_scope_changes.txt",
+      "bytes": 2627,
+      "sha256": "55a4ac474238d98ef3dface96ad3148b80154205398dddf514b21eb57f8d0966"
+    },
+    {
+      "name": "methods/S2_Extended_bibliography.txt",
+      "bytes": 28002,
+      "sha256": "8f0c5732c874b07ee50937871e110612b6d75e7b0206781a090f5a6b481e77c8"
+    },
+    {
+      "name": "new_final_source_uses.json",
+      "bytes": 784,
+      "sha256": "111b753db3460940a018693be40553e367a0c901ac84930aaea47d9cdbc90288"
+    },
+    {
+      "name": "patient_outcome_aggregates.tsv",
+      "bytes": 31485,
+      "sha256": "cc6871d2264f5d953d4eb64acd61e4840ab716cb912fc2003659f002fbf7256d"
+    },
+    {
+      "name": "principal_report_groups191.tsv",
+      "bytes": 54962,
+      "sha256": "0730574e33fa6b20840367dbd5ec7e256666e712e6594287977a2d5880d134dd"
+    },
+    {
+      "name": "rebuild_prisma.py",
+      "bytes": 6808,
+      "sha256": "1de8587fac511b8145b5517a414b51154de390e86a90201d1ec7d679d2b4adc6"
+    },
+    {
+      "name": "record_report_identity_bridge.json",
+      "bytes": 2633,
+      "sha256": "245500cb185311560913fc6985a2b8459f4363e6b979a9a2ea5b00d5a284cc66"
+    },
+    {
+      "name": "record_report_links.tsv",
+      "bytes": 185778,
+      "sha256": "b19116610db52e448df42cb2c566347337451642da2cb93c2e468304ed0caf63"
+    },
+    {
+      "name": "report_dispositions3087.tsv",
+      "bytes": 1044578,
+      "sha256": "a0250c1ba39a917beebb6cf24e0df7fdedbff782ce10e653e8ece04dc72d02e5"
+    },
+    {
+      "name": "result_risk_and_certainty.json",
+      "bytes": 568427,
+      "sha256": "c4a8d2fa5edccb34f6078a630342b3e340d7416feecb428b1e56259f58b31755"
+    },
+    {
+      "name": "result_risk_signals166.json",
+      "bytes": 570928,
+      "sha256": "27a02bce912fe7e7102a11e1c57f0b20a7563b25df10081734dd417793644932"
+    },
+    {
+      "name": "source_asset_fingerprints.tsv",
+      "bytes": 129879,
+      "sha256": "0432c10098ee46706ef6bc07cdf3ea5ebd4f248e3ea85ced9c10478123651e02"
+    },
+    {
+      "name": "verify_snapshot.py",
+      "bytes": 2764,
+      "sha256": "5f1e0fe7c7eeca533f1c4c75d8feb7ee1c6c3e1c67ead22d88172d3130db608e"
+    }
+  ]
+}

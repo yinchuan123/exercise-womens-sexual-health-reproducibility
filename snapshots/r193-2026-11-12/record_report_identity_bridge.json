@@ -1,0 +1,83 @@
+{
+  "advanced_record_groups": 3097,
+  "bibliographic_container_without_distinct_sought_report": 1,
+  "additional_reports_explicitly_represented_in_same_record_group": 4,
+  "excess_record_group_links_to_already_identified_reports": 13,
+  "distinct_sought_or_assessed_reports": 3087,
+  "identity_conversion_equation": "3097 - 1 + 4 - 13 = 3087",
+  "one_record_multiple_report_links": {
+    "ALL5-89C72F36AF34A054": [
+      "doi:10.1111/j.1743-6109.2012.02863.x",
+      "thesis:50b2466b71faf9e8b4709961e451d3eeea1d42af210f0aaa6fb6cdc7bedf90d4"
+    ],
+    "ALL5-6AA8F607024E76D8": [
+      "conference-bibliographic:ALL5-6AA8F607024E76D8",
+      "poster:c5a4e6e0d920318aa459a5f9956af2468e92b90b779d2bbe1736e224950454d6"
+    ],
+    "ALL5-C871AC9C300A2107": [
+      "pmid:39645589",
+      "registry:NCT03930797"
+    ],
+    "ALL5-133DCE82BA76B460": [
+      "doi:10.1080/13697137.2024.2435879",
+      "thesis:3099fb3027fee1cb3ea34dc34d713a439aef35d8bfc7e3d2db5e29b2cf0b905c"
+    ]
+  },
+  "one_report_multiple_record_links": {
+    "bibliographic:ALL5-00CCBC5BE00EAC43": [
+      "ALL5-00CCBC5BE00EAC43",
+      "ALL5-A8577269373CE9A2"
+    ],
+    "conference-bibliographic:ALL5-E3998029C9660AC8": [
+      "ALL5-02E6027E27F4412C",
+      "ALL5-E3998029C9660AC8"
+    ],
+    "pmid:27840340": [
+      "ALL5-28F6D389015192D7",
+      "ALL5-7B15FF011C1D3183",
+      "ALL5-BA05D72FDDE3E6EF"
+    ],
+    "doi:10.4314/ajtcam.v10i1.8": [
+      "ALL5-2A52FE7C55B179FE",
+      "ALL5-80E691076023EB03",
+      "ALL5-E08193E481082C5E"
+    ],
+    "doi:10.1590/fm.2022.35602": [
+      "ALL5-305F4EBD581FB077",
+      "ALL5-7339868AEA487FC9"
+    ],
+    "doi:10.12659/msm.889628": [
+      "ALL5-630BC3215CB37204",
+      "ALL5-753218E1E3005243"
+    ],
+    "doi:10.1007/s00192-016-3022-8": [
+      "ALL5-656EA3D4DC9147FC",
+      "R137-OTHER-2394B04533E9"
+    ],
+    "bibliographic:ALL5-6AC7F87EE405C3A5": [
+      "ALL5-6AC7F87EE405C3A5",
+      "ALL5-F23AD1F4E0480235"
+    ],
+    "doi:10.1093/jsxmed/qdad062.040": [
+      "ALL5-6B81F8A60A873078",
+      "ALL5-B7486FAB9D88560F"
+    ],
+    "doi:10.1590/1809-2950/e23006224pt": [
+      "ALL5-A57EE87D3D16D2C9",
+      "ALL5-D76C3C1338FEC9C1"
+    ],
+    "bibliographic:ALL5-CACE2CDD23D6A826": [
+      "ALL5-CACE2CDD23D6A826",
+      "ALL5-E59E9CEA1895B7C9"
+    ]
+  },
+  "container": [
+    {
+      "report_id": "doi:10.1186/s12913-016-1423-5",
+      "record_groups": [
+        "ALL5-11EDFD386285C265"
+      ]
+    }
+  ],
+  "formal_PRISMA_legend_note": "3,097 candidate record groups represented 3,087 distinct reports after resolving explicit multiple-report links, convergent report identities, and one proceedings container."
+}

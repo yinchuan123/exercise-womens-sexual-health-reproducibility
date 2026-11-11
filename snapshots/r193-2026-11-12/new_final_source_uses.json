@@ -1,0 +1,28 @@
+{
+  "status": "ACTUALLY_ADOPTED_R193_A_FOR_THREE_SOURCES",
+  "cases": [
+    {
+      "id": "R193-ALHARBI",
+      "choice": "A",
+      "use": "SOURCE_REPORTED_RANDOMIZED_WHOLE_STRATEGY_LIMITED_NARRATIVE_ONLY",
+      "new_effect_input": false,
+      "new_RoB2_or_GRADE": false
+    },
+    {
+      "id": "R193-LEE",
+      "choice": "A",
+      "use": "SOURCE_REPORTED_RANDOMIZED_WHOLE_STRATEGY_LIMITED_NARRATIVE_ONLY",
+      "new_effect_input": false,
+      "new_RoB2_or_GRADE": false
+    },
+    {
+      "id": "R193-KHOSHNAB",
+      "choice": "A",
+      "use": "SOURCE_REPORTED_RANDOMIZED_WHOLE_STRATEGY_LIMITED_NARRATIVE_ONLY",
+      "new_effect_input": false,
+      "new_RoB2_or_GRADE": false
+    }
+  ],
+  "old_judgments_not_repeated": true,
+  "no_unknown_fact_certified_by_vote": true
+}

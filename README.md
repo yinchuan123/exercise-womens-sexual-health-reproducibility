@@ -10,26 +10,33 @@ limits are documented in [Scope changes](methods/scope_changes.txt).
 
 ## Latest aggregate process update
 
-The [R151 actual S32 adoption](snapshots/r151-2026-11-09/README.md) applies20
-new cases after60 actual author-choice cells were checked, plus five narrow
-existing-source identity links. Current accounting:3,098 report nodes;263
-included reports(143 principal sources/120 companions);139 conservative linked
-families;104 awaiting classification(103 reviewed information-limited reports
-and one new limited-narrative candidate). Pending S33 actions are not applied.
+The [R193 author-approved cutoff snapshot](snapshots/r193-2026-11-12/README.md) is the current
+process release after all three actual author receipts for five final items
+were verified. Current exact accounting is 3,087 distinct sought reports,
+499 not retrieved and 2,588 assessed. The assessed reports partition into
+330 included (191 principal plus139 companions),48 awaiting classification,
+509 own-reason exclusions and1,701 noncontributing report contexts.
 
-Available-source disposition closure is2,269/2,373(95.6174%), not whole-study
-completion. Reported source N15,833 is not unique women or effective outcome N.
-Six existing clinical fits across three K=2 comparisons are unchanged; early
-OAB remains ungraded exploratory;22 diagnostic fits stay separate. No new
-GRADE/model, journal submission or preprint publication is asserted.
+There are187 conservative reported-randomized strategy groups,188 under the
+separate-Yun sensitivity policy. These are not187 pure exercise effects or a
+certified whole-review independent K. Unique female N is not asserted.
+Three restricted comparisons retain K=2 each and six existing fits;74 replay
+checks pass. Existing result-specific risk/GRADE and eight differences remain;
+there is no blanket rating of every outcome in187 groups. Missing source facts
+and the48 eligibility gaps have not been made known by vote.
 
 ```sh
-python3 snapshots/r151-2026-11-09/verify_snapshot.py
+python3 snapshots/r193-2026-11-12/verify_snapshot.py
+Rscript snapshots/r193-2026-11-12/analysis/verify_existing_six_clinical_fits.R
 ```
 
-The [R150 snapshot](snapshots/r150-2026-11-09/README.md) and all earlier releases
-remain immutable. Licensed sources, private disclosures/receipts and the
-unpublished manuscript are excluded from this public process repository.
+[Current metadata](CURRENT_SNAPSHOT.json), [all current report dispositions](snapshots/r193-2026-11-12/report_dispositions3087.tsv),
+[principal report groups](snapshots/r193-2026-11-12/principal_report_groups191.tsv),
+[merged PRISMA figure](snapshots/r193-2026-11-12/figures/Figure_1_PRISMA.pdf) and
+[scoped risk/certainty records](snapshots/r193-2026-11-12/result_risk_and_certainty.json) are public.
+Earlier snapshots and historical scripts below remain unchanged. Licensed
+source files, private receipts/disclosures and the unpublished manuscript are
+excluded. This is a process release; no journal submission or preprint is made.
 
 ## Separate published-input diagnostic audit
 
@@ -54,7 +61,7 @@ rebuild the [PRISMA 2020 diagram](figures/Figure_1_PRISMA_2020.pdf) from the
 same shared counts. The figure build was verified with Matplotlib 3.9.4 and
 DejaVu Sans.
 
-## Follow the process
+## Inspect the historical v0.1.0 process
 
 1. Read the [registered scope](methods/registration.json) and
    [as-run database strategies](methods/as_run_search_strategies.txt).
