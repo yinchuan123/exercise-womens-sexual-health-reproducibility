@@ -19,6 +19,13 @@ assert 29491==17574+10937+980 and 29491-7566==21925 and 21925-18827==3098
 assert 3098-1+4-13==3088 and 3088==499+2589 and 2589==2209+40+340 and 340==199+141
 groups={x['conservative_reported_event_group'] for x in rows if x['disposition']=='INCLUDED_PRINCIPAL_RESULT_REPORT'}
 assert len(groups)==194
+with (R/'reported_event_groups194.tsv').open(newline='') as h:group_rows=list(csv.DictReader(h,delimiter='\t'))
+principal_ids=[p for x in group_rows for p in json.loads(x['principal_report_ids'])]
+companion_ids=[p for x in group_rows for p in json.loads(x['companion_report_ids'])]
+assert len(group_rows)==194 and len(principal_ids)==len(set(principal_ids))==199
+assert len(companion_ids)==len(set(companion_ids))==141
+assert set(companion_ids)=={x['report_id'] for x in rows if x['disposition']=='INCLUDED_COMPANION_REPORT_NO_ADDITIONAL_TRIAL'}
+assert set(principal_ids)=={x['report_id'] for x in rows if x['disposition']=='INCLUDED_PRINCIPAL_RESULT_REPORT'}
 with (R/'source_result_routes126.tsv').open(newline='') as h:routes=list(csv.DictReader(h,delimiter='\t'))
 assert len(routes)==len({x['group'] for x in routes})==126
 assert Counter(x['route'] for x in routes)=={'EXACT_RESULT_TARGET_READY':93,'RESULT_PRESENT_TARGET_UNRESOLVED':27,'SOURCE_DESCRIPTION_ONLY_OR_PRIOR_FACT_ONLY':6}
