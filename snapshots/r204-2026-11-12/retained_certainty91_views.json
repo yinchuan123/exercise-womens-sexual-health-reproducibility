@@ -1,0 +1,3845 @@
+{
+  "status": "EXISTING_AUTHOR_POSITIONS_UNCHANGED_NO_NEW_GRADE",
+  "record_views_are_not_independent_evidence_bodies": true,
+  "certainty_record_views": [
+    {
+      "grade_target_id": "R56:G01",
+      "layer": "RETAINED_61",
+      "title": "绝经后PFMT／FSFI末端方法敏感性",
+      "census_report_ids": [
+        "REP-9c2665ef8fe53462",
+        "REP-e898d0258cc1f9fa"
+      ],
+      "source_identity_set_as_saved": [
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-RBR-3S3FF7"
+      ],
+      "explicit_input_ids": [
+        "R29-Franco2021",
+        "R29-Khosravi2022"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Very low",
+      "PI_scope": "仅该未调整敏感性证据，不是最终随机分配效应。",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": "Very low",
+          "target_scope": "仅该未调整敏感性证据，不是最终随机分配效应。"
+        },
+        "assessor_2": {
+          "certainty": "Very low",
+          "target_scope": "仅该未调整敏感性证据，不是最终随机分配效应。"
+        },
+        "assessor_3": {
+          "certainty": "Very low",
+          "target_scope": "仅该未调整敏感性证据，不是最终随机分配效应。"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R56:G02",
+      "layer": "RETAINED_61",
+      "title": "低欲望整套正念/性治疗／FSDS-R困扰",
+      "census_report_ids": [
+        "REP-9cbdbe8139580cc4"
+      ],
+      "source_identity_set_as_saved": [
+        "NCT03780751"
+      ],
+      "explicit_input_ids": [
+        "R28_VELTEN2024_FSDS-R13_T2_iMBST_vs_WL"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Low",
+      "PI_scope": "该整套在线正念/性治疗相对等待、源计划三日历月时点的FSDS-R13均分下降方向；不评价临床重要幅度、个体恢复、孤立运动或长期效果。",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": "UNRATED",
+          "target_scope": "目标是该整套策略、该源时点的困扰均分方向，不是孤立运动或患者恢复。 正式GRADE须先明确源分值差与临床重要获益的决策问题；本项不精确性保留待定。"
+        },
+        "assessor_2": {
+          "certainty": "UNRATED",
+          "target_scope": "目标是该整套策略、该源时点的困扰均分方向，不是孤立运动或患者恢复。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "目标是该整套策略、该源时点的困扰均分方向，不是孤立运动或患者恢复。"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R56:G03",
+      "layer": "RETAINED_61",
+      "title": "前庭痛多模式理疗对利多卡因／性交痛NRS",
+      "census_report_ids": [
+        "REP-dee2e82d70adf53d"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-NCT01455350"
+      ],
+      "explicit_input_ids": [
+        "R30-MORIN-PAIN_NRS"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Moderate",
+      "PI_scope": "成人前庭痛女性，多模式理疗整套策略相对夜间5%利多卡因，在10周疗程末报告的性交痛NRS平均差及下降方向；不评级个体达到MID或FSD恢复。",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": "Moderate",
+          "target_scope": "成人前庭痛女性，多模式理疗整套策略相对夜间5%利多卡因，在10周疗程末报告的性交痛NRS平均差及下降方向；不评级个体达到MID或FSD恢复。"
+        },
+        "assessor_2": {
+          "certainty": "Moderate",
+          "target_scope": "成年诱发性前庭痛女性接受10周多模式理疗整套策略，相比每夜5%利多卡因后的平均性交痛降低方向；本等级不保证达到至少1.5分的组间差，不外推孤立运动或个体恢复。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "Credibility that mean between-strategy pain reduction reaches the original trial design anchor of1.5points, not merely any decrease; this is not a universally validated patient-anchored MID."
+        }
+      }
+    },
+    {
+      "grade_target_id": "R56:G04",
+      "layer": "RETAINED_61",
+      "title": "同一前庭痛试验／患者报告明显改善",
+      "census_report_ids": [
+        "REP-dee2e82d70adf53d"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-NCT01455350"
+      ],
+      "explicit_input_ids": [
+        "R30-MORIN-PGIC"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Moderate",
+      "PI_scope": "这是pain-focused PGIC反应，不是FSD恢复；与G03来自同一试验，不能加K。",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": "Moderate",
+          "target_scope": "这是pain-focused PGIC反应，不是FSD恢复；与G03来自同一试验，不能加K。"
+        },
+        "assessor_2": {
+          "certainty": "Moderate",
+          "target_scope": "这是pain-focused PGIC反应，不是FSD恢复；与G03来自同一试验，不能加K。"
+        },
+        "assessor_3": {
+          "certainty": "Moderate",
+          "target_scope": "这是pain-focused PGIC反应，不是FSD恢复；与G03来自同一试验，不能加K。"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R56:G06",
+      "layer": "RETAINED_61",
+      "title": "OAB六周PFMT／两条不同估计量分别呈现",
+      "census_report_ids": [
+        "REP-ac94aff36b24e9fb",
+        "REP-cfcc333387c0c543"
+      ],
+      "source_identity_set_as_saved": [
+        "NCT04950556",
+        "NCT07030608"
+      ],
+      "explicit_input_ids": [
+        "R31-Q28-FSFI_ADJ",
+        "R31-ALADAG-FSFI_RAW6WK"
+      ],
+      "publication_use": "NOT_RATEABLE_AS_ONE_MIXED_ESTIMAND_BODY",
+      "PI_label": null,
+      "PI_scope": "OAB六周PFMT两个来源分别呈现：Celenay调整模型对比与Aladag原始末端差，不为混合来源集合赋一个确定性标签。",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": "NOT_RATEABLE_AS_ONE_BODY",
+          "target_scope": "OAB六周PFMT两个来源分别呈现：Celenay调整模型对比与Aladag原始末端差，不为混合来源集合赋一个确定性标签。"
+        },
+        "assessor_2": {
+          "certainty": "NOT_RATEABLE_AS_ONE_BODY",
+          "target_scope": "六周OAB女性PFMT的两条来源：Celenay调整ANCOVA对比与Aladag未调整源原始末端差，分别展示。"
+        },
+        "assessor_3": {
+          "certainty": "NOT_RATEABLE_AS_ONE_BODY",
+          "target_scope": "No single common causal/estimator body currently established; grade source-specific bodies separately rather than rate the two-source collection."
+        }
+      }
+    },
+    {
+      "grade_target_id": "R56:G07",
+      "layer": "RETAINED_61",
+      "title": "GPPPD整套网络干预／FSFI疼痛域",
+      "census_report_ids": [
+        "REP-23c145d83d41b75c"
+      ],
+      "source_identity_set_as_saved": [
+        "DRKS00010228"
+      ],
+      "explicit_input_ids": [
+        "R34-S1-FSFI_pain-T2"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Moderate",
+      "PI_scope": "有GPPPD且至少六个月不能完成阴道性交的成人女性，整套指导网络干预对等待，作者混合时钟T2的FSFI疼痛域变化方向与作者标准化来源效应。",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": "Moderate",
+          "target_scope": "有GPPPD且至少六个月不能完成阴道性交的成人女性，整套指导网络干预对等待，作者混合时钟T2的FSFI疼痛域变化方向与作者标准化来源效应。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "既往至少6个月不能完成阴道性交的GPPPD女性，整套有指导网络干预相比等待对照在T2的FSFI痛域标准化平均变化差；限该源报告策略和评估规则。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "Credibility of reported mean pain-domain improvement direction only; no certainty label for patient-important magnitude, recovery or raw FSFI-point difference."
+        }
+      }
+    },
+    {
+      "grade_target_id": "R56:G08",
+      "layer": "RETAINED_61",
+      "title": "GPPPD整套网络干预／疼痛干扰",
+      "census_report_ids": [
+        "REP-23c145d83d41b75c"
+      ],
+      "source_identity_set_as_saved": [
+        "DRKS00010228"
+      ],
+      "explicit_input_ids": [
+        "R34-S1-pain_interference-T2"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Moderate",
+      "PI_scope": "有GPPPD且至少六个月不能完成阴道性交的成人女性，整套指导网络干预对等待，作者混合时钟T2的性交疼痛干扰变化方向与作者标准化来源效应。",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": "Moderate",
+          "target_scope": "有GPPPD且至少六个月不能完成阴道性交的成人女性，整套指导网络干预对等待，作者混合时钟T2的性交疼痛干扰变化方向与作者标准化来源效应。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "既往至少6个月不能完成阴道性交的GPPPD女性，整套有指导网络干预相比等待对照在T2的性交相关疼痛干扰标准化平均变化差；限该源报告策略和评估规则。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "Credibility of the reported mean pain-interference improvement direction; not a responder proportion or patient-important standardized-effect threshold."
+        }
+      }
+    },
+    {
+      "grade_target_id": "R56:G09",
+      "layer": "RETAINED_61",
+      "title": "mylovia整套数字策略／三个月FSFI",
+      "census_report_ids": [
+        "REP-ec8cd170d3c6ef56"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-NCT06237166"
+      ],
+      "explicit_input_ids": [
+        "R34-MYLOVIA-FSFI"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Moderate",
+      "PI_scope": "成人诊断女性性功能或性痛障碍，mylovia完整数字策略＋TAU相对TAU＋信息，三个月FSFI主要结局的基线调整平均差方向。",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": "Moderate",
+          "target_scope": "成人诊断女性性功能或性痛障碍，mylovia完整数字策略＋TAU相对TAU＋信息，三个月FSFI主要结局的基线调整平均差方向。"
+        },
+        "assessor_2": {
+          "certainty": "Moderate",
+          "target_scope": "成人女性性功能障碍接受mylovia整套数字干预，相比常规治疗加信息材料，在三个月的平均FSFI总分差。"
+        },
+        "assessor_3": {
+          "certainty": "Moderate",
+          "target_scope": "Credibility of source3month group mean FSFI improvement direction; no grade for a particular patient-important magnitude, remission or isolated PFMT component."
+        }
+      }
+    },
+    {
+      "grade_target_id": "R56:G10",
+      "layer": "RETAINED_61",
+      "title": "EVA运动对等待／ITT性活动",
+      "census_report_ids": [
+        "REP-5e048c2476c223f7"
+      ],
+      "source_identity_set_as_saved": [
+        "NCT00582244"
+      ],
+      "explicit_input_ids": [
+        "R35-EVA-PE-SAQHABIT-12WK"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Very low",
+      "PI_scope": "乳腺癌治疗相关绝经症状女性中，PE对等待，12周ITT来源模型的SAQ-Habit活动变化差；只评价活动指标，不把更多活动自动当患者获益。",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": "Very low",
+          "target_scope": "乳腺癌治疗相关绝经症状女性中，PE对等待，12周ITT来源模型的SAQ-Habit活动变化差；只评价活动指标，不把更多活动自动当患者获益。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "治疗诱导绝经症状的乳癌女性被分配12周体力运动PE，相比等待对照的SAQ-habit源ITT重复测量变化对比；不等同普遍性健康获益。"
+        },
+        "assessor_3": {
+          "certainty": "Very low",
+          "target_scope": "Credibility of the reported mean activity-change contrast and whether it supports a clinically usable direction; not equivalence or universal benefit from more activity."
+        }
+      }
+    },
+    {
+      "grade_target_id": "R56:G11",
+      "layer": "RETAINED_61",
+      "title": "EVA运动对等待／PP愉悦",
+      "census_report_ids": [
+        "REP-5e048c2476c223f7"
+      ],
+      "source_identity_set_as_saved": [
+        "NCT00582244"
+      ],
+      "explicit_input_ids": [
+        "R35-EVA-PE-SAQPLEASURE-PP-12WK"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Very low",
+      "PI_scope": "同一EVA试验PE达最低依从者与等待对照中可提供SAQ-Pleasure的女性，12周来源PP均分变化差的描述性敏感性；不作为分配效应或已认证依从因果效应。",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": "Very low",
+          "target_scope": "同一EVA试验PE达最低依从者与等待对照中可提供SAQ-Pleasure的女性，12周来源PP均分变化差的描述性敏感性；不作为分配效应或已认证依从因果效应。"
+        },
+        "assessor_2": {
+          "certainty": "Very low",
+          "target_scope": "同一EVA试验在满足运动依从条件后保留的PE参与者，相比等待对照在12周的SAQ愉悦源对比，仅为依从者选择敏感性。"
+        },
+        "assessor_3": {
+          "certainty": "Very low",
+          "target_scope": "Very uncertain source PP pleasure contrast as a sensitivity only; not a certified causal adherence effect or a randomized assignment-effect primary result."
+        }
+      }
+    },
+    {
+      "grade_target_id": "R56:G12",
+      "layer": "RETAINED_61",
+      "title": "SPARC自适应康复／十二个月FSDS12",
+      "census_report_ids": [
+        "REP-e7858c09c9f7d6b7"
+      ],
+      "source_identity_set_as_saved": [
+        "NCT03611517"
+      ],
+      "explicit_input_ids": [
+        "R30-SPARC-FSDS12_total"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Low",
+      "PI_scope": "放疗后希望维持性活动的妇科肿瘤成人女性，自适应护士康复整套策略对可提供常规性康复的照护，在放疗后12个月的FSDS12原始观察末端均分差。",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": "Low",
+          "target_scope": "放疗后希望维持性活动的妇科肿瘤成人女性，自适应护士康复整套策略对可提供常规性康复的照护，在放疗后12个月的FSDS12原始观察末端均分差。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "妇科肿瘤放疗后女性的按需护士主导11模块康复整套策略，相比同期可含康复及扩张器指导的常规照护，12个月性困扰的已观察末端平均差。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "Credibility of the late whole-strategy observed mean distress contrast for adding rehabilitation; not an equivalence/no-effect conclusion, remission or early isolated exercise benefit."
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G01",
+      "layer": "RETAINED_61",
+      "title": "R57-JOKAR-desire-after10sessions_over6weeks",
+      "census_report_ids": [
+        "REP-0d703287e4a14c9a"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-IRCT20200710048069N2"
+      ],
+      "explicit_input_ids": [
+        "R57-JOKAR-desire-after10sessions_over6weeks"
+      ],
+      "publication_use": "SOURCE_DEFINED_DOMAIN_AUTHOR_LABEL_ONLY_MEASUREMENT_LIMIT",
+      "PI_label": "Very low",
+      "PI_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "原发阴道痉挛女性，扩张器+主动EMG练习对扩张器的来源局部域完成者差异，原访视；不是标准FSFI域或全随机策略。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "18–45岁原发阴道痉挛女性，主动EMG收缩/放松加扩张器对扩张器，来源自定义非痛域desire，after10sessions_over6weeks，仅完成者源单位平均终点差。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Very low",
+          "target_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G02",
+      "layer": "RETAINED_61",
+      "title": "R57-JOKAR-desire-1calendar_month_after_treatment",
+      "census_report_ids": [
+        "REP-0d703287e4a14c9a"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-IRCT20200710048069N2"
+      ],
+      "explicit_input_ids": [
+        "R57-JOKAR-desire-1calendar_month_after_treatment"
+      ],
+      "publication_use": "SOURCE_DEFINED_DOMAIN_AUTHOR_LABEL_ONLY_MEASUREMENT_LIMIT",
+      "PI_label": "Very low",
+      "PI_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "原发阴道痉挛女性，扩张器+主动EMG练习对扩张器的来源局部域完成者差异，原访视；不是标准FSFI域或全随机策略。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "18–45岁原发阴道痉挛女性，主动EMG收缩/放松加扩张器对扩张器，来源自定义非痛域desire，1calendar_month_after_treatment，仅完成者源单位平均终点差。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Very low",
+          "target_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G03",
+      "layer": "RETAINED_61",
+      "title": "R57-JOKAR-arousal-after10sessions_over6weeks",
+      "census_report_ids": [
+        "REP-0d703287e4a14c9a"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-IRCT20200710048069N2"
+      ],
+      "explicit_input_ids": [
+        "R57-JOKAR-arousal-after10sessions_over6weeks"
+      ],
+      "publication_use": "SOURCE_DEFINED_DOMAIN_AUTHOR_LABEL_ONLY_MEASUREMENT_LIMIT",
+      "PI_label": "Very low",
+      "PI_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "原发阴道痉挛女性，扩张器+主动EMG练习对扩张器的来源局部域完成者差异，原访视；不是标准FSFI域或全随机策略。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "18–45岁原发阴道痉挛女性，主动EMG收缩/放松加扩张器对扩张器，来源自定义非痛域arousal，after10sessions_over6weeks，仅完成者源单位平均终点差。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Very low",
+          "target_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G04",
+      "layer": "RETAINED_61",
+      "title": "R57-JOKAR-arousal-1calendar_month_after_treatment",
+      "census_report_ids": [
+        "REP-0d703287e4a14c9a"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-IRCT20200710048069N2"
+      ],
+      "explicit_input_ids": [
+        "R57-JOKAR-arousal-1calendar_month_after_treatment"
+      ],
+      "publication_use": "SOURCE_DEFINED_DOMAIN_AUTHOR_LABEL_ONLY_MEASUREMENT_LIMIT",
+      "PI_label": "Very low",
+      "PI_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "原发阴道痉挛女性，扩张器+主动EMG练习对扩张器的来源局部域完成者差异，原访视；不是标准FSFI域或全随机策略。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "18–45岁原发阴道痉挛女性，主动EMG收缩/放松加扩张器对扩张器，来源自定义非痛域arousal，1calendar_month_after_treatment，仅完成者源单位平均终点差。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Very low",
+          "target_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G05",
+      "layer": "RETAINED_61",
+      "title": "R57-JOKAR-lubrication-after10sessions_over6weeks",
+      "census_report_ids": [
+        "REP-0d703287e4a14c9a"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-IRCT20200710048069N2"
+      ],
+      "explicit_input_ids": [
+        "R57-JOKAR-lubrication-after10sessions_over6weeks"
+      ],
+      "publication_use": "SOURCE_DEFINED_DOMAIN_AUTHOR_LABEL_ONLY_MEASUREMENT_LIMIT",
+      "PI_label": "Very low",
+      "PI_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "原发阴道痉挛女性，扩张器+主动EMG练习对扩张器的来源局部域完成者差异，原访视；不是标准FSFI域或全随机策略。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "18–45岁原发阴道痉挛女性，主动EMG收缩/放松加扩张器对扩张器，来源自定义非痛域lubrication，after10sessions_over6weeks，仅完成者源单位平均终点差。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Very low",
+          "target_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G06",
+      "layer": "RETAINED_61",
+      "title": "R57-JOKAR-lubrication-1calendar_month_after_treatment",
+      "census_report_ids": [
+        "REP-0d703287e4a14c9a"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-IRCT20200710048069N2"
+      ],
+      "explicit_input_ids": [
+        "R57-JOKAR-lubrication-1calendar_month_after_treatment"
+      ],
+      "publication_use": "SOURCE_DEFINED_DOMAIN_AUTHOR_LABEL_ONLY_MEASUREMENT_LIMIT",
+      "PI_label": "Very low",
+      "PI_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "原发阴道痉挛女性，扩张器+主动EMG练习对扩张器的来源局部域完成者差异，原访视；不是标准FSFI域或全随机策略。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "18–45岁原发阴道痉挛女性，主动EMG收缩/放松加扩张器对扩张器，来源自定义非痛域lubrication，1calendar_month_after_treatment，仅完成者源单位平均终点差。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Very low",
+          "target_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G07",
+      "layer": "RETAINED_61",
+      "title": "R57-JOKAR-orgasm-after10sessions_over6weeks",
+      "census_report_ids": [
+        "REP-0d703287e4a14c9a"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-IRCT20200710048069N2"
+      ],
+      "explicit_input_ids": [
+        "R57-JOKAR-orgasm-after10sessions_over6weeks"
+      ],
+      "publication_use": "SOURCE_DEFINED_DOMAIN_AUTHOR_LABEL_ONLY_MEASUREMENT_LIMIT",
+      "PI_label": "Very low",
+      "PI_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "原发阴道痉挛女性，扩张器+主动EMG练习对扩张器的来源局部域完成者差异，原访视；不是标准FSFI域或全随机策略。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "18–45岁原发阴道痉挛女性，主动EMG收缩/放松加扩张器对扩张器，来源自定义非痛域orgasm，after10sessions_over6weeks，仅完成者源单位平均终点差。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Very low",
+          "target_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G08",
+      "layer": "RETAINED_61",
+      "title": "R57-JOKAR-orgasm-1calendar_month_after_treatment",
+      "census_report_ids": [
+        "REP-0d703287e4a14c9a"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-IRCT20200710048069N2"
+      ],
+      "explicit_input_ids": [
+        "R57-JOKAR-orgasm-1calendar_month_after_treatment"
+      ],
+      "publication_use": "SOURCE_DEFINED_DOMAIN_AUTHOR_LABEL_ONLY_MEASUREMENT_LIMIT",
+      "PI_label": "Very low",
+      "PI_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "原发阴道痉挛女性，扩张器+主动EMG练习对扩张器的来源局部域完成者差异，原访视；不是标准FSFI域或全随机策略。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "18–45岁原发阴道痉挛女性，主动EMG收缩/放松加扩张器对扩张器，来源自定义非痛域orgasm，1calendar_month_after_treatment，仅完成者源单位平均终点差。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Very low",
+          "target_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G09",
+      "layer": "RETAINED_61",
+      "title": "R57-JOKAR-satisfaction-after10sessions_over6weeks",
+      "census_report_ids": [
+        "REP-0d703287e4a14c9a"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-IRCT20200710048069N2"
+      ],
+      "explicit_input_ids": [
+        "R57-JOKAR-satisfaction-after10sessions_over6weeks"
+      ],
+      "publication_use": "SOURCE_DEFINED_DOMAIN_AUTHOR_LABEL_ONLY_MEASUREMENT_LIMIT",
+      "PI_label": "Very low",
+      "PI_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "原发阴道痉挛女性，扩张器+主动EMG练习对扩张器的来源局部域完成者差异，原访视；不是标准FSFI域或全随机策略。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "18–45岁原发阴道痉挛女性，主动EMG收缩/放松加扩张器对扩张器，来源自定义非痛域satisfaction，after10sessions_over6weeks，仅完成者源单位平均终点差。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Very low",
+          "target_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G10",
+      "layer": "RETAINED_61",
+      "title": "R57-JOKAR-satisfaction-1calendar_month_after_treatment",
+      "census_report_ids": [
+        "REP-0d703287e4a14c9a"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-IRCT20200710048069N2"
+      ],
+      "explicit_input_ids": [
+        "R57-JOKAR-satisfaction-1calendar_month_after_treatment"
+      ],
+      "publication_use": "SOURCE_DEFINED_DOMAIN_AUTHOR_LABEL_ONLY_MEASUREMENT_LIMIT",
+      "PI_label": "Very low",
+      "PI_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "原发阴道痉挛女性，扩张器+主动EMG练习对扩张器的来源局部域完成者差异，原访视；不是标准FSFI域或全随机策略。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "18–45岁原发阴道痉挛女性，主动EMG收缩/放松加扩张器对扩张器，来源自定义非痛域satisfaction，1calendar_month_after_treatment，仅完成者源单位平均终点差。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Very low",
+          "target_scope": "成人原发性阴道痉挛，扩张器+主动EMG收缩放松 vs 扩张器；来源非痛域完成者端点均分"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G11",
+      "layer": "RETAINED_61",
+      "title": "R57-LOOKAHEAD-FSFI-baseline_sexually_active_and_FSD_followup_inactive_retained",
+      "census_report_ids": [
+        "REP-a9b7ea9bf91037ef"
+      ],
+      "source_identity_set_as_saved": [
+        "SOURCE-TRIAL-LOOKAHEAD-WOMEN-ANCILLARY"
+      ],
+      "explicit_input_ids": [
+        "R57-LOOKAHEAD-FSFI-baseline_sexually_active_and_FSD_followup_inactive_retained"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Low",
+      "PI_scope": "45–76岁超重/肥胖2型糖尿病女性，ILI整套饮食/活动策略 vs DSE；原基线FSFI层，一年FSFI均分变化",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": "Low",
+          "target_scope": "LookAHEAD性结局子研究中基线有性活动女性，按基线FSFI≤26.55定义层，生活方式减重整套策略对DSE，1年平均FSFI变化；保留随访不活动者，不解释为个人困扰诊断或亚组交互。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "45–76岁T2D超重/肥胖女性，基线活跃且FSFI阈值定义FSD，强化饮食＋活动整套策略对糖尿病支持教育，1年FSFI总分变化的原发表组间对比。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "45–76岁超重/肥胖2型糖尿病女性，ILI整套饮食/活动策略 vs DSE；原基线FSFI层，一年FSFI均分变化"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G12",
+      "layer": "RETAINED_61",
+      "title": "R57-LOOKAHEAD-FSFI-baseline_sexually_active_without_FSD_followup_inactive_retained",
+      "census_report_ids": [
+        "REP-a9b7ea9bf91037ef"
+      ],
+      "source_identity_set_as_saved": [
+        "SOURCE-TRIAL-LOOKAHEAD-WOMEN-ANCILLARY"
+      ],
+      "explicit_input_ids": [
+        "R57-LOOKAHEAD-FSFI-baseline_sexually_active_without_FSD_followup_inactive_retained"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Low",
+      "PI_scope": "45–76岁超重/肥胖2型糖尿病女性，ILI整套饮食/活动策略 vs DSE；原基线FSFI层，一年FSFI均分变化",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": "Low",
+          "target_scope": "LookAHEAD性结局子研究中基线有性活动女性，按基线FSFI>26.55定义层，生活方式减重整套策略对DSE，1年平均FSFI变化；保留随访不活动者，不解释为个人困扰诊断或亚组交互。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "45–76岁T2D超重/肥胖女性，基线活跃且未达FSFI阈值FSD，强化饮食＋活动整套策略对糖尿病支持教育，1年FSFI总分变化的原发表组间对比。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "45–76岁超重/肥胖2型糖尿病女性，ILI整套饮食/活动策略 vs DSE；原基线FSFI层，一年FSFI均分变化"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G13",
+      "layer": "RETAINED_61",
+      "title": "R57-LOOKAHEAD-FSFI-sexually_active_both_baseline_and_1year",
+      "census_report_ids": [
+        "REP-a9b7ea9bf91037ef"
+      ],
+      "source_identity_set_as_saved": [
+        "SOURCE-TRIAL-LOOKAHEAD-WOMEN-ANCILLARY"
+      ],
+      "explicit_input_ids": [
+        "R57-LOOKAHEAD-FSFI-sexually_active_both_baseline_and_1year"
+      ],
+      "publication_use": "NOT_RATEABLE_AS_RANDOMIZED_ASSIGNMENT_EFFECT_POSTRANDOM_SELECTION",
+      "PI_label": null,
+      "PI_scope": "45–76岁超重/肥胖2型糖尿病女性，ILI整套饮食/活动策略 vs DSE；原基线FSFI层，一年FSFI均分变化",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "基线及1年均有性活动女性的条件性来源变化差，不是可推广的随机分配因果证据体。"
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": "45–76岁T2D超重/肥胖女性，基线及1年持续性活跃的治疗后选择人群，强化饮食＋活动整套策略对糖尿病支持教育，1年FSFI总分变化的原发表组间对比。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": "45–76岁超重/肥胖2型糖尿病女性，ILI整套饮食/活动策略 vs DSE；原基线FSFI层，一年FSFI均分变化"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G14",
+      "layer": "RETAINED_61",
+      "title": "R57-BERGERON2016-FSFI total-post13week_programme",
+      "census_report_ids": [
+        "REP-cfcc4ca6682dab46"
+      ],
+      "source_identity_set_as_saved": [
+        "WORKING-BERGERON-PVD-2003-2007-97"
+      ],
+      "explicit_input_ids": [
+        "R57-BERGERON2016-FSFI total-post13week_programme"
+      ],
+      "publication_use": "SOURCE_PARAMETER_AUTHOR_LABEL_ONLY_NOT_CLINICAL_GRADE",
+      "PI_label": "Low",
+      "PI_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "Bergeron2016原随机系数模型所列时间×组别参数；尚未转成临床方向已核准的策略效应。"
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": "18–45岁PVD女性，含身体训练的13周GCBT对局部皮质激素，FSFI total，post13week_programme，原Time×Group模型系数，未伪装原终点MD。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G15",
+      "layer": "RETAINED_61",
+      "title": "R57-BERGERON2016-FSFI total-6months_followup",
+      "census_report_ids": [
+        "REP-cfcc4ca6682dab46"
+      ],
+      "source_identity_set_as_saved": [
+        "WORKING-BERGERON-PVD-2003-2007-97"
+      ],
+      "explicit_input_ids": [
+        "R57-BERGERON2016-FSFI total-6months_followup"
+      ],
+      "publication_use": "SOURCE_PARAMETER_AUTHOR_LABEL_ONLY_NOT_CLINICAL_GRADE",
+      "PI_label": "Low",
+      "PI_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "Bergeron2016原随机系数模型所列时间×组别参数；尚未转成临床方向已核准的策略效应。"
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": "18–45岁PVD女性，含身体训练的13周GCBT对局部皮质激素，FSFI total，6months_followup，原Time×Group模型系数，未伪装原终点MD。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G16",
+      "layer": "RETAINED_61",
+      "title": "R57-BERGERON2016-intercourse pain NRS-post13week_programme",
+      "census_report_ids": [
+        "REP-cfcc4ca6682dab46"
+      ],
+      "source_identity_set_as_saved": [
+        "WORKING-BERGERON-PVD-2003-2007-97"
+      ],
+      "explicit_input_ids": [
+        "R57-BERGERON2016-intercourse pain NRS-post13week_programme"
+      ],
+      "publication_use": "SOURCE_PARAMETER_AUTHOR_LABEL_ONLY_NOT_CLINICAL_GRADE",
+      "PI_label": "Low",
+      "PI_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "Bergeron2016原随机系数模型所列时间×组别参数；尚未转成临床方向已核准的策略效应。"
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": "18–45岁PVD女性，含身体训练的13周GCBT对局部皮质激素，intercourse pain NRS，post13week_programme，原Time×Group模型系数，未伪装原终点MD。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G17",
+      "layer": "RETAINED_61",
+      "title": "R57-BERGERON2016-intercourse pain NRS-6months_followup",
+      "census_report_ids": [
+        "REP-cfcc4ca6682dab46"
+      ],
+      "source_identity_set_as_saved": [
+        "WORKING-BERGERON-PVD-2003-2007-97"
+      ],
+      "explicit_input_ids": [
+        "R57-BERGERON2016-intercourse pain NRS-6months_followup"
+      ],
+      "publication_use": "SOURCE_PARAMETER_AUTHOR_LABEL_ONLY_NOT_CLINICAL_GRADE",
+      "PI_label": "Low",
+      "PI_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "Bergeron2016原随机系数模型所列时间×组别参数；尚未转成临床方向已核准的策略效应。"
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": "18–45岁PVD女性，含身体训练的13周GCBT对局部皮质激素，intercourse pain NRS，6months_followup，原Time×Group模型系数，未伪装原终点MD。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G18",
+      "layer": "RETAINED_61",
+      "title": "R57-BERGERON2016-MPQ-PPI-post13week_programme",
+      "census_report_ids": [
+        "REP-cfcc4ca6682dab46"
+      ],
+      "source_identity_set_as_saved": [
+        "WORKING-BERGERON-PVD-2003-2007-97"
+      ],
+      "explicit_input_ids": [
+        "R57-BERGERON2016-MPQ-PPI-post13week_programme"
+      ],
+      "publication_use": "SOURCE_PARAMETER_AUTHOR_LABEL_ONLY_NOT_CLINICAL_GRADE",
+      "PI_label": "Low",
+      "PI_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "Bergeron2016原随机系数模型所列时间×组别参数；尚未转成临床方向已核准的策略效应。"
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": "18–45岁PVD女性，含身体训练的13周GCBT对局部皮质激素，MPQ-PPI，post13week_programme，原Time×Group模型系数，未伪装原终点MD。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G19",
+      "layer": "RETAINED_61",
+      "title": "R57-BERGERON2016-MPQ-PPI-6months_followup",
+      "census_report_ids": [
+        "REP-cfcc4ca6682dab46"
+      ],
+      "source_identity_set_as_saved": [
+        "WORKING-BERGERON-PVD-2003-2007-97"
+      ],
+      "explicit_input_ids": [
+        "R57-BERGERON2016-MPQ-PPI-6months_followup"
+      ],
+      "publication_use": "SOURCE_PARAMETER_AUTHOR_LABEL_ONLY_NOT_CLINICAL_GRADE",
+      "PI_label": "Moderate",
+      "PI_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "Bergeron2016原随机系数模型所列时间×组别参数；尚未转成临床方向已核准的策略效应。"
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": "18–45岁PVD女性，含身体训练的13周GCBT对局部皮质激素，MPQ-PPI，6months_followup，原Time×Group模型系数，未伪装原终点MD。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Moderate",
+          "target_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G20",
+      "layer": "RETAINED_61",
+      "title": "R57-BERGERON2016-intercourse frequency-post13week_programme",
+      "census_report_ids": [
+        "REP-cfcc4ca6682dab46"
+      ],
+      "source_identity_set_as_saved": [
+        "WORKING-BERGERON-PVD-2003-2007-97"
+      ],
+      "explicit_input_ids": [
+        "R57-BERGERON2016-intercourse frequency-post13week_programme"
+      ],
+      "publication_use": "SOURCE_PARAMETER_AUTHOR_LABEL_ONLY_NOT_CLINICAL_GRADE",
+      "PI_label": "Low",
+      "PI_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "Bergeron2016原随机系数模型所列时间×组别参数；尚未转成临床方向已核准的策略效应。"
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": "18–45岁PVD女性，含身体训练的13周GCBT对局部皮质激素，intercourse frequency，post13week_programme，原Time×Group模型系数，未伪装原终点MD。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G21",
+      "layer": "RETAINED_61",
+      "title": "R57-BERGERON2016-intercourse frequency-6months_followup",
+      "census_report_ids": [
+        "REP-cfcc4ca6682dab46"
+      ],
+      "source_identity_set_as_saved": [
+        "WORKING-BERGERON-PVD-2003-2007-97"
+      ],
+      "explicit_input_ids": [
+        "R57-BERGERON2016-intercourse frequency-6months_followup"
+      ],
+      "publication_use": "SOURCE_PARAMETER_AUTHOR_LABEL_ONLY_NOT_CLINICAL_GRADE",
+      "PI_label": "Low",
+      "PI_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "Bergeron2016原随机系数模型所列时间×组别参数；尚未转成临床方向已核准的策略效应。"
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": "18–45岁PVD女性，含身体训练的13周GCBT对局部皮质激素，intercourse frequency，6months_followup，原Time×Group模型系数，未伪装原终点MD。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "成人诱发性前庭痛，13周GCBT含主动呼吸/肌肉练习整套方案 vs 外用类固醇；来源FIML Time×Group系数（非端点MD）"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G22",
+      "layer": "RETAINED_61",
+      "title": "R57-KARAAHMET2022-FSFI-4WK",
+      "census_report_ids": [
+        "REP-f2b023ac157bff7f"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-NCT04764838"
+      ],
+      "explicit_input_ids": [
+        "R57-KARAAHMET2022-FSFI-4WK"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Low",
+      "PI_scope": "18–35岁初孕女性，4周瑜伽 vs 通常照护；71/69完成者未调整FSFI端点",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "孕妇4周完成者的未调整FSFI终点差，作为敏感性，不等于基线调整后的随机策略。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "18–35岁初孕女性，4周瑜伽对通常照护，71/69完成者的未调整FSFI19终点均差；不代表基线调整后因果损害。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "18–35岁初孕女性，4周瑜伽 vs 通常照护；71/69完成者未调整FSFI端点"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G24",
+      "layer": "RETAINED_61",
+      "title": "R57-SALINAS-FSFI-1YEAR",
+      "census_report_ids": [
+        "REP-4ee2559928539acc",
+        "REP-6029a7023e8518c0"
+      ],
+      "source_identity_set_as_saved": [
+        "PILOT-FAM-NCT03979183",
+        "PILOT-FAM-NCT05091268"
+      ],
+      "explicit_input_ids": [
+        "R34-GABRIELSEN-FSFI-12MO",
+        "R57-SALINAS-FSFI-1YEAR"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Low",
+      "PI_scope": "内异症女性，附加主动训练完整策略 vs 各自通常照护/共同疼痛课程，在来源所报约一年时点的FSFI均分对比；保留两方案及时间锚",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "长期内异症附加训练FSFI来源集，已知Salinas与Gabrielsen，原时钟及比较背景分别保留。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "绝经前内异症女性，Physio-EndEA监督多模式训练加通常治疗对通常治疗，1year follow-up as reported, not the8–16week primary window，FSFI原ANCOVA/Bonferroni/20MI对比。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "内异症女性，附加主动训练完整策略 vs 各自通常照护/共同疼痛课程，在来源所报约一年时点的FSFI均分对比；保留两方案及时间锚"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G25",
+      "layer": "RETAINED_61",
+      "title": "R57-KADAH-DYSPAREUNIA-8WK",
+      "census_report_ids": [
+        "REP-8eb4e662d196b1a4"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-ACTRN12622001393741"
+      ],
+      "explicit_input_ids": [
+        "R57-KADAH-DYSPAREUNIA-8WK"
+      ],
+      "publication_use": "PI_LABEL_PRESERVED_NON_DUPLICATED_IMPRECISION_JUSTIFICATION_PENDING",
+      "PI_label": "Very low",
+      "PI_scope": "内异症相关盆腔痛女性，PFM收缩+放松+正念 vs 放松+正念，8周dyspareunia NRS原基线ANCOVA对比",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": "Low",
+          "target_scope": "内异症相关疼痛女性，8周收缩+放松+正念相对放松+正念的性交痛NRS平均分增量；探索性可行性RCT来源。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "18–45岁内异症盆痛女性，在共同PFM放松与正念上增加收缩训练，8周性交痛NRS的原ANCOVA组间差，不是PFMT对无训练。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Very low",
+          "target_scope": "内异症相关盆腔痛女性，PFM收缩+放松+正念 vs 放松+正念，8周dyspareunia NRS原基线ANCOVA对比"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G26",
+      "layer": "RETAINED_61",
+      "title": "R57-TABATABAIE-FSFI-POST6WK",
+      "census_report_ids": [
+        "REP-dc939887d09c6ddf"
+      ],
+      "source_identity_set_as_saved": [
+        "PILOT-FAM-IRCT20100524004015N1"
+      ],
+      "explicit_input_ids": [
+        "R57-TABATABAIE-FSFI-POST6WK"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Low",
+      "PI_scope": "20–54岁已婚女性，Yoga+共同PFMT vs PFMT，来源6周末或疗程后一月FSFI原始端点；21/25报告分析N",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "共有PFMT基础上瑜伽的原始完成者FSFI端点敏感性，严格区分6周及1日历月后。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "20–54岁无自报性功能问题女性，在共同PFMT上加瑜伽对PFMT，Immediately after6week training programme; outside8–16week primary window，21/25分析者的来源未调整FSFI终点差。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "20–54岁已婚女性，Yoga+共同PFMT vs PFMT，来源6周末或疗程后一月FSFI原始端点；21/25报告分析N"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G27",
+      "layer": "RETAINED_61",
+      "title": "R57-TABATABAIE-FSFI-1MO_AFTER",
+      "census_report_ids": [
+        "REP-dc939887d09c6ddf"
+      ],
+      "source_identity_set_as_saved": [
+        "PILOT-FAM-IRCT20100524004015N1"
+      ],
+      "explicit_input_ids": [
+        "R57-TABATABAIE-FSFI-1MO_AFTER"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Low",
+      "PI_scope": "20–54岁已婚女性，Yoga+共同PFMT vs PFMT，来源6周末或疗程后一月FSFI原始端点；21/25报告分析N",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "共有PFMT基础上瑜伽的原始完成者FSFI端点敏感性，严格区分6周及1日历月后。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "20–54岁无自报性功能问题女性，在共同PFMT上加瑜伽对PFMT，1month after6week programme; approximately10weeks from programme start, not an exact allocation-relative week10，21/25分析者的来源未调整FSFI终点差。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "20–54岁已婚女性，Yoga+共同PFMT vs PFMT，来源6周末或疗程后一月FSFI原始端点；21/25报告分析N"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G28",
+      "layer": "RETAINED_61",
+      "title": "R57-ROCHA-FSFI-12MO-LOCF",
+      "census_report_ids": [
+        "REP-dab382c796fefc0a"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-RBR-4CKCH8"
+      ],
+      "explicit_input_ids": [
+        "R57-ROCHA-FSFI-12MO-LOCF"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Low",
+      "PI_scope": "成年女性SUI，PFMT vs CO2激光，12个月来源ITT/LOCF FSFI原始端点",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": "PFMT对CO2激光12月源LOCF插补FSFI端点敏感性，非性功能非劣性证明。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "成年SUI女性，PFMT对CO2激光，12个月来源FSFI总分47/47 ITT/LOCF未调整均差；不是性功能非劣目标。 不推断个人恢复、通用MID获益或孤立运动成分。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "成年女性SUI，PFMT vs CO2激光，12个月来源ITT/LOCF FSFI原始端点"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R58:G29",
+      "layer": "RETAINED_61",
+      "title": "内异症附加运动方案对FSFI：Abril＋Salinas新证据体",
+      "census_report_ids": [
+        "REP-4cf972e3d28fcd03",
+        "REP-4ee2559928539acc"
+      ],
+      "source_identity_set_as_saved": [
+        "PILOT-FAM-NCT03979183",
+        "PILOT-FAM-NCT05679063"
+      ],
+      "explicit_input_ids": [
+        "R29-AbrilCoello2026",
+        "R57-SALINAS-FSFI-POST9WK"
+      ],
+      "publication_use": "SCOPED_AUTHOR_TARGET_LABEL_WITH_EXACT_ESTIMAND_AND_LIMITS",
+      "PI_label": "Low",
+      "PI_scope": "内异症成人女性8/9周末，训练包含整套策略 vs 各自教育或通常照护，来源FSFI均分变化；两来源结构化综合",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": "Low",
+          "target_scope": "成人内异症女性，附加治疗运动整套方案对相应教育/通常照护背景，8/9周疗程末平均FSFI变化的结构化两来源证据体。"
+        },
+        "assessor_2": {
+          "certainty": "Low",
+          "target_scope": "内异症成年女性在疗程末8/9周接受含运动整套附加方案，相对各自教育/通常照护策略的FSFI均分变化。保留Abril与Salinas两种具体策略，不承诺孤立运动共同效应。"
+        },
+        "assessor_3": {
+          "certainty": "Low",
+          "target_scope": "内异症成人女性8/9周末，训练包含整套策略 vs 各自教育或通常照护，来源FSFI均分变化；两来源结构化综合"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-01-T01",
+      "layer": "RETAINED_61",
+      "title": "Metabolic syndrome:12-week hatha yoga versus waiting/usual activity",
+      "census_report_ids": [
+        "REP-ac854c1ffbaf0f47"
+      ],
+      "source_identity_set_as_saved": [
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "SAME_NORMALIZED_ACTION_SCOPED_LABELS_AUTHOR_RATIONALES_NOT_MERGED",
+      "PI_label": "SCOPED_LOW",
+      "PI_scope": "Available-case standard weighted FSFI endpoint mean difference after12weeks; not an authenticated all-randomized assignment-effect estimate.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-02-T01",
+      "layer": "RETAINED_61",
+      "title": "Vasomotor-symptom cohort:12-week aerobic exercise versus usual activity",
+      "census_report_ids": [
+        "REP-377d5332d6d6d3c8"
+      ],
+      "source_identity_set_as_saved": [
+        "PILOT-FAM-NCT01178892"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "SAME_NORMALIZED_ACTION_SCOPED_LABELS_AUTHOR_RATIONALES_NOT_MERGED",
+      "PI_label": "SCOPED_LOW",
+      "PI_scope": "Published covariate-adjusted FSFI change contrast for aerobic exercise versus usual activity, preserving the orthogonal supplement factor; normal-equivalent draft SE is not its estimand.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-03-T01",
+      "layer": "RETAINED_61",
+      "title": "Postmenopausal depression/low FSFI: breathing added to common medication/lubricant care",
+      "census_report_ids": [
+        "REP-27253f9005a646a1"
+      ],
+      "source_identity_set_as_saved": [
+        "PILOT-FAM-NCT06741384"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "SAME_NORMALIZED_ACTION_SCOPED_LABELS_AUTHOR_RATIONALES_NOT_MERGED",
+      "PI_label": "SCOPED_MODERATE",
+      "PI_scope": "Complete breathing-plus-common-care strategy versus the same medication/lubricant background at12weeks; not isolated breathing efficacy.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-04-T01",
+      "layer": "RETAINED_61",
+      "title": "Gynecological cancer and UI:12-week remote multimodal PFMT versus usual activity",
+      "census_report_ids": [
+        "REP-2f3b48916c1e1079"
+      ],
+      "source_identity_set_as_saved": [
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "AUTHOR_SPECIFIC_DIFFERENCE_NO_SINGLE_CLINICAL_GRADE",
+      "PI_label": "SCOPED_LOW",
+      "PI_scope": "Source adjusted or reported FSFI change contrast of the remote multimodal PFMT/education/self-care strategy at12weeks, among available outcome data; not isolated PFMT or confirmed full-cohort assignment effect.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-05-T01",
+      "layer": "RETAINED_61",
+      "title": "Stress-predominant UI: transversus-abdominis exercise added to shared PFMT",
+      "census_report_ids": [
+        "REP-84fa252ff066475d"
+      ],
+      "source_identity_set_as_saved": [
+        "SOURCE-CANDIDATE-DOI-10.5173_ceju.2023.225"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "SAME_NORMALIZED_ACTION_SCOPED_LABELS_AUTHOR_RATIONALES_NOT_MERGED",
+      "PI_label": "SCOPED_LOW",
+      "PI_scope": "Additional transversus-abdominis training over shared PFMT at programme completion; never PFMT versus no training.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-06-T01",
+      "layer": "RETAINED_61",
+      "title": "Primary Sjogren syndrome:8-week home PFMT/breathing bundle versus shared education",
+      "census_report_ids": [
+        "REP-f3ebb5db86860dee"
+      ],
+      "source_identity_set_as_saved": [
+        "KURT-ANTALYA-2021-2022-49"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "SAME_NORMALIZED_ACTION_SCOPED_LABELS_AUTHOR_RATIONALES_NOT_MERGED",
+      "PI_label": "SCOPED_LOW",
+      "PI_scope": "Observed standard-FSFI endpoint contrast after8weeks of home PFMT/breathing with shared education; no component-specific or postcessation claim.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-07-T01",
+      "layer": "RETAINED_61",
+      "title": "Menopausal TLM bundle:12-week FSFI contrast",
+      "census_report_ids": [
+        "REP-61b67304cd5c1278"
+      ],
+      "source_identity_set_as_saved": [
+        "ChiCTR2300070648"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "AUTHOR_SPECIFIC_DIFFERENCE_NO_SINGLE_CLINICAL_GRADE",
+      "PI_label": "SCOPED_MODERATE",
+      "PI_scope": "Complete TLM package model contrast at its scheduled12week endpoint; original ITT LMM94 is not a raw observed endpoint sample or isolated PFMT/TaiChi effect.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-08-T01",
+      "layer": "RETAINED_61",
+      "title": "Low desire: online mindfulness/sex therapy versus waiting, SIDI-F-SR",
+      "census_report_ids": [
+        "REP-9cbdbe8139580cc4"
+      ],
+      "source_identity_set_as_saved": [
+        "NCT03780751"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "SAME_NORMALIZED_ACTION_SCOPED_LABELS_AUTHOR_RATIONALES_NOT_MERGED",
+      "PI_label": "SCOPED_LOW",
+      "PI_scope": "Source mixed-model treatment-by-time desire contrast for the full mindfulness/sex-therapy programme at scheduled3calendar months; not isolated exercise or a raw endpoint MD.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-09-T01",
+      "layer": "RETAINED_61",
+      "title": "Provoked vestibulodynia: multimodal physiotherapy versus lidocaine, distress and function",
+      "census_report_ids": [
+        "REP-dee2e82d70adf53d"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-NCT01455350"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "AUTHOR_SPECIFIC_DIFFERENCE_NO_SINGLE_CLINICAL_GRADE",
+      "PI_label": "NOT_CLINICALLY_RATEABLE",
+      "PI_scope": "Clinical GRADE on a validated FSDS or FSDS-R13 target is not released: source citation/label/range metadata conflict. The numeric source-labelled endpoint parameter may remain descriptive.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-09-T02",
+      "layer": "RETAINED_61",
+      "title": "Provoked vestibulodynia: multimodal physiotherapy versus lidocaine, distress and function",
+      "census_report_ids": [
+        "REP-dee2e82d70adf53d"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-NCT01455350"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "AUTHOR_SPECIFIC_DIFFERENCE_NO_SINGLE_CLINICAL_GRADE",
+      "PI_label": "NOT_CLINICALLY_RATEABLE",
+      "PI_scope": "The accepted manuscript lists five function domains and a figure FSFI range19-110. No typographic repair or automatic standard-FSFI19 mapping is authorized, so a clinical-certainty label on that standard target would be misleading.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-10-T01",
+      "layer": "RETAINED_61",
+      "title": "Provoked vestibulodynia symptoms: guided ACT/physical relaxation versus waiting",
+      "census_report_ids": [
+        "REP-49fe3559f99761d0"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-NCT04045041"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "AUTHOR_SPECIFIC_DIFFERENCE_NO_SINGLE_CLINICAL_GRADE",
+      "PI_label": "SCOPED_LOW",
+      "PI_scope": "Published post10week ACT/physical-relaxation package function-model contrast, preserving source score version and source population ambiguity.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-10-T02",
+      "layer": "RETAINED_61",
+      "title": "Provoked vestibulodynia symptoms: guided ACT/physical relaxation versus waiting",
+      "census_report_ids": [
+        "REP-49fe3559f99761d0"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-NCT04045041"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "AUTHOR_SPECIFIC_DIFFERENCE_NO_SINGLE_CLINICAL_GRADE",
+      "PI_label": "SCOPED_LOW",
+      "PI_scope": "Source-labelled FSDS model contrast after10weeks of guided ACT/physical relaxation versus waiting, not a completer RCI remission proportion.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-11-T01",
+      "layer": "RETAINED_61",
+      "title": "After mastectomy: psychoeducation/arm exercise/breathing bundle, SQoL-F",
+      "census_report_ids": [
+        "REP-b5e18b71e05f7ce5"
+      ],
+      "source_identity_set_as_saved": [
+        "SARUHAN-TURKEY-2023-2025-70"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "SAME_NORMALIZED_ACTION_SCOPED_LABELS_AUTHOR_RATIONALES_NOT_MERGED",
+      "PI_label": "SCOPED_LOW",
+      "PI_scope": "Unadjusted observed-case SQoL-F0-100 endpoint after a6week psychoeducation/arm-exercise/breathing bundle plus4weeks followup. It is not an adjusted, ITT or raw FSFI effect.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-12-T01",
+      "layer": "RETAINED_61",
+      "title": "Early breast cancer during chemotherapy: exercise, source sexual functioning/enjoyment at middle treatment",
+      "census_report_ids": [
+        "REP-c39a981fed16f37b"
+      ],
+      "source_identity_set_as_saved": [
+        "ISRCTN32617901"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "SAME_NORMALIZED_ACTION_SCOPED_LABELS_AUTHOR_RATIONALES_NOT_MERGED",
+      "PI_label": "SCOPED_LOW",
+      "PI_scope": "Adjusted source EORTC QLQ-BR23 sexual-functioning change at middle chemotherapy8or12weeks; no fixed12week, FSFI or general-QoL-benefit claim.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-12-T02",
+      "layer": "RETAINED_61",
+      "title": "Early breast cancer during chemotherapy: exercise, source sexual functioning/enjoyment at middle treatment",
+      "census_report_ids": [
+        "REP-c39a981fed16f37b"
+      ],
+      "source_identity_set_as_saved": [
+        "ISRCTN32617901"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "HOLD_EXACT_OUTCOME_TARGET",
+      "PI_label": "HOLD_TARGET_JUDGEMENT",
+      "PI_scope": "Hold the clinical GRADE label until the exact applicability/sexual-activity branch and its model population are defined from already available evidence. The source enjoyment parameter can remain reported; no new retrieval is requested.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-13-T01",
+      "layer": "RETAINED_61",
+      "title": "Daily UI: pelvic yoga versus time-equivalent conditioning, early PISQ-IR model block",
+      "census_report_ids": [
+        "REP-cf80cd0af9a4171e"
+      ],
+      "source_identity_set_as_saved": [
+        "TRIAL-NCT03672461"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "NOT_CLINICALLY_RATEABLE_SOURCE_ONLY",
+      "PI_label": "NOT_CLINICALLY_RATEABLE",
+      "PI_scope": "PISQ-IR transformed-summation sexually-active summary, higher better, averaged6+12week change. This conditional observed model is not a certified clinical assignment-effect target for all randomized women or a baseline-only sexually-active subgroup.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-14-T01",
+      "layer": "RETAINED_61",
+      "title": "GPPPD guided online strategy versus waiting: source FSFI total at T2",
+      "census_report_ids": [
+        "REP-23c145d83d41b75c"
+      ],
+      "source_identity_set_as_saved": [
+        "DRKS00010228"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "SAME_NORMALIZED_ACTION_SCOPED_LABELS_AUTHOR_RATIONALES_NOT_MERGED",
+      "PI_label": "SCOPED_LOW",
+      "PI_scope": "Author Cohen d for change in FSFI19 at self-paced/hybrid T2 under the guided online GPPPD strategy versus waiting; not an ANCOVA-adjusted MD, fixed12week effect or recovery proportion.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-15-T01",
+      "layer": "RETAINED_61",
+      "title": "Provoked vestibulodynia: couple CBT/body-practice bundle versus nightly lidocaine at programme end",
+      "census_report_ids": [
+        "REP-551be2e03d545bb7"
+      ],
+      "source_identity_set_as_saved": [
+        "CBCT-TWO-CENTRE-108"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "AUTHOR_SPECIFIC_DIFFERENCE_NO_SINGLE_CLINICAL_GRADE",
+      "PI_label": "SCOPED_MODERATE",
+      "PI_scope": "Whole CBCT/body-practice strategy versus nightly lidocaine: ITT multilevel differential change in intercourse-pain intensity at programme end, not the Morin pain effect or isolated breathing.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-15-T02",
+      "layer": "RETAINED_61",
+      "title": "Provoked vestibulodynia: couple CBT/body-practice bundle versus nightly lidocaine at programme end",
+      "census_report_ids": [
+        "REP-551be2e03d545bb7"
+      ],
+      "source_identity_set_as_saved": [
+        "CBCT-TWO-CENTRE-108"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "SAME_NORMALIZED_ACTION_SCOPED_LABELS_AUTHOR_RATIONALES_NOT_MERGED",
+      "PI_label": "SCOPED_LOW",
+      "PI_scope": "Direct ITT multilevel differential-change coefficient for pain unpleasantness after nominal12weekly CBCT sessions, distinct from intensity and from six-month followup.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-15-T03",
+      "layer": "RETAINED_61",
+      "title": "Provoked vestibulodynia: couple CBT/body-practice bundle versus nightly lidocaine at programme end",
+      "census_report_ids": [
+        "REP-551be2e03d545bb7"
+      ],
+      "source_identity_set_as_saved": [
+        "CBCT-TWO-CENTRE-108"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "AUTHOR_SPECIFIC_DIFFERENCE_NO_SINGLE_CLINICAL_GRADE",
+      "PI_label": "SCOPED_LOW",
+      "PI_scope": "Weighted FSFI16 excluding three pain items: direct model differential change for the complete CBCT strategy, not FSFI19 or a reconstructed endpoint.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-15-T04",
+      "layer": "RETAINED_61",
+      "title": "Provoked vestibulodynia: couple CBT/body-practice bundle versus nightly lidocaine at programme end",
+      "census_report_ids": [
+        "REP-551be2e03d545bb7"
+      ],
+      "source_identity_set_as_saved": [
+        "CBCT-TWO-CENTRE-108"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "SAME_NORMALIZED_ACTION_SCOPED_LABELS_AUTHOR_RATIONALES_NOT_MERGED",
+      "PI_label": "SCOPED_MODERATE",
+      "PI_scope": "Source ITT multilevel differential change in FSDS-R13 at nominal programme end for complete CBCT versus lidocaine; certainty pertains to that modelled mean-score target, not isolated exercise or patient-important recovery.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R60-NEW-16-T01",
+      "layer": "RETAINED_61",
+      "title": "EVA combined CBT+exercise versus waiting:12-week ITT SAQ-Habit",
+      "census_report_ids": [
+        "REP-5e048c2476c223f7"
+      ],
+      "source_identity_set_as_saved": [
+        "NCT00582244"
+      ],
+      "explicit_input_ids": [],
+      "publication_use": "SAME_NORMALIZED_ACTION_SCOPED_LABELS_AUTHOR_RATIONALES_NOT_MERGED",
+      "PI_label": "SCOPED_LOW",
+      "PI_scope": "Source ITT repeated-measure activity-parameter change for combined CBT+exercise versus waiting at12weeks from entry. More sexual activity is not universally better; this is not pleasure, distress relief or clinical recovery.",
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_2": {
+          "certainty": null,
+          "target_scope": null
+        },
+        "assessor_3": {
+          "certainty": null,
+          "target_scope": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-HUMMEL2017-FSFI_total-T1",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-d313291a9efe14b5"
+      ],
+      "explicit_input_ids": [
+        "R62-HUMMEL2017-FSFI_total-T1"
+      ],
+      "exact_target": {
+        "population": "Adult18–65 disease-free breast-cancer survivors withDSM-IV sexual dysfunction;Netherlands10hospitals;2013–2015",
+        "whole_strategy": "Adaptive therapist-guided InternetCBT;4–5of10modules, qualifying pelvic relaxation/exposure tasks offered when indicated",
+        "comparison": "Individualized InternetCBT vsbooklet/telephone waitingcontrol",
+        "outcome": "FSFI_total",
+        "time": "10weeks after therapy start, not verified10weeks after randomization.",
+        "estimand": "Published adjusted between-group difference inchange;PMM+chemotherapy",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_2": {
+          "actual_choice": "SOURCE_ONLY_NO_NEW_RATING",
+          "application_status": "ACTUAL_SOURCE_ONLY_NO_NEW_RATING",
+          "causal_gradeability": null,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-HUMMEL2017-FSDS_R-T1",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-d313291a9efe14b5"
+      ],
+      "explicit_input_ids": [
+        "R62-HUMMEL2017-FSDS_R-T1"
+      ],
+      "exact_target": {
+        "population": "Adult18–65 disease-free breast-cancer survivors withDSM-IV sexual dysfunction;Netherlands10hospitals;2013–2015",
+        "whole_strategy": "Adaptive therapist-guided InternetCBT;4–5of10modules, qualifying pelvic relaxation/exposure tasks offered when indicated",
+        "comparison": "Individualized InternetCBT vsbooklet/telephone waitingcontrol",
+        "outcome": "FSDS_R",
+        "time": "10weeks after therapy start, not verified10weeks after randomization.",
+        "estimand": "Published adjusted between-group difference inchange;PMM+chemotherapy",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_2": {
+          "actual_choice": "SOURCE_ONLY_NO_NEW_RATING",
+          "application_status": "ACTUAL_SOURCE_ONLY_NO_NEW_RATING",
+          "causal_gradeability": null,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-HUMMEL2017-SAQ_pleasure-T1",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-d313291a9efe14b5"
+      ],
+      "explicit_input_ids": [
+        "R62-HUMMEL2017-SAQ_pleasure-T1"
+      ],
+      "exact_target": {
+        "population": "Adult18–65 disease-free breast-cancer survivors withDSM-IV sexual dysfunction;Netherlands10hospitals;2013–2015",
+        "whole_strategy": "Adaptive therapist-guided InternetCBT;4–5of10modules, qualifying pelvic relaxation/exposure tasks offered when indicated",
+        "comparison": "Individualized InternetCBT vsbooklet/telephone waitingcontrol",
+        "outcome": "SAQ_pleasure",
+        "time": "10weeks after therapy start, not verified10weeks after randomization.",
+        "estimand": "Published adjusted between-group difference inchange;PMM+chemotherapy",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_2": {
+          "actual_choice": "SOURCE_ONLY_NO_NEW_RATING",
+          "application_status": "ACTUAL_SOURCE_ONLY_NO_NEW_RATING",
+          "causal_gradeability": null,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Moderate"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-HUMMEL2017-SAQ_discomfort-T1",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-d313291a9efe14b5"
+      ],
+      "explicit_input_ids": [
+        "R62-HUMMEL2017-SAQ_discomfort-T1"
+      ],
+      "exact_target": {
+        "population": "Adult18–65 disease-free breast-cancer survivors withDSM-IV sexual dysfunction;Netherlands10hospitals;2013–2015",
+        "whole_strategy": "Adaptive therapist-guided InternetCBT;4–5of10modules, qualifying pelvic relaxation/exposure tasks offered when indicated",
+        "comparison": "Individualized InternetCBT vsbooklet/telephone waitingcontrol",
+        "outcome": "SAQ_discomfort",
+        "time": "10weeks after therapy start, not verified10weeks after randomization.",
+        "estimand": "Published adjusted between-group difference inchange;PMM+chemotherapy",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_2": {
+          "actual_choice": "SOURCE_ONLY_NO_NEW_RATING",
+          "application_status": "ACTUAL_SOURCE_ONLY_NO_NEW_RATING",
+          "causal_gradeability": null,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-HUMMEL2017-SAQ_habit-T1",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-d313291a9efe14b5"
+      ],
+      "explicit_input_ids": [
+        "R62-HUMMEL2017-SAQ_habit-T1"
+      ],
+      "exact_target": {
+        "population": "Adult18–65 disease-free breast-cancer survivors withDSM-IV sexual dysfunction;Netherlands10hospitals;2013–2015",
+        "whole_strategy": "Adaptive therapist-guided InternetCBT;4–5of10modules, qualifying pelvic relaxation/exposure tasks offered when indicated",
+        "comparison": "Individualized InternetCBT vsbooklet/telephone waitingcontrol",
+        "outcome": "SAQ_habit",
+        "time": "10weeks after therapy start, not verified10weeks after randomization.",
+        "estimand": "Published adjusted between-group difference inchange;PMM+chemotherapy",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_2": {
+          "actual_choice": "SOURCE_ONLY_NO_NEW_RATING",
+          "application_status": "ACTUAL_SOURCE_ONLY_NO_NEW_RATING",
+          "causal_gradeability": null,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Moderate"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-HUMMEL2017-FSFI_total-T2",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-d313291a9efe14b5"
+      ],
+      "explicit_input_ids": [
+        "R62-HUMMEL2017-FSFI_total-T2"
+      ],
+      "exact_target": {
+        "population": "Adult18–65 disease-free breast-cancer survivors withDSM-IV sexual dysfunction;Netherlands10hospitals;2013–2015",
+        "whole_strategy": "Adaptive therapist-guided InternetCBT;4–5of10modules, qualifying pelvic relaxation/exposure tasks offered when indicated",
+        "comparison": "Individualized InternetCBT vsbooklet/telephone waitingcontrol",
+        "outcome": "FSFI_total",
+        "time": "Posttherapy individualized course; equivalent control assessment times stated.",
+        "estimand": "Published adjusted between-group difference inchange;PMM+chemotherapy",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_2": {
+          "actual_choice": "SOURCE_ONLY_NO_NEW_RATING",
+          "application_status": "ACTUAL_SOURCE_ONLY_NO_NEW_RATING",
+          "causal_gradeability": null,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-HUMMEL2017-FSDS_R-T2",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-d313291a9efe14b5"
+      ],
+      "explicit_input_ids": [
+        "R62-HUMMEL2017-FSDS_R-T2"
+      ],
+      "exact_target": {
+        "population": "Adult18–65 disease-free breast-cancer survivors withDSM-IV sexual dysfunction;Netherlands10hospitals;2013–2015",
+        "whole_strategy": "Adaptive therapist-guided InternetCBT;4–5of10modules, qualifying pelvic relaxation/exposure tasks offered when indicated",
+        "comparison": "Individualized InternetCBT vsbooklet/telephone waitingcontrol",
+        "outcome": "FSDS_R",
+        "time": "Posttherapy individualized course; equivalent control assessment times stated.",
+        "estimand": "Published adjusted between-group difference inchange;PMM+chemotherapy",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_2": {
+          "actual_choice": "SOURCE_ONLY_NO_NEW_RATING",
+          "application_status": "ACTUAL_SOURCE_ONLY_NO_NEW_RATING",
+          "causal_gradeability": null,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Moderate"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-HUMMEL2017-SAQ_pleasure-T2",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-d313291a9efe14b5"
+      ],
+      "explicit_input_ids": [
+        "R62-HUMMEL2017-SAQ_pleasure-T2"
+      ],
+      "exact_target": {
+        "population": "Adult18–65 disease-free breast-cancer survivors withDSM-IV sexual dysfunction;Netherlands10hospitals;2013–2015",
+        "whole_strategy": "Adaptive therapist-guided InternetCBT;4–5of10modules, qualifying pelvic relaxation/exposure tasks offered when indicated",
+        "comparison": "Individualized InternetCBT vsbooklet/telephone waitingcontrol",
+        "outcome": "SAQ_pleasure",
+        "time": "Posttherapy individualized course; equivalent control assessment times stated.",
+        "estimand": "Published adjusted between-group difference inchange;PMM+chemotherapy",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_2": {
+          "actual_choice": "SOURCE_ONLY_NO_NEW_RATING",
+          "application_status": "ACTUAL_SOURCE_ONLY_NO_NEW_RATING",
+          "causal_gradeability": null,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Moderate"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-HUMMEL2017-SAQ_discomfort-T2",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-d313291a9efe14b5"
+      ],
+      "explicit_input_ids": [
+        "R62-HUMMEL2017-SAQ_discomfort-T2"
+      ],
+      "exact_target": {
+        "population": "Adult18–65 disease-free breast-cancer survivors withDSM-IV sexual dysfunction;Netherlands10hospitals;2013–2015",
+        "whole_strategy": "Adaptive therapist-guided InternetCBT;4–5of10modules, qualifying pelvic relaxation/exposure tasks offered when indicated",
+        "comparison": "Individualized InternetCBT vsbooklet/telephone waitingcontrol",
+        "outcome": "SAQ_discomfort",
+        "time": "Posttherapy individualized course; equivalent control assessment times stated.",
+        "estimand": "Published adjusted between-group difference inchange;PMM+chemotherapy",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_2": {
+          "actual_choice": "SOURCE_ONLY_NO_NEW_RATING",
+          "application_status": "ACTUAL_SOURCE_ONLY_NO_NEW_RATING",
+          "causal_gradeability": null,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-HUMMEL2017-SAQ_habit-T2",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-d313291a9efe14b5"
+      ],
+      "explicit_input_ids": [
+        "R62-HUMMEL2017-SAQ_habit-T2"
+      ],
+      "exact_target": {
+        "population": "Adult18–65 disease-free breast-cancer survivors withDSM-IV sexual dysfunction;Netherlands10hospitals;2013–2015",
+        "whole_strategy": "Adaptive therapist-guided InternetCBT;4–5of10modules, qualifying pelvic relaxation/exposure tasks offered when indicated",
+        "comparison": "Individualized InternetCBT vsbooklet/telephone waitingcontrol",
+        "outcome": "SAQ_habit",
+        "time": "Posttherapy individualized course; equivalent control assessment times stated.",
+        "estimand": "Published adjusted between-group difference inchange;PMM+chemotherapy",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_2": {
+          "actual_choice": "SOURCE_ONLY_NO_NEW_RATING",
+          "application_status": "ACTUAL_SOURCE_ONLY_NO_NEW_RATING",
+          "causal_gradeability": null,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Moderate"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-ESENSE-R1-MBT-VS-WL-SIDI_F",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R62-ESENSE-R1-MBT-VS-WL-SIDI_F"
+      ],
+      "exact_target": {
+        "population": "Adultwomen19+;actual21–74;Canada/USA;Nov2021–Nov2022;SIAD",
+        "whole_strategy": "eSense-MBT eight-module inseparable body/breath/movement/mindfulness package",
+        "comparison": "MBTwholepackage vsWL",
+        "outcome": "SIDI_F",
+        "time": "R1variable treatmentpost vs10week waitingassessment",
+        "estimand": "Native MIpooled random-intercept time-by-group differentialchange;WLreference",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Moderate"
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Moderate"
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Moderate"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-ESENSE-R1-MBT-VS-WL-FSDS_R",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R62-ESENSE-R1-MBT-VS-WL-FSDS_R"
+      ],
+      "exact_target": {
+        "population": "Adultwomen19+;actual21–74;Canada/USA;Nov2021–Nov2022;SIAD",
+        "whole_strategy": "eSense-MBT eight-module inseparable body/breath/movement/mindfulness package",
+        "comparison": "MBTwholepackage vsWL",
+        "outcome": "FSDS_R",
+        "time": "R1variable treatmentpost vs10week waitingassessment",
+        "estimand": "Native MIpooled random-intercept time-by-group differentialchange;WLreference",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Moderate"
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Moderate"
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Moderate"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-ESENSE-R1-MBT-VS-WL-QSI_S",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R62-ESENSE-R1-MBT-VS-WL-QSI_S"
+      ],
+      "exact_target": {
+        "population": "Adultwomen19+;actual21–74;Canada/USA;Nov2021–Nov2022;SIAD",
+        "whole_strategy": "eSense-MBT eight-module inseparable body/breath/movement/mindfulness package",
+        "comparison": "MBTwholepackage vsWL",
+        "outcome": "QSI_S",
+        "time": "R1variable treatmentpost vs10week waitingassessment",
+        "estimand": "Native MIpooled random-intercept time-by-group differentialchange;WLreference",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Moderate"
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Moderate"
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Moderate"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-ESENSE-R1-MBT-VS-WL-QSI_D",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R62-ESENSE-R1-MBT-VS-WL-QSI_D"
+      ],
+      "exact_target": {
+        "population": "Adultwomen19+;actual21–74;Canada/USA;Nov2021–Nov2022;SIAD",
+        "whole_strategy": "eSense-MBT eight-module inseparable body/breath/movement/mindfulness package",
+        "comparison": "MBTwholepackage vsWL",
+        "outcome": "QSI_D",
+        "time": "R1variable treatmentpost vs10week waitingassessment",
+        "estimand": "Native MIpooled random-intercept time-by-group differentialchange;WLreference",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-ESENSE-R1-MBT-VS-WL-FSFI_total",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R62-ESENSE-R1-MBT-VS-WL-FSFI_total"
+      ],
+      "exact_target": {
+        "population": "Adultwomen19+;actual21–74;Canada/USA;Nov2021–Nov2022;SIAD",
+        "whole_strategy": "eSense-MBT eight-module inseparable body/breath/movement/mindfulness package",
+        "comparison": "MBTwholepackage vsWL",
+        "outcome": "FSFI_total",
+        "time": "R1variable treatmentpost vs10week waitingassessment",
+        "estimand": "Native MIpooled random-intercept time-by-group differentialchange;WLreference",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-ESENSE-R2-MBT-VS-CBT-SIDI_F-t2-t1",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R62-ESENSE-R2-MBT-VS-CBT-SIDI_F-t2-t1"
+      ],
+      "exact_target": {
+        "population": "Adultwomen19+;actual21–74;Canada/USA;Nov2021–Nov2022;SIAD",
+        "whole_strategy": "eSense-MBT eight-module inseparable body/breath/movement/mindfulness package",
+        "comparison": "MBTwholepackage vsCBTwholepackage;CBTreference",
+        "outcome": "SIDI_F",
+        "time": "R2t2-t1:posttreatment",
+        "estimand": "Native MIpooled random-intercept time-by-group differentialchange",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-ESENSE-R2-MBT-VS-CBT-FSDS_R-t2-t1",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R62-ESENSE-R2-MBT-VS-CBT-FSDS_R-t2-t1"
+      ],
+      "exact_target": {
+        "population": "Adultwomen19+;actual21–74;Canada/USA;Nov2021–Nov2022;SIAD",
+        "whole_strategy": "eSense-MBT eight-module inseparable body/breath/movement/mindfulness package",
+        "comparison": "MBTwholepackage vsCBTwholepackage;CBTreference",
+        "outcome": "FSDS_R",
+        "time": "R2t2-t1:posttreatment",
+        "estimand": "Native MIpooled random-intercept time-by-group differentialchange",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-ESENSE-R2-MBT-VS-CBT-QSI_S-t2-t1",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R62-ESENSE-R2-MBT-VS-CBT-QSI_S-t2-t1"
+      ],
+      "exact_target": {
+        "population": "Adultwomen19+;actual21–74;Canada/USA;Nov2021–Nov2022;SIAD",
+        "whole_strategy": "eSense-MBT eight-module inseparable body/breath/movement/mindfulness package",
+        "comparison": "MBTwholepackage vsCBTwholepackage;CBTreference",
+        "outcome": "QSI_S",
+        "time": "R2t2-t1:posttreatment",
+        "estimand": "Native MIpooled random-intercept time-by-group differentialchange",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-ESENSE-R2-MBT-VS-CBT-QSI_D-t2-t1",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R62-ESENSE-R2-MBT-VS-CBT-QSI_D-t2-t1"
+      ],
+      "exact_target": {
+        "population": "Adultwomen19+;actual21–74;Canada/USA;Nov2021–Nov2022;SIAD",
+        "whole_strategy": "eSense-MBT eight-module inseparable body/breath/movement/mindfulness package",
+        "comparison": "MBTwholepackage vsCBTwholepackage;CBTreference",
+        "outcome": "QSI_D",
+        "time": "R2t2-t1:posttreatment",
+        "estimand": "Native MIpooled random-intercept time-by-group differentialchange",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-ESENSE-R2-MBT-VS-CBT-FSFI_total-t2-t1",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R62-ESENSE-R2-MBT-VS-CBT-FSFI_total-t2-t1"
+      ],
+      "exact_target": {
+        "population": "Adultwomen19+;actual21–74;Canada/USA;Nov2021–Nov2022;SIAD",
+        "whole_strategy": "eSense-MBT eight-module inseparable body/breath/movement/mindfulness package",
+        "comparison": "MBTwholepackage vsCBTwholepackage;CBTreference",
+        "outcome": "FSFI_total",
+        "time": "R2t2-t1:posttreatment",
+        "estimand": "Native MIpooled random-intercept time-by-group differentialchange",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-ESENSE-R2-MBT-VS-CBT-SIDI_F-t3-t1",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R62-ESENSE-R2-MBT-VS-CBT-SIDI_F-t3-t1"
+      ],
+      "exact_target": {
+        "population": "Adultwomen19+;actual21–74;Canada/USA;Nov2021–Nov2022;SIAD",
+        "whole_strategy": "eSense-MBT eight-module inseparable body/breath/movement/mindfulness package",
+        "comparison": "MBTwholepackage vsCBTwholepackage;CBTreference",
+        "outcome": "SIDI_F",
+        "time": "R2t3-t1:6monthposttreatment",
+        "estimand": "Native MIpooled random-intercept time-by-group differentialchange",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-ESENSE-R2-MBT-VS-CBT-FSDS_R-t3-t1",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R62-ESENSE-R2-MBT-VS-CBT-FSDS_R-t3-t1"
+      ],
+      "exact_target": {
+        "population": "Adultwomen19+;actual21–74;Canada/USA;Nov2021–Nov2022;SIAD",
+        "whole_strategy": "eSense-MBT eight-module inseparable body/breath/movement/mindfulness package",
+        "comparison": "MBTwholepackage vsCBTwholepackage;CBTreference",
+        "outcome": "FSDS_R",
+        "time": "R2t3-t1:6monthposttreatment",
+        "estimand": "Native MIpooled random-intercept time-by-group differentialchange",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-ESENSE-R2-MBT-VS-CBT-QSI_S-t3-t1",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R62-ESENSE-R2-MBT-VS-CBT-QSI_S-t3-t1"
+      ],
+      "exact_target": {
+        "population": "Adultwomen19+;actual21–74;Canada/USA;Nov2021–Nov2022;SIAD",
+        "whole_strategy": "eSense-MBT eight-module inseparable body/breath/movement/mindfulness package",
+        "comparison": "MBTwholepackage vsCBTwholepackage;CBTreference",
+        "outcome": "QSI_S",
+        "time": "R2t3-t1:6monthposttreatment",
+        "estimand": "Native MIpooled random-intercept time-by-group differentialchange",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Moderate"
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Moderate"
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Moderate"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-ESENSE-R2-MBT-VS-CBT-QSI_D-t3-t1",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R62-ESENSE-R2-MBT-VS-CBT-QSI_D-t3-t1"
+      ],
+      "exact_target": {
+        "population": "Adultwomen19+;actual21–74;Canada/USA;Nov2021–Nov2022;SIAD",
+        "whole_strategy": "eSense-MBT eight-module inseparable body/breath/movement/mindfulness package",
+        "comparison": "MBTwholepackage vsCBTwholepackage;CBTreference",
+        "outcome": "QSI_D",
+        "time": "R2t3-t1:6monthposttreatment",
+        "estimand": "Native MIpooled random-intercept time-by-group differentialchange",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": true,
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Low"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-R62-ESENSE-R2-MBT-VS-CBT-FSFI_total-t3-t1",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R62-ESENSE-R2-MBT-VS-CBT-FSFI_total-t3-t1"
+      ],
+      "exact_target": {
+        "population": "Adultwomen19+;actual21–74;Canada/USA;Nov2021–Nov2022;SIAD",
+        "whole_strategy": "eSense-MBT eight-module inseparable body/breath/movement/mindfulness package",
+        "comparison": "MBTwholepackage vsCBTwholepackage;CBTreference",
+        "outcome": "FSFI_total",
+        "time": "R2t3-t1:6monthposttreatment",
+        "estimand": "Native MIpooled random-intercept time-by-group differentialchange",
+        "interpretation": "Source-native mean-score direction only, not patient-important difference/recovery/isolatedexercise."
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": false,
+          "direction_or_exact_body_certainty": null
+        }
+      }
+    },
+    {
+      "grade_target_id": "R64-G-FSDS_TWO_SOURCE_FIRST_PLANNED_POST",
+      "layer": "R65_ACTUAL_26_TARGET_ACTIONS_78_ROLE_SLOTS",
+      "census_report_ids": [
+        "REP-9cbdbe8139580cc4",
+        "REP-9f1ae52a0cddefb1"
+      ],
+      "explicit_input_ids": [
+        "R28_VELTEN2024_FSDS-R13_T2_iMBST_vs_WL",
+        "R62-ESENSE-R1-MBT-VS-WL-FSDS_R"
+      ],
+      "exact_target": {
+        "population": "Adult women with clinically screened distressing low desire/HSDD orSIAD, excluding low desire fully explained by sexual pain. Mahar additionally requires stable partner and recent partnered activity; generalizability differs.",
+        "whole_strategy": "Guided Internet mindfulness-based sexual-therapy programmes with assigned bodily/breath/movement practice versus a waiting condition; not isolated exercise.",
+        "outcome": "FSDS-R13total0-52,higherdistress",
+        "effect_measure": "published between-group differential change coefficient on original FSDS-R points",
+        "direction": "programme minuswaiting;negativefavourslessdistress",
+        "time_basis": "Explicit posthoc broad protocol first-post-assessment target: Velten3calendar months after enrollment; MaharR1 oneweek after12weeks fromfirstlogin or earlier navigatorcompletion, while waiting comparator reassessed10weeks. No common randomization-relative12week endpoint or exact common elapsedtime is claimed.",
+        "prespecified": false,
+        "exact_randomization_relative_time_harmonized": false,
+        "random_effects_method": "REML metafor test=adhoc; variance floor1;df=k-1",
+        "common_effect_method": "Inversevariance EE;normalWald",
+        "nativeSE_not_CI_width_used": true,
+        "modelN_not_reconstructed": true
+      },
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXPLICIT_POSTHOC_BROAD_FIRST_POST_BODY",
+          "direction_or_exact_body_certainty": "Very low"
+        },
+        "assessor_2": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Very low"
+        },
+        "assessor_3": {
+          "actual_choice": "ADOPT_ROLE_VECTOR",
+          "application_status": "ACTUAL_ROLE_VECTOR_ADOPTED_WITH_EXACT_TARGET_LIMITS",
+          "causal_gradeability": "EXACT_SOURCE_OR_BODY_TARGET_ONLY",
+          "direction_or_exact_body_certainty": "Very low"
+        }
+      }
+    },
+    {
+      "grade_target_id": "R145-G-030-E15",
+      "layer": "S29_ACTUAL_FOUR_EXACT_TARGETS",
+      "census_report_ids": [
+        "R145-N144-SOURCE-132"
+      ],
+      "explicit_input_ids": [
+        "030-E15"
+      ],
+      "exact_target": {
+        "comparison": "Sensate focus plus common PFMT versus common PFMT",
+        "outcome": "FSFI total adjusted between-group difference in change"
+      },
+      "applied_action": "ACTUAL_YIN_PLAN_AFTER_TWO_REVIEWER_RATEABILITY_DISAGREEMENT",
+      "source_parameter_certainty": "Moderate",
+      "complete_randomized_strategy_causal_grade": "NOT_EXTRAPOLATED_BEYOND_THE_REPORTED_NARROW_PARAMETER",
+      "retained_dissent_authors": [
+        "Kaiting Wen"
+      ],
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {}
+    },
+    {
+      "grade_target_id": "R145-G-039-E01",
+      "layer": "S29_ACTUAL_FOUR_EXACT_TARGETS",
+      "census_report_ids": [
+        "R145-N144-SOURCE-139"
+      ],
+      "explicit_input_ids": [
+        "039-E01"
+      ],
+      "exact_target": {
+        "comparison": "Vaginal spheres plus common PFMT versus common PFMT",
+        "outcome": "FSFI total"
+      },
+      "applied_action": "TWO_ACTUAL_REVIEWERS_AGREE_FOR_RESTRICTED_COMPLETER_TARGET_DISTINCT_COMPLETE_STRATEGY_TARGET_SEPARATE",
+      "source_parameter_certainty": "Very low",
+      "complete_randomized_strategy_causal_grade": "NOT_RATEABLE",
+      "retained_dissent_authors": [
+        "Chuan Yin"
+      ],
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {}
+    },
+    {
+      "grade_target_id": "R145-G-069-E02",
+      "layer": "S29_ACTUAL_FOUR_EXACT_TARGETS",
+      "census_report_ids": [
+        "R145-N144-SOURCE-089"
+      ],
+      "explicit_input_ids": [
+        "069-E02"
+      ],
+      "exact_target": {
+        "comparison": "electricaladdon+PFMT minusPFMT",
+        "outcome": "PISQ physical"
+      },
+      "applied_action": "ALL_THREE_ACTUAL_AUTHORS_AGREE_ON_EXACT_GRADE_AND_DOMAIN_DEDUCTIONS_NOT_VERBATIM_SCHEMES",
+      "source_parameter_certainty": "Low",
+      "complete_randomized_strategy_causal_grade": "LIMITED_LOW_CERTAINTY_INTERPRETATION_NOT_RECOVERED_FULL_ITT_ESTIMATE",
+      "retained_dissent_authors": [],
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {}
+    },
+    {
+      "grade_target_id": "R145-G-107-E03",
+      "layer": "S29_ACTUAL_FOUR_EXACT_TARGETS",
+      "census_report_ids": [
+        "R145-N144-SOURCE-087"
+      ],
+      "explicit_input_ids": [
+        "107-E03"
+      ],
+      "exact_target": {
+        "comparison": "Internet ACT plus daily PFMT/desensitisation whole package versus initially waiting/usual care; at later follow-up controls could receive usual clinical treatment",
+        "outcome": "pain duringintercourse NRS"
+      },
+      "applied_action": "ALL_THREE_ACTUAL_AUTHORS_AGREE_NOT_RATEABLE_FOR_COMPLETE_STRATEGY_DOMAIN_ANNOTATIONS_RETAINED_SEPARATELY",
+      "source_parameter_certainty": "NOT_RATEABLE",
+      "complete_randomized_strategy_causal_grade": "NOT_RATEABLE",
+      "retained_dissent_authors": [],
+      "source_link_does_not_transfer_GRADE_to_other_outcomes": true,
+      "adopted_assessor_positions": {}
+    }
+  ],
+  "existing_disagreements": [
+    {
+      "target_id": "R60-NEW-04-T01",
+      "title": "Gynecological cancer and UI:12-week remote multimodal PFMT versus usual activity",
+      "input_id": "R29-deBemFretta2026",
+      "PI_working_label": "SCOPED_LOW",
+      "PI_scope": "Source adjusted or reported FSFI change contrast of the remote multimodal PFMT/education/self-care strategy at12weeks, among available outcome data; not isolated PFMT or confirmed full-cohort assignment effect.",
+      "single_new_consensus_GRADE": null,
+      "no_new_arbitration_or_majority_vote": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_LOW",
+          "grade_label": "低",
+          "scope": "只评估所界定平均量表对比的方向和源估计可信度；不对重要幅度、个体恢复、安全性或未定义外推给等级。",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_TRIAL_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "NO_ADDITIONAL_DOWNGRADE_WITHIN_EXPLICIT_SOURCE_SCOPE",
+              "downgrade_levels": 0
+            },
+            "imprecision": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1
+            },
+            "publication_bias": {
+              "judgement": "NOT_ESTIMABLE_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            }
+          }
+        },
+        "assessor_2": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_VERY_LOW",
+          "grade_label": "极低",
+          "scope": "妇癌治疗后UI女性，远程多模式PFMT整套方案相对通常活动，12周来源FSFI可得成对资料对比；不把该工作标签作为所有64人的完整随机分配效应已被恢复的证明。",
+          "five_domains": [
+            {
+              "domain": "risk_of_bias",
+              "downgrade": 2
+            },
+            {
+              "domain": "inconsistency",
+              "downgrade": 0
+            },
+            {
+              "domain": "indirectness",
+              "downgrade": 0
+            },
+            {
+              "domain": "imprecision",
+              "downgrade": 1
+            },
+            {
+              "domain": "publication_bias",
+              "downgrade": 0
+            }
+          ]
+        },
+        "assessor_3": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_LOW",
+          "grade_label": "低",
+          "scope": "Source adjusted or reported FSFI change contrast of the remote multimodal PFMT/education/self-care strategy at12weeks, among available outcome data; not isolated PFMT or confirmed full-cohort assignment effect.",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1,
+              "source_author_and_official_layers_preserved": true
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_SOURCE_IDENTITY_FOR_THIS_EXACT_TARGET",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "NOT_SERIOUS_WITHIN_EXPLICIT_SOURCE_SCOPE",
+              "downgrade_levels": 0
+            },
+            "imprecision": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1,
+              "applicable_patient_anchored_MID": null,
+              "no_generic_FSFI_or_C30_threshold_applied": true
+            },
+            "publication_bias": {
+              "judgement": "UNCERTAIN_NOT_INDEPENDENTLY_DOWNGRADED",
+              "downgrade_levels": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "target_id": "R60-NEW-07-T01",
+      "title": "Menopausal TLM bundle:12-week FSFI contrast",
+      "input_id": "R29-Wang2025_TLM",
+      "PI_working_label": "SCOPED_MODERATE",
+      "PI_scope": "Complete TLM package model contrast at its scheduled12week endpoint; original ITT LMM94 is not a raw observed endpoint sample or isolated PFMT/TaiChi effect.",
+      "single_new_consensus_GRADE": null,
+      "no_new_arbitration_or_majority_vote": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_MODERATE",
+          "grade_label": "中",
+          "scope": "只评估所界定平均量表对比的方向和源估计可信度；不对重要幅度、个体恢复、安全性或未定义外推给等级。",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_TRIAL_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "NO_ADDITIONAL_DOWNGRADE_WITHIN_EXPLICIT_SOURCE_SCOPE",
+              "downgrade_levels": 0
+            },
+            "imprecision": {
+              "judgement": "NO_ADDITIONAL_DOWNGRADE_FOR_DIRECTION_ONLY",
+              "downgrade_levels": 0
+            },
+            "publication_bias": {
+              "judgement": "NOT_ESTIMABLE_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            }
+          }
+        },
+        "assessor_2": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_LOW",
+          "grade_label": "低",
+          "scope": "来源更年期女性，PFMT+太极+性健康/饮食教育完整TLM对简短建议、同指征中药背景，12周来源总FSFI模型对比；总分与未加权域分开。",
+          "five_domains": [
+            {
+              "domain": "risk_of_bias",
+              "downgrade": 1
+            },
+            {
+              "domain": "inconsistency",
+              "downgrade": 0
+            },
+            {
+              "domain": "indirectness",
+              "downgrade": 0
+            },
+            {
+              "domain": "imprecision",
+              "downgrade": 1
+            },
+            {
+              "domain": "publication_bias",
+              "downgrade": 0
+            }
+          ]
+        },
+        "assessor_3": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_MODERATE",
+          "grade_label": "中",
+          "scope": "Complete TLM package model contrast at its scheduled12week endpoint; original ITT LMM94 is not a raw observed endpoint sample or isolated PFMT/TaiChi effect.",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1,
+              "source_author_and_official_layers_preserved": true
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_SOURCE_IDENTITY_FOR_THIS_EXACT_TARGET",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "NOT_SERIOUS_WITHIN_EXPLICIT_SOURCE_SCOPE",
+              "downgrade_levels": 0
+            },
+            "imprecision": {
+              "judgement": "NO_ADDITIONAL_DEDUCTION_FOR_EXACT_MEAN_PARAMETER",
+              "downgrade_levels": 0,
+              "applicable_patient_anchored_MID": null,
+              "no_generic_FSFI_or_C30_threshold_applied": true
+            },
+            "publication_bias": {
+              "judgement": "UNCERTAIN_NOT_INDEPENDENTLY_DOWNGRADED",
+              "downgrade_levels": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "target_id": "R60-NEW-09-T01",
+      "title": "Provoked vestibulodynia: multimodal physiotherapy versus lidocaine, distress and function",
+      "input_id": "R30-MORIN-FSDS",
+      "PI_working_label": "NOT_CLINICALLY_RATEABLE",
+      "PI_scope": "Clinical GRADE on a validated FSDS or FSDS-R13 target is not released: source citation/label/range metadata conflict. The numeric source-labelled endpoint parameter may remain descriptive.",
+      "single_new_consensus_GRADE": null,
+      "no_new_arbitration_or_majority_vote": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_MODERATE",
+          "grade_label": "中",
+          "scope": "只评估所界定平均量表对比的方向和源估计可信度；不对重要幅度、个体恢复、安全性或未定义外推给等级。",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_TRIAL_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "NO_ADDITIONAL_DOWNGRADE_WITHIN_EXPLICIT_SOURCE_SCOPE",
+              "downgrade_levels": 0
+            },
+            "imprecision": {
+              "judgement": "NO_ADDITIONAL_DOWNGRADE_FOR_DIRECTION_ONLY",
+              "downgrade_levels": 0
+            },
+            "publication_bias": {
+              "judgement": "NOT_ESTIMABLE_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            }
+          }
+        },
+        "assessor_2": {
+          "actual_author_adoption": true,
+          "normalized_action": "NOT_CLINICALLY_RATEABLE",
+          "grade_label": "仅保留来源结果，不发布临床GRADE",
+          "scope": "仅保留来源标称FSFI/FSDS的10周多模式PT对利多卡因模型对比；不改原数值，不认证FSFI19/FSDS-R13，不把旧痛NRS/PGIC的Moderate复制到此构念。",
+          "five_domains": [
+            {
+              "domain": "risk_of_bias",
+              "downgrade": null
+            },
+            {
+              "domain": "inconsistency",
+              "downgrade": null
+            },
+            {
+              "domain": "indirectness",
+              "downgrade": null
+            },
+            {
+              "domain": "imprecision",
+              "downgrade": null
+            },
+            {
+              "domain": "publication_bias",
+              "downgrade": null
+            }
+          ]
+        },
+        "assessor_3": {
+          "actual_author_adoption": true,
+          "normalized_action": "NOT_CLINICALLY_RATEABLE",
+          "grade_label": "仅保留来源结果，不发布临床GRADE",
+          "scope": "Clinical GRADE on a validated FSDS or FSDS-R13 target is not released: source citation/label/range metadata conflict. The numeric source-labelled endpoint parameter may remain descriptive.",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "NOT_FINALIZED_FOR_UNIDENTIFIED_CLINICAL_TARGET",
+              "downgrade_levels": null,
+              "source_author_and_official_layers_preserved": true
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_SOURCE_IDENTITY_FOR_THIS_EXACT_TARGET",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "TARGET_MAPPING_OR_POPULATION_NOT_CERTIFIED",
+              "downgrade_levels": null
+            },
+            "imprecision": {
+              "judgement": "CLINICAL_TARGET_NOT_IDENTIFIED_NO_NUMERIC_GRADE",
+              "downgrade_levels": null,
+              "applicable_patient_anchored_MID": null,
+              "no_generic_FSFI_or_C30_threshold_applied": true
+            },
+            "publication_bias": {
+              "judgement": "UNCERTAIN_NOT_INDEPENDENTLY_DOWNGRADED",
+              "downgrade_levels": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "target_id": "R60-NEW-09-T02",
+      "title": "Provoked vestibulodynia: multimodal physiotherapy versus lidocaine, distress and function",
+      "input_id": "R30-MORIN-FSFI",
+      "PI_working_label": "NOT_CLINICALLY_RATEABLE",
+      "PI_scope": "The accepted manuscript lists five function domains and a figure FSFI range19-110. No typographic repair or automatic standard-FSFI19 mapping is authorized, so a clinical-certainty label on that standard target would be misleading.",
+      "single_new_consensus_GRADE": null,
+      "no_new_arbitration_or_majority_vote": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_LOW",
+          "grade_label": "低",
+          "scope": "只评估所界定平均量表对比的方向和源估计可信度；不对重要幅度、个体恢复、安全性或未定义外推给等级。",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "VERY_SERIOUS",
+              "downgrade_levels": 2
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_TRIAL_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "NO_ADDITIONAL_DOWNGRADE_WITHIN_EXPLICIT_SOURCE_SCOPE",
+              "downgrade_levels": 0
+            },
+            "imprecision": {
+              "judgement": "NO_ADDITIONAL_DOWNGRADE_FOR_DIRECTION_ONLY",
+              "downgrade_levels": 0
+            },
+            "publication_bias": {
+              "judgement": "NOT_ESTIMABLE_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            }
+          }
+        },
+        "assessor_2": {
+          "actual_author_adoption": true,
+          "normalized_action": "NOT_CLINICALLY_RATEABLE",
+          "grade_label": "仅保留来源结果，不发布临床GRADE",
+          "scope": "仅保留来源标称FSFI/FSDS的10周多模式PT对利多卡因模型对比；不改原数值，不认证FSFI19/FSDS-R13，不把旧痛NRS/PGIC的Moderate复制到此构念。",
+          "five_domains": [
+            {
+              "domain": "risk_of_bias",
+              "downgrade": null
+            },
+            {
+              "domain": "inconsistency",
+              "downgrade": null
+            },
+            {
+              "domain": "indirectness",
+              "downgrade": null
+            },
+            {
+              "domain": "imprecision",
+              "downgrade": null
+            },
+            {
+              "domain": "publication_bias",
+              "downgrade": null
+            }
+          ]
+        },
+        "assessor_3": {
+          "actual_author_adoption": true,
+          "normalized_action": "NOT_CLINICALLY_RATEABLE",
+          "grade_label": "仅保留来源结果，不发布临床GRADE",
+          "scope": "The accepted manuscript lists five function domains and a figure FSFI range19-110. No typographic repair or automatic standard-FSFI19 mapping is authorized, so a clinical-certainty label on that standard target would be misleading.",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "NOT_FINALIZED_FOR_UNIDENTIFIED_CLINICAL_TARGET",
+              "downgrade_levels": null,
+              "source_author_and_official_layers_preserved": true
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_SOURCE_IDENTITY_FOR_THIS_EXACT_TARGET",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "TARGET_MAPPING_OR_POPULATION_NOT_CERTIFIED",
+              "downgrade_levels": null
+            },
+            "imprecision": {
+              "judgement": "CLINICAL_TARGET_NOT_IDENTIFIED_NO_NUMERIC_GRADE",
+              "downgrade_levels": null,
+              "applicable_patient_anchored_MID": null,
+              "no_generic_FSFI_or_C30_threshold_applied": true
+            },
+            "publication_bias": {
+              "judgement": "UNCERTAIN_NOT_INDEPENDENTLY_DOWNGRADED",
+              "downgrade_levels": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "target_id": "R60-NEW-10-T01",
+      "title": "Provoked vestibulodynia symptoms: guided ACT/physical relaxation versus waiting",
+      "input_id": "R31-Q09-FSFI_MODEL",
+      "PI_working_label": "SCOPED_LOW",
+      "PI_scope": "Published post10week ACT/physical-relaxation package function-model contrast, preserving source score version and source population ambiguity.",
+      "single_new_consensus_GRADE": null,
+      "no_new_arbitration_or_majority_vote": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_MODERATE",
+          "grade_label": "中",
+          "scope": "只评估所界定平均量表对比的方向和源估计可信度；不对重要幅度、个体恢复、安全性或未定义外推给等级。",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_TRIAL_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "NO_ADDITIONAL_DOWNGRADE_WITHIN_EXPLICIT_SOURCE_SCOPE",
+              "downgrade_levels": 0
+            },
+            "imprecision": {
+              "judgement": "NO_ADDITIONAL_DOWNGRADE_FOR_DIRECTION_ONLY",
+              "downgrade_levels": 0
+            },
+            "publication_bias": {
+              "judgement": "NOT_ESTIMABLE_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            }
+          }
+        },
+        "assessor_2": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_LOW",
+          "grade_label": "低",
+          "scope": "PVD症状入组的成人女性，指导ACT/身体放松完整方案对等待，10周来源FSFI模型对比；不把未全确诊者改为全部临床确诊或把RCI完成者当恢复。",
+          "five_domains": [
+            {
+              "domain": "risk_of_bias",
+              "downgrade": 1
+            },
+            {
+              "domain": "inconsistency",
+              "downgrade": 0
+            },
+            {
+              "domain": "indirectness",
+              "downgrade": 0
+            },
+            {
+              "domain": "imprecision",
+              "downgrade": 1
+            },
+            {
+              "domain": "publication_bias",
+              "downgrade": 0
+            }
+          ]
+        },
+        "assessor_3": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_LOW",
+          "grade_label": "低",
+          "scope": "Published post10week ACT/physical-relaxation package function-model contrast, preserving source score version and source population ambiguity.",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1,
+              "source_author_and_official_layers_preserved": true
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_SOURCE_IDENTITY_FOR_THIS_EXACT_TARGET",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "NOT_SERIOUS_WITHIN_EXPLICIT_SOURCE_SCOPE",
+              "downgrade_levels": 0
+            },
+            "imprecision": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1,
+              "applicable_patient_anchored_MID": null,
+              "no_generic_FSFI_or_C30_threshold_applied": true
+            },
+            "publication_bias": {
+              "judgement": "UNCERTAIN_NOT_INDEPENDENTLY_DOWNGRADED",
+              "downgrade_levels": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "target_id": "R60-NEW-10-T02",
+      "title": "Provoked vestibulodynia symptoms: guided ACT/physical relaxation versus waiting",
+      "input_id": "R31-Q09-FSDS_MODEL",
+      "PI_working_label": "SCOPED_LOW",
+      "PI_scope": "Source-labelled FSDS model contrast after10weeks of guided ACT/physical relaxation versus waiting, not a completer RCI remission proportion.",
+      "single_new_consensus_GRADE": null,
+      "no_new_arbitration_or_majority_vote": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_MODERATE",
+          "grade_label": "中",
+          "scope": "只评估所界定平均量表对比的方向和源估计可信度；不对重要幅度、个体恢复、安全性或未定义外推给等级。",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_TRIAL_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "NO_ADDITIONAL_DOWNGRADE_WITHIN_EXPLICIT_SOURCE_SCOPE",
+              "downgrade_levels": 0
+            },
+            "imprecision": {
+              "judgement": "NO_ADDITIONAL_DOWNGRADE_FOR_DIRECTION_ONLY",
+              "downgrade_levels": 0
+            },
+            "publication_bias": {
+              "judgement": "NOT_ESTIMABLE_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            }
+          }
+        },
+        "assessor_2": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_LOW",
+          "grade_label": "低",
+          "scope": "同一ACT成人来源的FSDS标称量表、10周计划访视的模型平均对比与幅度；不自动改名FSDS-R13或把均分下降当临床困扰缓解率。",
+          "five_domains": [
+            {
+              "domain": "risk_of_bias",
+              "downgrade": 1
+            },
+            {
+              "domain": "inconsistency",
+              "downgrade": 0
+            },
+            {
+              "domain": "indirectness",
+              "downgrade": 0
+            },
+            {
+              "domain": "imprecision",
+              "downgrade": 1
+            },
+            {
+              "domain": "publication_bias",
+              "downgrade": 0
+            }
+          ]
+        },
+        "assessor_3": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_LOW",
+          "grade_label": "低",
+          "scope": "Source-labelled FSDS model contrast after10weeks of guided ACT/physical relaxation versus waiting, not a completer RCI remission proportion.",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1,
+              "source_author_and_official_layers_preserved": true
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_SOURCE_IDENTITY_FOR_THIS_EXACT_TARGET",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "NOT_SERIOUS_WITHIN_EXPLICIT_SOURCE_SCOPE",
+              "downgrade_levels": 0
+            },
+            "imprecision": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1,
+              "applicable_patient_anchored_MID": null,
+              "no_generic_FSFI_or_C30_threshold_applied": true
+            },
+            "publication_bias": {
+              "judgement": "UNCERTAIN_NOT_INDEPENDENTLY_DOWNGRADED",
+              "downgrade_levels": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "target_id": "R60-NEW-15-T01",
+      "title": "Provoked vestibulodynia: couple CBT/body-practice bundle versus nightly lidocaine at programme end",
+      "input_id": "R35-CBCT-PAIN_INTENSITY-POST",
+      "PI_working_label": "SCOPED_MODERATE",
+      "PI_scope": "Whole CBCT/body-practice strategy versus nightly lidocaine: ITT multilevel differential change in intercourse-pain intensity at programme end, not the Morin pain effect or isolated breathing.",
+      "single_new_consensus_GRADE": null,
+      "no_new_arbitration_or_majority_vote": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_LOW",
+          "grade_label": "低",
+          "scope": "只评估所界定平均量表对比的方向和源估计可信度；不对重要幅度、个体恢复、安全性或未定义外推给等级。",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_TRIAL_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "NO_ADDITIONAL_DOWNGRADE_WITHIN_EXPLICIT_SOURCE_SCOPE",
+              "downgrade_levels": 0
+            },
+            "imprecision": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1
+            },
+            "publication_bias": {
+              "judgement": "NOT_ESTIMABLE_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            }
+          }
+        },
+        "assessor_2": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_LOW",
+          "grade_label": "低",
+          "scope": "PVD成年女性，伴侣CBT/呼吸/扩张器完整策略对夜间5%利多卡因，12次疗程末的ITT多层差异变化系数，NRS性交痛强度；不改端点MD或孤立运动。",
+          "five_domains": [
+            {
+              "domain": "risk_of_bias",
+              "downgrade": 1
+            },
+            {
+              "domain": "inconsistency",
+              "downgrade": 0
+            },
+            {
+              "domain": "indirectness",
+              "downgrade": 0
+            },
+            {
+              "domain": "imprecision",
+              "downgrade": 1
+            },
+            {
+              "domain": "publication_bias",
+              "downgrade": 0
+            }
+          ]
+        },
+        "assessor_3": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_MODERATE",
+          "grade_label": "中",
+          "scope": "Whole CBCT/body-practice strategy versus nightly lidocaine: ITT multilevel differential change in intercourse-pain intensity at programme end, not the Morin pain effect or isolated breathing.",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1,
+              "source_author_and_official_layers_preserved": true
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_SOURCE_IDENTITY_FOR_THIS_EXACT_TARGET",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "NOT_SERIOUS_WITHIN_EXPLICIT_SOURCE_SCOPE",
+              "downgrade_levels": 0
+            },
+            "imprecision": {
+              "judgement": "NO_ADDITIONAL_DEDUCTION_FOR_EXACT_MEAN_PARAMETER",
+              "downgrade_levels": 0,
+              "applicable_patient_anchored_MID": null,
+              "no_generic_FSFI_or_C30_threshold_applied": true
+            },
+            "publication_bias": {
+              "judgement": "UNCERTAIN_NOT_INDEPENDENTLY_DOWNGRADED",
+              "downgrade_levels": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "target_id": "R60-NEW-15-T03",
+      "title": "Provoked vestibulodynia: couple CBT/body-practice bundle versus nightly lidocaine at programme end",
+      "input_id": "R35-CBCT-FUNCTION_FSFI16-POST",
+      "PI_working_label": "SCOPED_LOW",
+      "PI_scope": "Weighted FSFI16 excluding three pain items: direct model differential change for the complete CBCT strategy, not FSFI19 or a reconstructed endpoint.",
+      "single_new_consensus_GRADE": null,
+      "no_new_arbitration_or_majority_vote": true,
+      "adopted_assessor_positions": {
+        "assessor_1": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_LOW",
+          "grade_label": "低",
+          "scope": "只评估所界定平均量表对比的方向和源估计可信度；不对重要幅度、个体恢复、安全性或未定义外推给等级。",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_TRIAL_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "NO_ADDITIONAL_DOWNGRADE_WITHIN_EXPLICIT_SOURCE_SCOPE",
+              "downgrade_levels": 0
+            },
+            "imprecision": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1
+            },
+            "publication_bias": {
+              "judgement": "NOT_ESTIMABLE_NO_AUTOMATIC_DOWNGRADE",
+              "downgrade_levels": 0
+            }
+          }
+        },
+        "assessor_2": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_VERY_LOW",
+          "grade_label": "极低",
+          "scope": "PVD伴侣CBT完整策略对利多卡因，12次疗程末加权FSFI16（排除3个痛条目）的ITT来源差异变化；保留性不活跃缺失处理，不称标准FSFI19。",
+          "five_domains": [
+            {
+              "domain": "risk_of_bias",
+              "downgrade": 2
+            },
+            {
+              "domain": "inconsistency",
+              "downgrade": 0
+            },
+            {
+              "domain": "indirectness",
+              "downgrade": 0
+            },
+            {
+              "domain": "imprecision",
+              "downgrade": 1
+            },
+            {
+              "domain": "publication_bias",
+              "downgrade": 0
+            }
+          ]
+        },
+        "assessor_3": {
+          "actual_author_adoption": true,
+          "normalized_action": "SCOPED_LOW",
+          "grade_label": "低",
+          "scope": "Weighted FSFI16 excluding three pain items: direct model differential change for the complete CBCT strategy, not FSFI19 or a reconstructed endpoint.",
+          "five_domains": {
+            "risk_of_bias": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1,
+              "source_author_and_official_layers_preserved": true
+            },
+            "inconsistency": {
+              "judgement": "NOT_ASSESSABLE_SINGLE_SOURCE_IDENTITY_FOR_THIS_EXACT_TARGET",
+              "downgrade_levels": 0
+            },
+            "indirectness": {
+              "judgement": "NOT_SERIOUS_WITHIN_EXPLICIT_SOURCE_SCOPE",
+              "downgrade_levels": 0
+            },
+            "imprecision": {
+              "judgement": "SERIOUS",
+              "downgrade_levels": 1,
+              "applicable_patient_anchored_MID": null,
+              "no_generic_FSFI_or_C30_threshold_applied": true
+            },
+            "publication_bias": {
+              "judgement": "UNCERTAIN_NOT_INDEPENDENTLY_DOWNGRADED",
+              "downgrade_levels": 0
+            }
+          }
+        }
+      }
+    }
+  ],
+  "certainty_record_view_count": 91,
+  "existing_disagreement_count": 8
+}

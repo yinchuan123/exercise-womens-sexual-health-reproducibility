@@ -1,0 +1,138 @@
+{
+  "status": "TECHNICAL_REPRODUCTION_OF_EXISTING_SIX_FITS_NOT_NEW_SCIENTIFIC_ANALYSES",
+  "case_count": 3,
+  "existing_model_count": 6,
+  "separate_diagnostic_model_count_not_refitted": 22,
+  "cases": [
+    {
+      "id": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY",
+      "K_as_previously_fitted": 2,
+      "source_rows": [
+        {
+          "input_id": "R17-Franco2021-ENDPOINT",
+          "study": "Franco2021",
+          "candidate_family_id": "PILOT-FAM-RBR-3S3FF7",
+          "yi": 2.1000000000000014,
+          "vi": 1.608999408866995,
+          "mean_I": 24.5,
+          "mean_C": 22.4,
+          "sd_I": 4.61,
+          "sd_C": 5.39,
+          "n_I": 35,
+          "n_C": 29,
+          "variance_input_type": "PRINTED_SOURCE_ARM_SD_AND_ANALYSIS_DENOMINATORS",
+          "source_N_does_not_certify_effective_model_or_item_N": true
+        },
+        {
+          "input_id": "R17-Khosravi2022-ENDPOINT",
+          "study": "Khosravi2022",
+          "candidate_family_id": "PILOT-FAM-IRCT20150128020854N7",
+          "yi": 2.7699999999999996,
+          "vi": 0.38192800000000005,
+          "mean_I": 27.07,
+          "mean_C": 24.3,
+          "sd_I": 3.08,
+          "sd_C": 3.1,
+          "n_I": 50,
+          "n_C": 50,
+          "variance_input_type": "PRINTED_SOURCE_ARM_SD_AND_ANALYSIS_DENOMINATORS",
+          "source_N_does_not_certify_effective_model_or_item_N": true
+        }
+      ],
+      "scope": "EXISTING_TWO_SOURCE_METHOD_SENSITIVITY_NOT_UNRESTRICTED_PRIMARY_POOL",
+      "restrictions": {
+        "historical_fit_interpretation_preserved": "Observed/reported-analysis unadjusted endpoints; Khosravi baseline imbalance and Table4 conflicts, Franco missingness and literal12wk/3calendar-month clocks retained. No pooled recovery/distress/harms or confirmedMID.",
+        "current_boundary": "Historical input/fitting interpretation is preserved. It is not the current author-certainty status: subsequent R65 exact-target actual positions remain separately authoritative; this technical verification changes no grade."
+      },
+      "pooled_effective_N": null,
+      "new_primary_pool": false
+    },
+    {
+      "id": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY",
+      "K_as_previously_fitted": 2,
+      "source_rows": [
+        {
+          "input_id": "R31-Q28-FSFI_RAW6WK_ALT",
+          "study": "Celenay2022",
+          "candidate_family_id": "NCT04950556",
+          "yi": 4.740000000000002,
+          "vi": 1.7441183982683985,
+          "mean_I": 22.67,
+          "mean_C": 17.93,
+          "sd_I": 4.21,
+          "sd_C": 4.45,
+          "n_I": 21,
+          "n_C": 22,
+          "variance_input_type": "PRINTED_SOURCE_ARM_SD_AND_ANALYSIS_DENOMINATORS",
+          "source_N_does_not_certify_effective_model_or_item_N": true
+        },
+        {
+          "input_id": "R31-ALADAG-FSFI_RAW6WK",
+          "study": "YilmazAladag2026",
+          "candidate_family_id": "NCT07030608",
+          "yi": -2.620000000000001,
+          "vi": 1.1235156249999998,
+          "mean_I": 18.06,
+          "mean_C": 20.68,
+          "sd_I": 3.58,
+          "sd_C": 4.81,
+          "n_I": 32,
+          "n_C": 32,
+          "variance_input_type": "PRINTED_SOURCE_ARM_SD_AND_ANALYSIS_DENOMINATORS",
+          "source_N_does_not_certify_effective_model_or_item_N": true
+        }
+      ],
+      "scope": "EXISTING_TWO_SOURCE_EARLY_WINDOW_EXPLORATORY_NOT_PRIMARY_WINDOW",
+      "restrictions": {
+        "historical_fit_interpretation_preserved": [
+          "CelenayTable21/22versusflow21/21;sourceTabledenominatorsusedwithuncertainty.",
+          "AladagTabledirectionversusproseconflictretained;nominalN32/32isreportedanalysisNnotIPDverification.",
+          "Rawendpointroutechosenforcommonestimand;Celenayadjustedcontrastpreservedseparately,notdiscardedfortheresult.",
+          "Two-sourceexploratorycomparison;notwhole-reviewexhaustivenessorindependenthumanadjudication."
+        ],
+        "current_boundary": "Historical input/fitting interpretation is preserved. It is not the current author-certainty status: subsequent R65 exact-target actual positions remain separately authoritative; this technical verification changes no grade."
+      },
+      "pooled_effective_N": null,
+      "new_primary_pool": false
+    },
+    {
+      "id": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST",
+      "K_as_previously_fitted": 2,
+      "source_rows": [
+        {
+          "input_id": "R28_VELTEN2024_FSDS-R13_T2_iMBST_vs_WL",
+          "study": "Velten2024",
+          "candidate_family_id": "NCT03780751",
+          "yi": -9.87,
+          "vi": 3.8415999999999997,
+          "native_SE": 1.96,
+          "variance_input_type": "NATIVE_REPORTED_SE_SQUARED",
+          "source_N_does_not_certify_effective_model_or_item_N": true
+        },
+        {
+          "input_id": "R62-ESENSE-R1-MBT-VS-WL-FSDS_R",
+          "study": "Mahar2025",
+          "candidate_family_id": "TRIAL-NCT05168371",
+          "yi": -8.903,
+          "vi": 4.669921,
+          "native_SE": 2.161,
+          "variance_input_type": "NATIVE_REPORTED_SE_SQUARED",
+          "source_N_does_not_certify_effective_model_or_item_N": true
+        }
+      ],
+      "scope": "ACTUAL_POSTHOC_CONDITIONAL_CLINICAL_METHOD_SENSITIVITY_NOT_PRIMARY",
+      "restrictions": {
+        "historical_fit_interpretation_preserved": {
+          "conclusion": "Two published source changes favour lessdistress, but with only2sources the modifiedKH interval is wide and spanszero. The narrower common-effect interval depends on its different effect/inference assumptions.",
+          "timing": "Broad first-planned-post-assessment target is explicitly posthoc; the source timing asymmetry is retained, not corrected by the model.",
+          "heterogeneity": "tau2=0/I2=0 atK2 does not establish homogeneity or validate the class/time assumption.",
+          "patient_importance": "No patient-anchored between-groupMID, diagnostic recovery, isolatedexercise benefit or comparative safety claim follows.",
+          "certainty": "Old61target ratings/8differences are unchanged. No new formalGRADE or human numerical-use approval is inferred from sourceadmission."
+        },
+        "current_boundary": "Historical input/fitting interpretation is preserved. It is not the current author-certainty status: subsequent R65 exact-target actual positions remain separately authoritative; this technical verification changes no grade."
+      },
+      "pooled_effective_N": null,
+      "new_primary_pool": false
+    }
+  ]
+}

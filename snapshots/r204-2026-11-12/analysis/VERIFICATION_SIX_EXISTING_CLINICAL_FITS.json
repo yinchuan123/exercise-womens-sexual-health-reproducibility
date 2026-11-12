@@ -1,0 +1,587 @@
+{
+  "status": "PASS_TECHNICAL_REPRODUCTION_ALL_SIX_EXISTING_CLINICAL_FITS",
+  "pre_existing_clinical_comparison_sets": 3,
+  "verification_model_evaluations": 6,
+  "new_scientific_fits": 0,
+  "new_primary_pools": 0,
+  "new_K_N_or_GRADE": 0,
+  "separate_diagnostic_fits_not_refitted": 22,
+  "checks": [
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY 1 yi=arm endpoint MD",
+      "pass": true,
+      "tolerance": 9.9999999999999998e-13,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY 1 vi=source SD2/N",
+      "pass": true,
+      "tolerance": 9.9999999999999998e-13,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY 2 yi=arm endpoint MD",
+      "pass": true,
+      "tolerance": 9.9999999999999998e-13,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY 2 vi=source SD2/N",
+      "pass": true,
+      "tolerance": 9.9999999999999998e-13,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY closed-form two-source REML tau2",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY REML_MODIFIED_KH manual centre",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 4.4408920985006262e-16
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY REML_MODIFIED_KH manual modifiedKH-or-normal SE",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 1.1102230246251565e-16
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY REML_MODIFIED_KH manual CI",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 7.1054273576010019e-15
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY REML_MODIFIED_KH manual p",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY REML_MODIFIED_KH frozen estimate",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY REML_MODIFIED_KH frozen CI",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY REML_MODIFIED_KH frozen SE",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY REML_MODIFIED_KH frozen tau2",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY REML_MODIFIED_KH frozen Q",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY REML_MODIFIED_KH frozen I2",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-07,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY REML_MODIFIED_KH frozen p",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY COMMON_EFFECT_NORMAL manual centre",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 4.4408920985006262e-16
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY COMMON_EFFECT_NORMAL manual modifiedKH-or-normal SE",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 1.1102230246251565e-16
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY COMMON_EFFECT_NORMAL manual CI",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 8.8817841970012523e-16
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY COMMON_EFFECT_NORMAL manual p",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY COMMON_EFFECT_NORMAL frozen estimate",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY COMMON_EFFECT_NORMAL frozen CI",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY COMMON_EFFECT_NORMAL frozen SE",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY COMMON_EFFECT_NORMAL frozen tau2",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY COMMON_EFFECT_NORMAL frozen Q",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY COMMON_EFFECT_NORMAL frozen p",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY 1 yi=arm endpoint MD",
+      "pass": true,
+      "tolerance": 9.9999999999999998e-13,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY 1 vi=source SD2/N",
+      "pass": true,
+      "tolerance": 9.9999999999999998e-13,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY 2 yi=arm endpoint MD",
+      "pass": true,
+      "tolerance": 9.9999999999999998e-13,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY 2 vi=source SD2/N",
+      "pass": true,
+      "tolerance": 9.9999999999999998e-13,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY closed-form two-source REML tau2",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 1.0658141036401503e-14
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY REML_MODIFIED_KH manual centre",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 2.2204460492503131e-16
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY REML_MODIFIED_KH manual modifiedKH-or-normal SE",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 4.4408920985006262e-16
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY REML_MODIFIED_KH manual CI",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 4.9737991503207013e-14
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY REML_MODIFIED_KH manual p",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY REML_MODIFIED_KH frozen estimate",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY REML_MODIFIED_KH frozen CI",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY REML_MODIFIED_KH frozen SE",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY REML_MODIFIED_KH frozen tau2",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY REML_MODIFIED_KH frozen Q",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY REML_MODIFIED_KH frozen I2",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-07,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY REML_MODIFIED_KH frozen p",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY COMMON_EFFECT_NORMAL manual centre",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 2.7755575615628914e-16
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY COMMON_EFFECT_NORMAL manual modifiedKH-or-normal SE",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 3.3306690738754696e-16
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY COMMON_EFFECT_NORMAL manual CI",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 1.3322676295501878e-15
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY COMMON_EFFECT_NORMAL manual p",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 3.3306690738754696e-16
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY COMMON_EFFECT_NORMAL frozen estimate",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY COMMON_EFFECT_NORMAL frozen CI",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY COMMON_EFFECT_NORMAL frozen SE",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY COMMON_EFFECT_NORMAL frozen p",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST 1 vi=nativeSE^2",
+      "pass": true,
+      "tolerance": 9.9999999999999998e-13,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST 2 vi=nativeSE^2",
+      "pass": true,
+      "tolerance": 9.9999999999999998e-13,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST closed-form two-source REML tau2",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST REML_MODIFIED_KH manual centre",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 3.5527136788005009e-15
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST REML_MODIFIED_KH manual modifiedKH-or-normal SE",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 2.2204460492503131e-16
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST REML_MODIFIED_KH manual CI",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 1.4210854715202004e-14
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST REML_MODIFIED_KH manual p",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 2.7755575615628914e-17
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST REML_MODIFIED_KH frozen estimate",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST REML_MODIFIED_KH frozen CI",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST REML_MODIFIED_KH frozen SE",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST REML_MODIFIED_KH frozen tau2",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST REML_MODIFIED_KH frozen Q",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST REML_MODIFIED_KH frozen I2",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-07,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST REML_MODIFIED_KH frozen p",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST COMMON_EFFECT_NORMAL manual centre",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 3.5527136788005009e-15
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST COMMON_EFFECT_NORMAL manual modifiedKH-or-normal SE",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 2.2204460492503131e-16
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST COMMON_EFFECT_NORMAL manual CI",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 3.5527136788005009e-15
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST COMMON_EFFECT_NORMAL manual p",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 9.4350288619329719e-25
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST COMMON_EFFECT_NORMAL frozen estimate",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST COMMON_EFFECT_NORMAL frozen CI",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST COMMON_EFFECT_NORMAL frozen SE",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST COMMON_EFFECT_NORMAL frozen tau2",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST COMMON_EFFECT_NORMAL frozen Q",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    },
+    {
+      "check": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST COMMON_EFFECT_NORMAL frozen p",
+      "pass": true,
+      "tolerance": 9.9999999999999995e-08,
+      "maximum_absolute_delta": 0
+    }
+  ],
+  "check_count": 74,
+  "results": [
+    {
+      "id": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY",
+      "closed_form_REML_tau2": 0,
+      "models": [
+        {
+          "id": "REML_MODIFIED_KH",
+          "estimate": 2.6414710748064776,
+          "CI95": [-4.4177507270982552, 9.7006928767112104],
+          "SE": 0.55557280466346115,
+          "tau2": 0,
+          "Q": 0.22547281131433081,
+          "I2": 0,
+          "p": 0.13197471958412813,
+          "model_entry_K": 2,
+          "effective_pooled_N": null,
+          "technical_verification_only": true
+        },
+        {
+          "id": "COMMON_EFFECT_NORMAL",
+          "estimate": 2.6414710748064776,
+          "CI95": [1.5525683868761873, 3.7303737627367681],
+          "SE": 0.55557280466346115,
+          "tau2": 0,
+          "Q": 0.22547281131433081,
+          "I2": 0,
+          "p": 1.98937831500058e-06,
+          "model_entry_K": 2,
+          "effective_pooled_N": null,
+          "technical_verification_only": true
+        }
+      ],
+      "scope": "EXISTING_TWO_SOURCE_METHOD_SENSITIVITY_NOT_UNRESTRICTED_PRIMARY_POOL",
+      "restrictions": {
+        "historical_fit_interpretation_preserved": "Observed/reported-analysis unadjusted endpoints; Khosravi baseline imbalance and Table4 conflicts, Franco missingness and literal12wk/3calendar-month clocks retained. No pooled recovery/distress/harms or confirmedMID.",
+        "current_boundary": "Historical input/fitting interpretation is preserved. It is not the current author-certainty status: subsequent R65 exact-target actual positions remain separately authoritative; this technical verification changes no grade."
+      }
+    },
+    {
+      "id": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY",
+      "closed_form_REML_tau2": 25.650982988365822,
+      "models": [
+        {
+          "id": "REML_MODIFIED_KH",
+          "estimate": 1.0178394855116581,
+          "CI95": [-45.737925175376859, 47.773604146400174],
+          "SE": 3.6797584827021041,
+          "tau2": 25.650982988365811,
+          "Q": 18.889997663739532,
+          "I2": 94.706193098585928,
+          "p": 0.82820323602175927,
+          "model_entry_K": 2,
+          "effective_pooled_N": null,
+          "technical_verification_only": true
+        },
+        {
+          "id": "COMMON_EFFECT_NORMAL",
+          "estimate": 0.26358797981315785,
+          "CI95": [-1.3565938929078416, 1.8837698525341575],
+          "SE": 0.82663859412764096,
+          "tau2": 0,
+          "Q": 18.889997663739532,
+          "I2": 94.706193098585928,
+          "p": 0.74982717549207401,
+          "model_entry_K": 2,
+          "effective_pooled_N": null,
+          "technical_verification_only": true
+        }
+      ],
+      "scope": "EXISTING_TWO_SOURCE_EARLY_WINDOW_EXPLORATORY_NOT_PRIMARY_WINDOW",
+      "restrictions": {
+        "historical_fit_interpretation_preserved": [
+          "CelenayTable21/22versusflow21/21;sourceTabledenominatorsusedwithuncertainty.",
+          "AladagTabledirectionversusproseconflictretained;nominalN32/32isreportedanalysisNnotIPDverification.",
+          "Rawendpointroutechosenforcommonestimand;Celenayadjustedcontrastpreservedseparately,notdiscardedfortheresult.",
+          "Two-sourceexploratorycomparison;notwhole-reviewexhaustivenessorindependenthumanadjudication."
+        ],
+        "current_boundary": "Historical input/fitting interpretation is preserved. It is not the current author-certainty status: subsequent R65 exact-target actual positions remain separately authoritative; this technical verification changes no grade."
+      }
+    },
+    {
+      "id": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST",
+      "closed_form_REML_tau2": 0,
+      "models": [
+        {
+          "id": "REML_MODIFIED_KH",
+          "estimate": -9.4335530711843365,
+          "CI95": [-27.880440589625273, 9.0133344472566019],
+          "SE": 1.4518015333030523,
+          "tau2": 0,
+          "Q": 0.10986156293334617,
+          "I2": 0,
+          "p": 0.097211598303315022,
+          "model_entry_K": 2,
+          "effective_pooled_N": null,
+          "technical_verification_only": true
+        },
+        {
+          "id": "COMMON_EFFECT_NORMAL",
+          "estimate": -9.4335530711843365,
+          "CI95": [-12.279031789158346, -6.5880743532103265],
+          "SE": 1.4518015333030523,
+          "tau2": 0,
+          "Q": 0.10986156293334617,
+          "I2": 0,
+          "p": 8.1489226994355469e-11,
+          "model_entry_K": 2,
+          "effective_pooled_N": null,
+          "technical_verification_only": true
+        }
+      ],
+      "scope": "ACTUAL_POSTHOC_CONDITIONAL_CLINICAL_METHOD_SENSITIVITY_NOT_PRIMARY",
+      "restrictions": {
+        "historical_fit_interpretation_preserved": {
+          "conclusion": "Two published source changes favour lessdistress, but with only2sources the modifiedKH interval is wide and spanszero. The narrower common-effect interval depends on its different effect/inference assumptions.",
+          "timing": "Broad first-planned-post-assessment target is explicitly posthoc; the source timing asymmetry is retained, not corrected by the model.",
+          "heterogeneity": "tau2=0/I2=0 atK2 does not establish homogeneity or validate the class/time assumption.",
+          "patient_importance": "No patient-anchored between-groupMID, diagnostic recovery, isolatedexercise benefit or comparative safety claim follows.",
+          "certainty": "Old61target ratings/8differences are unchanged. No new formalGRADE or human numerical-use approval is inferred from sourceadmission."
+        },
+        "current_boundary": "Historical input/fitting interpretation is preserved. It is not the current author-certainty status: subsequent R65 exact-target actual positions remain separately authoritative; this technical verification changes no grade."
+      }
+    }
+  ],
+  "warnings": [],
+  "limits": "Reproduces aggregate endpoint or native-coefficient inverse-variance models only. Does not reproduce original trial ANCOVA, multiple imputation, bootstrap, IPD, all22diagnostics, or a whole-review primary pooled effect.",
+  "software": {
+    "R": "R version 4.6.1 (2026-06-24)",
+    "metafor": "5.0.1",
+    "jsonlite": "2.0.0"
+  }
+}

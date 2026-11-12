@@ -1,0 +1,153 @@
+{
+  "status": "ACTUAL_AUTHOR_ADOPTED_HOLD_NOT_A_RISK_GRADE",
+  "rows": [
+    {
+      "target_id": "R203-NEW-E6286EBDA071",
+      "group": "TRIAL-IRCT20120215009014N236",
+      "target": {
+        "definition_status": "DEFINED_FOR_LATER_RESULT_APPRAISAL_ONLY",
+        "native_outcome": "FSFI total",
+        "version": "FSFI19 as source-reported",
+        "population": "Postmenopausal women, source inclusion40–65 and FSFI<28; existing eligibility is reused.",
+        "comparison": "Four-session group sexual education including practical Kegel training versus routine training; complete education/practice package.",
+        "time": "After four weekly sessions / one-month course",
+        "representation": "Table3 raw endpoint arm means±SD and between-arm P; adjusted Table4 retained separately",
+        "estimand": "Assigned education/practical-Kegel package versus routine training; reported raw endpoint comparison",
+        "N_layers": "Results/Table3–4 print45/45. This is the published group layer, not proof of complete item-level FSFI response.",
+        "precision_and_numeric_interpretation_limits": "Table3 gives pre/post group means±SD and group P values. Table4 gives ANCOVA-labelled adjusted means±SD, F and P after controlling spouse education and baseline satisfaction/arousal.",
+        "primary_SHA_bindings": [
+          {
+            "path": "PMC7475291.xml",
+            "bytes": 99847,
+            "sha256": "6b89fa2208e68211565aefc756b77a1f21598df8a09491efdd2365567845c1f5"
+          },
+          {
+            "path": "045__jmm-26-112.pdf",
+            "bytes": 244391,
+            "sha256": "89f77e432b1c48de0fcaa207df708b395431ca7e100431849f385af5f58cde3c"
+          }
+        ],
+        "precise_source_locators": [
+          {
+            "source": {
+              "path": "PMC7475291.xml",
+              "bytes": 99847,
+              "sha256": "6b89fa2208e68211565aefc756b77a1f21598df8a09491efdd2365567845c1f5"
+            },
+            "locator": "Results; Table3 id=T3; Table4 id=T4",
+            "previously_verified_fact": "The title includes Protocol, but the body reports an executed randomized comparison and postintervention FSFI data, including total23.70±3.67 versus19.94±3.64 in Table3."
+          },
+          {
+            "source": {
+              "path": "PMC7475291.xml",
+              "bytes": 99847,
+              "sha256": "6b89fa2208e68211565aefc756b77a1f21598df8a09491efdd2365567845c1f5"
+            },
+            "locator": "Sampling method; Instrument tools; Intervention; Table1 id=T1",
+            "previously_verified_fact": "Methods describes four centers per group and also individual allocation sequences; session3 includes practical Kegel exercises. These source unit descriptions remain unresolved."
+          }
+        ],
+        "selection_reason": "No comparable8–16week sexual result was verified; source post-course clock preserved.",
+        "exact_target_definition_is_not_numeric_admission_or_rating": true
+      },
+      "source_of_hold": "Actual individual-versus-centre allocation unit remains unresolved; conditional tool answers are not grades.",
+      "author_positions": {
+        "Linwen Qiu": {
+          "choice": "ROLE",
+          "domains": null,
+          "overall": "HOLD"
+        },
+        "Kaiting Wen": {
+          "choice": "ROLE",
+          "domains": null,
+          "overall": "HOLD"
+        },
+        "Chuan Yin": {
+          "choice": "ROLE",
+          "domains": null,
+          "overall": "HOLD"
+        }
+      }
+    },
+    {
+      "target_id": "R203-NEW-D87C60CEB535",
+      "group": "YUN-SEVERE-OAB108-REPORTED-EVENT-CHICTR17012189",
+      "target": {
+        "definition_status": "DEFINED_FOR_LATER_RESULT_APPRAISAL_ONLY",
+        "native_outcome": "FSFI total",
+        "version": "SourceFSFI19totalaslabelled",
+        "population": "Women30–45 with severe OABSS≥12 and FSFI<25; Yun-type waist-chain dance/anal-vaginal contraction whole programme plus solifenacin versus solifenacin first, two-week washout then delayed combined therapy. Six-community18-case description and centrally permuted blocks coexist and are not resolved here.",
+        "comparison": "Women30–45 with severe OABSS≥12 and FSFI<25; Yun-type waist-chain dance/anal-vaginal contraction whole programme plus solifenacin versus solifenacin first, two-week washout then delayed combined therapy. Six-community18-case description and centrally permuted blocks coexist and are not resolved here.",
+        "time": "Sixweeksbeforecontrolreceivesdelayedcombinedtherapy",
+        "representation": "NativeTable4six-weekarmmean(SD)andbetween-groupfootnote***P<.001;no newlycomputedMD",
+        "estimand": "AssignedinitialYunwholeprogramme+solifenacin versus initialsolifenacin phase of delayedstrategy",
+        "N_layers": "Results/Table1 reports108,intervention53/control55; flow/registry allocation and event-layer conflicts preserved. Table4 does not print scale-specific effective N. Initial source-event N is not automatically effective FSFI N or the2022 report’sN. No new MD/SE/CI or design adjustment is calculated.",
+        "precision_and_numeric_interpretation_limits": "Table4 actual native mean(SD): FSFI at6weeks control21.97(2.38),intervention26.51(2.02), ***P<.001 between groups at time; later26.81(1.66) versus26.97(1.92). Printed time/group/time×group ANOVA F/P are distinct from endpoint contrasts. Domain results include no remarkable damp/pain change; do not claim all-domain benefit.",
+        "primary_SHA_bindings": [
+          {
+            "path": "b8a8464a3c8f4e15e81822e48d016825252bba884cb69408807a697c61d6011a.body",
+            "bytes": 114106,
+            "sha256": "5695ca96f1fd6ad9d33ab5ffaecd012423eb58469f9b2f3f716fe92bf7510a3a"
+          },
+          {
+            "path": "Wang2022_Yun_XML.xml",
+            "bytes": 100791,
+            "sha256": "1b5f32f399a790691c2598081ba98f48e90bd372e08b417afbc3c6e3df950bc5"
+          }
+        ],
+        "precise_source_locators": [
+          {
+            "locator": "Own2021 JATS /article/body/sec[2]/sec[1] population; sec[2]/sec[2] Interventions/randomization; sec[2]/sec[3] time; /article/body/sec[3]/sec[1] Table1; /article/body/sec[3]/sec[2]/table-wrap[3] Table4 and between-group footnote.",
+            "primary_source_bindings": [
+              {
+                "path": "b8a8464a3c8f4e15e81822e48d016825252bba884cb69408807a697c61d6011a.body",
+                "bytes": 114106,
+                "sha256": "5695ca96f1fd6ad9d33ab5ffaecd012423eb58469f9b2f3f716fe92bf7510a3a"
+              },
+              {
+                "path": "Wang2022_Yun_XML.xml",
+                "bytes": 100791,
+                "sha256": "1b5f32f399a790691c2598081ba98f48e90bd372e08b417afbc3c6e3df950bc5"
+              }
+            ]
+          },
+          {
+            "locator": "R196/ACTUAL_R195_ADOPTION.json actual R195 source-use decisions; R195/REVIEW_PACKET.json source-specific Yun scope, not new permission in this inventory.",
+            "primary_source_bindings": [
+              {
+                "path": "b8a8464a3c8f4e15e81822e48d016825252bba884cb69408807a697c61d6011a.body",
+                "bytes": 114106,
+                "sha256": "5695ca96f1fd6ad9d33ab5ffaecd012423eb58469f9b2f3f716fe92bf7510a3a"
+              },
+              {
+                "path": "Wang2022_Yun_XML.xml",
+                "bytes": 100791,
+                "sha256": "1b5f32f399a790691c2598081ba98f48e90bd372e08b417afbc3c6e3df950bc5"
+              }
+            ]
+          }
+        ],
+        "selection_reason": "Later12/14weekclock is unequal/post-delayedtreatment and not the same drug-only comparison; choose explicit six-week first-phase result,not force a12week primary.",
+        "exact_target_definition_is_not_numeric_admission_or_rating": true
+      },
+      "source_of_hold": "Actual individual-versus-centre allocation unit remains unresolved; conditional tool answers are not grades.",
+      "author_positions": {
+        "Linwen Qiu": {
+          "choice": "ROLE",
+          "domains": null,
+          "overall": "HOLD"
+        },
+        "Kaiting Wen": {
+          "choice": "ROLE",
+          "domains": null,
+          "overall": "HOLD"
+        },
+        "Chuan Yin": {
+          "choice": "ROLE",
+          "domains": null,
+          "overall": "HOLD"
+        }
+      }
+    }
+  ]
+}

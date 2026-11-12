@@ -1,0 +1,129 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2104,
+      "sha256": "35daf66a7b287bc73517968e4a8d54255e24a61f4c47303e94b8f59e71cb7e43"
+    },
+    {
+      "path": "actual_tool_HOLDs2.json",
+      "bytes": 8352,
+      "sha256": "0dc11a68df0f53382432e098e3fd31ca8708f068f4ef343e471c43d49c8852d1"
+    },
+    {
+      "path": "adopted_result_risk279.json",
+      "bytes": 565716,
+      "sha256": "4164f6dc49b38b338825b9a57a97721659ef381088da08c41a7cc36775b784cf"
+    },
+    {
+      "path": "aggregate_counts.json",
+      "bytes": 1295,
+      "sha256": "fd993f3de292b3c4c29718011c17996254aedeaab0628c0f6e084d94be8b420e"
+    },
+    {
+      "path": "aliases_or_containers11.tsv",
+      "bytes": 1167,
+      "sha256": "f1715dd07b2fd291635d675200da958d12af118bd2393b5190c2c044e122689b"
+    },
+    {
+      "path": "analysis/AGGREGATE_INPUTS_THREE_RESTRICTED_COMPARISONS.json",
+      "bytes": 6460,
+      "sha256": "c04c8494996c078fcd560f40e227c63acbcb9e1d079b5abd783a6ee088e2c5cd"
+    },
+    {
+      "path": "analysis/EXPECTED_SIX_EXISTING_CLINICAL_FITS.json",
+      "bytes": 2358,
+      "sha256": "00f028d794b643113ae914ac121a032c39a87b2682a76b596dd38c8a448d44f4"
+    },
+    {
+      "path": "analysis/LOCKED_COMPARISON_K_AND_N_LAYERS.json",
+      "bytes": 4124,
+      "sha256": "8e6cc613b9aee39e2cbeffaf9b5a6b5e7fb4fabfaaaf399dddc3c362ded3a667"
+    },
+    {
+      "path": "analysis/VERIFICATION_SESSION_INFO.txt",
+      "bytes": 786,
+      "sha256": "51e780d241ff9a38e6fc6e68cf8a33eb57e94cb418b959a94b1a440ba89a815b"
+    },
+    {
+      "path": "analysis/VERIFICATION_SIX_EXISTING_CLINICAL_FITS.json",
+      "bytes": 21521,
+      "sha256": "73b82093249ce05996d7d46d2a89cc84d46a88c005f4292f4850b361cee580d7"
+    },
+    {
+      "path": "analysis/verify_existing_six_clinical_fits.R",
+      "bytes": 5106,
+      "sha256": "e454c206622f2adbfd0fa092f103211b8c4b7d405027733b4774f751bb3dad2f"
+    },
+    {
+      "path": "dependency_pairs2_retained.tsv",
+      "bytes": 739,
+      "sha256": "616f7eb356265a29d9a06a4e1972763559117bc00688bc6a138b9d79f0e52dc8"
+    },
+    {
+      "path": "figures/Figure_1_PRISMA.pdf",
+      "bytes": 4374,
+      "sha256": "e5d344a1ad916f73033f6022be6d91ad4c8206688d38cc006df9c3290d974c3b"
+    },
+    {
+      "path": "initial_female_N8_retained.tsv",
+      "bytes": 6813,
+      "sha256": "a2c359e313f8885b9cccac1ece3460ae106f2058d3f80b50e2c9cc1cf8cde6cc"
+    },
+    {
+      "path": "new111_signal_positions_role_A.json",
+      "bytes": 271254,
+      "sha256": "960fd0c07f6c8b3a5921348317855d3300e056682c49f411a1431b7469f3cba4"
+    },
+    {
+      "path": "new111_signal_positions_role_B.json",
+      "bytes": 412952,
+      "sha256": "8e4ec5afdecdc67188f5585e7bf82e69ca06804136584f041dfcc151b005cb59"
+    },
+    {
+      "path": "new111_signal_positions_role_C.json",
+      "bytes": 660420,
+      "sha256": "22c9124f56c2e0adba84a64f1387b6042a531118006d19a1a0a1c05a640ac7cb"
+    },
+    {
+      "path": "qualification40_retained.tsv",
+      "bytes": 14715,
+      "sha256": "05216668c7e603b081b796d304fa4ba01431cdb6753687e363f6aa51cd43392f"
+    },
+    {
+      "path": "rebuild_prisma.py",
+      "bytes": 7171,
+      "sha256": "338e708cacd21dd718a799d41bf068388abcfd7a2b9d760e862088b042609dd4"
+    },
+    {
+      "path": "report_dispositions3088.tsv",
+      "bytes": 330677,
+      "sha256": "fa6d6b3965087fc2ddae0e4be49b637d89795e3a2fc0f4e9554125b6159030af"
+    },
+    {
+      "path": "reported_event_groups194.tsv",
+      "bytes": 33270,
+      "sha256": "8e7bea2ae0977d051b756db87f8f904a3a63ff2f93f19793e5dec692ca640f1a"
+    },
+    {
+      "path": "retained_certainty91_views.json",
+      "bytes": 169362,
+      "sha256": "bea9e593bb7f143fc6ad4b4f2feb05ba2503e6023cc110cd81ef3a2b2d6400a0"
+    },
+    {
+      "path": "snapshot_meta.json",
+      "bytes": 1142,
+      "sha256": "1bd139f690d6b4b7931fbf3085ae11e6707e7d361837eca9996e39d6febc5a99"
+    },
+    {
+      "path": "source_result_routes126.tsv",
+      "bytes": 7969,
+      "sha256": "bf12eb9803d40edc31eb7be840b253fcfdda5a42b9e8fa465bbc78ad7cf5779e"
+    },
+    {
+      "path": "verify_snapshot.py",
+      "bytes": 2550,
+      "sha256": "56803116bb9ae36289cda6561c0e73ee4dc5b44de6c738933f5a84173df9ce96"
+    }
+  ]
+}

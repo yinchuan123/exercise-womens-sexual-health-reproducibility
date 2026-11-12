@@ -1,0 +1,3 @@
+pair	group	retained_relationship_policy	remaining_fact_gap	new_relationship_closing_fact	overlap_count	unique_women_union_N
+R196-01	POSSIBLE_DEPENDENCY_CLUSTER-YUN-SHANGHAI-80-150	RETAIN_EXISTING_SUSPECTED_DEPENDENCY_CONSERVATIVE_CLUSTER_AND_SPLIT_SCENARIO	"""Actual80cohort recruitment dates/centres and its allocation-event mapping to150, including aggregate overlap if any and dated registration/ethics mapping."""	False		
+R196-02	POSSIBLE_DEPENDENCY_CLUSTER-KHOSHNAB-CONF120-JOURNAL60	RETAIN_EXISTING_SUSPECTED_DEPENDENCY_CONSERVATIVE_CLUSTER_AND_SPLIT_SCENARIO	"""A study-ownedallocation/recruitmentcrosswalk explaining120versus60(same,subset,expanded,error orseparateevents), actualdates/sites, and aggregateoverlapifany."""	False		

@@ -1,0 +1,113 @@
+{
+  "scope": "Existing three restricted comparisons",
+  "all_models_reproduced": true,
+  "checks_passed": 74,
+  "diagnostic_fits_kept_separate": 22,
+  "new_primary_pool_or_unrestricted_synthesis": false,
+  "rows": [
+    {
+      "comparison": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY",
+      "independent_trial_K_used": 2,
+      "source_rows": [
+        {
+          "input_id": "R17-Franco2021-ENDPOINT",
+          "study": "Franco2021",
+          "candidate_family_id": "PILOT-FAM-RBR-3S3FF7",
+          "yi": 2.1000000000000014,
+          "vi": 1.608999408866995,
+          "mean_I": 24.5,
+          "mean_C": 22.4,
+          "sd_I": 4.61,
+          "sd_C": 5.39,
+          "n_I": 35,
+          "n_C": 29,
+          "variance_input_type": "PRINTED_SOURCE_ARM_SD_AND_ANALYSIS_DENOMINATORS",
+          "source_N_does_not_certify_effective_model_or_item_N": true
+        },
+        {
+          "input_id": "R17-Khosravi2022-ENDPOINT",
+          "study": "Khosravi2022",
+          "candidate_family_id": "PILOT-FAM-IRCT20150128020854N7",
+          "yi": 2.7699999999999996,
+          "vi": 0.38192800000000005,
+          "mean_I": 27.07,
+          "mean_C": 24.3,
+          "sd_I": 3.08,
+          "sd_C": 3.1,
+          "n_I": 50,
+          "n_C": 50,
+          "variance_input_type": "PRINTED_SOURCE_ARM_SD_AND_ANALYSIS_DENOMINATORS",
+          "source_N_does_not_certify_effective_model_or_item_N": true
+        }
+      ],
+      "actual_unique_outcome_N_certified": false,
+      "N_policy": "Retain printed source arm Ns or native coefficient SE as actually used; do not equate enrolment with observed sexual-endpoint N"
+    },
+    {
+      "comparison": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY",
+      "independent_trial_K_used": 2,
+      "source_rows": [
+        {
+          "input_id": "R31-Q28-FSFI_RAW6WK_ALT",
+          "study": "Celenay2022",
+          "candidate_family_id": "NCT04950556",
+          "yi": 4.740000000000002,
+          "vi": 1.7441183982683985,
+          "mean_I": 22.67,
+          "mean_C": 17.93,
+          "sd_I": 4.21,
+          "sd_C": 4.45,
+          "n_I": 21,
+          "n_C": 22,
+          "variance_input_type": "PRINTED_SOURCE_ARM_SD_AND_ANALYSIS_DENOMINATORS",
+          "source_N_does_not_certify_effective_model_or_item_N": true
+        },
+        {
+          "input_id": "R31-ALADAG-FSFI_RAW6WK",
+          "study": "YilmazAladag2026",
+          "candidate_family_id": "NCT07030608",
+          "yi": -2.620000000000001,
+          "vi": 1.1235156249999998,
+          "mean_I": 18.06,
+          "mean_C": 20.68,
+          "sd_I": 3.58,
+          "sd_C": 4.81,
+          "n_I": 32,
+          "n_C": 32,
+          "variance_input_type": "PRINTED_SOURCE_ARM_SD_AND_ANALYSIS_DENOMINATORS",
+          "source_N_does_not_certify_effective_model_or_item_N": true
+        }
+      ],
+      "actual_unique_outcome_N_certified": false,
+      "N_policy": "Retain printed source arm Ns or native coefficient SE as actually used; do not equate enrolment with observed sexual-endpoint N"
+    },
+    {
+      "comparison": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST",
+      "independent_trial_K_used": 2,
+      "source_rows": [
+        {
+          "input_id": "R28_VELTEN2024_FSDS-R13_T2_iMBST_vs_WL",
+          "study": "Velten2024",
+          "candidate_family_id": "NCT03780751",
+          "yi": -9.87,
+          "vi": 3.8415999999999997,
+          "native_SE": 1.96,
+          "variance_input_type": "NATIVE_REPORTED_SE_SQUARED",
+          "source_N_does_not_certify_effective_model_or_item_N": true
+        },
+        {
+          "input_id": "R62-ESENSE-R1-MBT-VS-WL-FSDS_R",
+          "study": "Mahar2025",
+          "candidate_family_id": "TRIAL-NCT05168371",
+          "yi": -8.903,
+          "vi": 4.669921,
+          "native_SE": 2.161,
+          "variance_input_type": "NATIVE_REPORTED_SE_SQUARED",
+          "source_N_does_not_certify_effective_model_or_item_N": true
+        }
+      ],
+      "actual_unique_outcome_N_certified": false,
+      "N_policy": "Retain printed source arm Ns or native coefficient SE as actually used; do not equate enrolment with observed sexual-endpoint N"
+    }
+  ]
+}

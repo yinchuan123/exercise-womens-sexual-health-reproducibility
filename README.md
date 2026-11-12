@@ -8,21 +8,18 @@ covers a broader intervention question. The focused manuscript scope was
 selected after some results had been seen. The dated decisions and evidence
 limits are documented in [Scope changes](methods/scope_changes.txt).
 
-## Latest working process update
+## Latest actual author-adopted process snapshot
 
-The [12 November 2026 working snapshot](snapshots/r203-working-2026-11-12/README.md)
-applies actual R201 source/risk adoptions under the existing count policy. It accounts for 3,088 reports: 499 not retrieved, 2,589 assessed, 340 included (199 principal + 141 companion), 40 awaiting classification and 2,209 not included.
+The [R204 snapshot](snapshots/r204-2026-11-12/README.md) applies three actual R203 author receipts: 111 new risk recommendations plus two retained allocation-unit HOLDs. The current 279 graded result targets cover 159 source groups. Individual domain positions differ in 70 new targets and remain separate. The prior 168 assessments, 91 certainty record views and eight GRADE differences remain unchanged; there is no new effect, GRADE conclusion or clinical model.
 
-There are 194 conservative reported-event groups, with 195/196 under the two dependency-split scenarios. These are not 194 isolated exercise effects or a certified global independent K. Initial female N remains unascertainable in eight groups; no unique-person total is asserted.
-
-The adopted 168 result-risk targets cover 68 source groups; the other 126 groups now have a complete source-result inventory. Of these, 93 have candidate result definitions, 27 have unresolved target facts and six retain source/prior-fact descriptions. Candidate definitions do not create new ratings or effects. The existing 91 certainty views and eight GRADE differences remain. Three restricted comparisons keep K=2 each; the fresh six-fit replay passes 74 checks and creates no new scientific models.
+The flow remains 3,088 reports: 499 not retrieved and 2,589 assessed, with 340 included (199 principal + 141 companion), 40 awaiting qualification and 2,209 not included. These sources form 194 conservative reported-event groups, with 195/196 under dependency-split scenarios. Initial female N remains unascertainable in eight groups. No global independent K or unique-person N is asserted. Existing-source review is complete for the 40 qualification reports, eight N gaps and two dependency pairs, with no strict fact closure; these limits are retained without reopening the 499 cutoff or using unreceived correspondence.
 
 ```sh
-python3 snapshots/r203-working-2026-11-12/verify_snapshot.py
-Rscript snapshots/r203-working-2026-11-12/analysis/verify_existing_six_clinical_fits.R
+python3 snapshots/r204-2026-11-12/verify_snapshot.py
+Rscript snapshots/r204-2026-11-12/analysis/verify_existing_six_clinical_fits.R
 ```
 
-[Current metadata](CURRENT_SNAPSHOT.json), [report dispositions](snapshots/r203-working-2026-11-12/report_dispositions3088.tsv), [reported-event groups](snapshots/r203-working-2026-11-12/reported_event_groups194.tsv), [merged PRISMA figure](snapshots/r203-working-2026-11-12/figures/Figure_1_PRISMA.pdf), [adopted result-risk positions](snapshots/r203-working-2026-11-12/adopted_result_risk168.json) and [source-result routes](snapshots/r203-working-2026-11-12/source_result_routes126.tsv) are available. The [R193 author-approved snapshot](snapshots/r193-2026-11-12/README.md) remains immutable and historical. This is a working process update; the manuscript is not published here, and no journal submission or preprint is made.
+Three restricted comparisons retain independent K=2 each; the six-fit replay has 74 passing checks. The 22 published-input diagnostic fits below are separate. [Current metadata](CURRENT_SNAPSHOT.json), [risk positions](snapshots/r204-2026-11-12/adopted_result_risk279.json), [report dispositions](snapshots/r204-2026-11-12/report_dispositions3088.tsv), [qualification gaps](snapshots/r204-2026-11-12/qualification40_retained.tsv) and [PRISMA](snapshots/r204-2026-11-12/figures/Figure_1_PRISMA.pdf) are available. The earlier R193 and R203 snapshots remain historical. The manuscript, original full texts, raw correspondence and signed author files are not published here. No journal submission or preprint is made.
 
 ## Separate published-input diagnostic audit
 

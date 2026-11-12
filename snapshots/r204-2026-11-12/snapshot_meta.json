@@ -1,0 +1,39 @@
+{
+  "status": "ACTUAL_R203_AUTHOR_RISK_AND_EXACT_MANUSCRIPT_APPROVAL_APPLIED_WITH_UNRESOLVED_FACTS_RETAINED",
+  "date": "2026-11-12",
+  "included_reports": 340,
+  "conservative_reported_event_groups": 194,
+  "dependency_split_scenarios": [
+    195,
+    196
+  ],
+  "reports_assessed": 2589,
+  "not_retrieved": 499,
+  "qualification_unascertainable": 40,
+  "initial_female_N_gaps": 8,
+  "dependency_pairs": 2,
+  "global_unique_female_N": null,
+  "global_independent_K_certified": false,
+  "adopted_risk_targets": 279,
+  "source_groups_with_risk_target": 159,
+  "source_groups_without_risk_target": 35,
+  "new_risk_adoptions": 111,
+  "actual_tool_HOLDs": 2,
+  "new_risk_domain_differences": 70,
+  "existing_GRADE_differences": 8,
+  "new_GRADE": 0,
+  "new_model_inputs_or_fits": 0,
+  "current_restricted_comparison_K": [
+    2,
+    2,
+    2
+  ],
+  "existing_clinical_fits": 6,
+  "separate_historical_diagnostic_fits": 22,
+  "verification_checks": 74,
+  "requests_sent_and_read_back": 9,
+  "reply_facts_used": 0,
+  "source_manuscript_or_private_receipts_distributed": false,
+  "formal_submission_performed": false,
+  "preprint_published": false
+}
