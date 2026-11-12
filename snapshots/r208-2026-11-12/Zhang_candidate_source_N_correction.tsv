@@ -1,0 +1,6 @@
+arm	initial_randomized_N	initial_N_provenance	six_week_evaluated_N	evaluated_N_provenance	lost_N	lost_N_provenance
+ALL	2700	printed Randomization675cases eachgroup; four arms	2403	printed flow total	297	sum of printed leaf losses69+74+81+38+35
+A_control	675	printed	606	printed	69	printed
+B_Kegel	675	printed	601	printed	74	printed
+C_vaginal_dumbbell	675	printed	594	printed	81	printed
+D_biofeedback_electrostimulation	675	printed	602	sum of printed300+302	73	sum of printed38+35

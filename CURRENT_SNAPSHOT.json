@@ -8,5 +8,9 @@
   "new_author_questions_pending": 0,
   "all_missing_facts_resolved": false,
   "formal_submission_performed": false,
-  "preprint_published": false
+  "preprint_published": false,
+  "latest_source_intake_snapshot": "snapshots/r208-2026-11-12",
+  "latest_source_intake_status": "THREE_FINAL_OBTAINABLE_FILES_PROCESSED_NO_NEW_ADOPTION_OR_NUMERIC_INPUT",
+  "latest_source_intake_verify": "snapshots/r208-2026-11-12/verify_source_intake.py",
+  "active_external_resource_requests": 0
 }

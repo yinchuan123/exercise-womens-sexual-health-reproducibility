@@ -8,13 +8,21 @@ covers a broader intervention question. The focused manuscript scope was
 selected after some results had been seen. The dated decisions and evidence
 limits are documented in [Scope changes](methods/scope_changes.txt).
 
+## Latest source-intake update
+
+The [R208 final-source update](snapshots/r208-2026-11-12/README.md) archives three final obtainable user-supplied files privately and publishes only source facts and process metadata. Two requested original conference reports were obtained; the radiofrequency PDF is a three-page background article rather than the requested dissertation. Zhang2016 now has source-confirmed initial randomization2,700(four arms675each), compared with2,403evaluated after6weeks and297lost. Its adult eligibility and endpoint precision remain unreported. Iervolino2017 originalS37–S38 also lacks the adult age boundary and numerical FSFI precision. No new report, independent K, grand female N, quantitative input, RoB2 or GRADE is adopted. The R206 author-adopted state and R204 data remain operative. No further acquisition or reply waiting is active under the final user cutoff.
+
+```sh
+python3 snapshots/r208-2026-11-12/verify_source_intake.py
+```
+
 ## Latest actual author-adopted process snapshot
 
 The [R206 update](snapshots/r206-2026-11-12/README.md) applies three actual R205 returns for the single new Obler report-disposition question. The final author-adjudicated choice is B: retain eligibility-unascertainable at cutoff, outside the evidence core and quantitative inputs. The disclosed author adjudicator's explicit returned choice resolved the disagreement; this was not a majority-vote or AI-consensus decision. The 40 qualification, eight initial-female-N and two suspected-dependency tasks received targeted original-source reassessment, with no newly established complete eligibility, initial-N or overlap fact. The 50 targeted native-source checks were performed by AI agents, not independent duplicate human full-text readings; author returns cover the disclosed new disposition only. There are no new author questions pending in this update.
 
 The report flow remains 3,088 sought = 499 not retrieved + 2,589 assessed, comprising 340 included (199 principal + 141 companion), 40 awaiting and 2,209 not included. There are 194 conservative reported-event groups, or 195/196 under dependency-split scenarios; each of three existing comparisons retains independent K=2. No whole-review unique female N or certified global independent K is asserted. The 499 cutoff was not reopened and no unreceived reply was used.
 
-The [R204 data and actual result-risk snapshot](snapshots/r204-2026-11-12/README.md) remains unchanged: 279 graded result targets in 159 groups, two tool HOLDs, 70 new domain differences retained, 91 prior certainty record views and eight old GRADE differences. No clinical input, fit, effect, risk/GRADE judgment or approved manuscript was changed. The existing six-fit replay has 74 passing checks; this update does not call them a new model run. The 22 published-input diagnostic fits below remain separate.
+The [R204 data and actual result-risk snapshot](snapshots/r204-2026-11-12/README.md) remains unchanged: 279 adopted result-risk targets in 159 groups, two tool HOLDs, 70 new domain differences retained, 91 prior certainty record views and eight old GRADE differences. No clinical input, fit, effect, risk/GRADE judgment or approved manuscript was changed. The existing six-fit replay has 74 passing checks; this update does not call them a new model run. The 22 published-input diagnostic fits below remain separate.
 
 ```sh
 python3 snapshots/r206-2026-11-12/verify_snapshot.py
