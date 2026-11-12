@@ -21,6 +21,9 @@ Rscript snapshots/r204-2026-11-12/analysis/verify_existing_six_clinical_fits.R
 
 Three restricted comparisons retain independent K=2 each; the six-fit replay has 74 passing checks. The 22 published-input diagnostic fits below are separate. [Current metadata](CURRENT_SNAPSHOT.json), [risk positions](snapshots/r204-2026-11-12/adopted_result_risk279.json), [report dispositions](snapshots/r204-2026-11-12/report_dispositions3088.tsv), [qualification gaps](snapshots/r204-2026-11-12/qualification40_retained.tsv) and [PRISMA](snapshots/r204-2026-11-12/figures/Figure_1_PRISMA.pdf) are available. The earlier R193 and R203 snapshots remain historical. The manuscript, original full texts, raw correspondence and signed author files are not published here. No journal submission or preprint is made.
 
+
+The [41-record admission audit](snapshots/r204-2026-11-12/quantitative_admission_limits41.tsv) and [available-evidence disposition ledger](snapshots/r204-2026-11-12/available_evidence_limit_dispositions.tsv) document the final permitted uses and cutoff closure. None of the restricted records entered the locked clinical inputs. Missing facts remain explicit; closing processing is not factual certification or a new PICO exclusion.
+
 ## Separate published-input diagnostic audit
 
 The [portable diagnostic package](diagnostic-audit/published-input-2026-11-08/README.txt) preserves 11 conditional published-input scenarios and their 22 historical summaries. The 8 November engineering replay matched all 176 output fields exactly, with the independent 11-scenario numerical check also passing. This is separate from the six clinical fits: it adds no clinical trials, eligible effects, K/N or certainty ratings. Conditional source-N/dispersion alternatives remain assumptions rather than validated corrections.
