@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2594,
+      "sha256": "4a4e17e23819e3e93028f535408989898475fd9d9a811aba84f473378f15b174"
+    },
+    {
+      "path": "initialN8_dependency2_reassessment.tsv",
+      "bytes": 5578,
+      "sha256": "78c9656e148785c0884d319e3bb637bb83d46ff14fb5b83908f021ca67b488b2"
+    },
+    {
+      "path": "qualification40_reassessment.tsv",
+      "bytes": 24164,
+      "sha256": "8e4265becb903120f5eebd0bba04aa36e9ed81e6d01c50bbe8a5deeb7faa7c37"
+    },
+    {
+      "path": "snapshot_meta.json",
+      "bytes": 2192,
+      "sha256": "a5eaa0af7ae7bc8e4d186cb84657358f79a0dcb4cfb0a15ceb6a2f8e8d93b3e7"
+    },
+    {
+      "path": "verify_snapshot.py",
+      "bytes": 2019,
+      "sha256": "d6776e43ee1ef555615c04ef8e7f898dfa47dacbed04dcd0e5882071f3b7f593"
+    }
+  ]
+}

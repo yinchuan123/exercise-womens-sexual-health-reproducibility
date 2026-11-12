@@ -1,9 +1,12 @@
 {
-  "snapshot": "snapshots/r204-2026-11-12",
-  "status": "ACTUAL_R203_AUTHOR_ADOPTIONS_AND_RETAINED_CUTOFF_GAPS",
+  "snapshot": "snapshots/r206-2026-11-12",
+  "status": "ACTUAL_R205_FINAL_B_APPLIED_RETAINED_FACT_GAPS",
+  "data_snapshot": "snapshots/r204-2026-11-12",
   "aggregate_counts": "snapshots/r204-2026-11-12/aggregate_counts.json",
-  "verify": "snapshots/r204-2026-11-12/verify_snapshot.py",
+  "verify": "snapshots/r206-2026-11-12/verify_snapshot.py",
   "source_bound_manuscript_not_public": true,
+  "new_author_questions_pending": 0,
+  "all_missing_facts_resolved": false,
   "formal_submission_performed": false,
   "preprint_published": false
 }
