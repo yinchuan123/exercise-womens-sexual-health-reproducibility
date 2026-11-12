@@ -1,0 +1,20 @@
+{
+  "status": "WORKING_PROCESS_SNAPSHOT_ACTUAL_R201_ADOPTIONS_APPLIED_TO_CURRENT_R202_RULE_BASED_COUNTS",
+  "date": "2026-11-12",
+  "count_snapshot_directly_signed": false,
+  "underlying_count_rules_and_two_R201_scientific_questions_actually_adopted": true,
+  "adopted_scientific_state": "R202",
+  "source_inventory_preparation": "R203",
+  "new_unadopted_risk_proposals_are_not_formal_ratings": true,
+  "source_manuscript_or_receipts_public": false,
+  "formal_submission_performed": false,
+  "preprint_published": false,
+  "clinical_fit_families": 6,
+  "restricted_comparison_K": [
+    2,
+    2,
+    2
+  ],
+  "new_scientific_models": 0,
+  "separate_historical_diagnostic_fits": 22
+}

@@ -1,0 +1,94 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "3bc941a2b3746847347ca6e209eb635d59f663a29bcd52fbac8231d285877100",
+      "bytes": 2286
+    },
+    {
+      "path": "adopted_result_risk168.json",
+      "sha256": "dd88a2eef9e4feaab9544c0404671eeeaa629b06dc8a3ae6e056410744ae60c6",
+      "bytes": 354378
+    },
+    {
+      "path": "aggregate_counts.json",
+      "sha256": "fd993f3de292b3c4c29718011c17996254aedeaab0628c0f6e084d94be8b420e",
+      "bytes": 1295
+    },
+    {
+      "path": "aliases_or_containers11.tsv",
+      "sha256": "f1715dd07b2fd291635d675200da958d12af118bd2393b5190c2c044e122689b",
+      "bytes": 1167
+    },
+    {
+      "path": "analysis/AGGREGATE_INPUTS_THREE_RESTRICTED_COMPARISONS.json",
+      "sha256": "c04c8494996c078fcd560f40e227c63acbcb9e1d079b5abd783a6ee088e2c5cd",
+      "bytes": 6460
+    },
+    {
+      "path": "analysis/EXPECTED_SIX_EXISTING_CLINICAL_FITS.json",
+      "sha256": "00f028d794b643113ae914ac121a032c39a87b2682a76b596dd38c8a448d44f4",
+      "bytes": 2358
+    },
+    {
+      "path": "analysis/LOCKED_COMPARISON_K_AND_N_LAYERS.json",
+      "sha256": "8e6cc613b9aee39e2cbeffaf9b5a6b5e7fb4fabfaaaf399dddc3c362ded3a667",
+      "bytes": 4124
+    },
+    {
+      "path": "analysis/VERIFICATION_SESSION_INFO.txt",
+      "sha256": "51e780d241ff9a38e6fc6e68cf8a33eb57e94cb418b959a94b1a440ba89a815b",
+      "bytes": 786
+    },
+    {
+      "path": "analysis/VERIFICATION_SIX_EXISTING_CLINICAL_FITS.json",
+      "sha256": "73b82093249ce05996d7d46d2a89cc84d46a88c005f4292f4850b361cee580d7",
+      "bytes": 21521
+    },
+    {
+      "path": "analysis/verify_existing_six_clinical_fits.R",
+      "sha256": "e454c206622f2adbfd0fa092f103211b8c4b7d405027733b4774f751bb3dad2f",
+      "bytes": 5106
+    },
+    {
+      "path": "figures/Figure_1_PRISMA.pdf",
+      "sha256": "e5d344a1ad916f73033f6022be6d91ad4c8206688d38cc006df9c3290d974c3b",
+      "bytes": 4374
+    },
+    {
+      "path": "preparation_status.json",
+      "sha256": "242205d8686d9a5df2279c4798c29387e3affa1043eb550f89336dfd98b43d45",
+      "bytes": 699
+    },
+    {
+      "path": "rebuild_prisma.py",
+      "sha256": "338e708cacd21dd718a799d41bf068388abcfd7a2b9d760e862088b042609dd4",
+      "bytes": 7171
+    },
+    {
+      "path": "report_dispositions3088.tsv",
+      "sha256": "fa6d6b3965087fc2ddae0e4be49b637d89795e3a2fc0f4e9554125b6159030af",
+      "bytes": 330677
+    },
+    {
+      "path": "reported_event_groups194.tsv",
+      "sha256": "c8ca7ea8d8c62f3e7a46b11d27bd7705c34ad2feee1eb6f03040738eefe3a0dc",
+      "bytes": 28355
+    },
+    {
+      "path": "snapshot_meta.json",
+      "sha256": "5aca9509879e3e5457c5709f293d342337481ce5cc17c6f3118d3e80248a2634",
+      "bytes": 683
+    },
+    {
+      "path": "source_result_routes126.tsv",
+      "sha256": "5348ebca9d8db1bef2936d74e04ea12598a449d60455e400e4988b413a1f16e6",
+      "bytes": 11631
+    },
+    {
+      "path": "verify_snapshot.py",
+      "sha256": "444bef6afa38e1e0bdbad3d3ee3ebf9997582076b8785e55c05b1e8b20991e1e",
+      "bytes": 2107
+    }
+  ]
+}

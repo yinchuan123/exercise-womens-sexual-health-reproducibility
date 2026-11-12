@@ -1,0 +1,15 @@
+{
+  "source_inventory_groups_completed": 126,
+  "source_inventory_queue": 126,
+  "source_inventory_work_percent": 100,
+  "not_whole_manuscript_completion_percent": true,
+  "ready_source_result_groups": 93,
+  "target_unresolved_groups": 27,
+  "source_or_prior_fact_only_groups": 6,
+  "proposed_result_targets": 113,
+  "proposals_not_new_formal_ratings_or_model_inputs": true,
+  "source_fact_consistency_limit": "Complete source-use inventory does not mean every primary journal full text was obtained, every numerical expression is clean, or every outcome has an adopted assessment.",
+  "nine_aggregate_author_requests_sent": 9,
+  "recipient_delivery_confirmed": false,
+  "new_reply_facts_used": 0
+}

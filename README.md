@@ -8,35 +8,21 @@ covers a broader intervention question. The focused manuscript scope was
 selected after some results had been seen. The dated decisions and evidence
 limits are documented in [Scope changes](methods/scope_changes.txt).
 
-## Latest aggregate process update
+## Latest working process update
 
-The [R193 author-approved cutoff snapshot](snapshots/r193-2026-11-12/README.md) is the current
-process release after all three actual author receipts for five final items
-were verified. Current exact accounting is 3,087 distinct sought reports,
-499 not retrieved and 2,588 assessed. The assessed reports partition into
-330 included (191 principal plus139 companions),48 awaiting classification,
-509 own-reason exclusions and1,701 noncontributing report contexts.
+The [12 November 2026 working snapshot](snapshots/r203-working-2026-11-12/README.md)
+applies actual R201 source/risk adoptions under the existing count policy. It accounts for 3,088 reports: 499 not retrieved, 2,589 assessed, 340 included (199 principal + 141 companion), 40 awaiting classification and 2,209 not included.
 
-There are187 conservative reported-randomized strategy groups,188 under the
-separate-Yun sensitivity policy. These are not187 pure exercise effects or a
-certified whole-review independent K. Unique female N is not asserted.
-Three restricted comparisons retain K=2 each and six existing fits;74 replay
-checks pass. Existing result-specific risk/GRADE and eight differences remain;
-there is no blanket rating of every outcome in187 groups. Missing source facts
-and the48 eligibility gaps have not been made known by vote.
+There are 194 conservative reported-event groups, with 195/196 under the two dependency-split scenarios. These are not 194 isolated exercise effects or a certified global independent K. Initial female N remains unascertainable in eight groups; no unique-person total is asserted.
+
+The adopted 168 result-risk targets cover 68 source groups; the other 126 groups now have a complete source-result inventory. Of these, 93 have candidate result definitions, 27 have unresolved target facts and six retain source/prior-fact descriptions. Candidate definitions do not create new ratings or effects. The existing 91 certainty views and eight GRADE differences remain. Three restricted comparisons keep K=2 each; the fresh six-fit replay passes 74 checks and creates no new scientific models.
 
 ```sh
-python3 snapshots/r193-2026-11-12/verify_snapshot.py
-Rscript snapshots/r193-2026-11-12/analysis/verify_existing_six_clinical_fits.R
+python3 snapshots/r203-working-2026-11-12/verify_snapshot.py
+Rscript snapshots/r203-working-2026-11-12/analysis/verify_existing_six_clinical_fits.R
 ```
 
-[Current metadata](CURRENT_SNAPSHOT.json), [all current report dispositions](snapshots/r193-2026-11-12/report_dispositions3087.tsv),
-[principal report groups](snapshots/r193-2026-11-12/principal_report_groups191.tsv),
-[merged PRISMA figure](snapshots/r193-2026-11-12/figures/Figure_1_PRISMA.pdf) and
-[scoped risk/certainty records](snapshots/r193-2026-11-12/result_risk_and_certainty.json) are public.
-Earlier snapshots and historical scripts below remain unchanged. Licensed
-source files, private receipts/disclosures and the unpublished manuscript are
-excluded. This is a process release; no journal submission or preprint is made.
+[Current metadata](CURRENT_SNAPSHOT.json), [report dispositions](snapshots/r203-working-2026-11-12/report_dispositions3088.tsv), [reported-event groups](snapshots/r203-working-2026-11-12/reported_event_groups194.tsv), [merged PRISMA figure](snapshots/r203-working-2026-11-12/figures/Figure_1_PRISMA.pdf), [adopted result-risk positions](snapshots/r203-working-2026-11-12/adopted_result_risk168.json) and [source-result routes](snapshots/r203-working-2026-11-12/source_result_routes126.tsv) are available. The [R193 author-approved snapshot](snapshots/r193-2026-11-12/README.md) remains immutable and historical. This is a working process update; the manuscript is not published here, and no journal submission or preprint is made.
 
 ## Separate published-input diagnostic audit
 

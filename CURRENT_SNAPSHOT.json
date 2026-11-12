@@ -1,8 +1,8 @@
 {
-  "snapshot": "snapshots/r193-2026-11-12",
-  "status": "ACTUAL_R193_THREE_AUTHOR_APPROVED_FINAL_CUTOFF_ACCOUNTING",
-  "aggregate_counts": "snapshots/r193-2026-11-12/aggregate_counts.json",
-  "verify": "snapshots/r193-2026-11-12/verify_snapshot.py",
+  "snapshot": "snapshots/r203-working-2026-11-12",
+  "status": "WORKING_PROCESS_UPDATE_ACTUAL_R201_ADOPTIONS_APPLIED_NO_NEW_WHOLE_MANUSCRIPT_APPROVAL",
+  "aggregate_counts": "snapshots/r203-working-2026-11-12/aggregate_counts.json",
+  "verify": "snapshots/r203-working-2026-11-12/verify_snapshot.py",
   "source_bound_manuscript_not_public": true,
   "formal_submission_performed": false,
   "preprint_published": false
