@@ -8,7 +8,46 @@ covers a broader intervention question. The focused manuscript scope was
 selected after some results had been seen. The dated decisions and evidence
 limits are documented in [Scope changes](methods/scope_changes.txt).
 
-## Final available-evidence report workflow
+## Current actual author-adopted update
+
+The [R212 update](snapshots/r212-2026-11-13/README.md) applies three actual
+R211 returns for six new result-specific decisions and approval of the matching
+private report. Two existing Morin measurement-risk results now use High with
+4.5 NI; PGIC D2 remains Some concerns with 2.6 PY/2.7 NA. The three precise certainty
+targets are direction Moderate, reaching 1.5 points Low and ten-week pain-PGIC
+direction Moderate. Their source and scope are separately recorded; they concern
+one trial and do not erase historical differences.
+
+The [current 279-target risk projection](snapshots/r212-2026-11-13/adopted_result_risk279.json),
+[three exact certainty targets](snapshots/r212-2026-11-13/exact_grade_targets3.json),
+[194-group clinical/window mapping](snapshots/r212-2026-11-13/clinical_window194.json),
+[method crosswalk](snapshots/r212-2026-11-13/registered_to_actual_methods.json),
+[specific clinical increment](snapshots/r212-2026-11-13/clinical_increment.json)
+and [de-identified approval scope](snapshots/r212-2026-11-13/author_adoption_summary.json)
+are available. Aggregate clinical inputs and the six prior fits remain the R204
+numerical snapshot. The separate 22-fit diagnostic audit is unchanged. No new
+effect, interval, denominator, model or independent trial is added.
+
+The report retains 40 unclassifiable and 499 unretrieved reports, eight initial
+female N gaps and two suspected-dependency pairs at the fixed cutoff. Global
+independent K and unique female N are not certified. Actual author adoption does
+not establish the planned independent human original-report screening or
+critical-field verification. The focused question and highlighted analyses were
+result informed; the registered Bayesian plan was not implemented. No manuscript,
+licensed original, raw author return or private contact is distributed here.
+No formal submission or preprint has been authorized or performed.
+
+```sh
+python3 snapshots/r212-2026-11-13/verify_snapshot.py
+```
+
+## Historical snapshot accounts
+
+The sections below describe their named earlier snapshots. Their uses of
+“current” or “operative” refer to those historical states; the R212 risk/clinical
+interpretation update above is the current author-adopted process layer.
+
+## Historical R209 available-evidence report workflow
 
 The [R209 closure](snapshots/r209-2026-11-12/README.md) executes existing actual author policies and ends acquisition/reply waiting.50cutoff dispositions have been processed; the40unclassifiable reports,8strict initial-N gaps and2suspected cohort relations remain disclosed facts, not continuing work queues. No new clinical data, effect, fit, risk/GRADE or main-manuscript approval is created. The final private report archive is prepared, while global independentK, unique femaleN, journal acceptance and compliance with every planned conduct step are not certified. No submission or preprint posting has been performed.
 
@@ -16,7 +55,7 @@ The [R209 closure](snapshots/r209-2026-11-12/README.md) executes existing actual
 python3 snapshots/r209-2026-11-12/verify_final_cutoff.py
 ```
 
-## Latest source-intake update
+## Historical R208 source-intake update
 
 The [R208 final-source update](snapshots/r208-2026-11-12/README.md) archives three final obtainable user-supplied files privately and publishes only source facts and process metadata. Two requested original conference reports were obtained; the radiofrequency PDF is a three-page background article rather than the requested dissertation. Zhang2016 now has source-confirmed initial randomization2,700(four arms675each), compared with2,403evaluated after6weeks and297lost. Its adult eligibility and endpoint precision remain unreported. Iervolino2017 originalS37–S38 also lacks the adult age boundary and numerical FSFI precision. No new report, independent K, grand female N, quantitative input, RoB2 or GRADE is adopted. The R206 author-adopted state and R204 data remain operative. No further acquisition or reply waiting is active under the final user cutoff.
 
@@ -24,7 +63,7 @@ The [R208 final-source update](snapshots/r208-2026-11-12/README.md) archives thr
 python3 snapshots/r208-2026-11-12/verify_source_intake.py
 ```
 
-## Latest actual author-adopted process snapshot
+## Historical R206 author-adopted process snapshot
 
 The [R206 update](snapshots/r206-2026-11-12/README.md) applies three actual R205 returns for the single new Obler report-disposition question. The final author-adjudicated choice is B: retain eligibility-unascertainable at cutoff, outside the evidence core and quantitative inputs. The disclosed author adjudicator's explicit returned choice resolved the disagreement; this was not a majority-vote or AI-consensus decision. The 40 qualification, eight initial-female-N and two suspected-dependency tasks received targeted original-source reassessment, with no newly established complete eligibility, initial-N or overlap fact. The 50 targeted native-source checks were performed by AI agents, not independent duplicate human full-text readings; author returns cover the disclosed new disposition only. There are no new author questions pending in this update.
 

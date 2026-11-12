@@ -1,0 +1,158 @@
+{
+  "schema": "bmj.r212.public.exact_grade_targets.v1",
+  "status": "ACTUALLY_ADOPTED_BY_THREE_AUTHORS",
+  "current_targets": [
+    {
+      "exact_target_id": "G03_DIRECTION_10WK_PAIN_NRS",
+      "decision_id": "D04",
+      "status": "CURRENT_EXACT_TARGET_ACTUALLY_ADOPTED_BY_THREE_AUTHORS",
+      "current_label": "Moderate",
+      "exact_target": "10周完整PT相对利多卡因的平均性交痛较低/有利方向，源模型差1.8点低，95%CI1.2至2.3点低；不保证幅度≥1.5点。",
+      "target_relation": "EXACT_DIRECTION_SCOPE",
+      "old_certainty_record_id": "R56:G03",
+      "starting_certainty": "High",
+      "GRADE_domains": {
+        "risk_of_bias": {
+          "downgrade_levels": 1,
+          "severity": "serious",
+          "result_specific_reason": "唯一RCT的该自报结果现建议D4High：患者知情、可识别策略且接触不同，期望/报告影响缺少结果特异排除依据；D2/其他既有疑虑亦纳入本域综合。降1级为serious而非2级：分派隐藏有源依据、同一标准工具/时点、完整策略对活性常规治疗；未见足以支持veryserious的测量失效、巨大且可定向的偏倚或共同严重设计缺陷。High RoB2只映射serious或veryserious，不能机械−2。"
+        },
+        "inconsistency": {
+          "downgrade_levels": 0,
+          "severity": "not serious",
+          "result_specific_reason": "一个独立试验，不存在已观察到的跨试验不一致；不是因K=1自动降级，也不能宣称可验证一致性。"
+        },
+        "indirectness": {
+          "downgrade_levels": 0,
+          "severity": "not serious",
+          "result_specific_reason": "目标严格限于该PVD人群、完整PT对利多卡因和相应10周患者报告结局，直接性匹配。对一般FSD、孤立运动或恢复则不适用这个等级。"
+        },
+        "imprecision": {
+          "downgrade_levels": 0,
+          "severity": "not serious",
+          "result_specific_reason": "对有利方向这个明确目标，整个源CI在0的有利侧，未同时容许无降低与有利降低；原计划样本量212就是针对该主要疼痛结果的1.5点比较设计。有效模型N未知已纳入风险/缺失解释，不在此重复扣分。没有新算OIS或把一个试验等同精度不足。"
+        },
+        "publication_bias": {
+          "downgrade_levels": 0,
+          "severity": "not serious",
+          "result_specific_reason": "该特定比较已有注册标识和完整主结果来源；当前审计未找到足以对这个精确证据体判suspectedpublicationbias的独立证据。单试验不能排除发表偏倚；全综述499未取得不是本精确结局自动再降级的理由。"
+        }
+      },
+      "total_downgrade_levels": 1,
+      "upgrading_levels": 0,
+      "risk_of_bias_justification": "Serious−1 for the exact patient-reported result after the proposedD4High; HighRoB2 does not automatically implyveryserious−2. Potentialmeasurementbias and otherdesign/missingness concerns are assessed once withinRoB, not added repeatedly.",
+      "magnitude_specific_imprecision": "No additional downgrade for the narrowly defineddirection/response target; no formalOIS newly calculated.",
+      "source_effect_frozen_unchanged": "NRS1.8pointslower(95%CI1.2–2.3lower)",
+      "scope_limits": "保留已有方向Moderate标签，但以D4High后的新seriousRoB−1理由重建依据；不是把D4High隐去，也不是给≥1.5命题投票。",
+      "source_trial": "NCT01455350",
+      "independent_trial_K": 1,
+      "actual_author_adoption_count": 3,
+      "current_label_is_not_a_global_exercise_grade": true
+    },
+    {
+      "exact_target_id": "G03_MAGNITUDE_GE_1P5_DESIGN_ANCHOR",
+      "decision_id": "D05",
+      "status": "CURRENT_EXACT_TARGET_ACTUALLY_ADOPTED_BY_THREE_AUTHORS",
+      "current_label": "Low",
+      "exact_target": "同一10周平均组间疼痛受益是否至少达到原试验用于样本量设计的1.5NRS点；它是试验设计锚而非普适且患者锚定验证的MID。",
+      "target_relation": "SEPARATE_MAGNITUDE_TARGET_NOT_A_MAJORITY_DISSENT",
+      "old_certainty_record_id": "R56:G03",
+      "starting_certainty": "High",
+      "GRADE_domains": {
+        "risk_of_bias": {
+          "downgrade_levels": 1,
+          "severity": "serious",
+          "result_specific_reason": "唯一RCT的该自报结果现建议D4High：患者知情、可识别策略且接触不同，期望/报告影响缺少结果特异排除依据；D2/其他既有疑虑亦纳入本域综合。降1级为serious而非2级：分派隐藏有源依据、同一标准工具/时点、完整策略对活性常规治疗；未见足以支持veryserious的测量失效、巨大且可定向的偏倚或共同严重设计缺陷。High RoB2只映射serious或veryserious，不能机械−2。"
+        },
+        "inconsistency": {
+          "downgrade_levels": 0,
+          "severity": "not serious",
+          "result_specific_reason": "一个独立试验，不存在已观察到的跨试验不一致；不是因K=1自动降级，也不能宣称可验证一致性。"
+        },
+        "indirectness": {
+          "downgrade_levels": 0,
+          "severity": "not serious",
+          "result_specific_reason": "目标严格限于该PVD人群、完整PT对利多卡因和相应10周患者报告结局，直接性匹配。对一般FSD、孤立运动或恢复则不适用这个等级。"
+        },
+        "imprecision": {
+          "downgrade_levels": 1,
+          "severity": "serious",
+          "result_specific_reason": "源1.8点、95%CI1.2至2.3点横跨1.5设计锚，故对达到该幅度的目标存在seriousimprecision，降1级。CI仍在有利方向，未支持跨多个相反临床区域的veryserious−2。这里的精度扣分与D4可能的系统偏倚不同，不重复计同一问题。"
+        },
+        "publication_bias": {
+          "downgrade_levels": 0,
+          "severity": "not serious",
+          "result_specific_reason": "该特定比较已有注册标识和完整主结果来源；当前审计未找到足以对这个精确证据体判suspectedpublicationbias的独立证据。单试验不能排除发表偏倚；全综述499未取得不是本精确结局自动再降级的理由。"
+        }
+      },
+      "total_downgrade_levels": 2,
+      "upgrading_levels": 0,
+      "risk_of_bias_justification": "Serious−1 for the exact patient-reported result after the proposedD4High; HighRoB2 does not automatically implyveryserious−2. Potentialmeasurementbias and otherdesign/missingness concerns are assessed once withinRoB, not added repeatedly.",
+      "magnitude_specific_imprecision": "Serious−1 becauseCI1.2–2.3spans1.5designanchor; not applied to direction target.",
+      "source_effect_frozen_unchanged": "NRS1.8pointslower(95%CI1.2–2.3lower)",
+      "scope_limits": "把方向与幅度建立为两个明确target。可保留历史assessor3的Low结论而给新的逐域理由；不得按2比1把它消除或把整个G03改为同一标签。",
+      "source_trial": "NCT01455350",
+      "independent_trial_K": 1,
+      "actual_author_adoption_count": 3,
+      "current_label_is_not_a_global_exercise_grade": true
+    },
+    {
+      "exact_target_id": "G04_PAIN_PGIC_10WK",
+      "decision_id": "D06",
+      "status": "CURRENT_EXACT_TARGET_ACTUALLY_ADOPTED_BY_THREE_AUTHORS",
+      "current_label": "Moderate",
+      "exact_target": "10周完整PT相对利多卡因更可能报告pain-PGIC much/verymuch improved。源观察病例78/99对40/102；既有冻结RR2.01(1.55–2.61)，不保证RR≥2或精确39.6百分点。",
+      "target_relation": "EXACT_PAIN_RESPONSE_SCOPE",
+      "old_certainty_record_id": "R56:G04",
+      "starting_certainty": "High",
+      "GRADE_domains": {
+        "risk_of_bias": {
+          "downgrade_levels": 1,
+          "severity": "serious",
+          "result_specific_reason": "PGIC本身是知情患者回顾性疼痛全局评价，D4High及D2SC构成seriousRoB−1；不借NRS级别转移。PGIC类别完整保留原两臂、观察99/102且既有缺失情景仍有利，未见按依从/换组分析；分派隐藏支持D1。没有结果特异资料量化PGIC期望影响，但也没有证明测量严重失效或其他共同veryserious缺陷，故不因High自动−2。它与NRS同一试验且相关，不能当独立盲法验证。"
+        },
+        "inconsistency": {
+          "downgrade_levels": 0,
+          "severity": "not serious",
+          "result_specific_reason": "一个独立试验，不存在已观察到的跨试验不一致；不是因K=1自动降级，也不能宣称可验证一致性。"
+        },
+        "indirectness": {
+          "downgrade_levels": 0,
+          "severity": "not serious",
+          "result_specific_reason": "目标严格限于该PVD人群、完整PT对利多卡因和相应10周患者报告结局，直接性匹配。对一般FSD、孤立运动或恢复则不适用这个等级。"
+        },
+        "imprecision": {
+          "downgrade_levels": 0,
+          "severity": "not serious",
+          "result_specific_reason": "对明显疼痛改善概率增加这一方向性目标，既有RR的CI1.55–2.61不跨无效值1；该范围并未同时容许无改善/伤害与有利改善。201名观察者与118次明显改善不机械套400事件门槛；没有新算OIS或补满随机分母。现有极端缺失点边界仍有利只作稳健性情景，不冒充CI或除掉D4。"
+        },
+        "publication_bias": {
+          "downgrade_levels": 0,
+          "severity": "not serious",
+          "result_specific_reason": "该特定比较已有注册标识和完整主结果来源；当前审计未找到足以对这个精确证据体判suspectedpublicationbias的独立证据。单试验不能排除发表偏倚；全综述499未取得不是本精确结局自动再降级的理由。"
+        }
+      },
+      "total_downgrade_levels": 1,
+      "upgrading_levels": 0,
+      "risk_of_bias_justification": "Serious−1 for the exact patient-reported result after the proposedD4High; HighRoB2 does not automatically implyveryserious−2. Potentialmeasurementbias and otherdesign/missingness concerns are assessed once withinRoB, not added repeatedly.",
+      "magnitude_specific_imprecision": "No additional downgrade for the narrowly defineddirection/response target; no formalOIS newly calculated.",
+      "source_effect_frozen_unchanged": "Observed78/99vs40/102;existingRR2.01(1.55–2.61),observedRD39.6pp;missingextremepointscenariosarenotCI.",
+      "scope_limits": "不是FSD恢复、性功能正常化或个体持续获益；不是六个月PGIC。保留已有G04Moderate标签必须更新为本结果D4High后的一致seriousRoB理由，不能假称两个独立结局互相验证。",
+      "source_trial": "NCT01455350",
+      "independent_trial_K": 1,
+      "actual_author_adoption_count": 3,
+      "current_label_is_not_a_global_exercise_grade": true
+    }
+  ],
+  "exact_target_count": 3,
+  "independent_trial_family_count": 1,
+  "source_trial_registration": "NCT01455350",
+  "source_report_doi": "10.1016/j.ajog.2020.08.038",
+  "source_manuscript_sha256": "d074f93bfcc85a4052e990241ca8fd82ecc3e2ec32c555bb1261d5d287035bc4",
+  "historical_certainty_views_retained": 91,
+  "historical_GRADE_differences_retained": 8,
+  "old_target_differences_are_not_majority_merged": true,
+  "current_exact_target_resolution": "Current explicit direction, magnitude and pain-PGIC targets take precedence for those same targets; historical author-specific views remain preserved. They are not three independent trials.",
+  "new_effect_estimation": false,
+  "human_duplicate_source_reading_certified": false
+}

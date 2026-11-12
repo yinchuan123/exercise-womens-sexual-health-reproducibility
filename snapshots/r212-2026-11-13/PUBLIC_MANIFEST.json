@@ -1,0 +1,61 @@
+{
+  "schema": "bmj.r212.public.snapshot_manifest.v1",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "a71afdbf63e48a572740ba54d34b3de87a81489f0106049f5689050838a035d2",
+      "bytes": 3294
+    },
+    {
+      "path": "adopted_result_risk279.json",
+      "sha256": "5a93d09bf9197e704b19a3834336932278c69b8572e00b930c2f1e0a5baae737",
+      "bytes": 818569
+    },
+    {
+      "path": "aggregate_counts.json",
+      "sha256": "3b0310462748f9724ca5ccf4d393a2873318c25237dcd1ba49686996ce3414bf",
+      "bytes": 1253
+    },
+    {
+      "path": "author_adoption_summary.json",
+      "sha256": "3f685f065d3894ec6f5a8fef5063f772efd130af5a3c5e23fe8de6671f5fa883",
+      "bytes": 1673
+    },
+    {
+      "path": "clinical_increment.json",
+      "sha256": "2a6d0bd7bd9647be1447c031189ca411208c444055512ccc49ac44c9cad46f57",
+      "bytes": 5815
+    },
+    {
+      "path": "clinical_window194.json",
+      "sha256": "4a875b0db020a4a61a77bdc22b4e51c56cb47b9fddd707ba4b29e3ed12050e37",
+      "bytes": 460626
+    },
+    {
+      "path": "clinical_window194.tsv",
+      "sha256": "bf0e1db845dec8b6d4fcad6b5ce27bbfec66c1bacb43c2d9b98ad734db30becb",
+      "bytes": 196823
+    },
+    {
+      "path": "exact_grade_targets3.json",
+      "sha256": "d5303205887b2d1525380f5ae9675d10226b14e7e7577306400cce4e44b28d26",
+      "bytes": 11689
+    },
+    {
+      "path": "registered_to_actual_methods.json",
+      "sha256": "a2be845f621e0c61cbe76a2c7d2dca4cac0833c216544c9834a1bb29ba9d2df1",
+      "bytes": 4713
+    },
+    {
+      "path": "snapshot_meta.json",
+      "sha256": "7bc8436edea511af8ead24825dd1c661b206a4ea7ed0a95ca2cf8b8fd8e19c9b",
+      "bytes": 1669
+    },
+    {
+      "path": "verify_snapshot.py",
+      "sha256": "3fc569dbeb0bd6f9a27f25d2c487aba2051f8d93836357b09a27c55052b8711c",
+      "bytes": 4455
+    }
+  ],
+  "preserve_earlier_snapshot_files": true
+}

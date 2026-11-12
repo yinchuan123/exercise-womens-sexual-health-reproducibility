@@ -1,0 +1,38 @@
+{
+  "schema": "bmj.r212.public.snapshot_meta.v1",
+  "status": "ACTUAL_AUTHOR_ADOPTION_AND_APPROVED_PRIVATE_REPORT_WITH_DISCLOSED_CONDUCT_LIMITS",
+  "date_Asia_Shanghai": "2026-11-13",
+  "actual_author_adoption_count": 3,
+  "new_scientific_decisions_adopted": 6,
+  "whole_private_report_author_approvals": 3,
+  "private_manuscript_fingerprint": "a8b6eb9770d012c3d2734cd623f4aee06660dd8362d2fb2b06415a56c264381f",
+  "private_table3_fingerprint": "431303c20b0374e5ca9dffa08a2152dd026a055deffc16e13a19bc0a5a339dac",
+  "current_risk_targets": 279,
+  "current_merged_overall_targets": 254,
+  "current_overall_counts": {
+    "Some concerns": 70,
+    "High": 184,
+    "UNRESOLVED_OR_NO_ADOPTED_OVERALL": 25
+  },
+  "risk_target_records_changed": 2,
+  "current_exact_grade_targets": 3,
+  "independent_trials_in_these_three_targets": 1,
+  "historical_certainty_record_views_preserved": 91,
+  "historical_GRADE_differences_preserved": 8,
+  "clinical_window_groups_mapped": 194,
+  "new_effects_CIs_N_models_or_trials": 0,
+  "six_clinical_fits_and_22_diagnostic_fits_remain_separate": true,
+  "independent_duplicate_human_original_source_work_not_certified": true,
+  "active_external_resource_requests": 0,
+  "unreceived_replies_used": false,
+  "formal_submission_authorized": false,
+  "formal_submission_performed": false,
+  "preprint_published": false,
+  "scientific_or_journal_acceptance_certified": false,
+  "public_projection_excludes": [
+    "Unpublished manuscript and cover letter",
+    "Licensed original PDFs, page images and proprietary exports",
+    "Raw signed author returns, disclosures and correspondence",
+    "Personal contacts and absolute filesystem paths"
+  ]
+}

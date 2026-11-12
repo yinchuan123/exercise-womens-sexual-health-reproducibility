@@ -1,0 +1,32 @@
+{
+  "schema": "bmj.r212.public.author_adoption_summary.v1",
+  "status": "THREE_ACTUAL_AUTHOR_RETURNS_VALIDATED_AND_ADOPTED",
+  "approval_date_Asia_Shanghai": "2026-11-13",
+  "actual_author_count": 3,
+  "new_scientific_decisions_per_author": 6,
+  "all_six_semantic_decisions_match": true,
+  "exact_bound_whole_manuscript_approvals": 3,
+  "approved_private_manuscript_sha256": "a8b6eb9770d012c3d2734cd623f4aee06660dd8362d2fb2b06415a56c264381f",
+  "approved_private_table3_sha256": "431303c20b0374e5ca9dffa08a2152dd026a055deffc16e13a19bc0a5a339dac",
+  "approved_scientific_manifest_sha256": "f66874f33817449653702bd119d10de6f6b41c63b0e0998656cecf573ba809ed",
+  "private_intake_record_fingerprint": {
+    "sha256": "b56be2cb72ef066c6f738a7afb878d823961f05611069846ae05dd7412a6204d",
+    "bytes": 344276
+  },
+  "decisions": [
+    "PainNRS D4High with4.5NI and no unsupported override",
+    "PainPGIC D4High with4.5NI and no unsupported override",
+    "PGIC D2Some concerns with2.6PY and2.7NA",
+    "Mean-pain direction Moderate",
+    "Mean-pain advantage reaching1.5points Low",
+    "Ten-week pain-PGIC improvement direction Moderate"
+  ],
+  "these_returns_do_not_attest_independent_original_source_reading": true,
+  "planned_duplicate_human_original_report_work_not_certified": true,
+  "identity_boundary": "Named personal attestations were verified for version and scope; independent authentication of identity is not inferred from a local record.",
+  "raw_returns_personal_timestamps_and_contacts_not_public": true,
+  "formal_submission_authorized": false,
+  "formal_submission_performed": false,
+  "preprint_published": false,
+  "private_manuscript_not_distributed": true
+}

@@ -1,0 +1,55 @@
+{
+  "schema": "bmj.r212.public.registered_to_actual_method_crosswalk.v1",
+  "registered_protocol": "CRD420261549870",
+  "registered_public_url": "https://www.crd.york.ac.uk/PROSPERO/view/CRD420261549870",
+  "registered_document_sha256": "692447823a5e9ee679540bf3d7286a56f15ba612a3ba07f02bfc6943ac8f8829",
+  "rows": [
+    {
+      "topic": "Review question and timing",
+      "registered": "Broad intervention review; principal outcome window8–16weeks after randomization, closest12weeks, later if tied.",
+      "current": "Exercise-containing subset selected after outcomes were inspected. The registered window remains the clinical target; original schedules, pregnancy/postpartum anchors and variable programme-end clocks are distinguished.",
+      "status": "Result-informed focused scope; no retrospective prospective-registration claim"
+    },
+    {
+      "topic": "Synthesis route",
+      "registered": "Section7.6 minimum structured evidence map and outcome-specific narrative synthesis; conditional Bayesian NMA; Bayesian pairwise plus narrative fallback when NMA not defensible.",
+      "current": "Clinical source-specific narrative synthesis, with a complete194-group coverage crosswalk. No unrestricted principal-window primary pool. Three restricted pairs each have two families and frequentist REML/modified Knapp–Hartung plus common-effect method sensitivity.",
+      "status": "Frequency-based calculations are post hoc sensitivities, not implementation of the registered Bayesian pairwise plan"
+    },
+    {
+      "topic": "Bayesian modelling and priors",
+      "registered": "Section7.7 sets likelihoods, effect and heterogeneity priors, prior sensitivity, posterior diagnostics and credible intervals.",
+      "current": "No Bayesian posterior or prior-sensitivity model is reported for this focused report. Published and review-calculated frequentist intervals keep their actual methods.",
+      "status": "Not implemented; no claim that two trials makes Bayesian fitting mathematically impossible"
+    },
+    {
+      "topic": "Timing reinterpretation",
+      "registered": "Allocation-relative principal target.",
+      "current": "A supported baseline-to-allocation-to-scheduled-followup sequence can locate a nominal planned visit without individual exact dates; source calendar months, event-dependent returns, different arm durations and joint-visit model parameters are not silently harmonized.",
+      "status": "Dated clinical reinterpretation; no new primary-pool admission, effect fit or efficacy-based selection"
+    },
+    {
+      "topic": "Human source work",
+      "registered": "Sections6.1–6.3: Linwen Qiu and Kaiting Wen independently screen titles/abstracts and full texts; one human extracts and a second independently verifies all critical outcome, sample-size, variance and other specified fields; two humans independently assess important-result RoB2.",
+      "current": "Prior saved records establish named author adoption of AI-assisted recommendations. The R211 page separately collects actual reading scope, initial own answers, later AI exposure and source-bound notes; 14critical tasks do not certify full-review duplicate reading.",
+      "status": "Actual coverage reported from received records only; no completion assumed from page generation"
+    },
+    {
+      "topic": "Result-specific risk and certainty",
+      "registered": "Outcome-specific risk and certainty, with a coherent clinical question.",
+      "current": "The result-specific Morin D2/D4 reassessments and three explicit certainty targets were adopted in three actual author returns on13November2026. Historical labels, different estimands and author positions remain retained. This author adoption does not certify independent human original-report reading.",
+      "status": "No automatic relabelling or majority merging of different estimands"
+    },
+    {
+      "topic": "Acquisition cutoff and count layers",
+      "registered": "Transparent retrieval, selection and study identity.",
+      "current": "The final available-material account stays3,088reports:499not retrieved,2,589assessed, of which2,209not included,40unclassifiable,340included in194conservative strategy groups. Eight initial-female-N gaps and two possible-dependence pairs remain cutoff facts.",
+      "status": "No new resource requests, invented missing facts, certified global independentK or summed unique femaleN"
+    }
+  ],
+  "local_reporting_crosswalk_not_a_public_PROSPERO_amendment": true,
+  "registered_Bayesian_plan_implemented_for_focused_report": false,
+  "prospective_exercise_only_registration_claimed": false,
+  "new_model_fits": 0,
+  "planned_human_original_source_work_completed_claimed": false
+}

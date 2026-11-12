@@ -1,9 +1,9 @@
 {
-  "snapshot": "snapshots/r209-2026-11-12",
-  "status": "FINAL_AVAILABLE_EVIDENCE_REPORT_WORKFLOW_CLOSED_FACT_LIMITS_DISCLOSED",
+  "snapshot": "snapshots/r212-2026-11-13",
+  "status": "ACTUAL_AUTHOR_ADOPTION_AND_APPROVED_PRIVATE_REPORT_WITH_DISCLOSED_CONDUCT_LIMITS",
   "data_snapshot": "snapshots/r204-2026-11-12",
-  "aggregate_counts": "snapshots/r204-2026-11-12/aggregate_counts.json",
-  "verify": "snapshots/r209-2026-11-12/verify_final_cutoff.py",
+  "aggregate_counts": "snapshots/r212-2026-11-13/aggregate_counts.json",
+  "verify": "snapshots/r212-2026-11-13/verify_snapshot.py",
   "source_bound_manuscript_not_public": true,
   "new_author_questions_pending": 0,
   "all_missing_facts_resolved": false,
@@ -13,5 +13,11 @@
   "latest_source_intake_status": "THREE_FINAL_OBTAINABLE_FILES_PROCESSED_NO_NEW_ADOPTION_OR_NUMERIC_INPUT",
   "latest_source_intake_verify": "snapshots/r208-2026-11-12/verify_source_intake.py",
   "active_external_resource_requests": 0,
-  "actual_author_disposition_snapshot": "snapshots/r206-2026-11-12"
+  "actual_author_disposition_snapshot": "snapshots/r212-2026-11-13",
+  "current_result_risk": "snapshots/r212-2026-11-13/adopted_result_risk279.json",
+  "current_exact_certainty_targets": "snapshots/r212-2026-11-13/exact_grade_targets3.json",
+  "current_clinical_window_mapping": "snapshots/r212-2026-11-13/clinical_window194.json",
+  "current_actual_author_approvals": 3,
+  "planned_human_original_source_work_certified": false,
+  "formal_submission_authorized": false
 }

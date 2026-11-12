@@ -1,0 +1,180 @@
+{
+  "schema": "bmj.r212.public.clinical_increment_summary.v1",
+  "basis": "Existing source audit and the actually approved report; no manuscript prose or licensed original is distributed.",
+  "prior_review": {
+    "doi": "10.1093/jsxmed/qdag128",
+    "source_sha256": "1236823f2c0c751c90d78e3727d1cf5e2bdbe49e90c900de842bdb709ca68bde",
+    "included_reports": 23,
+    "FSFI_mean_change_MD": 5.31,
+    "already_narrated_non_FSFI_measures": true,
+    "no_first_non_FSFI_claim": true
+  },
+  "increment_examples": [
+    {
+      "source": "Morin2021",
+      "doi": "10.1016/j.ajog.2020.08.038",
+      "source_sha256": "d074f93bfcc85a4052e990241ca8fd82ecc3e2ec32c555bb1261d5d287035bc4",
+      "clinical_choice": "Complete multimodal physiotherapy versus topical5%lidocaine for provoked vestibulodynia.",
+      "outcome_scope": "Intercourse pain and ten-week pain-focused perceived improvement; noFSD recovery claim.",
+      "burden_facts": {
+        "PT_appointments": 10,
+        "minutes_per_appointment": 60,
+        "home_breathing_PFM_days_week": 5,
+        "insertion_dilator_days_week": 3,
+        "control_overnight_application_min_hours": 8
+      },
+      "source_not_among_prior_23_included_reports": true
+    },
+    {
+      "source": "Bergeron2021",
+      "doi": "10.1037/ccp0000631",
+      "source_sha256": "1d2ea1cf0389080701c2d0671587e5f1a4a795b53b0d4e5af862a685eb3fee05",
+      "clinical_choice": "Couple therapy containing bodily practice versus lidocaine.",
+      "outcome_scope": "Personal distress is distinct from a pain-excluded16-item function score; later estimates have different uncertainty.",
+      "burden_facts": {
+        "sessions": 12,
+        "minutes_per_session": 75,
+        "partner_and_home_practice_required": true
+      },
+      "source_not_among_prior_23_included_reports": true
+    },
+    {
+      "source": "Yang2026",
+      "doi": "10.1097/SPV.0000000000001705",
+      "source_sha256": "990222110d08432e0dc276e3e0e4c40bd41e7f2cd3e383750ee0a172be994365",
+      "clinical_choice": "Pelvic yoga versus time-equivalent physical conditioning in women with urinary incontinence.",
+      "outcome_scope": "No clear PISQ-IR sexually-active-summary advantage; combined6/12-week model among unchanged activity-status subsets, not a single12-week all-randomized effect.",
+      "source_effect": {
+        "adjusted_difference": 1.6,
+        "CI95": [
+          -0.6,
+          3.9
+        ]
+      },
+      "burden_facts": {
+        "weeks": 12,
+        "classes_week": 2,
+        "class_minutes": 90,
+        "minimum_home_hours_week": 1
+      },
+      "no_equivalence_or_inactivity_control_inference": true,
+      "source_not_among_prior_23_included_reports": true
+    }
+  ],
+  "interpretation_boundaries": [
+    "Whole-programme assignment effects are not isolated exercise-component effects.",
+    "Function, distress, pain, activity, enjoyment and perceived improvement retain distinct constructs.",
+    "Negative, noncomputable and unresolved findings remain in the complete mapping.",
+    "The eleven historical diagnostic checks and22fits do not add clinical studies, correct a global exercise effect, or alter the six clinical fits.",
+    "Current restricted estimates cannot be subtracted from5.31and called a correction."
+  ],
+  "historic_11_item_audit_dimensions": [
+    {
+      "id": "D01",
+      "dimensions": [
+        "membership"
+      ],
+      "source_verification_level": "verified",
+      "historical_date": "2026-10-29"
+    },
+    {
+      "id": "D02",
+      "dimensions": [
+        "model",
+        "variance"
+      ],
+      "source_verification_level": "verified",
+      "historical_date": "2026-10-29"
+    },
+    {
+      "id": "D03",
+      "dimensions": [
+        "scoring",
+        "population"
+      ],
+      "source_verification_level": "verified",
+      "historical_date": "2026-10-29"
+    },
+    {
+      "id": "D04",
+      "dimensions": [
+        "time",
+        "effect",
+        "variance"
+      ],
+      "source_verification_level": "verified_numeric_match_suspected_selection_error",
+      "historical_date": "2026-10-29"
+    },
+    {
+      "id": "D05",
+      "dimensions": [
+        "N"
+      ],
+      "source_verification_level": "verified",
+      "historical_date": "2026-10-29"
+    },
+    {
+      "id": "D06",
+      "dimensions": [
+        "variance",
+        "effect",
+        "comparison"
+      ],
+      "source_verification_level": "verified_source_labels_suspected_SEM_to_SD",
+      "historical_date": "2026-10-29"
+    },
+    {
+      "id": "D07",
+      "dimensions": [
+        "variance"
+      ],
+      "source_verification_level": "verified_numeric_match_unknown_actual_assumption",
+      "historical_date": "2026-10-29"
+    },
+    {
+      "id": "D08",
+      "dimensions": [
+        "linkage",
+        "comparison",
+        "N",
+        "effect",
+        "variance"
+      ],
+      "source_verification_level": "verified_source_match_high_confidence_overlap_candidate_human_pending",
+      "historical_date": "2026-10-29"
+    },
+    {
+      "id": "D09",
+      "dimensions": [
+        "dependency",
+        "N"
+      ],
+      "source_verification_level": "verified_displayed_repeated_controls_unknown_author_process",
+      "historical_date": "2026-10-29"
+    },
+    {
+      "id": "D10",
+      "dimensions": [
+        "N",
+        "time"
+      ],
+      "source_verification_level": "verified_source_conflict",
+      "historical_date": "2026-10-29"
+    },
+    {
+      "id": "D11",
+      "dimensions": [
+        "population",
+        "design",
+        "scoring",
+        "comparison",
+        "time",
+        "effect",
+        "variance"
+      ],
+      "source_verification_level": "verified_scope_difference_unknown_corrected_same_set_effect",
+      "historical_date": "2026-10-29"
+    }
+  ],
+  "no_largest_first_or_guaranteed_acceptance_claim": true
+}
