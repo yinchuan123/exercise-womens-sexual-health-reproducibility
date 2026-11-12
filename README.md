@@ -8,6 +8,14 @@ covers a broader intervention question. The focused manuscript scope was
 selected after some results had been seen. The dated decisions and evidence
 limits are documented in [Scope changes](methods/scope_changes.txt).
 
+## Final available-evidence report workflow
+
+The [R209 closure](snapshots/r209-2026-11-12/README.md) executes existing actual author policies and ends acquisition/reply waiting.50cutoff dispositions have been processed; the40unclassifiable reports,8strict initial-N gaps and2suspected cohort relations remain disclosed facts, not continuing work queues. No new clinical data, effect, fit, risk/GRADE or main-manuscript approval is created. The final private report archive is prepared, while global independentK, unique femaleN, journal acceptance and compliance with every planned conduct step are not certified. No submission or preprint posting has been performed.
+
+```sh
+python3 snapshots/r209-2026-11-12/verify_final_cutoff.py
+```
+
 ## Latest source-intake update
 
 The [R208 final-source update](snapshots/r208-2026-11-12/README.md) archives three final obtainable user-supplied files privately and publishes only source facts and process metadata. Two requested original conference reports were obtained; the radiofrequency PDF is a three-page background article rather than the requested dissertation. Zhang2016 now has source-confirmed initial randomization2,700(four arms675each), compared with2,403evaluated after6weeks and297lost. Its adult eligibility and endpoint precision remain unreported. Iervolino2017 originalS37–S38 also lacks the adult age boundary and numerical FSFI precision. No new report, independent K, grand female N, quantitative input, RoB2 or GRADE is adopted. The R206 author-adopted state and R204 data remain operative. No further acquisition or reply waiting is active under the final user cutoff.

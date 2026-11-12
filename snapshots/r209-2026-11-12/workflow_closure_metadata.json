@@ -1,0 +1,38 @@
+{
+  "status": "FINAL_AVAILABLE_EVIDENCE_REPORT_CLOSED_WITH_DISCLOSED_SOURCE_LIMITS",
+  "scope": "Actual report preparation using existing obtainable material; not completeness of all unknowable source facts or journal acceptance.",
+  "clinical_manuscript_finalized": true,
+  "main_manuscript_actual_author_approval_retained": true,
+  "main_and_figures_and_tables_and_models_unchanged": true,
+  "source_and_cutoff_supplement_updated": true,
+  "new_scientific_author_questions": 0,
+  "active_resource_requests": 0,
+  "active_qualification_or_N_or_dependency_processing_tasks": 0,
+  "source_limit_task_dispositions_executed": 50,
+  "source_limit_task_denominator": 50,
+  "source_limit_disposition_workflow_percent": 100,
+  "article_completion_percent": null,
+  "percent_boundary": "100% refers only to executing the50existing cutoff dispositions, not proving missing facts or journal acceptance.",
+  "qualification_unascertainable_at_cutoff": 40,
+  "initial_female_N_gaps_retained": 8,
+  "suspected_dependency_pairs_retained": 2,
+  "not_retrieved_at_cutoff": 499,
+  "included_reports": 340,
+  "principal": 199,
+  "companion": 141,
+  "conservative_strategy_groups": 194,
+  "dependency_split_scenarios": [
+    195,
+    196
+  ],
+  "whole_review_unique_female_N": null,
+  "whole_review_independent_K_certified": false,
+  "existing_comparison_K": [
+    2,
+    2,
+    2
+  ],
+  "formal_submission_authorized": false,
+  "formal_submission_performed": false,
+  "preprint_published": false
+}

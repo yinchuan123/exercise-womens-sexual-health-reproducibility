@@ -1,0 +1,28 @@
+{
+  "checked_date_local": "2026-11-12T23:47:46.309184+08:00",
+  "scope": "Primary methodological guidance, not a new clinical search",
+  "sources": [
+    {
+      "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-04",
+      "locator": "4.6.3, step6",
+      "paraphrase": "When information remains incomplete or unobtainable after reasonable attempts, list the relevant studies as awaiting classification. This does not establish ineligibility."
+    },
+    {
+      "url": "https://www.bmj.com/content/372/bmj.n160",
+      "locator": "PRISMA2020 explanation, item16a",
+      "paraphrase": "Report records, retrieval, unretrieved reports, eligibility decisions and included studies/reports. Reports and studies are separate units."
+    },
+    {
+      "url": "https://www.prisma-statement.org/prisma-2020-flow-diagram",
+      "locator": "Official new-review template",
+      "paraphrase": "The standard template distinguishes reports and studies; a unique participant total is not a mandatory flow-box field."
+    }
+  ],
+  "interpretation_not_claimed_as_official_certification": "A final review can transparently retain unavailable and unclassifiable material. This does not establish the missing age, initial N or cohort identity facts, or endorse journal acceptance.",
+  "review_specific_policy_basis": [
+    "R193-COUNT-POLICY actual all-A",
+    "R195-COUNT-LAYERS actual all-A",
+    "R205 actual final OblerB retained"
+  ],
+  "full_independent_human_duplicate_reading_completed": false
+}

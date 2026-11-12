@@ -1,9 +1,9 @@
 {
-  "snapshot": "snapshots/r206-2026-11-12",
-  "status": "ACTUAL_R205_FINAL_B_APPLIED_RETAINED_FACT_GAPS",
+  "snapshot": "snapshots/r209-2026-11-12",
+  "status": "FINAL_AVAILABLE_EVIDENCE_REPORT_WORKFLOW_CLOSED_FACT_LIMITS_DISCLOSED",
   "data_snapshot": "snapshots/r204-2026-11-12",
   "aggregate_counts": "snapshots/r204-2026-11-12/aggregate_counts.json",
-  "verify": "snapshots/r206-2026-11-12/verify_snapshot.py",
+  "verify": "snapshots/r209-2026-11-12/verify_final_cutoff.py",
   "source_bound_manuscript_not_public": true,
   "new_author_questions_pending": 0,
   "all_missing_facts_resolved": false,
@@ -12,5 +12,6 @@
   "latest_source_intake_snapshot": "snapshots/r208-2026-11-12",
   "latest_source_intake_status": "THREE_FINAL_OBTAINABLE_FILES_PROCESSED_NO_NEW_ADOPTION_OR_NUMERIC_INPUT",
   "latest_source_intake_verify": "snapshots/r208-2026-11-12/verify_source_intake.py",
-  "active_external_resource_requests": 0
+  "active_external_resource_requests": 0,
+  "actual_author_disposition_snapshot": "snapshots/r206-2026-11-12"
 }
