@@ -1,0 +1,47 @@
+{
+  "schema": "bmj.r216.public.retained_scientific_scope.v1",
+  "included_reports": 340,
+  "principal_reports": 199,
+  "companion_reports": 141,
+  "conservative_reported_strategy_groups": 194,
+  "eligibility_unascertainable_reports_at_cutoff": 40,
+  "reports_not_retrieved_at_cutoff": 499,
+  "strict_initial_female_N_gaps": 8,
+  "suspected_dependency_pairs": 2,
+  "N_source_stage_groups": [
+    184,
+    2,
+    8
+  ],
+  "whole_review_independent_trial_K": null,
+  "whole_review_unique_female_N": null,
+  "three_restricted_comparisons_each_independent_K": 2,
+  "three_restricted_comparisons": 3,
+  "omitting_both_dependency_clusters_scope_only": {
+    "reports": 336,
+    "reported_strategy_groups": 192,
+    "not_certified_independent_K": true,
+    "main_PRISMA_flow_unchanged": true
+  },
+  "previous_targeted_available_source_units": 57,
+  "paired_primary_reviewers_units": 57,
+  "targeted_unit_lanes": [
+    40,
+    8,
+    2,
+    7
+  ],
+  "not57_full_journal_articles_or_whole_review_duplicate_work": true,
+  "approval_did_not_reclassify_40_or_resolve_8_N_and2_relations": true,
+  "all_source_facts_resolved": false,
+  "current_result_risk_targets": 279,
+  "historical_certainty_record_views": 91,
+  "historical_GRADE_differences": 8,
+  "current_exact_certainty_targets": 3,
+  "clinical_model_fits": 6,
+  "separate_published_input_diagnostic_fits": 22,
+  "new_clinical_models_inputs_effects_or_ratings": 0,
+  "result_informed_focused_scope_remains_disclosed": true,
+  "registered_Bayesian_plan_not_implemented_for_focused_report": true,
+  "fixed_cutoff_not_reopened_and_no_reply_wait": true
+}

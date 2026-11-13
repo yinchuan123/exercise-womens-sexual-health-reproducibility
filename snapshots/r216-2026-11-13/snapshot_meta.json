@@ -1,0 +1,23 @@
+{
+  "schema": "bmj.r216.public.snapshot_meta.v1",
+  "status": "ACTUAL_THREE_AUTHOR_APPROVAL_OF_BOUND_R215_REPORT_WITH_FIXED_FACT_LIMITS_NO_SUBMISSION_AUTHORIZATION",
+  "snapshot_date_Asia_Shanghai": "2026-11-13",
+  "source_scientific_version": "R215",
+  "actual_current_version_author_approvals": 3,
+  "source_journal_assets_approved": 80,
+  "new_scientific_decisions_or_models": 0,
+  "old_scientific_votes_repeated": 0,
+  "new_primary_source_records": 0,
+  "existing_targeted_source_unit_coverage": 57,
+  "whole_review_duplicate_human_work_certified": false,
+  "all_missing_source_facts_resolved": false,
+  "source_acquisition_cutoff_unchanged": true,
+  "no_missing_fact_certification_by_signature": true,
+  "technical_package_sealing_not_certified_by_this_public_summary": true,
+  "formal_submission_authorized": false,
+  "formal_submission_performed": false,
+  "preprint_publication_authorized": false,
+  "preprint_published": false,
+  "unpublished_manuscript_licensed_sources_personal_returns_distributed": false,
+  "private_source_or_author_record_fingerprints_distributed": false
+}

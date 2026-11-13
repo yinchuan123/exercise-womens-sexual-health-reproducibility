@@ -1,9 +1,9 @@
 {
-  "snapshot": "snapshots/r215-2026-11-13",
-  "status": "TARGETED_AUTHOR_SOURCE_VERIFICATION_AND_STAGE_SPECIFIC_ACCOUNTING_WITH_FIXED_FACT_LIMITS",
+  "snapshot": "snapshots/r216-2026-11-13",
+  "status": "ACTUAL_THREE_AUTHOR_APPROVAL_OF_BOUND_R215_REPORT_WITH_FIXED_FACT_LIMITS_NO_SUBMISSION_AUTHORIZATION",
   "data_snapshot": "snapshots/r204-2026-11-12",
   "aggregate_counts": "snapshots/r215-2026-11-13/aggregate_counts.json",
-  "verify": "snapshots/r215-2026-11-13/verify_snapshot.py",
+  "verify": "snapshots/r216-2026-11-13/verify_snapshot.py",
   "source_bound_manuscript_not_public": true,
   "all_missing_facts_resolved": false,
   "formal_submission_performed": false,
@@ -26,7 +26,13 @@
   "declared_scope_is_full_available_carrier_not_all_full_journal_articles": true,
   "source_choice_difference_units": 3,
   "source_disagreement_adoption_not_inferred": true,
-  "latest_whole_private_report_approval_snapshot": "snapshots/r212-2026-11-13",
+  "latest_whole_private_report_approval_snapshot": "snapshots/r216-2026-11-13",
   "latest_whole_private_report_author_approval_count": 3,
-  "this_source_snapshot_is_not_new_whole_manuscript_approval": true
+  "actual_current_version_approval": "snapshots/r216-2026-11-13/actual_version_approval_summary.json",
+  "retained_scientific_scope": "snapshots/r216-2026-11-13/retained_scientific_scope.json",
+  "latest_whole_private_report_scientific_version": "R215",
+  "current_exact_whole_version_author_approval_count": 3,
+  "author_approved_source_journal_file_count": 80,
+  "current_version_approval_is_separate_from_submission_authorization": true,
+  "whole_review_duplicate_source_work_certified": false
 }

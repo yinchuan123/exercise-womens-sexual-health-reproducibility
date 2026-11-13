@@ -8,7 +8,45 @@ covers a broader intervention question. The focused manuscript scope was
 selected after some results had been seen. The dated decisions and evidence
 limits are documented in [Scope changes](methods/scope_changes.txt).
 
-## Current targeted author-source verification update
+## Current actual approval of the bound report
+
+The [R216 update](snapshots/r216-2026-11-13/README.md) records three actual
+current-version author approvals of the R215 disclosure revision and its
+80 source journal files. All three approved A after the matching whole-version
+review; earlier approvals were not inherited. The
+[aggregate approval summary](snapshots/r216-2026-11-13/actual_version_approval_summary.json)
+and [retained scope](snapshots/r216-2026-11-13/retained_scientific_scope.json)
+exclude personal returns, fingerprints, timestamps, contacts and manuscript text.
+Exact private version bindings were verified but are not republished here.
+
+The paired 57 available-source checks remain the R215 targeted verification
+layer. Current version approval creates no new primary-source reading record
+and does not establish whole-review duplicate screening or blinded extraction.
+The fixed 340-report/194-group account, 40 unclassifiable and 499 unavailable
+reports, eight initial-female-N gaps and two suspected cohort relations remain.
+194 is not certified independent K; each of the three restricted comparisons
+retains K = 2. No incompatible N layers are summed as a unique female total.
+No clinical input, model, effect, risk/GRADE target or scope eligibility changed.
+
+The prior risk/clinical and numerical layers remain unchanged. Version approval
+is separate from formal journal submission or preprint authorization; neither
+has been authorized or performed. The public summary does not certify missing
+facts, full completion of the registered conduct, technical archive sealing or
+journal acceptance. Licensed and private materials remain excluded.
+
+```sh
+python3 snapshots/r216-2026-11-13/verify_snapshot.py
+```
+
+## Historical snapshot accounts
+
+All sections below describe their named earlier states. Their uses of current,
+operative or pending refer to that historical snapshot. R216 records current
+whole-version approval, R215 remains the targeted-source verification layer,
+and R212 remains the unchanged result-risk and clinical-interpretation layer.
+Old pending-version language below does not describe current approval status.
+
+## Historical R215 targeted author-source verification update
 
 The [R215 source-verification snapshot](snapshots/r215-2026-11-13/README.md)
 records three authors' personal declarations of checks of 57 available primary
@@ -45,14 +83,6 @@ No journal submission or preprint has been authorized or performed.
 ```sh
 python3 snapshots/r215-2026-11-13/verify_snapshot.py
 ```
-
-## Historical snapshot accounts
-
-Every section below describes its named earlier snapshot. References to
-"current" or "operative" in those sections refer to that historical state.
-R215 is the current targeted-source verification layer; R212 remains the unchanged
-result-risk and clinical-interpretation layer. Earlier conduct descriptions are
-retained as history rather than claims that the later 57 source checks did not occur.
 
 ## Historical R212 author-adopted update
 

@@ -1,0 +1,37 @@
+{
+  "schema": "bmj.r216.public.snapshot_manifest.v1",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "3a66ece0fd3f0eee716f076f194314a3c102a97dab551801a267f68330007d06",
+      "bytes": 3320
+    },
+    {
+      "path": "actual_version_approval_summary.json",
+      "sha256": "1352314a3d71eb5726ce96ddea13647c2d60a6348969e85a20002c6fb2760d63",
+      "bytes": 1274
+    },
+    {
+      "path": "preserved_public_layers.json",
+      "sha256": "99d2c363a609e30cc57a95eb65233d9f3406f1ed7997da3b7c2c7f1a55eaeded",
+      "bytes": 1801
+    },
+    {
+      "path": "retained_scientific_scope.json",
+      "sha256": "7c6f29d4d0edf758d41bbc22495e674f251274c644b58ff90a5fda7890c23b46",
+      "bytes": 1595
+    },
+    {
+      "path": "snapshot_meta.json",
+      "sha256": "9b2f361da45cb37a2c205b8c3610cd51a698dbe2c37b6ca0bba0f8be14ac22fa",
+      "bytes": 1088
+    },
+    {
+      "path": "verify_snapshot.py",
+      "sha256": "1e78c51c7284e7d32545ea26b34f279ecd4484a9ff54c6bb45ed2154d8f46d71",
+      "bytes": 6655
+    }
+  ],
+  "earlier_snapshot_files_preserved": true,
+  "raw_personal_or_private_source_material_distributed": false
+}

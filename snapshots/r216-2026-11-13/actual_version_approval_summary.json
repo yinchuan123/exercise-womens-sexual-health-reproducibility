@@ -1,0 +1,28 @@
+{
+  "schema": "bmj.r216.public.actual_version_approval_summary.v1",
+  "status": "THREE_ACTUAL_CURRENT_VERSION_AUTHOR_APPROVALS_VERIFIED",
+  "approved_scientific_version": "R215 disclosure revision",
+  "adoption_process_snapshot": "R216",
+  "actual_current_version_approvals": 3,
+  "required_author_count": 3,
+  "actual_choices_aggregate": [
+    "A",
+    "A",
+    "A"
+  ],
+  "all_three_approved": true,
+  "earlier_version_approval_not_inherited": true,
+  "exact_version_binding_verified_privately": true,
+  "author_approved_source_journal_file_count": 80,
+  "scope": "The exact R215 manuscript, figures, tables and attachments presented for current-version author review.",
+  "personal_version_reading_was_self_attested_not_externally_authenticated": true,
+  "new_primary_source_reading_records_created_by_these_version_returns": 0,
+  "existing_paired57_targeted_available_carrier_checks_retained": true,
+  "whole_review_duplicate_source_screening_or_blinded_reextraction_certified": false,
+  "unreported_source_facts_certified": false,
+  "original_personal_records_fingerprints_times_or_contacts_distributed": false,
+  "formal_submission_authorized": false,
+  "formal_submission_performed": false,
+  "preprint_publication_authorized": false,
+  "preprint_published": false
+}

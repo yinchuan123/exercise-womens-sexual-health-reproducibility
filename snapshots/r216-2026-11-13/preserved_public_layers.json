@@ -1,0 +1,48 @@
+{
+  "schema": "bmj.r216.public.preserved_layers.v1",
+  "unchanged_public_files": [
+    {
+      "path": "snapshots/r215-2026-11-13/aggregate_counts.json",
+      "sha256": "3b0310462748f9724ca5ccf4d393a2873318c25237dcd1ba49686996ce3414bf",
+      "bytes": 1253
+    },
+    {
+      "path": "snapshots/r215-2026-11-13/stage_specific_N_K.json",
+      "sha256": "6c9b9f4b5489bebc536e4545e75fc7cf35f3e10e3b356053d5608910c3eab4d8",
+      "bytes": 1576
+    },
+    {
+      "path": "snapshots/r215-2026-11-13/author_source_verification_summary.json",
+      "sha256": "f8ea85f059a496ef5f6befde7ea066843380d215a87cbf64e3b2ad49d0c9cdb6",
+      "bytes": 2126
+    },
+    {
+      "path": "snapshots/r215-2026-11-13/policy_and_disagreements.json",
+      "sha256": "d2c02cd763df724250c5c11c2e147107a323609a1c5be920ba3d41c859c5efff",
+      "bytes": 2085
+    },
+    {
+      "path": "snapshots/r212-2026-11-13/adopted_result_risk279.json",
+      "sha256": "5a93d09bf9197e704b19a3834336932278c69b8572e00b930c2f1e0a5baae737",
+      "bytes": 818569
+    },
+    {
+      "path": "snapshots/r212-2026-11-13/exact_grade_targets3.json",
+      "sha256": "d5303205887b2d1525380f5ae9675d10226b14e7e7577306400cce4e44b28d26",
+      "bytes": 11689
+    },
+    {
+      "path": "snapshots/r212-2026-11-13/snapshot_meta.json",
+      "sha256": "7bc8436edea511af8ead24825dd1c661b206a4ea7ed0a95ca2cf8b8fd8e19c9b",
+      "bytes": 1669
+    }
+  ],
+  "existing_260_remote_blob_paths_preserved_except_root_navigation": true,
+  "only_root_navigation_replacements": [
+    "CURRENT_SNAPSHOT.json",
+    "README.md"
+  ],
+  "numerical_data_snapshot_unchanged": "snapshots/r204-2026-11-12",
+  "result_risk_and_exact_certainty_snapshot_unchanged": "snapshots/r212-2026-11-13",
+  "targeted_source_verification_snapshot_unchanged": "snapshots/r215-2026-11-13"
+}
