@@ -1,0 +1,30 @@
+{
+  "schema": "R223_SAFE_PUBLIC_PROCESS_MANIFEST_V1",
+  "snapshot_id": "r223-2026-11-13",
+  "scope": "Four process files; manifest excludes its own hash.",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1965,
+      "sha256": "97a8dd7890c3f918e73b9b72be43f14b0d29cead3b4b4e07e359aa65b95d1dbc"
+    },
+    {
+      "path": "approval_aggregate.json",
+      "bytes": 1779,
+      "sha256": "d37abc3a6feb7d8bd77412b47f426f043b9efcc8046b4d5af4399193d58e10c6"
+    },
+    {
+      "path": "snapshot_meta.json",
+      "bytes": 1835,
+      "sha256": "b021ec3a3f7ca7c6053cc364466e15e62a6e2b53066a5c936713ace1620f7884"
+    },
+    {
+      "path": "verify_snapshot.py",
+      "bytes": 1585,
+      "sha256": "e6668e3550be15dc0d64f2e919030ae77e46a1ce276da829f8f55bb12544989e"
+    }
+  ],
+  "contains_manuscript_or_returns": false,
+  "science_or_models_changed": false,
+  "formal_submission_authorized": false
+}

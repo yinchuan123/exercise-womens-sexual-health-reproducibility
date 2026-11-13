@@ -1,0 +1,44 @@
+{
+  "schema": "R223_ANONYMOUS_BOUND_VERSION_APPROVAL_AGGREGATE_V1",
+  "scope": "Bound-report version approval only; no new scientific vote or primary-source reading.",
+  "bound_scientific_manifest_sha256": "bae5dd709a003dcaefb587464b735f90569a0928f906f1d6540840d441bba01d",
+  "bound_scientific_asset_count": 117,
+  "anonymous_author_count": 3,
+  "returned_version_options": {
+    "A_approve_bound_version": 3,
+    "B_request_revision": 0,
+    "C_do_not_approve_yet": 0
+  },
+  "all_three_approved_bound_version": true,
+  "ordered_asset_row_comparisons": 351,
+  "actual_return_validation": {
+    "checks_passed": 50,
+    "checks_total": 50
+  },
+  "unchanged_scientific_asset_validation": {
+    "assets": 117,
+    "checks_passed": 145,
+    "checks_total": 145
+  },
+  "earlier_decisions": {
+    "adopted_scientific_questions": 16,
+    "new_certainty_targets_within_those_decisions": 11,
+    "certainty_counts": {
+      "Low": 8,
+      "Very_low": 3
+    },
+    "earlier_presentation_order_difference_retained": true,
+    "earlier_decisions_repeated_here": false
+  },
+  "actual_binding_limit": "Returned records bind the scientific manifest and its exact ordered117-file list; they do not contain an HTML or review-packet hash. Such bindings are not inferred.",
+  "identity_limit": "Author-supplied identities checked privately; no cryptographic authentication claimed. Individual identities and returns are not published.",
+  "new_primary_source_reading_attested": 0,
+  "unknown_facts_certified": false,
+  "whole_review_duplicate_reading_completed": false,
+  "formal_submission_authorized": false,
+  "formal_submission_performed": false,
+  "preprint_authorized": false,
+  "preprint_published": false,
+  "scientific_fact_closure_certified": false,
+  "bmj_readiness_certified": false
+}

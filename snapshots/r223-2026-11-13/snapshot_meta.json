@@ -1,0 +1,41 @@
+{
+  "schema": "R223_PUBLIC_PROCESS_SNAPSHOT_META_V1",
+  "snapshot_id": "r223-2026-11-13",
+  "prepared_utc": "2026-11-13T15:02:44.071773+00:00",
+  "snapshot_purpose": "Anonymous version-status update with unchanged evidence boundaries; process data only.",
+  "parent_public_analysis_commit": "73535a5e0f8bbbbadc1d28845110c9d575bc2e68",
+  "parent_public_snapshot": "snapshots/r222-2026-11-13",
+  "parent_analysis_files_retained_unchanged": 21,
+  "parent_analysis_snapshot_files_changed_by_this_projection": 0,
+  "new_models_fitted": 0,
+  "new_certainty_ratings": 0,
+  "new_eligibility_decisions": 0,
+  "frozen_evidence_boundaries": {
+    "included_reports": 340,
+    "conservative_reported_strategy_groups": 194,
+    "strategy_groups_are_certified_global_independent_trials": false,
+    "qualification_unascertainable_cutoff_reports": 40,
+    "unretrieved_cutoff_reports": 499,
+    "initial_female_denominator_gap_groups": 8,
+    "suspected_dependency_pairs": 2,
+    "whole_review_independent_K": null,
+    "whole_review_unique_female_N": null,
+    "targeted_author_source_verification_units": 57,
+    "additional_reading_attested_by_version_approval": 0,
+    "whole_review_duplicate_human_reading_complete": false
+  },
+  "public_content_exclusions": [
+    "Original returns or their hashes",
+    "Individual voter identities or choices",
+    "Contact details and private local paths",
+    "Manuscript and licensed full texts",
+    "New scientific facts or submission authorization"
+  ],
+  "publication_boundary": "Prepared projection only. Actual repository publication and receipt are recorded separately.",
+  "formal_submission_authorized": false,
+  "formal_submission_performed": false,
+  "preprint_authorized": false,
+  "preprint_published": false,
+  "scientific_fact_closure_certified": false,
+  "bmj_readiness_certified": false
+}

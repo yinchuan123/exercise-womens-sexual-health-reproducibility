@@ -252,3 +252,8 @@ The [R142 S26 cutoff snapshot](snapshots/r142-2026-11-08/README.md) remains immu
 The [R143 actualS27 intake and extent snapshot](snapshots/r143-2026-11-08/README.md) is retained unchanged.
 
 The [R144 technical snapshot](snapshots/r144-2026-11-08/README.md) remains immutable.
+
+
+## R223 bound-version approval
+
+Three actual author returns approved the unchanged 117-file scientific version. The [anonymous approval process record](snapshots/r223-2026-11-13) preserves all source-cutoff and verification limits; it does not certify missing facts or authorize submission. The [R222 numerical analysis snapshot](snapshots/r222-2026-11-13) remains unchanged. The manuscript, individual returns and signed disclosures are not published here.
