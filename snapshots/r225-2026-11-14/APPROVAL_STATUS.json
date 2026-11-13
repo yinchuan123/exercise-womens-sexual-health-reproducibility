@@ -1,0 +1,29 @@
+{
+  "schema": "bmj.r225.current_R224_whole_approval.v1",
+  "status": "ACTUALLY_APPROVED_BY_ALL_THREE_AUTHORS",
+  "scientific_version": "R224",
+  "administrative_round": "R225",
+  "current_matching_approvals": 3,
+  "all_A": true,
+  "manuscript_sha256": "4e5a2a4f3344a06217a7f0c354546d34ba3e3ef7a0a12de244490f7c679fa85b",
+  "scientific_manifest_sha256": "7effb52233fdea092522aa6f23d92c2dec06e94f33c2dec2c565df9301610650",
+  "scientific_assets": 146,
+  "immutable_creation_time_pending_flags_are_historical": true,
+  "new_original_source_reading": 0,
+  "new_models_or_GRADE_or_eligibility_decisions": 0,
+  "whole_review_independent_K": null,
+  "whole_review_unique_female_N": null,
+  "cutoff_limits": {
+    "qualification_unascertainable": 40,
+    "unretrieved": 499,
+    "initial_female_N_gaps": 8,
+    "suspected_dependency_pairs": 2
+  },
+  "scientific_readiness_certified": false,
+  "formal_submission_authorized": false,
+  "formal_submission_performed": false,
+  "preprint_authorized": false,
+  "preprint_published": false,
+  "private_returns_published": false,
+  "note": "Actual approval concerns the matched report only. Immutable preapproval flags are creation-time history, not current status. Approval does not certify missing facts, add source reading, or authorize submission."
+}
