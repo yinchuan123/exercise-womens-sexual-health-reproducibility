@@ -1,0 +1,260 @@
+{
+  "schema": "R224_MINIMAL_APPROVED_FIGURE_SCORE_INPUTS_V1",
+  "adopted_rows11": [
+    {
+      "pool_id": "MENOPAUSE_RAW_ENDPOINT4",
+      "K": 4,
+      "n_source_coverage": {
+        "known_sum": 271,
+        "known_families": 4,
+        "model_families": 4,
+        "complete": true,
+        "not_unique_whole_review_N": true
+      },
+      "n_source_sum": 271,
+      "MD": 3.6784875128991064,
+      "CI95": [
+        1.1879474985992151,
+        6.169027527198997
+      ],
+      "Bayesian_primary_mean": 3.6450042439386,
+      "Bayesian_primary_95CrI": [
+        1.581327561215459,
+        5.790975969064611
+      ],
+      "GRADE": "Low"
+    },
+    {
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "K": 6,
+      "n_source_coverage": {
+        "known_sum": 450,
+        "known_families": 5,
+        "model_families": 6,
+        "complete": false,
+        "not_unique_whole_review_N": true
+      },
+      "n_source_sum": 450,
+      "MD": 3.130057390133679,
+      "CI95": [
+        0.8143927406699638,
+        5.445722039597394
+      ],
+      "Bayesian_primary_mean": 3.0805421972631373,
+      "Bayesian_primary_95CrI": [
+        0.893681295855279,
+        5.18955904362511
+      ],
+      "GRADE": "Low"
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 10,
+      "n_source_coverage": {
+        "known_sum": 564,
+        "known_families": 10,
+        "model_families": 10,
+        "complete": true,
+        "not_unique_whole_review_N": true
+      },
+      "n_source_sum": 564,
+      "MD": 3.425506959210093,
+      "CI95": [
+        0.9638237566889027,
+        5.887190161731283
+      ],
+      "Bayesian_primary_mean": 3.3743432405928453,
+      "Bayesian_primary_95CrI": [
+        1.04102203716569,
+        5.337823952073756
+      ],
+      "GRADE": "Low"
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 11,
+      "n_source_coverage": {
+        "known_sum": 600,
+        "known_families": 11,
+        "model_families": 11,
+        "complete": true,
+        "not_unique_whole_review_N": true
+      },
+      "n_source_sum": 600,
+      "MD": 4.442550137293452,
+      "CI95": [
+        0.42993454999547254,
+        8.455165724591431
+      ],
+      "Bayesian_primary_mean": 4.382443524415699,
+      "Bayesian_primary_95CrI": [
+        1.058440370430823,
+        7.560887961956031
+      ],
+      "GRADE": "Very low"
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 14,
+      "n_source_coverage": {
+        "known_sum": 776,
+        "known_families": 12,
+        "model_families": 14,
+        "complete": false,
+        "not_unique_whole_review_N": true,
+        "not_complete_observed_outcome_N": true
+      },
+      "n_source_sum": 776,
+      "MD": 4.038953760430706,
+      "CI95": [
+        0.9740556218262775,
+        7.103851899035135
+      ],
+      "Bayesian_primary_mean": 3.989793341775884,
+      "Bayesian_primary_95CrI": [
+        1.2762301841049766,
+        6.617157786610326
+      ],
+      "GRADE": "Very low"
+    },
+    {
+      "pool_id": "DOMAIN_Desire_CORE3",
+      "K": 3,
+      "n_source_coverage": {
+        "known_sum": 225,
+        "known_families": 3,
+        "model_families": 3,
+        "complete": true,
+        "not_unique_whole_review_N": true
+      },
+      "n_source_sum": 225,
+      "MD": 0.3305290685022964,
+      "CI95": [
+        -0.7232872853104242,
+        1.384345422315017
+      ],
+      "Bayesian_primary_mean": 0.33253792410118077,
+      "Bayesian_primary_95CrI": [
+        -0.4743197793423783,
+        1.189107661311631
+      ],
+      "GRADE": "Very low"
+    },
+    {
+      "pool_id": "DOMAIN_Arousal_CORE3",
+      "K": 3,
+      "n_source_coverage": {
+        "known_sum": 225,
+        "known_families": 3,
+        "model_families": 3,
+        "complete": true,
+        "not_unique_whole_review_N": true
+      },
+      "n_source_sum": 225,
+      "MD": 0.7042524793161921,
+      "CI95": [
+        0.24778890110832896,
+        1.1607160575240552
+      ],
+      "Bayesian_primary_mean": 0.6700229025196258,
+      "Bayesian_primary_95CrI": [
+        0.030460780110448064,
+        1.2606929874390296
+      ],
+      "GRADE": "Low"
+    },
+    {
+      "pool_id": "DOMAIN_Lubrication_CORE3",
+      "K": 3,
+      "n_source_coverage": {
+        "known_sum": 225,
+        "known_families": 3,
+        "model_families": 3,
+        "complete": true,
+        "not_unique_whole_review_N": true
+      },
+      "n_source_sum": 225,
+      "MD": 0.2656057124555354,
+      "CI95": [
+        -0.25684861978262746,
+        0.7880600446936983
+      ],
+      "Bayesian_primary_mean": 0.2778942991188272,
+      "Bayesian_primary_95CrI": [
+        -0.30947281464904547,
+        0.9139991462274268
+      ],
+      "GRADE": "Low"
+    },
+    {
+      "pool_id": "DOMAIN_Orgasm_CORE3",
+      "K": 3,
+      "n_source_coverage": {
+        "known_sum": 225,
+        "known_families": 3,
+        "model_families": 3,
+        "complete": true,
+        "not_unique_whole_review_N": true
+      },
+      "n_source_sum": 225,
+      "MD": 0.5186133960626751,
+      "CI95": [
+        -0.20001908988573336,
+        1.2372458820110834
+      ],
+      "Bayesian_primary_mean": 0.4868482398349634,
+      "Bayesian_primary_95CrI": [
+        -0.3098025485511994,
+        1.1245146449405574
+      ],
+      "GRADE": "Low"
+    },
+    {
+      "pool_id": "DOMAIN_Satisfaction_CORE3",
+      "K": 3,
+      "n_source_coverage": {
+        "known_sum": 225,
+        "known_families": 3,
+        "model_families": 3,
+        "complete": true,
+        "not_unique_whole_review_N": true
+      },
+      "n_source_sum": 225,
+      "MD": 0.4247184640553539,
+      "CI95": [
+        -0.07983812095947257,
+        0.9292750490701804
+      ],
+      "Bayesian_primary_mean": 0.4409643098409754,
+      "Bayesian_primary_95CrI": [
+        -0.07922965868465177,
+        0.9979537446017275
+      ],
+      "GRADE": "Low"
+    },
+    {
+      "pool_id": "DOMAIN_Pain_CORE3",
+      "K": 3,
+      "n_source_coverage": {
+        "known_sum": 225,
+        "known_families": 3,
+        "model_families": 3,
+        "complete": true,
+        "not_unique_whole_review_N": true
+      },
+      "n_source_sum": 225,
+      "MD": 0.4663981003574533,
+      "CI95": [
+        -0.16565544431125634,
+        1.098451645026163
+      ],
+      "Bayesian_primary_mean": 0.448822979006183,
+      "Bayesian_primary_95CrI": [
+        -0.18399662364262237,
+        1.0382354896473378
+      ],
+      "GRADE": "Low"
+    }
+  ],
+  "no_new_models": true
+}

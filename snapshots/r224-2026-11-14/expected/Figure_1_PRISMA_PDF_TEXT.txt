@@ -1,0 +1,53 @@
+Records identified (n = 29,491)
+Databases (n = 17,574)
+  PubMed / MEDLINE, 2,262
+  Embase.com bibliographic records, 6,433
+  Web of Science Core Collection, 4,420
+  Cochrane CENTRAL, 2,194
+  LILACS, 727
+  CINAHL Complete (EBSCOhost), 922
+  APA PsycInfo (EBSCOhost), 484
+  SPORTDiscus (EBSCOhost), 132
+Trial registers (n = 10,937)
+  Embase Registry, 683
+  ClinicalTrials.gov, 8,639
+  WHO ICTRP, 1,615
+Other identified sources (n = 980)
+Duplicate representations
+removed before screening
+(n = 7,566)
+Records screened (n = 21,925) Records excluded
+(n = 18,827)
+Reports sought for retrieval (n = 3,088)
+Linked from 3,098 candidate records*
+Reports not retrieved
+(n = 499)
+Reports assessed for eligibility
+(n = 2,589)
+Reports not included
+(n = 2,209)
+Outside active-practice scope, 147
+No eligible direct sexual result, 194
+Ineligible or mixed design, 81
+Not an original result report, 59
+Nonseparable population, 26
+Retracted report, 1
+Protocols and other noncontributing
+report contexts, 1,701
+Reports awaiting classification
+at the evidence cutoff
+(n = 40)
+Included reports (n = 340)
+199 principal result reports; 141 companion reports
+Conservative reported-strategy groups (n = 194)
+Outcome-specific quantitative evidence
+S5: 39 overlapping input sets from 17 source groups
+S6: three retained restricted comparisons, K = 2 each
+Counts are specific to each synthesis, not additive.
+IdentificationScreening and eligibilityIncluded
+* Record-to-report linkage: 3,098 - 1 proceedings container + 4 additional reports - 13 redundant representations
+= 3,088. The 13 comprise 10 alias nodes and three many-to-one merges. See S1.
+The 194 groups are conservative reported strategies, not a certified review-wide independent trial K. Splitting
+one or both suspected-dependency pairs gives 195 or 196 groups; unique female N remains unverified.
+Complete programmes and defined adaptive bodily-task offers are retained. No isolated exercise-component effect
+is identified. Adapted from PRISMA 2020.

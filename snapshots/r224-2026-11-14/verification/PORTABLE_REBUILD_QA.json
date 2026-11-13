@@ -1,0 +1,180 @@
+{
+  "schema": "R224_PORTABLE_DIRECTORY_REBUILD_V1",
+  "created_UTC": "2026-11-13T16:26:28.888793+00:00",
+  "status": "PASS",
+  "steps": [
+    {
+      "script": "scripts/build_figures.py",
+      "returncode": 0,
+      "stdout": "{\"figures\": 4, \"main_output\": \"/private<independent-rebuild-directory>/figures\", \"manifest\": \"/private<independent-rebuild-directory>/FIGURE_MANIFEST_QA.json\"}\n",
+      "stderr": ""
+    },
+    {
+      "script": "scripts/verify_rebuild.py",
+      "returncode": 0,
+      "stdout": "{\"schema\": \"R224_PORTABLE_READONLY_FIGURE_CHECK_V1\", \"status\": \"PASS\", \"checks_passed\": 34, \"checks_total\": 34, \"checks\": [{\"name\": \"Figure_1_PRISMA_one_pdf_page\", \"pass\": true}, {\"name\": \"Figure_1_PRISMA_exact_pdf_text\", \"pass\": true}, {\"name\": \"Figure_1_PRISMA_exact_rendered_pixels\", \"pass\": true}, {\"name\": \"Figure_2_one_pdf_page\", \"pass\": true}, {\"name\": \"Figure_2_exact_pdf_text\", \"pass\": true}, {\"name\": \"Figure_2_exact_rendered_pixels\", \"pass\": true}, {\"name\": \"Figure_3_one_pdf_page\", \"pass\": true}, {\"name\": \"Figure_3_exact_pdf_text\", \"pass\": true}, {\"name\": \"Figure_3_exact_rendered_pixels\", \"pass\": true}, {\"name\": \"Figure_4_one_pdf_page\", \"pass\": true}, {\"name\": \"Figure_4_exact_pdf_text\", \"pass\": true}, {\"name\": \"Figure_4_exact_rendered_pixels\", \"pass\": true}, {\"name\": \"eleven_exact_target_inputs\", \"pass\": true}, {\"name\": \"Figure_3_MENOPAUSE_RAW_ENDPOINT4_exact_minimal_input\", \"pass\": true}, {\"name\": \"Figure_3_MENOPAUSE_ALL6_WITH_WALD_EQUIV_exact_minimal_input\", \"pass\": true}, {\"name\": \"Figure_3_BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N_exact_minimal_input\", \"pass\": true}, {\"name\": \"Figure_3_BROAD_ENDPOINT11_ADD_BASGOL_exact_minimal_input\", \"pass\": true}, {\"name\": \"Figure_3_BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL_exact_minimal_input\", \"pass\": true}, {\"name\": \"Figure_4_DOMAIN_Desire_CORE3_exact_minimal_input\", \"pass\": true}, {\"name\": \"Figure_4_DOMAIN_Arousal_CORE3_exact_minimal_input\", \"pass\": true}, {\"name\": \"Figure_4_DOMAIN_Lubrication_CORE3_exact_minimal_input\", \"pass\": true}, {\"name\": \"Figure_4_DOMAIN_Orgasm_CORE3_exact_minimal_input\", \"pass\": true}, {\"name\": \"Figure_4_DOMAIN_Satisfaction_CORE3_exact_minimal_input\", \"pass\": true}, {\"name\": \"Figure_4_DOMAIN_Pain_CORE3_exact_minimal_input\", \"pass\": true}, {\"name\": \"MORIN_DIRECTION_fixed_clinical_spec_unchanged\", \"pass\": true}, {\"name\": \"MORIN_PGIC_fixed_clinical_spec_unchanged\", \"pass\": true}, {\"name\": \"MYLOVIA_PRIMARY_FUNCTION_fixed_clinical_spec_unchanged\", \"pass\": true}, {\"name\": \"ESENSE_DESIRE_R1_fixed_clinical_spec_unchanged\", \"pass\": true}, {\"name\": \"ESENSE_DISTRESS_R1_fixed_clinical_spec_unchanged\", \"pass\": true}, {\"name\": \"five_selected_clinical_panels\", \"pass\": true}, {\"name\": \"PRISMA_report_equation\", \"pass\": true}, {\"name\": \"counts_40_499_8_2_and_no_unique_N\", \"pass\": true}, {\"name\": \"S5_family_count17\", \"pass\": true}, {\"name\": \"current_ID_intersections_empty_not_certified_cohort_independence\", \"pass\": true}], \"no_model_refit\": true, \"no_new_eligibility_or_GRADE\": true, \"binary_PDF_hash_identity_claimed\": false}\n",
+      "stderr": ""
+    }
+  ],
+  "separate_directory_with_only_public_files": true,
+  "project_sources_or_external_drive_not_required": true,
+  "dependencies_are_installed_runtime_libraries": true,
+  "tested_Python": "3.12",
+  "tested_versions": {
+    "matplotlib": "3.11.2",
+    "numpy": "2.5.4",
+    "pypdf": "6.21.4",
+    "pypdfium2": "5.13.0",
+    "Pillow": "13.0.0"
+  },
+  "check": {
+    "schema": "R224_PORTABLE_READONLY_FIGURE_CHECK_V1",
+    "status": "PASS",
+    "checks_passed": 34,
+    "checks_total": 34,
+    "checks": [
+      {
+        "name": "Figure_1_PRISMA_one_pdf_page",
+        "pass": true
+      },
+      {
+        "name": "Figure_1_PRISMA_exact_pdf_text",
+        "pass": true
+      },
+      {
+        "name": "Figure_1_PRISMA_exact_rendered_pixels",
+        "pass": true
+      },
+      {
+        "name": "Figure_2_one_pdf_page",
+        "pass": true
+      },
+      {
+        "name": "Figure_2_exact_pdf_text",
+        "pass": true
+      },
+      {
+        "name": "Figure_2_exact_rendered_pixels",
+        "pass": true
+      },
+      {
+        "name": "Figure_3_one_pdf_page",
+        "pass": true
+      },
+      {
+        "name": "Figure_3_exact_pdf_text",
+        "pass": true
+      },
+      {
+        "name": "Figure_3_exact_rendered_pixels",
+        "pass": true
+      },
+      {
+        "name": "Figure_4_one_pdf_page",
+        "pass": true
+      },
+      {
+        "name": "Figure_4_exact_pdf_text",
+        "pass": true
+      },
+      {
+        "name": "Figure_4_exact_rendered_pixels",
+        "pass": true
+      },
+      {
+        "name": "eleven_exact_target_inputs",
+        "pass": true
+      },
+      {
+        "name": "Figure_3_MENOPAUSE_RAW_ENDPOINT4_exact_minimal_input",
+        "pass": true
+      },
+      {
+        "name": "Figure_3_MENOPAUSE_ALL6_WITH_WALD_EQUIV_exact_minimal_input",
+        "pass": true
+      },
+      {
+        "name": "Figure_3_BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N_exact_minimal_input",
+        "pass": true
+      },
+      {
+        "name": "Figure_3_BROAD_ENDPOINT11_ADD_BASGOL_exact_minimal_input",
+        "pass": true
+      },
+      {
+        "name": "Figure_3_BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL_exact_minimal_input",
+        "pass": true
+      },
+      {
+        "name": "Figure_4_DOMAIN_Desire_CORE3_exact_minimal_input",
+        "pass": true
+      },
+      {
+        "name": "Figure_4_DOMAIN_Arousal_CORE3_exact_minimal_input",
+        "pass": true
+      },
+      {
+        "name": "Figure_4_DOMAIN_Lubrication_CORE3_exact_minimal_input",
+        "pass": true
+      },
+      {
+        "name": "Figure_4_DOMAIN_Orgasm_CORE3_exact_minimal_input",
+        "pass": true
+      },
+      {
+        "name": "Figure_4_DOMAIN_Satisfaction_CORE3_exact_minimal_input",
+        "pass": true
+      },
+      {
+        "name": "Figure_4_DOMAIN_Pain_CORE3_exact_minimal_input",
+        "pass": true
+      },
+      {
+        "name": "MORIN_DIRECTION_fixed_clinical_spec_unchanged",
+        "pass": true
+      },
+      {
+        "name": "MORIN_PGIC_fixed_clinical_spec_unchanged",
+        "pass": true
+      },
+      {
+        "name": "MYLOVIA_PRIMARY_FUNCTION_fixed_clinical_spec_unchanged",
+        "pass": true
+      },
+      {
+        "name": "ESENSE_DESIRE_R1_fixed_clinical_spec_unchanged",
+        "pass": true
+      },
+      {
+        "name": "ESENSE_DISTRESS_R1_fixed_clinical_spec_unchanged",
+        "pass": true
+      },
+      {
+        "name": "five_selected_clinical_panels",
+        "pass": true
+      },
+      {
+        "name": "PRISMA_report_equation",
+        "pass": true
+      },
+      {
+        "name": "counts_40_499_8_2_and_no_unique_N",
+        "pass": true
+      },
+      {
+        "name": "S5_family_count17",
+        "pass": true
+      },
+      {
+        "name": "current_ID_intersections_empty_not_certified_cohort_independence",
+        "pass": true
+      }
+    ],
+    "no_model_refit": true,
+    "no_new_eligibility_or_GRADE": true,
+    "binary_PDF_hash_identity_claimed": false
+  },
+  "no_model_fit_or_new_GRADE": true,
+  "PDF_metadata_not_claimed_bit_reproducible": true,
+  "original_journal_figures_unchanged": true
+}

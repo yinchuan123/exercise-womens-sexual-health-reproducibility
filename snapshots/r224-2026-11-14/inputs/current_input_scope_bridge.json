@@ -1,0 +1,63 @@
+{
+  "schema": "R224_PUBLIC_EXACT_INPUT_MEMBERSHIP_COUNTS_V1",
+  "scope": "Current identifier membership only; no proof that all biological or historical cohorts are unrelated.",
+  "terminal_limits": {
+    "qualification_unascertainable": 40,
+    "unretrieved": 499,
+    "initial_female_N_groups": 8,
+    "suspected_dependency_pairs": 2,
+    "global_independent_K": null,
+    "global_unique_female_N": null
+  },
+  "bridge": {
+    "S5_distinct_actual_source_families": [
+      "BASGOL-ISTANBUL-2013-2014-36",
+      "ChiCTR2300070648",
+      "KURT-ANTALYA-2021-2022-49",
+      "NCT03989453",
+      "PILOT-FAM-IRCT20150128020854N7",
+      "PILOT-FAM-ISRCTN10416750",
+      "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+      "PILOT-FAM-NCT01178892",
+      "PILOT-FAM-NCT03194997",
+      "PILOT-FAM-NCT03979183",
+      "PILOT-FAM-NCT05091268",
+      "PILOT-FAM-NCT05679063",
+      "PILOT-FAM-NCT06741384",
+      "PILOT-FAM-RBR-3S3FF7",
+      "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+      "SOURCE-CANDIDATE-DOI-10.5173_ceju.2023.225",
+      "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218"
+    ],
+    "S5_sets": 39,
+    "S6_distinct_actual_source_families": [
+      "NCT03780751",
+      "NCT04950556",
+      "NCT07030608",
+      "PILOT-FAM-IRCT20150128020854N7",
+      "PILOT-FAM-RBR-3S3FF7",
+      "TRIAL-NCT05168371"
+    ],
+    "S6_comparisons": 3,
+    "headline_actual_source_families": [
+      "TRIAL-NCT01455350",
+      "TRIAL-NCT05168371",
+      "TRIAL-NCT06237166"
+    ],
+    "N8_families_intersection_S5": 0,
+    "N8_families_intersection_S6": 0,
+    "N8_families_intersection_headline": 0,
+    "dependency2_intersection_S5": 0,
+    "dependency2_intersection_S6": 0,
+    "dependency2_intersection_headline": 0,
+    "qualification40_intersection_included340_report_ids": 0,
+    "qualification40_intersection_current_input_principal_report_ids": 0,
+    "qualification40_intersection_current_input_companion_report_ids": 0,
+    "qualification40_current_bound_group_ids": 0,
+    "scope_statement": "Exact current ID membership; empty intersections do not certify absent biological or historical overlap between all reports."
+  },
+  "new_fact_resolutions": 0,
+  "new_eligibility_decisions": 0,
+  "no_missing_fact_imputed": true,
+  "no_new_human_reading_attestation": true
+}

@@ -1,0 +1,51 @@
+{
+  "distinct_reports_sought": 3088,
+  "not_retrieved_fixed": 499,
+  "reports_assessed": 2589,
+  "reported_randomized_strategy_groups_conservative": 194,
+  "split_one_suspected_dependency_pair_groups": 195,
+  "split_both_Yun_and_Khoshnab_pairs_groups": 196,
+  "principal_result_reports": 199,
+  "companion_reports": 141,
+  "included_reports": 340,
+  "awaiting_classification_at_cutoff_reports": 40,
+  "existing_own_reason_exclusions": 508,
+  "noncontributing_report_contexts": 1701,
+  "total_reports_not_included_with_source_reasons": 2209,
+  "initial_unique_female_N": null,
+  "whole_review_independent_K_certified": false,
+  "record_identification": {
+    "records_identified": 29491,
+    "database_export_records": 17574,
+    "trial_register_export_records": 10937,
+    "other_source_records": 980,
+    "duplicates_removed": 7566,
+    "records_screened": 21925,
+    "records_excluded_at_record_phase": 18827,
+    "record_groups_advanced_to_report_or_resource_assessment": 3098
+  },
+  "exclusion_reasons_existing": {
+    "NOT_AN_ORIGINAL_PRIMARY_RANDOMIZED_RESULT_REPORT": 59,
+    "INTERVENTION_OR_COMPARISON_OUTSIDE_FOCUSED_ACTIVE_PRACTICE_SCOPE": 147,
+    "INELIGIBLE_OR_NONSEPARABLE_POPULATION": 26,
+    "NONRANDOMIZED_MIXED_OR_QUALITATIVE_DESIGN": 81,
+    "NO_EXTRACTABLE_DIRECT_SEXUAL_RESULT_IN_CURRENT_OWN_SOURCE": 194,
+    "RETRACTED_REPORT": 1
+  },
+  "report_equations": [
+    "29491=17574+10937+980",
+    "29491-7566=21925",
+    "21925-18827=3098",
+    "3098-1+4-13=3088",
+    "3088=499+2589",
+    "2589=2209+40+340",
+    "340=199+141"
+  ],
+  "three_restricted_comparison_independent_K": [
+    2,
+    2,
+    2
+  ],
+  "initial_female_N_gap_groups": 8,
+  "possible_dependency_pairs": 2
+}

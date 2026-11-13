@@ -1,0 +1,67 @@
+{
+  "schema": "R224_FIGURE_SOURCE_ATTRIBUTION_V1",
+  "purpose": "Presentation-only reproduction of adopted numerical inputs and source-membership accounting; no manuscripts or signatures.",
+  "scientific_inputs_unchanged": true,
+  "baseline_numeric_public_snapshot": "snapshots/r222-2026-11-13",
+  "baseline_numeric_commit": "73535a5e0f8bbbbadc1d28845110c9d575bc2e68",
+  "baseline_adoption_metadata_snapshot": "snapshots/r223-2026-11-13",
+  "source_hashes": [
+    {
+      "source": "NEW_QUANTITATIVE_EVIDENCE_MATRIX_B.json",
+      "sha256": "e326926d661ded429cd4bceeb1e565018bfa013e70ab7ca4979c772ca26dbf7b"
+    },
+    {
+      "source": "PATIENT_IMPORTANT_AND_RESTRICTED_MATRIX_A.json",
+      "sha256": "20c16d11c14b7ec1df99949a7ac41427b1c080a752723a1cf4a0387e87553c57"
+    },
+    {
+      "source": "S1_Current_cutoff_counts.json",
+      "sha256": "07c5b997c478b36a9df260aeecc84e10275da6a5534aa256331a12b5b30f3abf"
+    },
+    {
+      "source": "R224_TERMINAL50_AND_CURRENT_INPUT_SCOPE.json",
+      "sha256": "f33ec1a063ec9514dbe6b4abebc1a7691986796ecf64b1e3f0be10330e503f11"
+    },
+    {
+      "source": "original_private_figure_builder",
+      "sha256": "560b184fe8a69fa89443d343d630db5de233e9cb551b866c0abf824447fac534"
+    }
+  ],
+  "clinical_attribution": [
+    {
+      "row_ids": [
+        "MORIN_DIRECTION",
+        "MORIN_PGIC"
+      ],
+      "trial_family": "TRIAL-NCT01455350",
+      "doi": "10.1016/j.ajog.2020.08.038",
+      "scope": "Same trial; complete multimodal physiotherapy vs lidocaine; 10week pain and observed pain-PGIC; not FSD recovery. Moderate direction targets; Low for mean pain advantage >=1.5point trial-design anchor."
+    },
+    {
+      "row_ids": [
+        "MYLOVIA_PRIMARY_FUNCTION"
+      ],
+      "trial_family": "TRIAL-NCT06237166",
+      "doi": "10.1038/s41746-026-02385-z",
+      "scope": "Whole digital package; source adjusted3calendar-month FSFI estimate and bootstrap multiple-imputation interval retained; no ordinary SE manufactured."
+    },
+    {
+      "row_ids": [
+        "ESENSE_DESIRE_R1",
+        "ESENSE_DISTRESS_R1"
+      ],
+      "trial_family": "TRIAL-NCT05168371",
+      "doi": "10.1016/j.brat.2025.104732",
+      "scope": "Same initial129woman family, selected first-stage86allocation; variable treatment completion versus10week waiting. Native SIDI-F and FSDS-R coefficients; no isolated movement or common12week effect."
+    }
+  ],
+  "main_vs_exploratory": "Main clinical synthesis is condition/comparator/outcome/time specific. Selected five panels are not all primary eligible outcomes. All additional score pools are post hoc exploratory. Network is a conditional assumption stress test;8source prescription map is not a dose-response efficacy curve.",
+  "retained_limits": "40/499/8/2 cutoff limitations and no certified reviewwide independent K or unique female N remain. Existing279result-risk targets,91historicalcertaintyviews and8disagreements are not reopened.",
+  "excluded_material": [
+    "unapproved manuscript and cover letter",
+    "author receipts or signatures",
+    "private correspondence",
+    "licensed full texts",
+    "proprietary search exports"
+  ]
+}

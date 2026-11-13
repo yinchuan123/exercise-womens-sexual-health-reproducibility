@@ -1,0 +1,42 @@
+-2.5 -2 -1.5 -1 -0.5 0
+NRS 0-10 points; lower favours physiotherapy
+1 1.5 2 3
+Risk ratio (log scale); higher favours physiotherapy
+0 1 2 3 4 5 6
+FSFI points; higher favours the complete programme
+0 3 6 9 12
+SIDI-F points; higher favours the complete programme
+-14 -12 -10 -8 -6 -4 -2 0
+FSDS-R points; lower favours the complete programme
+Selected outcome-specific estimates within the full clinical synthesis
+Different native scales and populations; no overall pooled effect or ranking
+A  Intercourse pain in provoked vestibulodynia
+Multimodal physiotherapy vs lidocaine; 10 weeks
+Randomized N = 212; effective model n not reported
+MD -1.80 (-2.30 to -1.20)
+GRADE: Moderate (direction)
+B  Clearly improved pain in the same Morin trial
+Pain-focused patient global impression; 10 weeks
+Observed N = 201; 78/99 vs 40/102 much / very much improved
+RR 2.01 (1.55 to 2.61)
+GRADE: Moderate (direction)
+C  Sexual function with the complete mylovia programme
+Complete digital programme vs usual treatment plus information; 3 months
+Randomized N = 252; observed / effective model n not verified
+MD 3.70 (1.70 to 5.60)
+GRADE: Moderate (mean direction)
+D  Desire and arousal with the complete eSense mindfulness package
+First-stage mindfulness package vs initial waiting condition
+Selected-arm allocation N = 86; same initial trial family N = 129
+Coefficient 7.33 (2.89 to 11.78)
+GRADE: Moderate (exact target)
+E  Sexual distress in the same eSense comparison
+First-stage mindfulness package vs initial waiting condition
+Same selected-arm allocation N = 86; effective model n not reported
+Coefficient -8.90 (-13.15 to -4.66)
+GRADE: Moderate (exact target)
+Intervals are 95% CIs. B retains the frozen observed-case RR; C preserves the published bootstrap multiple-
+imputation interval. A/B and D/E share trial families; K = 1 for each source, not five independent trials. A has
+Low certainty for a mean advantage of at least the 1.5-point design anchor. eSense treatment completion and
+waiting use different source clocks. The full synthesis also retains active-comparator, null, uncertain and
+ungraded evidence (T able 3).

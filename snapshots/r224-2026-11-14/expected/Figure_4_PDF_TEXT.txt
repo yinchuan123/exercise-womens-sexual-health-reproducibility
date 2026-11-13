@@ -1,0 +1,39 @@
+Desire
+K = 3; source n = 225 (3/3 sources)
+Arousal
+K = 3; source n = 225 (3/3 sources)
+Lubrication
+K = 3; source n = 225 (3/3 sources)
+Orgasm
+K = 3; source n = 225 (3/3 sources)
+Satisfaction
+K = 3; source n = 225 (3/3 sources)
+Pain domain
+K = 3; source n = 225 (3/3 sources)
+−0.5 0.0 0.5 1.0 1.5
+Mean difference in FSFI domain points
+0.33 (-0.72 to 1.38)
+0.33 (-0.47 to 1.19)
+0.70 (0.25 to 1.16)
+0.67 (0.03 to 1.26)
+0.27 (-0.26 to 0.79)
+0.28 (-0.31 to 0.91)
+0.52 (-0.20 to 1.24)
+0.49 (-0.31 to 1.12)
+0.42 (-0.08 to 0.93)
+0.44 (-0.08 to 1.00)
+0.47 (-0.17 to 1.10)
+0.45 (-0.18 to 1.04)
+Very
+low
+Low
+Low
+Low
+Low
+Low
+Exploratory domain syntheses in the same three families
+MD (95% CI or CrI) GRADE
+All six domains reuse Franco, Khosravi and Elgayar; K and source n are not added across rows. Higher scores indicate
+fewer problems, including the pain domain. The wider-prior arousal CrI is -0.16 to 1.37. No between-domain interaction
+was tested; domain means are not recovery probabilities.
+REML modified HK: 95% CI Bayesian primary prior: 95% CrI

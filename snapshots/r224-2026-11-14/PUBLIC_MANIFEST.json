@@ -1,0 +1,87 @@
+{
+  "schema": "R224_PUBLIC_PRESENTATION_SOURCE_MANIFEST_V1",
+  "repo_path": "snapshots/r224-2026-11-14",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4557,
+      "sha256": "ee8b5de0057354e187f988efd6bbdfee839a775e1b640a71a30d501478b73fc0"
+    },
+    {
+      "path": "expected/Figure_1_PRISMA_PDF_TEXT.txt",
+      "bytes": 1984,
+      "sha256": "d1cc7eacc9ad9d798cca6872f33adc3213f46be10032b3371607198b5164efb4"
+    },
+    {
+      "path": "expected/Figure_2_PDF_TEXT.txt",
+      "bytes": 2110,
+      "sha256": "0045986c9c78579fe53e1553010532db0b905c969c89ba305a4dbea76a32772a"
+    },
+    {
+      "path": "expected/Figure_3_PDF_TEXT.txt",
+      "bytes": 1055,
+      "sha256": "71a45f0103f7b539cae3ce2b31bb39f7aa16dd467a6824faf97c92e7c24c0cac"
+    },
+    {
+      "path": "expected/Figure_4_PDF_TEXT.txt",
+      "bytes": 1045,
+      "sha256": "c1bb99cbb8c2d26e96bd46edd7c53f40bcb63a9e1fb3e2243c4dfdaf4ede1ffa"
+    },
+    {
+      "path": "expected/PLOT_VALUE_AND_PIXEL_CHECKS.json",
+      "bytes": 2096,
+      "sha256": "448e92e556b85cf7be33d0eb9c635f34010e5900a9c248ad123c103196dd59aa"
+    },
+    {
+      "path": "inputs/clinical_targets5.json",
+      "bytes": 771,
+      "sha256": "49ff15ed63dfcde900255cde91411c5ffe09b55e12103023f61ae42d46b3b7a8"
+    },
+    {
+      "path": "inputs/current_input_scope_bridge.json",
+      "bytes": 2267,
+      "sha256": "d05098f8ad990460041cde11d796c109906239fc259b3db0622100545c4f5af1"
+    },
+    {
+      "path": "inputs/cutoff_counts.json",
+      "bytes": 1697,
+      "sha256": "d40b21ec4636aacd01c703f25f2b4078d9677a26253b95d2d58b05160dc87a2c"
+    },
+    {
+      "path": "inputs/quantitative_targets11.json",
+      "bytes": 6482,
+      "sha256": "75660ac4f6a2f4d12b9df2825428939b649eb5c772337606f2250774dd109257"
+    },
+    {
+      "path": "inputs/source_attribution.json",
+      "bytes": 3133,
+      "sha256": "d45af7f7d38765c55695efd3a13154f89df5526d71cc61abd61e4bb9965a3834"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 79,
+      "sha256": "b7c715c15161608209e0608d3e9f51ef757b3e40359d16c4cbc7f20ec316dcc9"
+    },
+    {
+      "path": "scripts/build_figures.py",
+      "bytes": 23874,
+      "sha256": "39005a905f5cbe0ad9f1206726c953e394c2e888af24b16fa12fde24b3d052f7"
+    },
+    {
+      "path": "scripts/verify_rebuild.py",
+      "bytes": 2735,
+      "sha256": "0219e7a63a2007f85b29f78be95bc995e048849be904d829450ce29f262f3ffe"
+    },
+    {
+      "path": "verification/PORTABLE_REBUILD_QA.json",
+      "bytes": 7379,
+      "sha256": "b791b350e1858e2f1bda4892765d9b3eae8bb2d6877709b7f061b6e5e1930a7f"
+    }
+  ],
+  "new_model_fits": 0,
+  "manuscript_or_author_signatures_included": false,
+  "all_previous_snapshots_unchanged": true,
+  "source_fact_limits_40_499_8_2_retained": true,
+  "baseline_numbers_from_adopted_R222_unchanged": true,
+  "portable_rebuild_passed": "34/34; PDFtext and renderedpixels exact"
+}

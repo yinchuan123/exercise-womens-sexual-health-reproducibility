@@ -1,0 +1,37 @@
+{
+  "schema": "R224_MINIMAL_ADOPTED_GRADE_DISPLAY_V1",
+  "rows": [
+    {
+      "row_id": "MORIN_DIRECTION",
+      "adoptedGRADEexactscope": {
+        "display_zh": "中等"
+      }
+    },
+    {
+      "row_id": "MORIN_PGIC",
+      "adoptedGRADEexactscope": {
+        "display_zh": "中等"
+      }
+    },
+    {
+      "row_id": "MYLOVIA_PRIMARY_FUNCTION",
+      "adoptedGRADEexactscope": {
+        "display_zh": "中等"
+      }
+    },
+    {
+      "row_id": "ESENSE_DESIRE_R1",
+      "adoptedGRADEexactscope": {
+        "display_zh": "中等"
+      }
+    },
+    {
+      "row_id": "ESENSE_DISTRESS_R1",
+      "adoptedGRADEexactscope": {
+        "display_zh": "中等"
+      }
+    }
+  ],
+  "exact_effects_retained_in_figure_script": true,
+  "not_all_primary_results": true
+}

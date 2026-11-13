@@ -1,0 +1,90 @@
+{
+  "schema": "R224_EXPECTED_FROZEN_PLOT_VALUES_V1",
+  "clinical_specs": [
+    {
+      "id": "MORIN_DIRECTION",
+      "value": -1.8,
+      "ci": [
+        -2.3,
+        -1.2
+      ],
+      "measure": "MD",
+      "n": "Randomized N = 212; effective model n not reported",
+      "grade": "Moderate (direction)"
+    },
+    {
+      "id": "MORIN_PGIC",
+      "value": 2.01,
+      "ci": [
+        1.55,
+        2.61
+      ],
+      "measure": "RR",
+      "n": "Observed N = 201; 78/99 vs 40/102 much / very much improved",
+      "grade": "Moderate (direction)"
+    },
+    {
+      "id": "MYLOVIA_PRIMARY_FUNCTION",
+      "value": 3.7,
+      "ci": [
+        1.7,
+        5.6
+      ],
+      "measure": "MD",
+      "n": "Randomized N = 252; observed / effective model n not verified",
+      "grade": "Moderate (mean direction)"
+    },
+    {
+      "id": "ESENSE_DESIRE_R1",
+      "value": 7.334,
+      "ci": [
+        2.893,
+        11.775
+      ],
+      "measure": "Coefficient",
+      "n": "Selected-arm allocation N = 86; same initial trial family N = 129",
+      "grade": "Moderate (exact target)"
+    },
+    {
+      "id": "ESENSE_DISTRESS_R1",
+      "value": -8.903,
+      "ci": [
+        -13.147,
+        -4.658
+      ],
+      "measure": "Coefficient",
+      "n": "Same selected-arm allocation N = 86; effective model n not reported",
+      "grade": "Moderate (exact target)"
+    }
+  ],
+  "pdf_render_pixels": {
+    "Figure_1_PRISMA": {
+      "size": [
+        993,
+        1446
+      ],
+      "RGB_pixels_sha256": "3a6dd3706110240b45b2484dc21931ccd20f377f91512027fb1d23bff45e081d"
+    },
+    "Figure_2": {
+      "size": [
+        993,
+        1333
+      ],
+      "RGB_pixels_sha256": "741ee98e1a396cdedf4ce5c863c145b68731e7bbe02306cebb89752bd60b8e76"
+    },
+    "Figure_3": {
+      "size": [
+        993,
+        993
+      ],
+      "RGB_pixels_sha256": "cdd2f5e15f1252b4f167907722b9dda2ac246b989b146b22302298d5053ae0b8"
+    },
+    "Figure_4": {
+      "size": [
+        993,
+        993
+      ],
+      "RGB_pixels_sha256": "35e46e114a4a21d431f44f1983f4a7cf23c2045431cead76f08cc10709749d3b"
+    }
+  }
+}
