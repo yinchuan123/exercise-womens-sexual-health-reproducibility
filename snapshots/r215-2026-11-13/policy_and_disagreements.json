@@ -1,0 +1,63 @@
+{
+  "schema": "bmj.r215.public.policy_and_disagreement_summary.v1",
+  "adult_scope": {
+    "policy_id": "P01",
+    "actual_author_choices": [
+      "A",
+      "A",
+      "B"
+    ],
+    "agreement": false,
+    "implemented_scope": "Existing strict adult evidence core retained.",
+    "additional_posthoc_80_percent_adult_tier_implemented": false,
+    "age_proportion_mathematical_bounds_are_applicability_audit_not_adult_separable_effects": true,
+    "author_name_to_choice_not_distributed": true
+  },
+  "N_reporting": {
+    "policy_id": "P02",
+    "actual_author_choices": [
+      "A",
+      "A",
+      "A"
+    ],
+    "adopted": "Stage-specific N and comparison-specific independent K; no whole-review unique female N."
+  },
+  "source_choice_differences": [
+    {
+      "source_unit_id": "Q01",
+      "paired_reader_choices": [
+        "CONFIRM_WITH_LIMITS",
+        "SOURCE_INSUFFICIENT"
+      ],
+      "additional_verifier_choice": "SOURCE_INSUFFICIENT",
+      "scope_for_both": "FULL_AVAILABLE_PRIMARY_CARRIER",
+      "new_unreported_source_fact_established": false,
+      "agreement_or_eligibility_adoption_not_inferred": true
+    },
+    {
+      "source_unit_id": "Q02",
+      "paired_reader_choices": [
+        "CONFIRM_WITH_LIMITS",
+        "SOURCE_INSUFFICIENT"
+      ],
+      "additional_verifier_choice": "SOURCE_INSUFFICIENT",
+      "scope_for_both": "FULL_AVAILABLE_PRIMARY_CARRIER",
+      "new_unreported_source_fact_established": false,
+      "agreement_or_eligibility_adoption_not_inferred": true
+    },
+    {
+      "source_unit_id": "Q03",
+      "paired_reader_choices": [
+        "CONFIRM_WITH_LIMITS",
+        "SOURCE_INSUFFICIENT"
+      ],
+      "additional_verifier_choice": "SOURCE_INSUFFICIENT",
+      "scope_for_both": "FULL_AVAILABLE_PRIMARY_CARRIER",
+      "new_unreported_source_fact_established": false,
+      "agreement_or_eligibility_adoption_not_inferred": true
+    }
+  ],
+  "source_units_with_numeric_correction_requests": 0,
+  "existing_scientific_decisions_not_revoted": true,
+  "private_personal_timing_signatures_or_fingerprints_distributed": false
+}

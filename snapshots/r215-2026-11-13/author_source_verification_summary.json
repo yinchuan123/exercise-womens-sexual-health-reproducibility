@@ -1,0 +1,48 @@
+{
+  "schema": "bmj.r215.public.author_source_verification_summary.v1",
+  "date_Asia_Shanghai": "2026-11-13",
+  "basis": "Authors personal actual-work declarations, checked for source-unit identity and declared scope; reading and identity are not independently observed or authenticated.",
+  "contributions": [
+    {
+      "author": "Linwen Qiu",
+      "role": "Separate author source verification",
+      "declared_full_available_primary_carrier_units": 57
+    },
+    {
+      "author": "Kaiting Wen",
+      "role": "Separate author source verification",
+      "declared_full_available_primary_carrier_units": 57
+    },
+    {
+      "author": "Chuan Yin",
+      "role": "Additional author source verification",
+      "declared_full_available_primary_carrier_units": 57
+    }
+  ],
+  "paired_first_two_authors": {
+    "matched_units": 57,
+    "eligibility_units": 40,
+    "initial_female_denominator_units": 8,
+    "suspected_dependency_pair_units": 2,
+    "core_synthesis_units": 7,
+    "previous_key_tasks_encompassed_by_core_units": 14
+  },
+  "unit_is_a_verification_task_not_an_independent_trial": true,
+  "full_available_carrier_is_not_necessarily_full_journal_article": true,
+  "conference_abstract_or_original_registry_record_retains_its_source_extent": true,
+  "AI_proposals_available_before_human_choice": true,
+  "peer_answer_independence_is_personally_attested_not_external_authentication": true,
+  "blinded_reextraction_claimed": false,
+  "whole_review_duplicate_human_original_screening_or_extraction_completed": false,
+  "specific_source_checks_are_not_zero_human_reading": true,
+  "these_checks_establish_no_new_unreported_age_N_or_overlap_fact": true,
+  "raw_personal_material_distributed": false,
+  "new_manuscript_approval_or_submission_authorization_created": false,
+  "available_carrier_context_units": {
+    "conference_abstract_or_bibliographic_record_context": 9,
+    "held_native_primary_or_supplementary_context_full_journal_count_not_inferred": 45,
+    "original_register_context": 1,
+    "original_flow_figure_only_context": 1,
+    "accepted_trial_report_plus_official_method_guidance_context": 1
+  }
+}

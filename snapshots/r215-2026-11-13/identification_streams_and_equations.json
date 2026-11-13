@@ -1,0 +1,196 @@
+{
+  "schema": "bmj.r215.public.identification_and_equations.v1",
+  "record_identification": {
+    "records_identified": 29491,
+    "database_export_records": 17574,
+    "trial_register_export_records": 10937,
+    "other_source_records": 980,
+    "duplicates_removed": 7566,
+    "records_screened": 21925,
+    "records_excluded_at_record_phase": 18827,
+    "record_groups_advanced_to_report_or_resource_assessment": 3098
+  },
+  "database_streams": [
+    {
+      "name": "PubMed/MEDLINE",
+      "records": 2262
+    },
+    {
+      "name": "Embase.com bibliographic records",
+      "records": 6433
+    },
+    {
+      "name": "Web of Science Core Collection",
+      "records": 4420
+    },
+    {
+      "name": "Cochrane CENTRAL",
+      "records": 2194
+    },
+    {
+      "name": "LILACS (VHL)",
+      "records": 727
+    },
+    {
+      "name": "CINAHL Complete (EBSCOhost)",
+      "records": 922
+    },
+    {
+      "name": "APA PsycInfo (EBSCOhost)",
+      "records": 484
+    },
+    {
+      "name": "SPORTDiscus with Full Text (EBSCOhost)",
+      "records": 132
+    }
+  ],
+  "trial_register_streams": [
+    {
+      "name": "Embase Registry",
+      "records": 683
+    },
+    {
+      "name": "ClinicalTrials.gov",
+      "records": 8639
+    },
+    {
+      "name": "WHO ICTRP",
+      "records": 1615
+    }
+  ],
+  "distinct_report_count": 3088,
+  "catalogue_node_count": 3099,
+  "catalogue_category_counts": {
+    "PROTOCOL_OR_OTHER_NONCONTRIBUTING_REPORT_CONTEXT": 1701,
+    "INCLUDED_PRINCIPAL_RESULT_REPORT": 199,
+    "NOT_RETRIEVED_AT_FIXED_CUTOFF": 499,
+    "INCLUDED_COMPANION_REPORT_NO_ADDITIONAL_TRIAL": 141,
+    "EXCLUDED_WITH_EXISTING_SOURCE_REASON": 508,
+    "ALIAS_OR_CONTAINER_NOT_DISTINCT_REPORT": 11,
+    "AWAITING_CLASSIFICATION_AT_FINAL_EVIDENCE_CUTOFF": 40
+  },
+  "own_report_exclusion_reason_counts": {
+    "NOT_AN_ORIGINAL_PRIMARY_RANDOMIZED_RESULT_REPORT": 59,
+    "INTERVENTION_OR_COMPARISON_OUTSIDE_FOCUSED_ACTIVE_PRACTICE_SCOPE": 147,
+    "INELIGIBLE_OR_NONSEPARABLE_POPULATION": 26,
+    "NONRANDOMIZED_MIXED_OR_QUALITATIVE_DESIGN": 81,
+    "NO_EXTRACTABLE_DIRECT_SEXUAL_RESULT_IN_CURRENT_OWN_SOURCE": 194,
+    "RETRACTED_REPORT": 1
+  },
+  "record_to_report_identity_conversion": {
+    "advanced_record_groups": 3098,
+    "real_report_record_edges": 3091,
+    "container_count": 1,
+    "alias_nodes": 10,
+    "additional_reports": 4,
+    "many_to_one_merged_links": 3
+  },
+  "formal_equations": [
+    {
+      "id": "database",
+      "equation": "17574=2262+6433+4420+2194+727+922+484+132",
+      "computed_left": 17574,
+      "computed_right": 17574,
+      "passed": true
+    },
+    {
+      "id": "register",
+      "equation": "10937=683+8639+1615",
+      "computed_left": 10937,
+      "computed_right": 10937,
+      "passed": true
+    },
+    {
+      "id": "identified",
+      "equation": "29491=17574+10937+980",
+      "computed_left": 29491,
+      "computed_right": 29491,
+      "passed": true
+    },
+    {
+      "id": "screened",
+      "equation": "29491-7566=21925",
+      "computed_left": 21925,
+      "computed_right": 21925,
+      "passed": true
+    },
+    {
+      "id": "advanced",
+      "equation": "21925-18827=3098",
+      "computed_left": 3098,
+      "computed_right": 3098,
+      "passed": true
+    },
+    {
+      "id": "identity",
+      "equation": "3098-1+4-(10+3)=3088",
+      "computed_left": 3088,
+      "computed_right": 3088,
+      "passed": true
+    },
+    {
+      "id": "nodes",
+      "equation": "3099-11=3088",
+      "computed_left": 3088,
+      "computed_right": 3088,
+      "passed": true
+    },
+    {
+      "id": "retrieval",
+      "equation": "3088=499+2589",
+      "computed_left": 3088,
+      "computed_right": 3088,
+      "passed": true
+    },
+    {
+      "id": "assessed",
+      "equation": "2589=2209+40+340",
+      "computed_left": 2589,
+      "computed_right": 2589,
+      "passed": true
+    },
+    {
+      "id": "notincluded",
+      "equation": "2209=508+1701",
+      "computed_left": 2209,
+      "computed_right": 2209,
+      "passed": true
+    },
+    {
+      "id": "reasons",
+      "equation": "508=59+147+26+81+194+1",
+      "computed_left": 508,
+      "computed_right": 508,
+      "passed": true
+    },
+    {
+      "id": "included",
+      "equation": "340=199+141",
+      "computed_left": 340,
+      "computed_right": 340,
+      "passed": true
+    },
+    {
+      "id": "Ncoverage",
+      "equation": "194=184+2+8",
+      "computed_left": 194,
+      "computed_right": 194,
+      "passed": true
+    },
+    {
+      "id": "scope_reports",
+      "equation": "336=340-4",
+      "computed_left": 336,
+      "computed_right": 336,
+      "passed": true
+    },
+    {
+      "id": "scope_groups",
+      "equation": "192=194-2",
+      "computed_left": 192,
+      "computed_right": 192,
+      "passed": true
+    }
+  ],
+  "historical_searches_and_database_exports_not_rerun": true
+}

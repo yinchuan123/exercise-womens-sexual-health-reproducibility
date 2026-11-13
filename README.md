@@ -8,7 +8,53 @@ covers a broader intervention question. The focused manuscript scope was
 selected after some results had been seen. The dated decisions and evidence
 limits are documented in [Scope changes](methods/scope_changes.txt).
 
-## Current actual author-adopted update
+## Current targeted author-source verification update
+
+The [R215 source-verification snapshot](snapshots/r215-2026-11-13/README.md)
+records three authors' personal declarations of checks of 57 available primary
+source units. Linwen Qiu and Kaiting Wen separately checked the same 57 units;
+Chuan Yin made additional checks. The tasks comprise 40 eligibility questions,
+eight initial-female-N questions, two suspected-dependency pairs and seven core
+units encompassing 14 earlier key checks. A full available abstract or registry
+entry is not a full journal article. These AI-exposed checks are not blinded
+re-extraction or completion of whole-review duplicate screening and extraction.
+
+[Source verification](snapshots/r215-2026-11-13/author_source_verification_summary.json),
+[retained differences](snapshots/r215-2026-11-13/policy_and_disagreements.json),
+[stage-specific N/K](snapshots/r215-2026-11-13/stage_specific_N_K.json) and
+[exact count layers](snapshots/r215-2026-11-13/aggregate_counts.json) are provided.
+The adult-scope A/A/B difference is retained, with the strict adult core unchanged;
+all three adopted stage-specific N reporting. Three paired source-choice
+differences remain disclosed without inferring new eligibility facts.
+
+340 reports remain in 194 conservative reported-strategy groups, with 40
+unclassifiable and 499 unavailable reports at the fixed cutoff. The 184 source
+allocation/preallocation index-N layers, two cluster rosters and eight strict
+initial-N gaps are not summed as a unique female total. Each existing restricted
+comparison retains independent K = 2; 194 is not a certified independent K.
+The 336-report/192-group exclusion-of-both-clusters scope sensitivity changes
+neither the main PRISMA nor that certification boundary.
+
+The [R212 risk and clinical interpretation layer](snapshots/r212-2026-11-13/README.md)
+and six R204 clinical fits remain unchanged; the 22 diagnostic fits stay separate.
+No new numerical input, effect, risk/GRADE target, model or full-manuscript approval
+is created. Source gaps and incomplete whole-review duplicate human work remain
+disclosed. No manuscript, licensed original or raw personal record is public.
+No journal submission or preprint has been authorized or performed.
+
+```sh
+python3 snapshots/r215-2026-11-13/verify_snapshot.py
+```
+
+## Historical snapshot accounts
+
+Every section below describes its named earlier snapshot. References to
+"current" or "operative" in those sections refer to that historical state.
+R215 is the current targeted-source verification layer; R212 remains the unchanged
+result-risk and clinical-interpretation layer. Earlier conduct descriptions are
+retained as history rather than claims that the later 57 source checks did not occur.
+
+## Historical R212 author-adopted update
 
 The [R212 update](snapshots/r212-2026-11-13/README.md) applies three actual
 R211 returns for six new result-specific decisions and approval of the matching
@@ -40,12 +86,6 @@ No formal submission or preprint has been authorized or performed.
 ```sh
 python3 snapshots/r212-2026-11-13/verify_snapshot.py
 ```
-
-## Historical snapshot accounts
-
-The sections below describe their named earlier snapshots. Their uses of
-“current” or “operative” refer to those historical states; the R212 risk/clinical
-interpretation update above is the current author-adopted process layer.
 
 ## Historical R209 available-evidence report workflow
 

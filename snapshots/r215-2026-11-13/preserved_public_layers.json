@@ -1,0 +1,28 @@
+{
+  "schema": "bmj.r215.public.preserved_layers.v1",
+  "unchanged_public_files": [
+    {
+      "path": "snapshots/r212-2026-11-13/adopted_result_risk279.json",
+      "sha256": "5a93d09bf9197e704b19a3834336932278c69b8572e00b930c2f1e0a5baae737",
+      "bytes": 818569
+    },
+    {
+      "path": "snapshots/r212-2026-11-13/exact_grade_targets3.json",
+      "sha256": "d5303205887b2d1525380f5ae9675d10226b14e7e7577306400cce4e44b28d26",
+      "bytes": 11689
+    },
+    {
+      "path": "snapshots/r212-2026-11-13/clinical_window194.json",
+      "sha256": "4a875b0db020a4a61a77bdc22b4e51c56cb47b9fddd707ba4b29e3ed12050e37",
+      "bytes": 460626
+    },
+    {
+      "path": "snapshots/r212-2026-11-13/snapshot_meta.json",
+      "sha256": "7bc8436edea511af8ead24825dd1c661b206a4ea7ed0a95ca2cf8b8fd8e19c9b",
+      "bytes": 1669
+    }
+  ],
+  "six_clinical_fits_not_refitted": true,
+  "diagnostic_audit_remains_separate": true,
+  "prior_data_snapshot": "snapshots/r204-2026-11-12"
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "bmj.r215.public.stage_specific_N_K.v1",
+  "conservative_reported_strategy_groups": 194,
+  "included_reports": 340,
+  "source_reported_allocation_or_preallocation_index_N_groups": 184,
+  "cluster_female_roster_only_groups": 2,
+  "strict_initial_female_N_unresolved_groups": 8,
+  "layers_partition_194": true,
+  "reported_N_layer_is_not_verified_complete_initial_randomized_female_cohorts": true,
+  "whole_review_unique_female_N": null,
+  "whole_review_independent_K": null,
+  "group194_is_not_certified_independent_K": true,
+  "incompatible_N_layers_not_summed": true,
+  "unavailable_whole_review_unique_N_does_not_preclude_eligible_comparison_specific_synthesis": true,
+  "comparison_specific_K": [
+    {
+      "comparison": "PM_PFMT_ENDPOINT_METHOD_SENSITIVITY",
+      "independent_trial_K": 2,
+      "source_analysis_N_is_not_whole_review_unique_N": true
+    },
+    {
+      "comparison": "OAB_PFMT_6WK_RAW_ENDPOINT_EXPLORATORY",
+      "independent_trial_K": 2,
+      "source_analysis_N_is_not_whole_review_unique_N": true
+    },
+    {
+      "comparison": "FSDS_GUIDED_MINDFULNESS_FIRST_PLANNED_POST",
+      "independent_trial_K": 2,
+      "source_analysis_N_is_not_whole_review_unique_N": true
+    }
+  ],
+  "scope_sensitivity_omitting_both_suspected_dependency_clusters": {
+    "retained_reports": 336,
+    "retained_reported_strategy_groups": 192,
+    "certified_independent_trials": false,
+    "main_PRISMA_changed": false,
+    "new_model_fit": false
+  },
+  "all_eight_N_gaps_and_two_dependency_pairs_outside_existing_six_fit_families_and_Morin212": true
+}

@@ -1,0 +1,41 @@
+{
+  "records_identified": 29491,
+  "database_records": 17574,
+  "trial_register_records": 10937,
+  "other_source_records": 980,
+  "duplicate_representations_removed": 7566,
+  "record_groups": 21925,
+  "record_groups_excluded": 18827,
+  "record_groups_advanced": 3098,
+  "distinct_reports_sought": 3088,
+  "reports_not_retrieved": 499,
+  "reports_assessed": 2589,
+  "reports_not_included_with_reasons": 2209,
+  "own_report_exclusions": 508,
+  "protocol_or_noncontributing_contexts": 1701,
+  "reports_unclassifiable_at_cutoff": 40,
+  "included_reports": 340,
+  "principal_reports": 199,
+  "companion_reports": 141,
+  "conservative_reported_strategy_groups": 194,
+  "dependency_split_group_counts": [
+    195,
+    196
+  ],
+  "strict_initial_female_N_gaps": 8,
+  "suspected_dependency_pairs": 2,
+  "source_allocation_or_prerandomization_index_rows": 184,
+  "cluster_female_roster_rows": 2,
+  "whole_review_independent_K": null,
+  "whole_review_unique_female_N": null,
+  "whole_review_independence_certified": false,
+  "restricted_comparison_K": [
+    2,
+    2,
+    2
+  ],
+  "existing_clinical_model_fits": 6,
+  "historical_diagnostic_fits": 22,
+  "new_model_fits_in_this_update": 0,
+  "unretrieved_and_unclassifiable_are_not_active_resource_queues": true
+}
