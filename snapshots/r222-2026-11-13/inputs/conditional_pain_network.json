@@ -1,0 +1,146 @@
+{
+  "schema": "R221_CONDITIONAL_PAIN_NMA_INPUT_LOCK_B_V1",
+  "role": "CONDITIONAL_ASSUMPTION_STRESS_TEST_NOT_PRIMARY_NMA",
+  "outcome": "AverageintercoursepainintensityNRS0–10;lowerbetter;notFSFIorQ-tip",
+  "reference": "LIDO",
+  "basic_effect_order": [
+    "PT",
+    "CBCT",
+    "ICBT"
+  ],
+  "basic_effect_definition": "Meanpainrelative toLIDO;negativemeanslowerpainthanLIDO",
+  "design_matrix_X": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      -1
+    ]
+  ],
+  "likelihood": "y_j~Normal(X_j*d,vi_j+tau²)",
+  "priors": {
+    "basic_effects": "independentNormal(0,5²),relative toLIDO",
+    "tau_primary": "HalfNormal(SD1painpoint)",
+    "sensitivity_tau_prior_half_normal_SD": [
+      0.5,
+      2
+    ],
+    "fixed_tau_sensitivity": 0
+  },
+  "assumptions_not_empirical_certifications": [
+    "CONDITIONAL_ASSUMPTION_STRESS_TEST_ONLY: not primary clinical NMA, not treatment ranking and no SUCRA/best-treatment recommendation.",
+    "PT is a deliberately merged pragmatic category containing Morin10weekmultimodalPT and Goldfinger8sessionindividualPT; interchangeability is assumed for demonstration, not established by source fact.",
+    "Overnight5%lidocaine is a common reference despite10versus12weekexposure. CBCTandindividualCBTremainseparatenodes; all are complete packages, with bodily exercises overlapping acrossPT/CBT.",
+    "NativeMorinmodel endpoint contrast, nativeBergeronchangeinteraction andGoldfingerrawendpoint contrast are treated as a common mean-pain estimand only under an explicit additional comparability assumption.",
+    "Time target is first completed-course assessment. Goldfingeractual8–24weeksbelongs to expandedpost-courseanalysis, not a verified strict8–16weekpool.",
+    "PVDpopulations differ: Morinnulliparous/entrypain≥5 andbaseline7.3; Goldfingerpilotbaseline≈5.1; Bergeronstablecoupleswithclinicalrelationshipdistressexcluded. Transitivity remains unverified.",
+    "Three independent two-arm trials, four nodes, three independent basic effects: full-ranktree, zero residualdegreesoffreedom and no closedloop. Tau cannot be independently estimated from residual replication; finiteeffectpriorsandtaupriorregularise inference.",
+    "MorinroundedCIisconvertedtonormal-equivalentSE; it is neither source-exactSE nor permission to correct the source point to the interval midpoint.",
+    "Bayesian probabilities concern the sign of an average comparative pain difference under this model; they are not individual response probabilities.",
+    "NoGRADEfor this conditionalnetworkhasbeenassessed; existingMorinexact-targetGRADEdoesnottransfer."
+  ],
+  "trials": [
+    {
+      "study": "Morin2021",
+      "family_id": "TRIAL-NCT01455350",
+      "first_treatment": "PT",
+      "second_treatment": "LIDO",
+      "y": -1.8,
+      "vi": 0.07874612591716923,
+      "SE": 0.28061740130855967,
+      "native_CI95": [
+        -2.3,
+        -1.2
+      ],
+      "variance_status": "NORMAL_EQUIVALENT_FROM_ROUNDED_SOURCE_CI_NOT_SOURCE_EXACT_SE",
+      "derivation": {
+        "formula": "SE=(upper-lower)/(2*qnorm(.975))",
+        "source_CI": [
+          -2.3,
+          -1.2
+        ],
+        "point_not_replaced_by_interval_midpoint": true,
+        "source_report_direction_standardised": "PTminusLIDO;lowerpainbetter"
+      },
+      "time": "Firstpost10weekcourse",
+      "allocation_N": [
+        105,
+        107
+      ],
+      "observed_or_model_pain_N": null,
+      "source_assets": []
+    },
+    {
+      "study": "Bergeron2021_CBCT",
+      "family_id": "CBCT-TWO-CENTRE-108",
+      "first_treatment": "CBCT",
+      "second_treatment": "LIDO",
+      "y": -0.34,
+      "vi": 0.18489999999999998,
+      "SE": 0.43,
+      "variance_status": "NATIVE_CHANGE_INTERACTION_COEFFICIENT_SE",
+      "derivation": {
+        "formula": "vi=sourceSE²",
+        "sourceSE": 0.43
+      },
+      "time": "Firstpost12weekcourse",
+      "allocation_index_women_N": [
+        53,
+        55
+      ],
+      "couple_randomised_unit_one_index_woman": true,
+      "observed_or_model_pain_N": null,
+      "source_assets": []
+    },
+    {
+      "study": "Goldfinger2016",
+      "family_id": "COHORT-GOLDFINGER-QUEENS2009_2012-PVD20",
+      "first_treatment": "PT",
+      "second_treatment": "ICBT",
+      "y": 0.10000000000000009,
+      "vi": 0.7614499999999998,
+      "SE": 0.8726110244547681,
+      "variance_status": "NEW_RAW_ENDPOINT_MD_AND_VARIANCE_FROM_NATIVE_PAIN_ARM_SUMMARIES",
+      "derivation": {
+        "formula": "y=meanPT-meanICBT;vi=SDPT²/nPT+SDICBT²/nICBT",
+        "PT": {
+          "mean": 2.7,
+          "SD": 2.36,
+          "n": 10
+        },
+        "ICBT": {
+          "mean": 2.6,
+          "SD": 1.43,
+          "n": 10
+        },
+        "pre_post_correlation_not_required": true,
+        "not_FSFI_R_n": true
+      },
+      "time": "Firstpostindividualcourse:8sessionsplanned12weeks,actual8–24weeks(mean14.19,SD3.90);expandedclockonly",
+      "allocation_N": [
+        10,
+        10
+      ],
+      "reported_pain_assessment_N": [
+        10,
+        10
+      ],
+      "source_assets": [
+        {
+          "source_id": "source-9f62d25bd97fe404141d",
+          "sha256": "9f62d25bd97fe404141db41d48396e8886c5d1f18462c60621a24725c38b788e"
+        }
+      ]
+    }
+  ],
+  "not_clinically_validated_NMA": true
+}

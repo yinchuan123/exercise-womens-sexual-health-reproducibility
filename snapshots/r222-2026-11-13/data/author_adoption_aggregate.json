@@ -1,0 +1,37 @@
+{
+  "schema": "public.r222.new_decision_scope_aggregate.v1",
+  "actual_author_count": 3,
+  "new_question_count": 16,
+  "unanimous_questions": 15,
+  "new_certainty_targets_unanimously_adopted": 11,
+  "new_analysis_scope_questions_unanimously_adopted": 4,
+  "new_original_readings_attested": 0,
+  "prior57_targeted_source_checks_preserved": true,
+  "new_whole_manuscript_approval": false,
+  "formal_submission_authorized": false,
+  "formal_submission_performed": false,
+  "preprint_published": false,
+  "retained_presentation_difference": {
+    "anonymous_votes": {
+      "A": 1,
+      "B": 2
+    },
+    "issue": "Order/emphasis of source-qualified inclusive wide11/14 versus without-Basgol10/13 reference views",
+    "unanimous": false,
+    "majority_not_automatic_formal_adjudication": true,
+    "all_source_qualified_results_preserved": true,
+    "no_numeric_membership_or_grade_difference": true,
+    "no_resigning_required_for_display_difference": true
+  },
+  "factual_cutoff_preserved": {
+    "included_reports": 340,
+    "conservative_strategy_groups_not_global_independent_K": 194,
+    "eligibility_unascertainable": 40,
+    "unretrieved": 499,
+    "initial_female_N_gaps": 8,
+    "dependency_pairs": 2,
+    "whole_review_unique_female_N": null,
+    "whole_review_independent_K": null
+  },
+  "personal_records_and_fingerprints_excluded": true
+}

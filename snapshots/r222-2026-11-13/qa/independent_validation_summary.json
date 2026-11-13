@@ -1,0 +1,92 @@
+{
+  "checks": [
+    {
+      "check_id": "INDEPENDENT_STATS_QA_B",
+      "status": "PASS",
+      "counts": {
+        "locked_pools": 8,
+        "K2_skipped_for_Bayesian": 1,
+        "quad_views": 21,
+        "fresh_Stan_views_compared": 21,
+        "frequentist_views": 16,
+        "LOO_views": 10,
+        "oldPFMT2regression_views": 2
+      }
+    },
+    {
+      "check_id": "ADDITIONAL_STATS_QA_B",
+      "status": "PASS",
+      "counts": {
+        "input_pools": 30,
+        "frequentist_views_checked": 60,
+        "LOO_views_checked": 21,
+        "independent_quadrature_views": 30,
+        "fresh_Stan_views_compared": 30,
+        "total_score_Bayesian_views": 12,
+        "domain_Bayesian_views": 18,
+        "TLM_weighted_CI_sensitivity_inputs": 6,
+        "domain_arm_arithmetic_checks": 60
+      }
+    },
+    {
+      "check_id": "CONDITIONAL_PAIN_NMA_NUMERIC_QA_B",
+      "status": "PASS"
+    },
+    {
+      "check_id": "INCLUSIVE14_INDEPENDENT_ROOT_QA",
+      "status": "PASS"
+    },
+    {
+      "check_id": "INCLUSIVE14_INDEPENDENT_QA_A",
+      "status": "PASS",
+      "passed": 52,
+      "total": 52,
+      "max_frequentist_numeric_difference": 1.2444267838418455e-11,
+      "max_Bayes_numeric_difference": 4.0144376711737095e-10
+    },
+    {
+      "check_id": "FINAL_REPORT_DATA_QA_B",
+      "status": "PASS",
+      "counts": {
+        "frequentist": 78,
+        "Bayes": 54,
+        "source_locks": 39,
+        "new_GRADE_targets": 11,
+        "questions": 16,
+        "protected_journal_assets": 80
+      },
+      "checks_passed": 721,
+      "checks_total": 721
+    },
+    {
+      "check_id": "FINAL_REPORT_DATA_DELTA_QA_B",
+      "status": "PASS",
+      "checks_passed": 57,
+      "checks_total": 57
+    },
+    {
+      "check_id": "FINAL_CLINICAL_REPORT_SCIENCE_QA_C",
+      "status": "PASS",
+      "checks_passed": 32,
+      "checks_total": 32
+    }
+  ],
+  "all_reported_PASS": true,
+  "independent_R_and_Python_inclusive14_checks": true,
+  "MCMC_convergence_not_clinical_validity": true,
+  "author_signing_not_original_rereading": true,
+  "private_personal_records_not_distributed": true,
+  "portable_public_projection_replay": {
+    "status": "PASS",
+    "actual_R_frequentist_views": 78,
+    "actual_R_leave_one_family_out_views": 45,
+    "max_absolute_difference_all_numeric_fields": 3.26281224261038e-11,
+    "actual_same_model_quadrature_Bayesian_views": 54,
+    "MCMC_mean_comparison": "Five recorded meanMCSE or0.01floor; deterministicinclusive14 mean/CrI tolerance1e-6",
+    "actual_conditional_network_tau_views": 4,
+    "actual_conditional_network_pairwise_views": 24,
+    "actual_Stan_text_byte_identical_to_both_executed_models": true,
+    "portable51MCMC_script_syntax_checked_not_unnecessarily_refitted": true,
+    "offline_count_hash_membership_checks": 551
+  }
+}

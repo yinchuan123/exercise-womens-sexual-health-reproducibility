@@ -1,0 +1,3407 @@
+{
+  "rows": [
+    {
+      "pool_id": "MENOPAUSE_PRINTED_SUMMARY4",
+      "K": 4,
+      "role": "Exploratory current-data synthesis; no universal or isolated-component clinical claim",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 3,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.7420659121924102,
+      "posterior_mu_025_50_975": [
+        1.4344255713387508,
+        3.7097230412569107,
+        6.122010931073856
+      ],
+      "posterior_tau_mean": 1.7037276550429992,
+      "posterior_tau_025_50_975": [
+        0.12401689463209913,
+        1.4793351438255484,
+        4.607867282883599
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -1.0648056598395579,
+        3.6952701761680418,
+        8.869385373834737
+      ],
+      "Pr_mean_MD_gt0": 0.9952666666666666,
+      "Pr_new_setting_true_MD_gt0": 0.9563333333333334,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.4755666666666667,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 416,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 241,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611233
+    },
+    {
+      "pool_id": "MENOPAUSE_PRINTED_SUMMARY4",
+      "K": 4,
+      "role": "Exploratory current-data synthesis; no universal or isolated-component clinical claim",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.703077804243109,
+      "posterior_mu_025_50_975": [
+        2.3123303831596944,
+        3.6723858404786895,
+        5.2863166426653905
+      ],
+      "posterior_tau_mean": 0.9205467547425259,
+      "posterior_tau_025_50_975": [
+        0.04659749557065588,
+        0.8664973141448693,
+        2.168334703079619
+      ],
+      "new_setting_true_effect_025_50_975": [
+        0.9976396417117717,
+        3.6557428288796396,
+        6.54943252936878
+      ],
+      "Pr_mean_MD_gt0": 0.9999,
+      "Pr_new_setting_true_MD_gt0": 0.9919,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.2876666666666667,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 416,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 241,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611231
+    },
+    {
+      "pool_id": "MENOPAUSE_PRINTED_SUMMARY4",
+      "K": 4,
+      "role": "Exploratory current-data synthesis; no universal or isolated-component clinical claim",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 5,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.735156905134402,
+      "posterior_mu_025_50_975": [
+        0.9507055749352756,
+        3.713978121762758,
+        6.483046038721046
+      ],
+      "posterior_tau_mean": 2.032615612258418,
+      "posterior_tau_025_50_975": [
+        0.17892277841629262,
+        1.6843051543158745,
+        5.988592544992089
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -2.2283540955135117,
+        3.683060741901005,
+        9.617970845390404
+      ],
+      "Pr_mean_MD_gt0": 0.9898333333333333,
+      "Pr_new_setting_true_MD_gt0": 0.9345,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.5167333333333334,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 416,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 241,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611235
+    },
+    {
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "K": 6,
+      "role": "Expanded sensitivity with two source-CI Wald-equivalent precision approximations",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 3,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.0805421972631373,
+      "posterior_mu_025_50_975": [
+        0.893681295855279,
+        3.0857289171300746,
+        5.18955904362511
+      ],
+      "posterior_tau_mean": 2.1543086177731596,
+      "posterior_tau_025_50_975": [
+        0.7154094425799226,
+        1.9979439274256723,
+        4.494018348899245
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -2.231397033438126,
+        3.0884929350156494,
+        8.347272058521513
+      ],
+      "Pr_mean_MD_gt0": 0.9939333333333333,
+      "Pr_new_setting_true_MD_gt0": 0.9064333333333333,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.4568,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 450,
+          "known_families": 5,
+          "model_families": 6,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 865,
+          "known_families": 6,
+          "model_families": 6,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 583,
+          "known_families": 5,
+          "model_families": 6,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611333
+    },
+    {
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "K": 6,
+      "role": "Expanded sensitivity with two source-CI Wald-equivalent precision approximations",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.0853092993402655,
+      "posterior_mu_025_50_975": [
+        1.6006109968451172,
+        3.08735582849151,
+        4.572884159443076
+      ],
+      "posterior_tau_mean": 1.3768183645757481,
+      "posterior_tau_025_50_975": [
+        0.3455013203251263,
+        1.3506390736200697,
+        2.5061998120330813
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.35977102994459575,
+        3.0851842287762805,
+        6.48037844730554
+      ],
+      "Pr_mean_MD_gt0": 0.9997666666666667,
+      "Pr_new_setting_true_MD_gt0": 0.9644666666666667,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.2245,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 450,
+          "known_families": 5,
+          "model_families": 6,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 865,
+          "known_families": 6,
+          "model_families": 6,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 583,
+          "known_families": 5,
+          "model_families": 6,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611331
+    },
+    {
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "K": 6,
+      "role": "Expanded sensitivity with two source-CI Wald-equivalent precision approximations",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 5,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.089059913805383,
+      "posterior_mu_025_50_975": [
+        0.7632518113068996,
+        3.0899136664716496,
+        5.374345522342353
+      ],
+      "posterior_tau_mean": 2.3961103867484304,
+      "posterior_tau_025_50_975": [
+        0.7316316927269664,
+        2.163194885818241,
+        5.42209150622473
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -2.9326146951085916,
+        3.060154207003044,
+        9.008701210227963
+      ],
+      "Pr_mean_MD_gt0": 0.9907333333333334,
+      "Pr_new_setting_true_MD_gt0": 0.8882333333333333,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.5074666666666666,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 450,
+          "known_families": 5,
+          "model_families": 6,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 865,
+          "known_families": 6,
+          "model_families": 6,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 583,
+          "known_families": 5,
+          "model_families": 6,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611335
+    },
+    {
+      "pool_id": "MENOPAUSE_RAW_ENDPOINT4",
+      "K": 4,
+      "role": "Main raw-endpoint exploratory working comparison; unadjusted, selected observed denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 3,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.6450042439386,
+      "posterior_mu_025_50_975": [
+        1.581327561215459,
+        3.6272433999650318,
+        5.790975969064611
+      ],
+      "posterior_tau_mean": 1.5478181032704401,
+      "posterior_tau_025_50_975": [
+        0.09521614987523283,
+        1.3262184156016361,
+        4.277582562747473
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.8477518251609009,
+        3.6071351359568067,
+        8.293788171794725
+      ],
+      "Pr_mean_MD_gt0": 0.996,
+      "Pr_new_setting_true_MD_gt0": 0.9590333333333333,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.4714,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_RAW_ENDPOINT12"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 416,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 241,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611433
+    },
+    {
+      "pool_id": "MENOPAUSE_RAW_ENDPOINT4",
+      "K": 4,
+      "role": "Main raw-endpoint exploratory working comparison; unadjusted, selected observed denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.604759286071507,
+      "posterior_mu_025_50_975": [
+        2.234582387998644,
+        3.5867842662970197,
+        5.062838032919173
+      ],
+      "posterior_tau_mean": 0.8501076621419966,
+      "posterior_tau_025_50_975": [
+        0.04504551426290491,
+        0.7822285520761023,
+        2.099833241440305
+      ],
+      "new_setting_true_effect_025_50_975": [
+        1.0931369417111323,
+        3.5833264026172533,
+        6.226147420343837
+      ],
+      "Pr_mean_MD_gt0": 0.9999666666666667,
+      "Pr_new_setting_true_MD_gt0": 0.9928666666666667,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.3092666666666667,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_RAW_ENDPOINT12"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 416,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 241,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611431
+    },
+    {
+      "pool_id": "MENOPAUSE_RAW_ENDPOINT4",
+      "K": 4,
+      "role": "Main raw-endpoint exploratory working comparison; unadjusted, selected observed denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 5,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.6446861919658455,
+      "posterior_mu_025_50_975": [
+        1.0736028041883892,
+        3.626839077861233,
+        6.252937251172347
+      ],
+      "posterior_tau_mean": 1.895180590319418,
+      "posterior_tau_025_50_975": [
+        0.13591110359329978,
+        1.5576423369441659,
+        5.7568913444483645
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -2.043016012220163,
+        3.6133204927956726,
+        9.16597683620334
+      ],
+      "Pr_mean_MD_gt0": 0.9909333333333333,
+      "Pr_new_setting_true_MD_gt0": 0.9373333333333334,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.5190666666666667,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_RAW_ENDPOINT12"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 416,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 241,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611435
+    },
+    {
+      "pool_id": "MENOPAUSE_CHANGE3_WALD_EQUIV",
+      "K": 3,
+      "role": "Exploratory current-data synthesis; no universal or isolated-component clinical claim",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 3,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 2.6961946924323374,
+      "posterior_mu_025_50_975": [
+        -1.4349351360192732,
+        2.7657200825176127,
+        6.362480728873566
+      ],
+      "posterior_tau_mean": 2.940304618473791,
+      "posterior_tau_025_50_975": [
+        0.9617352924959981,
+        2.707667013419851,
+        6.227374997337839
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -5.102882208322588,
+        2.758628684828604,
+        10.288751232110712
+      ],
+      "Pr_mean_MD_gt0": 0.9267333333333333,
+      "Pr_new_setting_true_MD_gt0": 0.8088666666666666,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.41096666666666665,
+      "members": [
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 240,
+          "known_families": 2,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 513,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 406,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611533
+    },
+    {
+      "pool_id": "MENOPAUSE_CHANGE3_WALD_EQUIV",
+      "K": 3,
+      "role": "Exploratory current-data synthesis; no universal or isolated-component clinical claim",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 2.8832604464930744,
+      "posterior_mu_025_50_975": [
+        0.6736256762862718,
+        2.9058236211896835,
+        5.025700013759565
+      ],
+      "posterior_tau_mean": 1.5660610702156736,
+      "posterior_tau_025_50_975": [
+        0.5084246516623558,
+        1.5319701836645458,
+        2.788035189089387
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -1.226713197590274,
+        2.906580454900369,
+        6.861263918827779
+      ],
+      "Pr_mean_MD_gt0": 0.9924333333333333,
+      "Pr_new_setting_true_MD_gt0": 0.9296,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.1603,
+      "members": [
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 240,
+          "known_families": 2,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 513,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 406,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611531
+    },
+    {
+      "pool_id": "MENOPAUSE_CHANGE3_WALD_EQUIV",
+      "K": 3,
+      "role": "Exploratory current-data synthesis; no universal or isolated-component clinical claim",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 5,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 2.65719450531393,
+      "posterior_mu_025_50_975": [
+        -2.4374411697457514,
+        2.7293620276995623,
+        7.292628401680153
+      ],
+      "posterior_tau_mean": 3.7135642890228278,
+      "posterior_tau_025_50_975": [
+        1.0918883539702366,
+        3.2771452434933073,
+        8.705065562214646
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -7.595936363966696,
+        2.7239503483060226,
+        12.703265940554425
+      ],
+      "Pr_mean_MD_gt0": 0.8941666666666667,
+      "Pr_new_setting_true_MD_gt0": 0.7662666666666667,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.4936333333333333,
+      "members": [
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 240,
+          "known_families": 2,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 513,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 406,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611535
+    },
+    {
+      "pool_id": "MENOPAUSE_ENDPOINT_NO_DEPRESSED3",
+      "K": 3,
+      "role": "Depression/antidepressant context excluded because source eligibility differs.",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 3,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.273202054633351,
+      "posterior_mu_025_50_975": [
+        0.4581942696648247,
+        3.2163427791315367,
+        6.303593656711846
+      ],
+      "posterior_tau_mean": 1.7821213900751465,
+      "posterior_tau_025_50_975": [
+        0.08244420122457938,
+        1.5047468075421566,
+        5.127306708898898
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -2.2212674151350646,
+        3.1878894529761723,
+        9.048930631089295
+      ],
+      "Pr_mean_MD_gt0": 0.9836333333333334,
+      "Pr_new_setting_true_MD_gt0": 0.9271666666666667,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.45403333333333334,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 210,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 352,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 177,
+          "known_families": 2,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611733
+    },
+    {
+      "pool_id": "MENOPAUSE_ENDPOINT_NO_DEPRESSED3",
+      "K": 3,
+      "role": "Depression/antidepressant context excluded because source eligibility differs.",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.165128882083805,
+      "posterior_mu_025_50_975": [
+        1.647555499578917,
+        3.131828205964685,
+        4.915597610413206
+      ],
+      "posterior_tau_mean": 0.7927867683465114,
+      "posterior_tau_025_50_975": [
+        0.0326385674987937,
+        0.6859734275110205,
+        2.140286535408542
+      ],
+      "new_setting_true_effect_025_50_975": [
+        0.6276948073404395,
+        3.118506945328188,
+        5.992962197980346
+      ],
+      "Pr_mean_MD_gt0": 0.9996333333333334,
+      "Pr_new_setting_true_MD_gt0": 0.9869,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.29513333333333336,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 210,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 352,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 177,
+          "known_families": 2,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611731
+    },
+    {
+      "pool_id": "MENOPAUSE_ENDPOINT_NO_DEPRESSED3",
+      "K": 3,
+      "role": "Depression/antidepressant context excluded because source eligibility differs.",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 5,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.2496208500858406,
+      "posterior_mu_025_50_975": [
+        -0.2214114285610714,
+        3.2054886631887314,
+        6.861477502618437
+      ],
+      "posterior_tau_mean": 2.2926530225975896,
+      "posterior_tau_025_50_975": [
+        0.09333530514360479,
+        1.8202287741999696,
+        7.26450115213209
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -4.072195966675389,
+        3.1672872807091217,
+        10.669081914633002
+      ],
+      "Pr_mean_MD_gt0": 0.9700333333333333,
+      "Pr_new_setting_true_MD_gt0": 0.8947666666666667,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.5001,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 210,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 352,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 177,
+          "known_families": 2,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611735
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_DEPRESSED5",
+      "K": 5,
+      "role": "Depression/antidepressant context sensitivity.",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 3,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 2.691664412581108,
+      "posterior_mu_025_50_975": [
+        0.33648476187069987,
+        2.6826837017875675,
+        5.132496817073687
+      ],
+      "posterior_tau_mean": 2.131861817226255,
+      "posterior_tau_025_50_975": [
+        0.4022612456590063,
+        1.9668017451321589,
+        4.726570502917282
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -2.8353502562297033,
+        2.6825120274738232,
+        8.322833586104686
+      ],
+      "Pr_mean_MD_gt0": 0.9838,
+      "Pr_new_setting_true_MD_gt0": 0.8804,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.4357,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 389,
+          "known_families": 4,
+          "model_families": 5,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 801,
+          "known_families": 5,
+          "model_families": 5,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 519,
+          "known_families": 4,
+          "model_families": 5,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611833
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_DEPRESSED5",
+      "K": 5,
+      "role": "Depression/antidepressant context sensitivity.",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 2.6710744593378797,
+      "posterior_mu_025_50_975": [
+        1.1595264653907127,
+        2.6647358141792217,
+        4.210605548088661
+      ],
+      "posterior_tau_mean": 1.2063342447963317,
+      "posterior_tau_025_50_975": [
+        0.13836261722293075,
+        1.185576920095666,
+        2.425448769349628
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.49870011485064863,
+        2.6829188530386343,
+        5.877394775134663
+      ],
+      "Pr_mean_MD_gt0": 0.9987,
+      "Pr_new_setting_true_MD_gt0": 0.9573666666666667,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.19836666666666666,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 389,
+          "known_families": 4,
+          "model_families": 5,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 801,
+          "known_families": 5,
+          "model_families": 5,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 519,
+          "known_families": 4,
+          "model_families": 5,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611831
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_DEPRESSED5",
+      "K": 5,
+      "role": "Depression/antidepressant context sensitivity.",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 5,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 2.687026804367813,
+      "posterior_mu_025_50_975": [
+        -0.12942895947589717,
+        2.667444226321852,
+        5.577842848868453
+      ],
+      "posterior_tau_mean": 2.4981290857728427,
+      "posterior_tau_025_50_975": [
+        0.509166638165691,
+        2.2125522803124786,
+        6.059121410061079
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -3.7392450521501903,
+        2.6773344134767223,
+        9.47021741876904
+      ],
+      "Pr_mean_MD_gt0": 0.9709666666666666,
+      "Pr_new_setting_true_MD_gt0": 0.8577333333333333,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.49296666666666666,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 389,
+          "known_families": 4,
+          "model_families": 5,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 801,
+          "known_families": 5,
+          "model_families": 5,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 519,
+          "known_families": 4,
+          "model_families": 5,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611835
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_MULTICOMPONENT5",
+      "K": 5,
+      "role": "Inseparable PFMT/TaiChi/education/diet strategy sensitivity.",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 3,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 2.93352081817253,
+      "posterior_mu_025_50_975": [
+        0.32790950669310703,
+        2.9438326823568906,
+        5.471443831278889
+      ],
+      "posterior_tau_mean": 2.454686005790885,
+      "posterior_tau_025_50_975": [
+        0.8001238989066072,
+        2.290168208313834,
+        5.067513232071293
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -3.230220134571651,
+        2.93643624761327,
+        9.010089716440667
+      ],
+      "Pr_mean_MD_gt0": 0.9831666666666666,
+      "Pr_new_setting_true_MD_gt0": 0.8702333333333333,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.4511,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 450,
+          "known_families": 5,
+          "model_families": 5,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 771,
+          "known_families": 5,
+          "model_families": 5,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 489,
+          "known_families": 4,
+          "model_families": 5,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611933
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_MULTICOMPONENT5",
+      "K": 5,
+      "role": "Inseparable PFMT/TaiChi/education/diet strategy sensitivity.",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 2.9382787572042246,
+      "posterior_mu_025_50_975": [
+        1.2477873181658752,
+        2.9424717868121015,
+        4.616340196007406
+      ],
+      "posterior_tau_mean": 1.4737289094213029,
+      "posterior_tau_025_50_975": [
+        0.42440624407647665,
+        1.4504696849437257,
+        2.626270647214702
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.6670665327811125,
+        2.9538085105248975,
+        6.5642834898170985
+      ],
+      "Pr_mean_MD_gt0": 0.9991666666666666,
+      "Pr_new_setting_true_MD_gt0": 0.9530666666666666,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.1937,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 450,
+          "known_families": 5,
+          "model_families": 5,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 771,
+          "known_families": 5,
+          "model_families": 5,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 489,
+          "known_families": 4,
+          "model_families": 5,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611931
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_MULTICOMPONENT5",
+      "K": 5,
+      "role": "Inseparable PFMT/TaiChi/education/diet strategy sensitivity.",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 5,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 2.919096364043379,
+      "posterior_mu_025_50_975": [
+        -0.12965788155722272,
+        2.9360270819358734,
+        5.817010861947483
+      ],
+      "posterior_tau_mean": 2.8443173522605085,
+      "posterior_tau_025_50_975": [
+        0.9125042609382698,
+        2.552813804551086,
+        6.547260024227091
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -4.3083118238857825,
+        2.941595878601941,
+        10.014486790649878
+      ],
+      "Pr_mean_MD_gt0": 0.9718333333333333,
+      "Pr_new_setting_true_MD_gt0": 0.8458666666666667,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.5148,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 450,
+          "known_families": 5,
+          "model_families": 5,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 771,
+          "known_families": 5,
+          "model_families": 5,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 489,
+          "known_families": 4,
+          "model_families": 5,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611935
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 10,
+      "role": "POSTHOC_EXPLORATORY_BROAD_SCOPE_NOT_A_UNIVERSAL_EXERCISE_ASSIGNMENT_EFFECT; Cross-population complete trainingstrategy vs noaddedtraining, firstplanned8–16weekFSFI endpoint; all10haveprintedoutcomeN and rawendpoint means/SDs",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 3,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.3743432405928453,
+      "posterior_mu_025_50_975": [
+        1.04102203716569,
+        3.4363686249031966,
+        5.337823952073756
+      ],
+      "posterior_tau_mean": 2.8171322801349277,
+      "posterior_tau_025_50_975": [
+        1.3327247605286767,
+        2.685571888247411,
+        5.0640601049669
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -3.2831892462472942,
+        3.4254496487878496,
+        9.630448087688244
+      ],
+      "Pr_mean_MD_gt0": 0.9951666666666666,
+      "Pr_new_setting_true_MD_gt0": 0.8717333333333334,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.3223666666666667,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 564,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 838,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 638,
+          "known_families": 9,
+          "model_families": 10,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611260
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 10,
+      "role": "POSTHOC_EXPLORATORY_BROAD_SCOPE_NOT_A_UNIVERSAL_EXERCISE_ASSIGNMENT_EFFECT; Cross-population complete trainingstrategy vs noaddedtraining, firstplanned8–16weekFSFI endpoint; all10haveprintedoutcomeN and rawendpoint means/SDs",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.6364630337310033,
+      "posterior_mu_025_50_975": [
+        2.0488027655205263,
+        3.66220485760529,
+        5.092237952547455
+      ],
+      "posterior_tau_mean": 1.8557978307941574,
+      "posterior_tau_025_50_975": [
+        0.9685775446751026,
+        1.8149072392312602,
+        2.971565957166316
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.586572549546393,
+        3.664248392327922,
+        7.711004402011218
+      ],
+      "Pr_mean_MD_gt0": 1,
+      "Pr_new_setting_true_MD_gt0": 0.9587,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.09256666666666667,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 564,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 838,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 638,
+          "known_families": 9,
+          "model_families": 10,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611240
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 10,
+      "role": "POSTHOC_EXPLORATORY_BROAD_SCOPE_NOT_A_UNIVERSAL_EXERCISE_ASSIGNMENT_EFFECT; Cross-population complete trainingstrategy vs noaddedtraining, firstplanned8–16weekFSFI endpoint; all10haveprintedoutcomeN and rawendpoint means/SDs",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 5,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.3257719732059874,
+      "posterior_mu_025_50_975": [
+        0.8903266073262054,
+        3.385250366801641,
+        5.452957198736633
+      ],
+      "posterior_tau_mean": 3.0831044001081813,
+      "posterior_tau_025_50_975": [
+        1.3842147951342223,
+        2.9037239921976905,
+        5.82753876315601
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -3.9249501605637516,
+        3.40457075270898,
+        10.1857530343248
+      ],
+      "Pr_mean_MD_gt0": 0.9927333333333334,
+      "Pr_new_setting_true_MD_gt0": 0.8550333333333333,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.3785,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 564,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 838,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 638,
+          "known_families": 9,
+          "model_families": 10,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611280
+    },
+    {
+      "pool_id": "BROAD_PRINTED_SUMMARY10",
+      "K": 10,
+      "role": "MIXED_ESTIMATOR_EXPLORATORY_SENSITIVITY; Same10directtrainingfamilieswithElgayaranddeBemprintedchanges, otherrawendpoints",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 3,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.5797170246957584,
+      "posterior_mu_025_50_975": [
+        1.454732241347764,
+        3.624422174960828,
+        5.444811542293691
+      ],
+      "posterior_tau_mean": 2.6178946471559597,
+      "posterior_tau_025_50_975": [
+        1.241279700646171,
+        2.4850474894883563,
+        4.73106765952775
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -2.5941932218713553,
+        3.655283998077987,
+        9.390209209195113
+      ],
+      "Pr_mean_MD_gt0": 0.9982333333333333,
+      "Pr_new_setting_true_MD_gt0": 0.9018666666666667,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.30743333333333334,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 561,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 838,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 638,
+          "known_families": 9,
+          "model_families": 10,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611460
+    },
+    {
+      "pool_id": "BROAD_PRINTED_SUMMARY10",
+      "K": 10,
+      "role": "MIXED_ESTIMATOR_EXPLORATORY_SENSITIVITY; Same10directtrainingfamilieswithElgayaranddeBemprintedchanges, otherrawendpoints",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.787215618960539,
+      "posterior_mu_025_50_975": [
+        2.29431350908398,
+        3.804819102459419,
+        5.164386960509239
+      ],
+      "posterior_tau_mean": 1.7658542980749585,
+      "posterior_tau_025_50_975": [
+        0.9250384756482686,
+        1.727608652173915,
+        2.829586071116505
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.24573091025808874,
+        3.8121837619868186,
+        7.672066146270169
+      ],
+      "Pr_mean_MD_gt0": 0.9999333333333333,
+      "Pr_new_setting_true_MD_gt0": 0.9688333333333333,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.09573333333333334,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 561,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 838,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 638,
+          "known_families": 9,
+          "model_families": 10,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611440
+    },
+    {
+      "pool_id": "BROAD_PRINTED_SUMMARY10",
+      "K": 10,
+      "role": "MIXED_ESTIMATOR_EXPLORATORY_SENSITIVITY; Same10directtrainingfamilieswithElgayaranddeBemprintedchanges, otherrawendpoints",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 5,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.557503022656983,
+      "posterior_mu_025_50_975": [
+        1.2590440713624451,
+        3.6059864056040816,
+        5.59703445705172
+      ],
+      "posterior_tau_mean": 2.84794111913889,
+      "posterior_tau_025_50_975": [
+        1.2796102513548013,
+        2.6637423357966536,
+        5.452333890472543
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -3.224373374756452,
+        3.604776243965083,
+        9.805771966723677
+      ],
+      "Pr_mean_MD_gt0": 0.9957,
+      "Pr_new_setting_true_MD_gt0": 0.8812,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.36473333333333335,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 561,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 838,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 638,
+          "known_families": 9,
+          "model_families": 10,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611480
+    },
+    {
+      "pool_id": "BROAD_COMPLETE_STRATEGY13_ORDINARY_CI_EQUIVALENTS",
+      "K": 13,
+      "role": "BROAD_WALD_EQUIVALENT_SENSITIVITY_ONLY; Currentbroad13firstplanned8–16weeksources:10printedsummary plusReed,WangTLM,AbrilmodelCIapproximations",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 3,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.1687297983804887,
+      "posterior_mu_025_50_975": [
+        1.3980702396498803,
+        3.1969035240828596,
+        4.778812993212517
+      ],
+      "posterior_tau_mean": 2.5809398482023513,
+      "posterior_tau_025_50_975": [
+        1.4222509141198412,
+        2.4790051778872932,
+        4.304475276717261
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -2.5099178113870133,
+        3.166949271817247,
+        8.688512244271967
+      ],
+      "Pr_mean_MD_gt0": 0.9993666666666666,
+      "Pr_new_setting_true_MD_gt0": 0.8830666666666667,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.3616,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 740,
+          "known_families": 11,
+          "model_families": 13,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1327,
+          "known_families": 13,
+          "model_families": 13,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1020,
+          "known_families": 12,
+          "model_families": 13,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611660
+    },
+    {
+      "pool_id": "BROAD_COMPLETE_STRATEGY13_ORDINARY_CI_EQUIVALENTS",
+      "K": 13,
+      "role": "BROAD_WALD_EQUIVALENT_SENSITIVITY_ONLY; Currentbroad13firstplanned8–16weeksources:10printedsummary plusReed,WangTLM,AbrilmodelCIapproximations",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.275221871310424,
+      "posterior_mu_025_50_975": [
+        1.929650026426655,
+        3.2925723214358023,
+        4.549883648105736
+      ],
+      "posterior_tau_mean": 1.9191047399185943,
+      "posterior_tau_025_50_975": [
+        1.1432619988227648,
+        1.8865485446645296,
+        2.893372558059508
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.8693695814165904,
+        3.298302895535423,
+        7.344228658077561
+      ],
+      "Pr_mean_MD_gt0": 1,
+      "Pr_new_setting_true_MD_gt0": 0.9465333333333333,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.14106666666666667,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 740,
+          "known_families": 11,
+          "model_families": 13,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1327,
+          "known_families": 13,
+          "model_families": 13,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1020,
+          "known_families": 12,
+          "model_families": 13,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611640
+    },
+    {
+      "pool_id": "BROAD_COMPLETE_STRATEGY13_ORDINARY_CI_EQUIVALENTS",
+      "K": 13,
+      "role": "BROAD_WALD_EQUIVALENT_SENSITIVITY_ONLY; Currentbroad13firstplanned8–16weeksources:10printedsummary plusReed,WangTLM,AbrilmodelCIapproximations",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 5,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.1255648298141963,
+      "posterior_mu_025_50_975": [
+        1.292962885823713,
+        3.1537365337878454,
+        4.8234183864868365
+      ],
+      "posterior_tau_mean": 2.7215604528946304,
+      "posterior_tau_025_50_975": [
+        1.4549904926869612,
+        2.5960006857220748,
+        4.718370550744841
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -3.0211287705625347,
+        3.189958045837297,
+        9.06475358689587
+      ],
+      "Pr_mean_MD_gt0": 0.9978333333333333,
+      "Pr_new_setting_true_MD_gt0": 0.8693666666666666,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.40223333333333333,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 740,
+          "known_families": 11,
+          "model_families": 13,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1327,
+          "known_families": 13,
+          "model_families": 13,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1020,
+          "known_families": 12,
+          "model_families": 13,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202611680
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 11,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 3,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 4.382443524415699,
+      "posterior_mu_025_50_975": [
+        1.058440370430823,
+        4.415745135608194,
+        7.560887961956031
+      ],
+      "posterior_tau_mean": 5.1691245691793775,
+      "posterior_tau_025_50_975": [
+        3.434713997047869,
+        5.048132302014378,
+        7.570760804403484
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -6.728696172082849,
+        4.387975098629425,
+        15.245638916606813
+      ],
+      "Pr_mean_MD_gt0": 0.9925666666666667,
+      "Pr_new_setting_true_MD_gt0": 0.7923,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.30793333333333334,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221A-Basgol2016"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 600,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 874,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 674,
+          "known_families": 10,
+          "model_families": 11,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202612260
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 11,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 4.654117862664291,
+      "posterior_mu_025_50_975": [
+        2.3879060795454334,
+        4.665325139969143,
+        6.832139839843691
+      ],
+      "posterior_tau_mean": 3.3893919768438128,
+      "posterior_tau_025_50_975": [
+        2.508745895775499,
+        3.3650499333947055,
+        4.425894575898781
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -2.521637456551078,
+        4.687525999007802,
+        11.775785494420193
+      ],
+      "Pr_mean_MD_gt0": 0.9998333333333334,
+      "Pr_new_setting_true_MD_gt0": 0.9068,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.022333333333333334,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221A-Basgol2016"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 600,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 874,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 674,
+          "known_families": 10,
+          "model_families": 11,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202612240
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 11,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 5,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 4.287465551886614,
+      "posterior_mu_025_50_975": [
+        0.49017791018532114,
+        4.324737756400867,
+        7.869233963009703
+      ],
+      "posterior_tau_mean": 5.796318855250404,
+      "posterior_tau_025_50_975": [
+        3.6168884879004346,
+        5.612461172285544,
+        9.026382081606167
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -8.062616062242817,
+        4.327238244835597,
+        16.636303988987457
+      ],
+      "Pr_mean_MD_gt0": 0.9852666666666666,
+      "Pr_new_setting_true_MD_gt0": 0.7684333333333333,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.4289,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221A-Basgol2016"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 600,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 874,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 674,
+          "known_families": 10,
+          "model_families": 11,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202612280
+    },
+    {
+      "pool_id": "DOMAIN_Desire_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.33253792410118077,
+      "posterior_mu_025_50_975": [
+        -0.4743197793423783,
+        0.3212964991606964,
+        1.189107661311631
+      ],
+      "posterior_tau_mean": 0.5734527362921304,
+      "posterior_tau_025_50_975": [
+        0.07657053159332411,
+        0.48927359688773026,
+        1.5675314665671345
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -1.2978846865659914,
+        0.3160153560984353,
+        2.0578978481101258
+      ],
+      "Pr_mean_MD_gt0": 0.8501666666666666,
+      "Pr_new_setting_true_MD_gt0": 0.7367333333333334,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.5237,
+      "members": [
+        "R221-DOM-Franco-Desire-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Desire-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Desire-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202612440
+    },
+    {
+      "pool_id": "DOMAIN_Desire_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 0.5,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.3248281512654364,
+      "posterior_mu_025_50_975": [
+        -0.2635537367667228,
+        0.3151668960043084,
+        0.9539405103120044
+      ],
+      "posterior_tau_mean": 0.40819111459668,
+      "posterior_tau_025_50_975": [
+        0.048239969749695986,
+        0.3730023557401576,
+        0.9690811717738921
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.816609302831268,
+        0.3037674943898975,
+        1.543769677132333
+      ],
+      "Pr_mean_MD_gt0": 0.8899333333333334,
+      "Pr_new_setting_true_MD_gt0": 0.78,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.43466666666666665,
+      "members": [
+        "R221-DOM-Franco-Desire-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Desire-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Desire-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202612435
+    },
+    {
+      "pool_id": "DOMAIN_Desire_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 2,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.31189402040761377,
+      "posterior_mu_025_50_975": [
+        -0.8379519566563333,
+        0.31329391030240017,
+        1.410789158942116
+      ],
+      "posterior_tau_mean": 0.7513681714645252,
+      "posterior_tau_025_50_975": [
+        0.09686998556571634,
+        0.5735964095430228,
+        2.421476263082834
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -2.0171516068897657,
+        0.31049082700626773,
+        2.6081728373928876
+      ],
+      "Pr_mean_MD_gt0": 0.8115,
+      "Pr_new_setting_true_MD_gt0": 0.7075666666666667,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.5729666666666666,
+      "members": [
+        "R221-DOM-Franco-Desire-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Desire-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Desire-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202612450
+    },
+    {
+      "pool_id": "DOMAIN_Arousal_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.6700229025196258,
+      "posterior_mu_025_50_975": [
+        0.030460780110448064,
+        0.6795884221363686,
+        1.2606929874390296
+      ],
+      "posterior_tau_mean": 0.3315112643350401,
+      "posterior_tau_025_50_975": [
+        0.010665420361915744,
+        0.2277363163753766,
+        1.2596140030618295
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.5066199100591622,
+        0.6817841561192024,
+        1.7946259994063014
+      ],
+      "Pr_mean_MD_gt0": 0.9776,
+      "Pr_new_setting_true_MD_gt0": 0.9309333333333333,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.6614333333333333,
+      "members": [
+        "R221-DOM-Franco-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Arousal-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202612740
+    },
+    {
+      "pool_id": "DOMAIN_Arousal_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 0.5,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.678023704843599,
+      "posterior_mu_025_50_975": [
+        0.2235307903059687,
+        0.6854450403431174,
+        1.0770886031705902
+      ],
+      "posterior_tau_mean": 0.2296112582514738,
+      "posterior_tau_025_50_975": [
+        0.007321575768380967,
+        0.17497669596942372,
+        0.7606525548933634
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.12175280496380128,
+        0.6896652971886973,
+        1.4346277402161869
+      ],
+      "Pr_mean_MD_gt0": 0.9936333333333334,
+      "Pr_new_setting_true_MD_gt0": 0.9634333333333334,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.6455,
+      "members": [
+        "R221-DOM-Franco-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Arousal-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202612735
+    },
+    {
+      "pool_id": "DOMAIN_Arousal_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 2,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.660730505643795,
+      "posterior_mu_025_50_975": [
+        -0.1599286669470189,
+        0.6753830271597461,
+        1.3689949522786709
+      ],
+      "posterior_tau_mean": 0.42062483915680354,
+      "posterior_tau_025_50_975": [
+        0.011338195036583912,
+        0.26031529620101757,
+        1.8407985400951787
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.9163181607668057,
+        0.6836099662721102,
+        2.0924961298557854
+      ],
+      "Pr_mean_MD_gt0": 0.9632333333333334,
+      "Pr_new_setting_true_MD_gt0": 0.9077333333333333,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.6825,
+      "members": [
+        "R221-DOM-Franco-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Arousal-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202612750
+    },
+    {
+      "pool_id": "DOMAIN_Lubrication_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.2778942991188272,
+      "posterior_mu_025_50_975": [
+        -0.30947281464904547,
+        0.27076347644417337,
+        0.9139991462274268
+      ],
+      "posterior_tau_mean": 0.33558058066401086,
+      "posterior_tau_025_50_975": [
+        0.009544804258923593,
+        0.23319547006723326,
+        1.271599231358934
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.8583960035642727,
+        0.2741728539804817,
+        1.506404877042018
+      ],
+      "Pr_mean_MD_gt0": 0.8873,
+      "Pr_new_setting_true_MD_gt0": 0.8126666666666666,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.7332666666666666,
+      "members": [
+        "R221-DOM-Franco-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Lubrication-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202613040
+    },
+    {
+      "pool_id": "DOMAIN_Lubrication_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 0.5,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.2677705707046652,
+      "posterior_mu_025_50_975": [
+        -0.20245131126816107,
+        0.2683209152437508,
+        0.7273803745720174
+      ],
+      "posterior_tau_mean": 0.23615751448572495,
+      "posterior_tau_025_50_975": [
+        0.008355062212265034,
+        0.17839705259505026,
+        0.7811892037089718
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.5486275894235169,
+        0.2672996751837839,
+        1.0866658908446947
+      ],
+      "Pr_mean_MD_gt0": 0.9126333333333333,
+      "Pr_new_setting_true_MD_gt0": 0.8442666666666667,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.7155666666666667,
+      "members": [
+        "R221-DOM-Franco-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Lubrication-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202613035
+    },
+    {
+      "pool_id": "DOMAIN_Lubrication_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 2,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.2639698191798346,
+      "posterior_mu_025_50_975": [
+        -0.5934791465173376,
+        0.26798797041917605,
+        1.058513659202658
+      ],
+      "posterior_tau_mean": 0.4413878692548397,
+      "posterior_tau_025_50_975": [
+        0.012240561324360057,
+        0.2709790731125449,
+        1.9126930035664376
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -1.3354719563299247,
+        0.2658116301991413,
+        1.8105655755943755
+      ],
+      "Pr_mean_MD_gt0": 0.8597,
+      "Pr_new_setting_true_MD_gt0": 0.7809,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.7377333333333334,
+      "members": [
+        "R221-DOM-Franco-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Lubrication-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202613050
+    },
+    {
+      "pool_id": "DOMAIN_Orgasm_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.4868482398349634,
+      "posterior_mu_025_50_975": [
+        -0.3098025485511994,
+        0.506890046346334,
+        1.1245146449405574
+      ],
+      "posterior_tau_mean": 0.4213363268688778,
+      "posterior_tau_025_50_975": [
+        0.015999452572525823,
+        0.3251186194761182,
+        1.3880354451880272
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.9589017198565216,
+        0.5129853055426924,
+        1.815240396078683
+      ],
+      "Pr_mean_MD_gt0": 0.9366666666666666,
+      "Pr_new_setting_true_MD_gt0": 0.8569666666666667,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.5673,
+      "members": [
+        "R221-DOM-Franco-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Orgasm-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202613340
+    },
+    {
+      "pool_id": "DOMAIN_Orgasm_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 0.5,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.5008037638953123,
+      "posterior_mu_025_50_975": [
+        -0.07772701624759577,
+        0.5164186316855328,
+        0.9874940277086651
+      ],
+      "posterior_tau_mean": 0.2960621214788985,
+      "posterior_tau_025_50_975": [
+        0.013170733019311548,
+        0.2487626203701846,
+        0.8578009477680454
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.4907757363863288,
+        0.5247333163097605,
+        1.4186409178252966
+      ],
+      "Pr_mean_MD_gt0": 0.9645666666666667,
+      "Pr_new_setting_true_MD_gt0": 0.9049,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.5038333333333334,
+      "members": [
+        "R221-DOM-Franco-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Orgasm-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202613335
+    },
+    {
+      "pool_id": "DOMAIN_Orgasm_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 2,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.4773504342000119,
+      "posterior_mu_025_50_975": [
+        -0.5282564567598924,
+        0.5084050191721547,
+        1.3379308349985994
+      ],
+      "posterior_tau_mean": 0.5631478878895261,
+      "posterior_tau_025_50_975": [
+        0.019702963574704066,
+        0.3871598333906132,
+        2.183738180555492
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -1.507625279484644,
+        0.5176609604652562,
+        2.293703845488358
+      ],
+      "Pr_mean_MD_gt0": 0.9108666666666667,
+      "Pr_new_setting_true_MD_gt0": 0.829,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.5978333333333333,
+      "members": [
+        "R221-DOM-Franco-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Orgasm-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202613350
+    },
+    {
+      "pool_id": "DOMAIN_Satisfaction_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.4409643098409754,
+      "posterior_mu_025_50_975": [
+        -0.07922965868465177,
+        0.4379210332363056,
+        0.9979537446017275
+      ],
+      "posterior_tau_mean": 0.2961225924610817,
+      "posterior_tau_025_50_975": [
+        0.007146852570537748,
+        0.19846771914250083,
+        1.1743272284922208
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.5722235890526755,
+        0.437048433794225,
+        1.4957079717805317
+      ],
+      "Pr_mean_MD_gt0": 0.9628333333333333,
+      "Pr_new_setting_true_MD_gt0": 0.9022666666666667,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.7827333333333333,
+      "members": [
+        "R221-DOM-Franco-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Satisfaction-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202613640
+    },
+    {
+      "pool_id": "DOMAIN_Satisfaction_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 0.5,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.44053906300744894,
+      "posterior_mu_025_50_975": [
+        0.019474941092206176,
+        0.43660729482346733,
+        0.8943853944898859
+      ],
+      "posterior_tau_mean": 0.21881709325732038,
+      "posterior_tau_025_50_975": [
+        0.007211800733774939,
+        0.16369897715788323,
+        0.7483717635299985
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.29968781845963777,
+        0.4352521726156726,
+        1.2219523151327512
+      ],
+      "Pr_mean_MD_gt0": 0.9775,
+      "Pr_new_setting_true_MD_gt0": 0.9283,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.7681,
+      "members": [
+        "R221-DOM-Franco-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Satisfaction-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202613635
+    },
+    {
+      "pool_id": "DOMAIN_Satisfaction_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 2,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.44163848817484613,
+      "posterior_mu_025_50_975": [
+        -0.26040749546204267,
+        0.43893964808885183,
+        1.1491882811464353
+      ],
+      "posterior_tau_mean": 0.38805631435239785,
+      "posterior_tau_025_50_975": [
+        0.010802684042460299,
+        0.2321808903822371,
+        1.7177860750044727
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.937904717685693,
+        0.4390693424085824,
+        1.846484739995955
+      ],
+      "Pr_mean_MD_gt0": 0.9443,
+      "Pr_new_setting_true_MD_gt0": 0.8779,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.7819,
+      "members": [
+        "R221-DOM-Franco-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Satisfaction-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202613650
+    },
+    {
+      "pool_id": "DOMAIN_Pain_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.448822979006183,
+      "posterior_mu_025_50_975": [
+        -0.18399662364262237,
+        0.4538672891479013,
+        1.0382354896473378
+      ],
+      "posterior_tau_mean": 0.32056650432086126,
+      "posterior_tau_025_50_975": [
+        0.01071405142959032,
+        0.2191241379958065,
+        1.2230773571173579
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.7294692330324675,
+        0.45303069453880707,
+        1.551115759180675
+      ],
+      "Pr_mean_MD_gt0": 0.9488666666666666,
+      "Pr_new_setting_true_MD_gt0": 0.8851333333333333,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.7985333333333333,
+      "members": [
+        "R221-DOM-Franco-Pain-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Pain-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Pain-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202613940
+    },
+    {
+      "pool_id": "DOMAIN_Pain_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 0.5,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.44796520818384483,
+      "posterior_mu_025_50_975": [
+        -0.01978517578587687,
+        0.45162583076588886,
+        0.8945656049615388
+      ],
+      "posterior_tau_mean": 0.2253829822236927,
+      "posterior_tau_025_50_975": [
+        0.007932472974776143,
+        0.1702330471852988,
+        0.7367588096964508
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -0.35885920053366926,
+        0.45313902023366415,
+        1.220286907523592
+      ],
+      "Pr_mean_MD_gt0": 0.9715333333333334,
+      "Pr_new_setting_true_MD_gt0": 0.9173333333333333,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.7908666666666667,
+      "members": [
+        "R221-DOM-Franco-Pain-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Pain-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Pain-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202613935
+    },
+    {
+      "pool_id": "DOMAIN_Pain_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_FRESH_FOUR_CHAIN_MCMC",
+      "tau_prior_half_normal_SD": 2,
+      "mu_prior_normal_SD": 2.5,
+      "posterior_mean": 0.43596200535013974,
+      "posterior_mu_025_50_975": [
+        -0.3396123764292784,
+        0.450020520601597,
+        1.1013284235666287
+      ],
+      "posterior_tau_mean": 0.3983015552112619,
+      "posterior_tau_025_50_975": [
+        0.009869911038151102,
+        0.23990499718254166,
+        1.770268513005611
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -1.0476617709820082,
+        0.4491625542292971,
+        1.8081141498567868
+      ],
+      "Pr_mean_MD_gt0": 0.9316666666666666,
+      "Pr_new_setting_true_MD_gt0": 0.8676,
+      "probabilities_not_individual_response": true,
+      "posterior_predictive_discrepancy_p": 0.7991333333333334,
+      "members": [
+        "R221-DOM-Franco-Pain-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Pain-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Pain-RAW-ENDPOINT"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "diagnostics_pass": true,
+      "seed": 202613950
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 14,
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_DETERMINISTIC_EXACT_MARGINAL_TAU_QUADRATURE",
+      "tau_prior_half_normal_SD": 3,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.989793341775884,
+      "posterior_mu_025_50_975": [
+        1.2762301841049766,
+        4.005270996936203,
+        6.617157786610326
+      ],
+      "posterior_tau_mean": 4.768529540888631,
+      "posterior_tau_025_50_975": [
+        3.233136692238084,
+        4.665603734898519,
+        6.889649327287718
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -6.0803524133827365,
+        4.007041795210222,
+        13.965365353561099
+      ],
+      "Pr_mean_MD_gt0": 0.9967485777244791,
+      "Pr_new_setting_true_MD_gt0": 0.7957551719789436,
+      "probabilities_not_individual_response": true,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 776,
+          "known_families": 12,
+          "model_families": 14,
+          "complete": false,
+          "not_unique_whole_review_N": true,
+          "not_complete_observed_outcome_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1363,
+          "known_families": 14,
+          "model_families": 14,
+          "complete": true,
+          "not_unique_whole_review_N": true,
+          "not_complete_observed_outcome_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1056,
+          "known_families": 13,
+          "model_families": 14,
+          "complete": false,
+          "not_unique_whole_review_N": true,
+          "not_complete_observed_outcome_N": true
+        }
+      },
+      "Rhat": null,
+      "MCMC_ESS": null,
+      "no_MCMC_convergence_claim": true,
+      "quad_normalisation_error": 2.2318267563421106e-11
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 14,
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_DETERMINISTIC_EXACT_MARGINAL_TAU_QUADRATURE",
+      "tau_prior_half_normal_SD": 1,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 4.152005731426342,
+      "posterior_mu_025_50_975": [
+        2.207251373800287,
+        4.159349609466661,
+        6.055588707651956
+      ],
+      "posterior_tau_mean": 3.3370876603280117,
+      "posterior_tau_025_50_975": [
+        2.5088726951848006,
+        3.3103584471852283,
+        4.316698320513447
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -2.799227267431211,
+        4.160637892716041,
+        11.05547810338949
+      ],
+      "Pr_mean_MD_gt0": 0.9999438262485666,
+      "Pr_new_setting_true_MD_gt0": 0.8848360141810424,
+      "probabilities_not_individual_response": true,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 776,
+          "known_families": 12,
+          "model_families": 14,
+          "complete": false,
+          "not_unique_whole_review_N": true,
+          "not_complete_observed_outcome_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1363,
+          "known_families": 14,
+          "model_families": 14,
+          "complete": true,
+          "not_unique_whole_review_N": true,
+          "not_complete_observed_outcome_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1056,
+          "known_families": 13,
+          "model_families": 14,
+          "complete": false,
+          "not_unique_whole_review_N": true,
+          "not_complete_observed_outcome_N": true
+        }
+      },
+      "Rhat": null,
+      "MCMC_ESS": null,
+      "no_MCMC_convergence_claim": true,
+      "quad_normalisation_error": 2.078204870430867e-11
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 14,
+      "method": "BAYES_NORMAL_RANDOM_EFFECTS_DETERMINISTIC_EXACT_MARGINAL_TAU_QUADRATURE",
+      "tau_prior_half_normal_SD": 5,
+      "mu_prior_normal_SD": 10,
+      "posterior_mean": 3.9534230659995884,
+      "posterior_mu_025_50_975": [
+        1.0080158180452907,
+        3.972506281673481,
+        6.792239245374433
+      ],
+      "posterior_tau_mean": 5.1724292420808915,
+      "posterior_tau_025_50_975": [
+        3.3829395190949367,
+        5.02173017138124,
+        7.825796985412127
+      ],
+      "new_setting_true_effect_025_50_975": [
+        -7.047610843881238,
+        3.9745164847523147,
+        14.838484891101924
+      ],
+      "Pr_mean_MD_gt0": 0.9938552666578108,
+      "Pr_new_setting_true_MD_gt0": 0.7770297916120714,
+      "probabilities_not_individual_response": true,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 776,
+          "known_families": 12,
+          "model_families": 14,
+          "complete": false,
+          "not_unique_whole_review_N": true,
+          "not_complete_observed_outcome_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1363,
+          "known_families": 14,
+          "model_families": 14,
+          "complete": true,
+          "not_unique_whole_review_N": true,
+          "not_complete_observed_outcome_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1056,
+          "known_families": 13,
+          "model_families": 14,
+          "complete": false,
+          "not_unique_whole_review_N": true,
+          "not_complete_observed_outcome_N": true
+        }
+      },
+      "Rhat": null,
+      "MCMC_ESS": null,
+      "no_MCMC_convergence_claim": true,
+      "quad_normalisation_error": 2.7229339660204944e-11
+    }
+  ],
+  "count": 54,
+  "fresh_MCMC_views": 51,
+  "deterministic_quadrature_views": 3,
+  "probabilities_not_patient_response": true
+}

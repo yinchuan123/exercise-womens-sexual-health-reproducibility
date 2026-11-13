@@ -1,0 +1,1121 @@
+{
+  "schema": "public.r222.new_author_adopted_GRADE11.v1",
+  "target_count": 11,
+  "targets": [
+    {
+      "target_id": "R221-GRADE-MENOPAUSE_RAW_ENDPOINT4",
+      "pool_id": "MENOPAUSE_RAW_ENDPOINT4",
+      "label_zh": "绝经相关完整训练：原始端点4源",
+      "exact_target": {
+        "comparison": "新增完整主动训练策略 vs 未新增训练",
+        "direction": "正值指向较高功能分",
+        "estimand": "4源未调整打印端点均分；6源另含来源调整变化/模型系数和明示正态等效精度扩展；不同路线不冒充同一精确源估计量",
+        "inferential_scope": "当前实际mKH及三tau先验Bayes的平均效应；不是所有设置均获益",
+        "outcome": "来源标准FSFI19总分的总体平均差方向",
+        "population": "本组绝经相关来源人群及其各自资格/共同照护条件",
+        "time": "来源计划12周或原第三日历月，保持原时钟"
+      },
+      "clinical_importance_boundary_zh": "未为该混合绝经人群建立统一FSFI重要幅度阈值，不估计个人响应、困扰消失或康复；不将完整方案拆成孤立PFMT/气功/呼吸成分。",
+      "patient_important_magnitude_or_recovery_grade": null,
+      "source_family_K": 4,
+      "K_definition": "该冻结比较模型内关联家族数，不能与重复模型/六域相加，不是全综述总独立K。",
+      "N_layers_as_saved": {
+        "N_randomized_family_source": {
+          "complete": true,
+          "known_families": 4,
+          "known_sum": 416,
+          "model_families": 4,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "complete": false,
+          "known_families": 3,
+          "known_sum": 241,
+          "model_families": 4,
+          "not_unique_whole_review_N": true
+        },
+        "n_analysis_source": {
+          "complete": true,
+          "known_families": 4,
+          "known_sum": 271,
+          "model_families": 4,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "unknown_actual_item_effective_N_not_imputed": true,
+      "grade": "Low",
+      "author_agreement_count": 3,
+      "author_count": 3,
+      "all_three_agree": true,
+      "assessment_scope": "New exact evidence-body mean-score target; no old grades replaced",
+      "five_domains": [
+        {
+          "domain": "risk_of_bias",
+          "domain_zh": "偏倚风险",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "源表选择/可得结局及失访、主观未盲测量、部分原始端点基线不平衡和共同干预限制完整分派效应。采用既有结果特异源信息及新模型权重，而不是用Some concerns/High标签机械换分。4源权重分布约16%–35%，没有一项已认证无这些问题的来源决定结果。",
+          "counterargument_zh": "该项为AI工作判断；作者可在清楚相同目标与事实下给出不同理由，不推定一致。"
+        },
+        {
+          "domain": "inconsistency",
+          "domain_zh": "不一致性",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "主原始端点4源I²56.1%、PI−0.60至7.96；扩展6源I²78.9%、PI−2.22至8.48。不同训练、基线症状/抑郁与共同背景、调整/变化/原端点估计量差异未被充分解释，不能保证每一训练或每一适用人群同样受益。对抑郁/TLM或单来源删除后区间跨0，并非单凭P值变化评级；其点估计多仍同向，但跨设置的可推广程度及不确定性仍大。",
+          "counterargument_zh": "该项为AI工作判断；作者可在清楚相同目标与事实下给出不同理由，不推定一致。"
+        },
+        {
+          "domain": "indirectness",
+          "domain_zh": "间接性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "在被研究的绝经相关人群中，新增完整主动策略相对未新增训练、约疗程末FSFI标准总分，是本工作目标的直接问题。组合干预不能拆出运动成分，但目标已是整套策略，所以不因组合本身扣分。",
+          "counterargument_zh": "不适用于普遍所有女性、孤立PFMT/气功/呼吸效能、性困扰、康复或患者重要幅度。3日历月不改成精确12周。"
+        },
+        {
+          "domain": "imprecision",
+          "domain_zh": "不精确性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "严格限制为总体平均FSFI分数方向：4源mKHCI1.19至6.17、6源0.81至5.45均不含无平均差0，且该目标不预设患者重要幅度。这里的0扣分不是因N或K达标；小K、方法及临床设置不确定性另透明展示，K少本身不扣分。",
+          "counterargument_zh": "这些区间跨越小至较大的功能分改变；没有与本绝经人群/量表相符的通用重要阈值或有效N/OIS论证，不能据此称临床重要获益精确。若目标改为重要幅度，必须另定义阈值并重新评此域，不沿用0扣分。"
+        },
+        {
+          "domain": "publication_bias",
+          "domain_zh": "发表偏倚",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "仅4/6来源不足以可靠漏斗检验，但不因K少降级。完整报告/未得/资格截点及阴性Reed已明示；尚未证明此新体存在特定未发表合格结果或仅阳性选择。源未报告性结局及D5限制持续保留，若发现直接证据再修改。",
+          "counterargument_zh": "未见实证不代表已证无发表偏倚；499未取得不是499个合格未发表试验。"
+        }
+      ],
+      "working_alternatives": {
+        "alternatives": [
+          {
+            "actual_author_disagreement": false,
+            "condition_zh": "若将目标定义为所有被分派女性或可感知的重要获益，或认为源选择/失访足以支配因果解释，可需要更严重偏倚/精度扣分而降为Very low；不应在无明确目标改变下因小K或不显著敏感性自动降级。需展示独立AI及作者真实不同理由。",
+            "recommendation_en": "Very low",
+            "type": "reasoned_more_conservative_alternative"
+          }
+        ]
+      },
+      "new_approval_does_not_prove_source_reading": true
+    },
+    {
+      "target_id": "R221-GRADE-MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "label_zh": "绝经相关完整训练：含CI近似的扩展6源",
+      "exact_target": {
+        "comparison": "新增完整主动训练策略 vs 未新增训练",
+        "direction": "正值指向较高功能分",
+        "estimand": "4源未调整打印端点均分；6源另含来源调整变化/模型系数和明示正态等效精度扩展；不同路线不冒充同一精确源估计量",
+        "inferential_scope": "当前实际mKH及三tau先验Bayes的平均效应；不是所有设置均获益",
+        "outcome": "来源标准FSFI19总分的总体平均差方向",
+        "population": "本组绝经相关来源人群及其各自资格/共同照护条件",
+        "time": "来源计划12周或原第三日历月，保持原时钟"
+      },
+      "clinical_importance_boundary_zh": "未为该混合绝经人群建立统一FSFI重要幅度阈值，不估计个人响应、困扰消失或康复；不将完整方案拆成孤立PFMT/气功/呼吸成分。",
+      "patient_important_magnitude_or_recovery_grade": null,
+      "source_family_K": 6,
+      "K_definition": "该冻结比较模型内关联家族数，不能与重复模型/六域相加，不是全综述总独立K。",
+      "N_layers_as_saved": {
+        "N_randomized_family_source": {
+          "complete": true,
+          "known_families": 6,
+          "known_sum": 865,
+          "model_families": 6,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "complete": false,
+          "known_families": 5,
+          "known_sum": 583,
+          "model_families": 6,
+          "not_unique_whole_review_N": true
+        },
+        "n_analysis_source": {
+          "complete": false,
+          "known_families": 5,
+          "known_sum": 450,
+          "model_families": 6,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "unknown_actual_item_effective_N_not_imputed": true,
+      "grade": "Low",
+      "author_agreement_count": 3,
+      "author_count": 3,
+      "all_three_agree": true,
+      "assessment_scope": "New exact evidence-body mean-score target; no old grades replaced",
+      "five_domains": [
+        {
+          "domain": "risk_of_bias",
+          "domain_zh": "偏倚风险",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "源表选择/可得结局及失访、主观未盲测量、部分原始端点基线不平衡和共同干预限制完整分派效应。采用既有结果特异源信息及新模型权重，而不是用Some concerns/High标签机械换分。4源权重分布约16%–35%，没有一项已认证无这些问题的来源决定结果。",
+          "counterargument_zh": "该项为AI工作判断；作者可在清楚相同目标与事实下给出不同理由，不推定一致。"
+        },
+        {
+          "domain": "inconsistency",
+          "domain_zh": "不一致性",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "主原始端点4源I²56.1%、PI−0.60至7.96；扩展6源I²78.9%、PI−2.22至8.48。不同训练、基线症状/抑郁与共同背景、调整/变化/原端点估计量差异未被充分解释，不能保证每一训练或每一适用人群同样受益。对抑郁/TLM或单来源删除后区间跨0，并非单凭P值变化评级；其点估计多仍同向，但跨设置的可推广程度及不确定性仍大。",
+          "counterargument_zh": "该项为AI工作判断；作者可在清楚相同目标与事实下给出不同理由，不推定一致。"
+        },
+        {
+          "domain": "indirectness",
+          "domain_zh": "间接性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "在被研究的绝经相关人群中，新增完整主动策略相对未新增训练、约疗程末FSFI标准总分，是本工作目标的直接问题。组合干预不能拆出运动成分，但目标已是整套策略，所以不因组合本身扣分。",
+          "counterargument_zh": "不适用于普遍所有女性、孤立PFMT/气功/呼吸效能、性困扰、康复或患者重要幅度。3日历月不改成精确12周。"
+        },
+        {
+          "domain": "imprecision",
+          "domain_zh": "不精确性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "严格限制为总体平均FSFI分数方向：4源mKHCI1.19至6.17、6源0.81至5.45均不含无平均差0，且该目标不预设患者重要幅度。这里的0扣分不是因N或K达标；小K、方法及临床设置不确定性另透明展示，K少本身不扣分。",
+          "counterargument_zh": "这些区间跨越小至较大的功能分改变；没有与本绝经人群/量表相符的通用重要阈值或有效N/OIS论证，不能据此称临床重要获益精确。若目标改为重要幅度，必须另定义阈值并重新评此域，不沿用0扣分。"
+        },
+        {
+          "domain": "publication_bias",
+          "domain_zh": "发表偏倚",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "仅4/6来源不足以可靠漏斗检验，但不因K少降级。完整报告/未得/资格截点及阴性Reed已明示；尚未证明此新体存在特定未发表合格结果或仅阳性选择。源未报告性结局及D5限制持续保留，若发现直接证据再修改。",
+          "counterargument_zh": "未见实证不代表已证无发表偏倚；499未取得不是499个合格未发表试验。"
+        }
+      ],
+      "working_alternatives": {
+        "alternatives": [
+          {
+            "actual_author_disagreement": false,
+            "condition_zh": "若将目标定义为所有被分派女性或可感知的重要获益，或认为源选择/失访足以支配因果解释，可需要更严重偏倚/精度扣分而降为Very low；不应在无明确目标改变下因小K或不显著敏感性自动降级。需展示独立AI及作者真实不同理由。",
+            "recommendation_en": "Very low",
+            "type": "reasoned_more_conservative_alternative"
+          }
+        ]
+      },
+      "new_approval_does_not_prove_source_reading": true
+    },
+    {
+      "target_id": "R221-GRADE-BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "label_zh": "宽范围完整训练：打印端点10源",
+      "exact_target": {
+        "comparison": "各来源完整主动训练策略 vs 各自未新增训练背景",
+        "direction": "正值指向较高功能分",
+        "estimand": "10源打印原始端点；Basgol11为真实极大源效应纳入敏感性；13源含明示来源CI正态等效及不同变化/调整估计量",
+        "inferential_scope": "事后范围及方法探索，不是全女性的统一临床治疗效应",
+        "outcome": "所列FSFI19功能总分的探索性加权总体平均方向",
+        "population": "当前冻结名单内跨病种/基线严重度的具体来源集合",
+        "time": "所列首次计划8–16周范围；保留原原生评估锚"
+      },
+      "clinical_importance_boundary_zh": "未建立混合人群适用的FSFI重要阈值；不把平均MD、来源cutoff或疼痛MID当康复/可感知改善。",
+      "patient_important_magnitude_or_recovery_grade": null,
+      "source_family_K": 10,
+      "K_definition": "该冻结比较模型内关联家族数，不能与重复模型/六域相加，不是全综述总独立K。",
+      "N_layers_as_saved": {
+        "N_randomized_family_source": {
+          "complete": true,
+          "known_families": 10,
+          "known_sum": 838,
+          "model_families": 10,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "complete": false,
+          "known_families": 9,
+          "known_sum": 638,
+          "model_families": 10,
+          "not_unique_whole_review_N": true
+        },
+        "n_analysis_source": {
+          "complete": true,
+          "known_families": 10,
+          "known_sum": 564,
+          "model_families": 10,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "unknown_actual_item_effective_N_not_imputed": true,
+      "grade": "Low",
+      "author_agreement_count": 3,
+      "author_count": 3,
+      "all_three_agree": true,
+      "assessment_scope": "New exact evidence-body mean-score target; no old grades replaced",
+      "five_domains": [
+        {
+          "domain": "risk_of_bias",
+          "domain_zh": "偏倚风险",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "现有源存在完成者/性活跃选择、主观未盲FSFI、失访与项目均值插补、基线差异及不同治疗背景。原10源最大单源权重约12.5%，并非一个无这些问题的高可信来源支配。Lopes既有D2/D3 High、Denig49分派/24源分析、deBem的成对变化与端点不同N等据实保留；不是High自动扣2。",
+          "counterargument_zh": "可以讨论更严重偏倚，但需说明哪些事实以多大贡献支配本体；不能用279全局High比例代替本模型评价。"
+        },
+        {
+          "domain": "inconsistency",
+          "domain_zh": "不一致性",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "源人群、训练及估计量差异大，更新I²=83.5%，PI=-3.05至9.90跨不同方向与较大幅度，拟严重−1。不是仅按I²阈值或P值扣分；根因和临床层仍需展示。",
+          "counterargument_zh": "探索性加权平均可被估计，但不能由总体CI不跨0推断每个病种或训练同样获益；已知基线选择偏差计入偏倚，不在这里机械重复扣分。"
+        },
+        {
+          "domain": "indirectness",
+          "domain_zh": "间接性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "本等级仅针对冻结名单中这些完整训练策略/相应无新增训练背景、来源所报功能均分的探索性平均；人群混合是所定义的描述性目标。不是对任意成年女性或单一运动处方的推荐等级。",
+          "counterargument_zh": "若把目标改为未选择的所有女性或常规临床普遍推荐，须另加严重间接性−1；对精确临床病种应另列SoF。"
+        },
+        {
+          "domain": "imprecision",
+          "domain_zh": "不精确性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "限总体平均分方向，当前mKH区间不含0；并非因K或源人数达到某个阈值就判精确。区间仍允许小至较大FSFI分改变，没有与整个混合人群匹配的统一患者重要阈值。",
+          "counterargument_zh": "临床重要幅度、康复或个体获益概率不沿用此0扣分。CI扩展13中的正态等效SE及混合估计量需单列，不叫精确源SE；若实际精度路线敏感性改变决策，应重议精度。"
+        },
+        {
+          "domain": "publication_bias",
+          "domain_zh": "发表偏倚",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "未见本临床体选择性未发表的直接证据，保留登记/未得/未明截点；不因K少或漏斗无法检验自动降级，也不把499未取得当499项合格未发表试验。",
+          "counterargument_zh": "不能证明没有发表偏倚；若发现该体合格登记的未发表结局或实际小样本阳性选择，需改变此判断。"
+        }
+      ],
+      "working_alternatives": {
+        "alternatives": [
+          {
+            "actual_author_disagreement": false,
+            "condition_zh": "若外推未选择的全部女性或统一运动处方，则新增间接性；不推荐此临床承诺。描述性混合平均与普遍临床目标不得混用同一等级。",
+            "recommendation_en": "Very low",
+            "type": "different_clinical_target_not_same_target_disagreement"
+          }
+        ]
+      },
+      "new_approval_does_not_prove_source_reading": true
+    },
+    {
+      "target_id": "R221-GRADE-BROAD_ENDPOINT11_ADD_BASGOL",
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "label_zh": "宽范围端点：加入Basgol11源",
+      "exact_target": {
+        "comparison": "各来源完整主动训练策略 vs 各自未新增训练背景",
+        "direction": "正值指向较高功能分",
+        "estimand": "10源打印原始端点；Basgol11为真实极大源效应纳入敏感性；13源含明示来源CI正态等效及不同变化/调整估计量",
+        "inferential_scope": "事后范围及方法探索，不是全女性的统一临床治疗效应",
+        "outcome": "所列FSFI19功能总分的探索性加权总体平均方向",
+        "population": "当前冻结名单内跨病种/基线严重度的具体来源集合",
+        "time": "所列首次计划8–16周范围；保留原原生评估锚"
+      },
+      "clinical_importance_boundary_zh": "未建立混合人群适用的FSFI重要阈值；不把平均MD、来源cutoff或疼痛MID当康复/可感知改善。",
+      "patient_important_magnitude_or_recovery_grade": null,
+      "source_family_K": 11,
+      "K_definition": "该冻结比较模型内关联家族数，不能与重复模型/六域相加，不是全综述总独立K。",
+      "N_layers_as_saved": {
+        "N_randomized_family_source": {
+          "complete": true,
+          "known_families": 11,
+          "known_sum": 874,
+          "model_families": 11,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "complete": false,
+          "known_families": 10,
+          "known_sum": 674,
+          "model_families": 11,
+          "not_unique_whole_review_N": true
+        },
+        "n_analysis_source": {
+          "complete": true,
+          "known_families": 11,
+          "known_sum": 600,
+          "model_families": 11,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "unknown_actual_item_effective_N_not_imputed": true,
+      "grade": "Very low",
+      "author_agreement_count": 3,
+      "author_count": 3,
+      "all_three_agree": true,
+      "assessment_scope": "New exact evidence-body mean-score target; no old grades replaced",
+      "five_domains": [
+        {
+          "domain": "risk_of_bias",
+          "domain_zh": "偏倚风险",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "现有源存在完成者/性活跃选择、主观未盲FSFI、失访与项目均值插补、基线差异及不同治疗背景。原10源最大单源权重约12.5%，并非一个无这些问题的高可信来源支配。Lopes既有D2/D3 High、Denig49分派/24源分析、deBem的成对变化与端点不同N等据实保留；不是High自动扣2。",
+          "counterargument_zh": "可以讨论更严重偏倚，但需说明哪些事实以多大贡献支配本体；不能用279全局High比例代替本模型评价。"
+        },
+        {
+          "domain": "inconsistency",
+          "domain_zh": "不一致性",
+          "downgrade_levels": 2,
+          "judgement_en": "very serious",
+          "reason_zh": "Basgol的18.42分源端点与其他源差异巨大，加入后I²95.7%、PI−8.67至17.56；不同人群/方案/基线严重度未解释如此大的效应幅度变化，拟非常严重−2。",
+          "counterargument_zh": "探索性加权平均可被估计，但不能由总体CI不跨0推断每个病种或训练同样获益；已知基线选择偏差计入偏倚，不在这里机械重复扣分。"
+        },
+        {
+          "domain": "indirectness",
+          "domain_zh": "间接性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "本等级仅针对冻结名单中这些完整训练策略/相应无新增训练背景、来源所报功能均分的探索性平均；人群混合是所定义的描述性目标。不是对任意成年女性或单一运动处方的推荐等级。",
+          "counterargument_zh": "若把目标改为未选择的所有女性或常规临床普遍推荐，须另加严重间接性−1；对精确临床病种应另列SoF。"
+        },
+        {
+          "domain": "imprecision",
+          "domain_zh": "不精确性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "限总体平均分方向，当前mKH区间不含0；并非因K或源人数达到某个阈值就判精确。区间仍允许小至较大FSFI分改变，没有与整个混合人群匹配的统一患者重要阈值。",
+          "counterargument_zh": "临床重要幅度、康复或个体获益概率不沿用此0扣分。CI扩展13中的正态等效SE及混合估计量需单列，不叫精确源SE；若实际精度路线敏感性改变决策，应重议精度。"
+        },
+        {
+          "domain": "publication_bias",
+          "domain_zh": "发表偏倚",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "未见本临床体选择性未发表的直接证据，保留登记/未得/未明截点；不因K少或漏斗无法检验自动降级，也不把499未取得当499项合格未发表试验。",
+          "counterargument_zh": "不能证明没有发表偏倚；若发现该体合格登记的未发表结局或实际小样本阳性选择，需改变此判断。"
+        }
+      ],
+      "working_alternatives": {
+        "alternatives": [
+          {
+            "actual_author_disagreement": false,
+            "condition_zh": "若外推未选择的全部女性或统一运动处方，则新增间接性；不推荐此临床承诺。描述性混合平均与普遍临床目标不得混用同一等级。",
+            "recommendation_en": "Very low",
+            "type": "different_clinical_target_not_same_target_disagreement"
+          }
+        ]
+      },
+      "new_approval_does_not_prove_source_reading": true
+    },
+    {
+      "target_id": "R221-GRADE-BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "label_zh": "包容宽范围完整训练：原13源加Basgol的14源",
+      "exact_target": {
+        "comparison": "完整主动训练策略 vs 各自未新增训练背景；原13全部不变加Basgol",
+        "direction": "正值指向较高平均FSFI功能分",
+        "estimand": "原始端点、源变化和明示普通CI正态等效的混合来源探索平均，不冒称统一调整全分派估计量",
+        "inferential_scope": "当前包容宽scope的事后探索，非所有女性普遍疗效或处方推荐",
+        "outcome": "所列FSFI19功能总分的总体平均方向",
+        "population": "冻结14合格来源中的跨病种及基线症状选择人群",
+        "time": "各自首次计划8–16周/原生三日历月，保持来源时钟"
+      },
+      "clinical_importance_boundary_zh": "没有全部14来源共用的有效FSFI重要差异阈值，不能据MD4.04或平均后验方向概率称患者重要获益、康复率、个体获益概率或最佳训练。",
+      "patient_important_magnitude_or_recovery_grade": null,
+      "source_family_K": 14,
+      "K_definition": "该冻结比较模型内关联家族数，不能与重复模型/六域相加，不是全综述总独立K。",
+      "N_layers_as_saved": {
+        "N_randomized_family_source": {
+          "complete": true,
+          "known_families": 14,
+          "known_sum": 1363,
+          "model_families": 14,
+          "not_complete_observed_outcome_N": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "complete": false,
+          "known_families": 13,
+          "known_sum": 1056,
+          "model_families": 14,
+          "not_complete_observed_outcome_N": true,
+          "not_unique_whole_review_N": true
+        },
+        "n_analysis_source": {
+          "complete": false,
+          "known_families": 12,
+          "known_sum": 776,
+          "model_families": 14,
+          "not_complete_observed_outcome_N": true,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "unknown_actual_item_effective_N_not_imputed": true,
+      "grade": "Very low",
+      "author_agreement_count": 3,
+      "author_count": 3,
+      "all_three_agree": true,
+      "assessment_scope": "New exact evidence-body mean-score target; no old grades replaced",
+      "five_domains": [
+        {
+          "domain": "risk_of_bias",
+          "domain_zh": "偏倚风险",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "与既有宽池相同的失访/完成者与性活跃选择、主观未盲域/总分、原始端点基线差异、项目插补及不同背景治疗限制。Basgol自身既有Some concerns而非自动High；14源中没有无这些问题的来源主导，单项权重约5.2%–7.7%。据源事实和权重拟严重−1，不以一个High标签机械扣2。",
+          "counterargument_zh": "若要改扣分，需指出具体新估计目标的偏倚机制与对方向的贡献；旧279风险记录仍不因新14模型自动成为新目标已采纳风险。"
+        },
+        {
+          "domain": "inconsistency",
+          "domain_zh": "不一致性",
+          "downgrade_levels": 2,
+          "judgement_en": "very serious",
+          "reason_zh": "实际包容14的I²94.86%、tau²24.52（FSFI点²），mKH预测区间−7.09至15.17；Basgol与其他真实源效应幅度、各病种及完整策略反应差异巨大，临床分层尚不足解释。三先验Bayes平均仍同向，但主HN3的tau后验中位4.67、95%范围3.23–6.89，说明强跨源变异未消失。为临床解释这一宽策略均分方向拟非常严重−2；不是因大效应、P值或I²单阈值降级。",
+          "counterargument_zh": "若目标仅是已冻结病例混合和模型假设下的数值平均mu，而完全不作跨策略临床解释，主张不一致性只扣1、因而Low有数学上的反论；应明确那是模型限定描述目标，不能拿Low替代更包容宽scope的临床推荐。"
+        },
+        {
+          "domain": "indirectness",
+          "domain_zh": "间接性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "仅针对这14个合格来源构成的完整策略/实际未新增训练背景及所报FSFI平均分方向；不额外因同一人群/策略变异在本域重复扣分。若扩成所有女性或统一运动处方的临床目标，则另有严重间接性。",
+          "counterargument_zh": "不同病种的正式临床SoF仍应分层；此0不是已证明可向所有女性推广，也不把整套方案当孤立运动成分。"
+        },
+        {
+          "domain": "imprecision",
+          "domain_zh": "不精确性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "限冻结来源总体平均功能分方向：mKH MD4.04，95%CI0.97至7.10；主HN3平均3.99，95%CrI1.28至6.62，三先验平均区间均指向正向，因此不为该严格方向目标另扣精度。未知个体有效N不自动扣分；776仅12/14个来源的打印分析分母部分和。",
+          "counterargument_zh": "这些区间同时允许小至很大的FSFI均分变化；没有适用于全部14源的患者重要阈值/响应者数据。重要幅度、恢复或个体受益不得沿用此0扣分。异质性很大导致的预测不确定性已经在不一致性扣2，不重复。"
+        },
+        {
+          "domain": "publication_bias",
+          "domain_zh": "发表偏倚",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "当前没有证明这14源存在特定合格未发表结果或只选阳性来源的直接证据；Basgol按同一资格完整加入，阴性及不利来源保留。不因K14较大就称无发表偏倚，也不把499未取得当合格未发表试验。",
+          "counterargument_zh": "未见实证不是已证无偏倚；若登记—发表对照发现此证据体选择性漏结果，需另处理。"
+        }
+      ],
+      "working_alternatives": {
+        "alternatives": [
+          {
+            "actual_author_disagreement": false,
+            "condition_zh": "若目标仅是已冻结病例混合和模型假设下的数值平均mu，而完全不作跨策略临床解释，主张不一致性只扣1、因而Low有数学上的反论；应明确那是模型限定描述目标，不能拿Low替代更包容宽scope的临床推荐。",
+            "do_not_claim_more_stable13_is_the_complete_pool": true,
+            "recommendation_en": "Low",
+            "type": "model_limited_descriptive_mean_alternative_not_same_clinical_claim"
+          }
+        ]
+      },
+      "new_approval_does_not_prove_source_reading": true
+    },
+    {
+      "target_id": "R221-GRADE-DOMAIN_Desire_CORE3",
+      "pool_id": "DOMAIN_Desire_CORE3",
+      "label_zh": "绝经六域：欲望",
+      "exact_target": {
+        "comparison": "各自完整主动训练策略 vs 相应未新增训练/共同背景",
+        "direction": "分数越高表示功能较好；Pain域越高表示疼痛问题较少，不能当低分更好的疼痛NRS",
+        "estimand": "三来源打印域别Mean/SD及明确表头N形成的原始端点敏感性；mKH与HN0.5/1/2 Bayes综合解释",
+        "inferential_scope": "CORE3实际拟合及tau先验敏感性；Qigong/TLM扩展另保留，不声称已有其Bayes拟合",
+        "outcome": "来源FSFI19 Desire 域平均分方向",
+        "population": "Franco/Khosravi/Elgayar所纳绝经相关女性；保留性活跃、症状、抑郁/药物背景等差异",
+        "time": "12周或原第三日历月端点，不生成个体确切评估日期"
+      },
+      "clinical_importance_boundary_zh": "没有这一绝经域的人群适用MID/重要响应者目标；平均域分方向不等于个体可感知改变、特定性功能障碍恢复或疼痛NRS重要改善。",
+      "patient_important_magnitude_or_recovery_grade": null,
+      "source_family_K": 3,
+      "K_definition": "该冻结比较模型内关联家族数，不能与重复模型/六域相加，不是全综述总独立K。",
+      "N_layers_as_saved": {
+        "core_source_allocation_layers": {
+          "family_allocation_sum": 291,
+          "not_effective_outcome_N": true,
+          "selected_allocation_sum": 241,
+          "source_families": 3,
+          "values_by_source": {
+            "Elgayar_family_selected": 64,
+            "Franco_family_selected": 77,
+            "Khosravi_family": 150,
+            "Khosravi_selected": 100
+          }
+        },
+        "effective_domain_or_item_N": null,
+        "extra_source_if_present": null,
+        "not_sum_across_domains": true,
+        "printed_table_denominators_as_fit": {
+          "complete": true,
+          "known_families": 3,
+          "known_sum": 225,
+          "model_families": 3,
+          "not_unique_whole_review_N": true
+        },
+        "unique_observed_women_N": null
+      },
+      "unknown_actual_item_effective_N_not_imputed": true,
+      "grade": "Very low",
+      "author_agreement_count": 3,
+      "author_count": 3,
+      "all_three_agree": true,
+      "assessment_scope": "New exact evidence-body mean-score target; no old grades replaced",
+      "five_domains": [
+        {
+          "domain": "risk_of_bias",
+          "domain_zh": "偏倚风险",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "此域为主观未盲自报，失访/性活跃选择及打印表头N不等于逐域有效观察N；继承的是源事实背景，不是把总分RoB/GRADE复制为域别正式评级。Khosravi欲望基线3.01vs3.39、端点3.39vs3.44，原ANCOVA P值不可当源原始端点效应；三源及两种4源CI均跨0。 因这些事实可能影响本域估计，拟严重−1；不因未知itemN本身判High或扣2。",
+          "counterargument_zh": "若资料显示较低偏倚的方向估计支配结果可议0；若实证显示严重选择偏差可议2。新域风险尚无作者正式采纳，279旧风险不改。"
+        },
+        {
+          "domain": "inconsistency",
+          "domain_zh": "不一致性",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "源点方向并不一致：Khosravi端点−0.05而Franco+0.36、呼吸+0.77；核心I²72.2%，PI−1.54至2.20，差异未能由分层解释。",
+          "counterargument_zh": "比较CI是否跨0不是研究间异质性检验；扩展域显著而核心不显著不证明训练/域交互。"
+        },
+        {
+          "domain": "indirectness",
+          "domain_zh": "间接性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "仅对绝经相关源人群、完整新增训练相对无新增训练、所报约12周/三日历月的该FSFI域均分直接。对患者感受重要改善、已确诊该域障碍患者或孤立训练成分不是同一目标。",
+          "counterargument_zh": "气功保留域范围文字不一致；TLM原生条目和按其明示固定因子转换，不能未经转换混同量纲。若转换/构念不成立需重设目标，而不是假装已证实一致。"
+        },
+        {
+          "domain": "imprecision",
+          "domain_zh": "不精确性",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "CI−0.72至1.38同时允许均分下降、无差及较大改善；拟严重不精确−1，非因K3。",
+          "counterargument_zh": "0扣分只限平均域分方向；没有有效域别MID，不能据较窄CI或不跨0称临床重要或康复。TLM源CI的正态等效SE不是已报精确SE，工作等级条件于该扩展精度路线。"
+        },
+        {
+          "domain": "publication_bias",
+          "domain_zh": "发表偏倚",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "未见本临床体选择性未发表的直接证据，保留登记/未得/未明截点；不因K少或漏斗无法检验自动降级，也不把499未取得当499项合格未发表试验。",
+          "counterargument_zh": "不能证明没有发表偏倚；若发现该体合格登记的未发表结局或实际小样本阳性选择，需改变此判断。"
+        }
+      ],
+      "working_alternatives": {
+        "alternatives": [
+          {
+            "actual_author_disagreement": false,
+            "condition_zh": "本轮Bayes只对CORE3有这三先验拟合；不把它冒充Qigong4或TLM4的Bayes结果。此前4源Moderate等标签仅为其mKH/计分精度条件下的AI备选，不自动升级本Core3临床结论。",
+            "type": "related_extension_scope_not_approved_upgrade"
+          }
+        ]
+      },
+      "new_approval_does_not_prove_source_reading": true
+    },
+    {
+      "target_id": "R221-GRADE-DOMAIN_Arousal_CORE3",
+      "pool_id": "DOMAIN_Arousal_CORE3",
+      "label_zh": "绝经六域：唤起",
+      "exact_target": {
+        "comparison": "各自完整主动训练策略 vs 相应未新增训练/共同背景",
+        "direction": "分数越高表示功能较好；Pain域越高表示疼痛问题较少，不能当低分更好的疼痛NRS",
+        "estimand": "三来源打印域别Mean/SD及明确表头N形成的原始端点敏感性；mKH与HN0.5/1/2 Bayes综合解释",
+        "inferential_scope": "CORE3实际拟合及tau先验敏感性；Qigong/TLM扩展另保留，不声称已有其Bayes拟合",
+        "outcome": "来源FSFI19 Arousal 域平均分方向",
+        "population": "Franco/Khosravi/Elgayar所纳绝经相关女性；保留性活跃、症状、抑郁/药物背景等差异",
+        "time": "12周或原第三日历月端点，不生成个体确切评估日期"
+      },
+      "clinical_importance_boundary_zh": "没有这一绝经域的人群适用MID/重要响应者目标；平均域分方向不等于个体可感知改变、特定性功能障碍恢复或疼痛NRS重要改善。",
+      "patient_important_magnitude_or_recovery_grade": null,
+      "source_family_K": 3,
+      "K_definition": "该冻结比较模型内关联家族数，不能与重复模型/六域相加，不是全综述总独立K。",
+      "N_layers_as_saved": {
+        "core_source_allocation_layers": {
+          "family_allocation_sum": 291,
+          "not_effective_outcome_N": true,
+          "selected_allocation_sum": 241,
+          "source_families": 3,
+          "values_by_source": {
+            "Elgayar_family_selected": 64,
+            "Franco_family_selected": 77,
+            "Khosravi_family": 150,
+            "Khosravi_selected": 100
+          }
+        },
+        "effective_domain_or_item_N": null,
+        "extra_source_if_present": null,
+        "not_sum_across_domains": true,
+        "printed_table_denominators_as_fit": {
+          "complete": true,
+          "known_families": 3,
+          "known_sum": 225,
+          "model_families": 3,
+          "not_unique_whole_review_N": true
+        },
+        "unique_observed_women_N": null
+      },
+      "unknown_actual_item_effective_N_not_imputed": true,
+      "grade": "Low",
+      "author_agreement_count": 3,
+      "author_count": 3,
+      "all_three_agree": true,
+      "assessment_scope": "New exact evidence-body mean-score target; no old grades replaced",
+      "five_domains": [
+        {
+          "domain": "risk_of_bias",
+          "domain_zh": "偏倚风险",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "此域为主观未盲自报，失访/性活跃选择及打印表头N不等于逐域有效观察N；继承的是源事实背景，不是把总分RoB/GRADE复制为域别正式评级。Khosravi约67.4%权重，不能把100表头N说成100个经逐项认证有效唤起病例；其余源并非更低风险的独立确认。 因这些事实可能影响本域估计，拟严重−1；不因未知itemN本身判High或扣2。",
+          "counterargument_zh": "若资料显示较低偏倚的方向估计支配结果可议0；若实证显示严重选择偏差可议2。新域风险尚无作者正式采纳，279旧风险不改。"
+        },
+        {
+          "domain": "inconsistency",
+          "domain_zh": "不一致性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "三源点估计同向且相近，未观察到有说服力的跨源方向冲突，暂不对不一致性另扣分。但REMLI²=0是少量数据下的边界估计，不能称已证明同质。Bayes显示tau后验仍允许明显异质性；同一tau识别不足的推断不确定性只在精度域计1，不在这里重复扣1。",
+          "counterargument_zh": "比较CI是否跨0不是研究间异质性检验；扩展域显著而核心不显著不证明训练/域交互。"
+        },
+        {
+          "domain": "indirectness",
+          "domain_zh": "间接性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "仅对绝经相关源人群、完整新增训练相对无新增训练、所报约12周/三日历月的该FSFI域均分直接。对患者感受重要改善、已确诊该域障碍患者或孤立训练成分不是同一目标。",
+          "counterargument_zh": "气功保留域范围文字不一致；TLM原生条目和按其明示固定因子转换，不能未经转换混同量纲。若转换/构念不成立需重设目标，而不是假装已证实一致。"
+        },
+        {
+          "domain": "imprecision",
+          "domain_zh": "不精确性",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "建议相对纯mKH工作判断新增1级精度扣分：均值位置在各先验下稳定（约0.66–0.68），但合理的tau先验扩宽使平均方向区间从HN0.5的[0.224,1.077]、HN1的[0.030,1.261]变为HN2的[−0.160,1.369]。这不是均效应突然相反，而是当前数据对研究间方差约束不足，可信区间可涵盖无变化/小幅下降和较大正差，无法让妇科咨询把方向视为可靠且普遍的可感知收益。没有人群适用域别MID或响应者数据，临床重要幅度仍不成立。",
+          "counterargument_zh": "若明确只评价预先指定mKH模型内总体均分方向，或有事先可信的异质性校准支持HN0.5/HN1，保留Moderate可辩护。HN2在0–6域尺度上是较宽的压力先验，不能只因某个95%区间跨0就自动降级。需要展示先验量纲与预测含义；不能看结果后选择最窄或最宽者。"
+        },
+        {
+          "domain": "publication_bias",
+          "domain_zh": "发表偏倚",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "未见本临床体选择性未发表的直接证据，保留登记/未得/未明截点；不因K少或漏斗无法检验自动降级，也不把499未取得当499项合格未发表试验。",
+          "counterargument_zh": "不能证明没有发表偏倚；若发现该体合格登记的未发表结局或实际小样本阳性选择，需改变此判断。"
+        }
+      ],
+      "working_alternatives": {
+        "alternatives": [
+          {
+            "actual_author_disagreement": false,
+            "condition_zh": "明确限定预先指定mKH模型的总体均分方向；不是跨合理异质性先验稳健、不是患者重要改善或个体/所有设置受益",
+            "must_not_be_presented_as_unanimous": true,
+            "reason_zh": "三来源点估计与平均位置同向；mKH与HN0.5/HN1区间同向；HN2有更宽先验但大部分后验质量仍为正。",
+            "recommendation_en": "Moderate",
+            "type": "preserved_reasoned_AI_working_alternative"
+          }
+        ]
+      },
+      "new_approval_does_not_prove_source_reading": true
+    },
+    {
+      "target_id": "R221-GRADE-DOMAIN_Lubrication_CORE3",
+      "pool_id": "DOMAIN_Lubrication_CORE3",
+      "label_zh": "绝经六域：润滑",
+      "exact_target": {
+        "comparison": "各自完整主动训练策略 vs 相应未新增训练/共同背景",
+        "direction": "分数越高表示功能较好；Pain域越高表示疼痛问题较少，不能当低分更好的疼痛NRS",
+        "estimand": "三来源打印域别Mean/SD及明确表头N形成的原始端点敏感性；mKH与HN0.5/1/2 Bayes综合解释",
+        "inferential_scope": "CORE3实际拟合及tau先验敏感性；Qigong/TLM扩展另保留，不声称已有其Bayes拟合",
+        "outcome": "来源FSFI19 Lubrication 域平均分方向",
+        "population": "Franco/Khosravi/Elgayar所纳绝经相关女性；保留性活跃、症状、抑郁/药物背景等差异",
+        "time": "12周或原第三日历月端点，不生成个体确切评估日期"
+      },
+      "clinical_importance_boundary_zh": "没有这一绝经域的人群适用MID/重要响应者目标；平均域分方向不等于个体可感知改变、特定性功能障碍恢复或疼痛NRS重要改善。",
+      "patient_important_magnitude_or_recovery_grade": null,
+      "source_family_K": 3,
+      "K_definition": "该冻结比较模型内关联家族数，不能与重复模型/六域相加，不是全综述总独立K。",
+      "N_layers_as_saved": {
+        "core_source_allocation_layers": {
+          "family_allocation_sum": 291,
+          "not_effective_outcome_N": true,
+          "selected_allocation_sum": 241,
+          "source_families": 3,
+          "values_by_source": {
+            "Elgayar_family_selected": 64,
+            "Franco_family_selected": 77,
+            "Khosravi_family": 150,
+            "Khosravi_selected": 100
+          }
+        },
+        "effective_domain_or_item_N": null,
+        "extra_source_if_present": null,
+        "not_sum_across_domains": true,
+        "printed_table_denominators_as_fit": {
+          "complete": true,
+          "known_families": 3,
+          "known_sum": 225,
+          "model_families": 3,
+          "not_unique_whole_review_N": true
+        },
+        "unique_observed_women_N": null
+      },
+      "unknown_actual_item_effective_N_not_imputed": true,
+      "grade": "Low",
+      "author_agreement_count": 3,
+      "author_count": 3,
+      "all_three_agree": true,
+      "assessment_scope": "New exact evidence-body mean-score target; no old grades replaced",
+      "five_domains": [
+        {
+          "domain": "risk_of_bias",
+          "domain_zh": "偏倚风险",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "此域为主观未盲自报，失访/性活跃选择及打印表头N不等于逐域有效观察N；继承的是源事实背景，不是把总分RoB/GRADE复制为域别正式评级。Khosravi润滑基线3.84vs4.05，源总分变化SD不可替代此域变化SD；这里仅源原始端点。 因这些事实可能影响本域估计，拟严重−1；不因未知itemN本身判High或扣2。",
+          "counterargument_zh": "若资料显示较低偏倚的方向估计支配结果可议0；若实证显示严重选择偏差可议2。新域风险尚无作者正式采纳，279旧风险不改。"
+        },
+        {
+          "domain": "inconsistency",
+          "domain_zh": "不一致性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "核心原生差约0.10、0.27、0.51，均同向、区间重叠，未显示决策性不一致；不因小K或4源I²约27%–34%自动扣。",
+          "counterargument_zh": "比较CI是否跨0不是研究间异质性检验；扩展域显著而核心不显著不证明训练/域交互。"
+        },
+        {
+          "domain": "indirectness",
+          "domain_zh": "间接性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "仅对绝经相关源人群、完整新增训练相对无新增训练、所报约12周/三日历月的该FSFI域均分直接。对患者感受重要改善、已确诊该域障碍患者或孤立训练成分不是同一目标。",
+          "counterargument_zh": "气功保留域范围文字不一致；TLM原生条目和按其明示固定因子转换，不能未经转换混同量纲。若转换/构念不成立需重设目标，而不是假装已证实一致。"
+        },
+        {
+          "domain": "imprecision",
+          "domain_zh": "不精确性",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "核心CI−0.257至0.788、气功扩展−0.135至0.923、TLM扩展−0.054至0.822均含无差与可观改善；拟严重精度限制−1。",
+          "counterargument_zh": "0扣分只限平均域分方向；没有有效域别MID，不能据较窄CI或不跨0称临床重要或康复。TLM源CI的正态等效SE不是已报精确SE，工作等级条件于该扩展精度路线。"
+        },
+        {
+          "domain": "publication_bias",
+          "domain_zh": "发表偏倚",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "未见本临床体选择性未发表的直接证据，保留登记/未得/未明截点；不因K少或漏斗无法检验自动降级，也不把499未取得当499项合格未发表试验。",
+          "counterargument_zh": "不能证明没有发表偏倚；若发现该体合格登记的未发表结局或实际小样本阳性选择，需改变此判断。"
+        }
+      ],
+      "working_alternatives": {
+        "alternatives": [
+          {
+            "actual_author_disagreement": false,
+            "condition_zh": "本轮Bayes只对CORE3有这三先验拟合；不把它冒充Qigong4或TLM4的Bayes结果。此前4源Moderate等标签仅为其mKH/计分精度条件下的AI备选，不自动升级本Core3临床结论。",
+            "type": "related_extension_scope_not_approved_upgrade"
+          }
+        ]
+      },
+      "new_approval_does_not_prove_source_reading": true
+    },
+    {
+      "target_id": "R221-GRADE-DOMAIN_Orgasm_CORE3",
+      "pool_id": "DOMAIN_Orgasm_CORE3",
+      "label_zh": "绝经六域：高潮",
+      "exact_target": {
+        "comparison": "各自完整主动训练策略 vs 相应未新增训练/共同背景",
+        "direction": "分数越高表示功能较好；Pain域越高表示疼痛问题较少，不能当低分更好的疼痛NRS",
+        "estimand": "三来源打印域别Mean/SD及明确表头N形成的原始端点敏感性；mKH与HN0.5/1/2 Bayes综合解释",
+        "inferential_scope": "CORE3实际拟合及tau先验敏感性；Qigong/TLM扩展另保留，不声称已有其Bayes拟合",
+        "outcome": "来源FSFI19 Orgasm 域平均分方向",
+        "population": "Franco/Khosravi/Elgayar所纳绝经相关女性；保留性活跃、症状、抑郁/药物背景等差异",
+        "time": "12周或原第三日历月端点，不生成个体确切评估日期"
+      },
+      "clinical_importance_boundary_zh": "没有这一绝经域的人群适用MID/重要响应者目标；平均域分方向不等于个体可感知改变、特定性功能障碍恢复或疼痛NRS重要改善。",
+      "patient_important_magnitude_or_recovery_grade": null,
+      "source_family_K": 3,
+      "K_definition": "该冻结比较模型内关联家族数，不能与重复模型/六域相加，不是全综述总独立K。",
+      "N_layers_as_saved": {
+        "core_source_allocation_layers": {
+          "family_allocation_sum": 291,
+          "not_effective_outcome_N": true,
+          "selected_allocation_sum": 241,
+          "source_families": 3,
+          "values_by_source": {
+            "Elgayar_family_selected": 64,
+            "Franco_family_selected": 77,
+            "Khosravi_family": 150,
+            "Khosravi_selected": 100
+          }
+        },
+        "effective_domain_or_item_N": null,
+        "extra_source_if_present": null,
+        "not_sum_across_domains": true,
+        "printed_table_denominators_as_fit": {
+          "complete": true,
+          "known_families": 3,
+          "known_sum": 225,
+          "model_families": 3,
+          "not_unique_whole_review_N": true
+        },
+        "unique_observed_women_N": null
+      },
+      "unknown_actual_item_effective_N_not_imputed": true,
+      "grade": "Low",
+      "author_agreement_count": 3,
+      "author_count": 3,
+      "all_three_agree": true,
+      "assessment_scope": "New exact evidence-body mean-score target; no old grades replaced",
+      "five_domains": [
+        {
+          "domain": "risk_of_bias",
+          "domain_zh": "偏倚风险",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "此域为主观未盲自报，失访/性活跃选择及打印表头N不等于逐域有效观察N；继承的是源事实背景，不是把总分RoB/GRADE复制为域别正式评级。气功高潮基线已不平衡（4.40vs3.70/3.71），期刊因interaction不显著未打印postcontrast，但学位论文有完整postMeanSD。不能因不显著丢此域，也不把rawendpoint说成调整后改变。 因这些事实可能影响本域估计，拟严重−1；不因未知itemN本身判High或扣2。",
+          "counterargument_zh": "若资料显示较低偏倚的方向估计支配结果可议0；若实证显示严重选择偏差可议2。新域风险尚无作者正式采纳，279旧风险不改。"
+        },
+        {
+          "domain": "inconsistency",
+          "domain_zh": "不一致性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "核心点估计0.10、0.67、0.61，CI重叠，I²38.7%本身不足以认定严重不一致；保留可能变异。",
+          "counterargument_zh": "比较CI是否跨0不是研究间异质性检验；扩展域显著而核心不显著不证明训练/域交互。"
+        },
+        {
+          "domain": "indirectness",
+          "domain_zh": "间接性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "仅对绝经相关源人群、完整新增训练相对无新增训练、所报约12周/三日历月的该FSFI域均分直接。对患者感受重要改善、已确诊该域障碍患者或孤立训练成分不是同一目标。",
+          "counterargument_zh": "气功保留域范围文字不一致；TLM原生条目和按其明示固定因子转换，不能未经转换混同量纲。若转换/构念不成立需重设目标，而不是假装已证实一致。"
+        },
+        {
+          "domain": "imprecision",
+          "domain_zh": "不精确性",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "核心CI−0.200至1.237包含无差和较大改善，拟精度−1；加入气功仍跨0。TLM扩展CI0.124至0.866，在其转换/近似假设下方向精度改善，但不是域间真实差异。",
+          "counterargument_zh": "0扣分只限平均域分方向；没有有效域别MID，不能据较窄CI或不跨0称临床重要或康复。TLM源CI的正态等效SE不是已报精确SE，工作等级条件于该扩展精度路线。"
+        },
+        {
+          "domain": "publication_bias",
+          "domain_zh": "发表偏倚",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "未见本临床体选择性未发表的直接证据，保留登记/未得/未明截点；不因K少或漏斗无法检验自动降级，也不把499未取得当499项合格未发表试验。",
+          "counterargument_zh": "不能证明没有发表偏倚；若发现该体合格登记的未发表结局或实际小样本阳性选择，需改变此判断。"
+        }
+      ],
+      "working_alternatives": {
+        "alternatives": [
+          {
+            "actual_author_disagreement": false,
+            "condition_zh": "本轮Bayes只对CORE3有这三先验拟合；不把它冒充Qigong4或TLM4的Bayes结果。此前4源Moderate等标签仅为其mKH/计分精度条件下的AI备选，不自动升级本Core3临床结论。",
+            "type": "related_extension_scope_not_approved_upgrade"
+          }
+        ]
+      },
+      "new_approval_does_not_prove_source_reading": true
+    },
+    {
+      "target_id": "R221-GRADE-DOMAIN_Satisfaction_CORE3",
+      "pool_id": "DOMAIN_Satisfaction_CORE3",
+      "label_zh": "绝经六域：满意",
+      "exact_target": {
+        "comparison": "各自完整主动训练策略 vs 相应未新增训练/共同背景",
+        "direction": "分数越高表示功能较好；Pain域越高表示疼痛问题较少，不能当低分更好的疼痛NRS",
+        "estimand": "三来源打印域别Mean/SD及明确表头N形成的原始端点敏感性；mKH与HN0.5/1/2 Bayes综合解释",
+        "inferential_scope": "CORE3实际拟合及tau先验敏感性；Qigong/TLM扩展另保留，不声称已有其Bayes拟合",
+        "outcome": "来源FSFI19 Satisfaction 域平均分方向",
+        "population": "Franco/Khosravi/Elgayar所纳绝经相关女性；保留性活跃、症状、抑郁/药物背景等差异",
+        "time": "12周或原第三日历月端点，不生成个体确切评估日期"
+      },
+      "clinical_importance_boundary_zh": "没有这一绝经域的人群适用MID/重要响应者目标；平均域分方向不等于个体可感知改变、特定性功能障碍恢复或疼痛NRS重要改善。",
+      "patient_important_magnitude_or_recovery_grade": null,
+      "source_family_K": 3,
+      "K_definition": "该冻结比较模型内关联家族数，不能与重复模型/六域相加，不是全综述总独立K。",
+      "N_layers_as_saved": {
+        "core_source_allocation_layers": {
+          "family_allocation_sum": 291,
+          "not_effective_outcome_N": true,
+          "selected_allocation_sum": 241,
+          "source_families": 3,
+          "values_by_source": {
+            "Elgayar_family_selected": 64,
+            "Franco_family_selected": 77,
+            "Khosravi_family": 150,
+            "Khosravi_selected": 100
+          }
+        },
+        "effective_domain_or_item_N": null,
+        "extra_source_if_present": null,
+        "not_sum_across_domains": true,
+        "printed_table_denominators_as_fit": {
+          "complete": true,
+          "known_families": 3,
+          "known_sum": 225,
+          "model_families": 3,
+          "not_unique_whole_review_N": true
+        },
+        "unique_observed_women_N": null
+      },
+      "unknown_actual_item_effective_N_not_imputed": true,
+      "grade": "Low",
+      "author_agreement_count": 3,
+      "author_count": 3,
+      "all_three_agree": true,
+      "assessment_scope": "New exact evidence-body mean-score target; no old grades replaced",
+      "five_domains": [
+        {
+          "domain": "risk_of_bias",
+          "domain_zh": "偏倚风险",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "此域为主观未盲自报，失访/性活跃选择及打印表头N不等于逐域有效观察N；继承的是源事实背景，不是把总分RoB/GRADE复制为域别正式评级。TLM扩展中该新来源约49.1%权重，原生未加权和先按0.4变换；未认证domainN，不能用47/47或43/44做原始端点方差。 因这些事实可能影响本域估计，拟严重−1；不因未知itemN本身判High或扣2。",
+          "counterargument_zh": "若资料显示较低偏倚的方向估计支配结果可议0；若实证显示严重选择偏差可议2。新域风险尚无作者正式采纳，279旧风险不改。"
+        },
+        {
+          "domain": "inconsistency",
+          "domain_zh": "不一致性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "核心源差0.60、0.38、0.46相近，I²0且区间重叠，无需因K3扣一致性。",
+          "counterargument_zh": "比较CI是否跨0不是研究间异质性检验；扩展域显著而核心不显著不证明训练/域交互。"
+        },
+        {
+          "domain": "indirectness",
+          "domain_zh": "间接性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "仅对绝经相关源人群、完整新增训练相对无新增训练、所报约12周/三日历月的该FSFI域均分直接。对患者感受重要改善、已确诊该域障碍患者或孤立训练成分不是同一目标。",
+          "counterargument_zh": "气功保留域范围文字不一致；TLM原生条目和按其明示固定因子转换，不能未经转换混同量纲。若转换/构念不成立需重设目标，而不是假装已证实一致。"
+        },
+        {
+          "domain": "imprecision",
+          "domain_zh": "不精确性",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "核心CI−0.080至0.929和气功扩展−0.016至1.355包含无差。TLM扩展0.211至0.744，在其来源LMM/计分转换/正态等效精度假设下方向更精确；不是满意域比其他域更有效的检验。",
+          "counterargument_zh": "0扣分只限平均域分方向；没有有效域别MID，不能据较窄CI或不跨0称临床重要或康复。TLM源CI的正态等效SE不是已报精确SE，工作等级条件于该扩展精度路线。"
+        },
+        {
+          "domain": "publication_bias",
+          "domain_zh": "发表偏倚",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "未见本临床体选择性未发表的直接证据，保留登记/未得/未明截点；不因K少或漏斗无法检验自动降级，也不把499未取得当499项合格未发表试验。",
+          "counterargument_zh": "不能证明没有发表偏倚；若发现该体合格登记的未发表结局或实际小样本阳性选择，需改变此判断。"
+        }
+      ],
+      "working_alternatives": {
+        "alternatives": [
+          {
+            "actual_author_disagreement": false,
+            "condition_zh": "本轮Bayes只对CORE3有这三先验拟合；不把它冒充Qigong4或TLM4的Bayes结果。此前4源Moderate等标签仅为其mKH/计分精度条件下的AI备选，不自动升级本Core3临床结论。",
+            "type": "related_extension_scope_not_approved_upgrade"
+          }
+        ]
+      },
+      "new_approval_does_not_prove_source_reading": true
+    },
+    {
+      "target_id": "R221-GRADE-DOMAIN_Pain_CORE3",
+      "pool_id": "DOMAIN_Pain_CORE3",
+      "label_zh": "绝经六域：疼痛域",
+      "exact_target": {
+        "comparison": "各自完整主动训练策略 vs 相应未新增训练/共同背景",
+        "direction": "分数越高表示功能较好；Pain域越高表示疼痛问题较少，不能当低分更好的疼痛NRS",
+        "estimand": "三来源打印域别Mean/SD及明确表头N形成的原始端点敏感性；mKH与HN0.5/1/2 Bayes综合解释",
+        "inferential_scope": "CORE3实际拟合及tau先验敏感性；Qigong/TLM扩展另保留，不声称已有其Bayes拟合",
+        "outcome": "来源FSFI19 Pain 域平均分方向",
+        "population": "Franco/Khosravi/Elgayar所纳绝经相关女性；保留性活跃、症状、抑郁/药物背景等差异",
+        "time": "12周或原第三日历月端点，不生成个体确切评估日期"
+      },
+      "clinical_importance_boundary_zh": "没有这一绝经域的人群适用MID/重要响应者目标；平均域分方向不等于个体可感知改变、特定性功能障碍恢复或疼痛NRS重要改善。",
+      "patient_important_magnitude_or_recovery_grade": null,
+      "source_family_K": 3,
+      "K_definition": "该冻结比较模型内关联家族数，不能与重复模型/六域相加，不是全综述总独立K。",
+      "N_layers_as_saved": {
+        "core_source_allocation_layers": {
+          "family_allocation_sum": 291,
+          "not_effective_outcome_N": true,
+          "selected_allocation_sum": 241,
+          "source_families": 3,
+          "values_by_source": {
+            "Elgayar_family_selected": 64,
+            "Franco_family_selected": 77,
+            "Khosravi_family": 150,
+            "Khosravi_selected": 100
+          }
+        },
+        "effective_domain_or_item_N": null,
+        "extra_source_if_present": null,
+        "not_sum_across_domains": true,
+        "printed_table_denominators_as_fit": {
+          "complete": true,
+          "known_families": 3,
+          "known_sum": 225,
+          "model_families": 3,
+          "not_unique_whole_review_N": true
+        },
+        "unique_observed_women_N": null
+      },
+      "unknown_actual_item_effective_N_not_imputed": true,
+      "grade": "Low",
+      "author_agreement_count": 3,
+      "author_count": 3,
+      "all_three_agree": true,
+      "assessment_scope": "New exact evidence-body mean-score target; no old grades replaced",
+      "five_domains": [
+        {
+          "domain": "risk_of_bias",
+          "domain_zh": "偏倚风险",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "此域为主观未盲自报，失访/性活跃选择及打印表头N不等于逐域有效观察N；继承的是源事实背景，不是把总分RoB/GRADE复制为域别正式评级。FSFI疼痛域越高问题越少，绝非性交痛NRS越低越好的同一个结局；不能借Morin疼痛方向Moderate或1.5分阈值。 因这些事实可能影响本域估计，拟严重−1；不因未知itemN本身判High或扣2。",
+          "counterargument_zh": "若资料显示较低偏倚的方向估计支配结果可议0；若实证显示严重选择偏差可议2。新域风险尚无作者正式采纳，279旧风险不改。"
+        },
+        {
+          "domain": "inconsistency",
+          "domain_zh": "不一致性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "核心域差0.40、0.53、0.38，同向相近；三种模型I²均0，未观察到明显不一致但不能证明无差异。",
+          "counterargument_zh": "比较CI是否跨0不是研究间异质性检验；扩展域显著而核心不显著不证明训练/域交互。"
+        },
+        {
+          "domain": "indirectness",
+          "domain_zh": "间接性",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "仅对绝经相关源人群、完整新增训练相对无新增训练、所报约12周/三日历月的该FSFI域均分直接。对患者感受重要改善、已确诊该域障碍患者或孤立训练成分不是同一目标。",
+          "counterargument_zh": "气功保留域范围文字不一致；TLM原生条目和按其明示固定因子转换，不能未经转换混同量纲。若转换/构念不成立需重设目标，而不是假装已证实一致。"
+        },
+        {
+          "domain": "imprecision",
+          "domain_zh": "不精确性",
+          "downgrade_levels": 1,
+          "judgement_en": "serious",
+          "reason_zh": "核心CI−0.166至1.098含无差；气功扩展0.081至0.961和TLM扩展0.163至0.961在各自方法假设下不含0，反映更精确的均分方向，不代表重要疼痛改善或域间差异。",
+          "counterargument_zh": "0扣分只限平均域分方向；没有有效域别MID，不能据较窄CI或不跨0称临床重要或康复。TLM源CI的正态等效SE不是已报精确SE，工作等级条件于该扩展精度路线。"
+        },
+        {
+          "domain": "publication_bias",
+          "domain_zh": "发表偏倚",
+          "downgrade_levels": 0,
+          "judgement_en": "not serious",
+          "reason_zh": "未见本临床体选择性未发表的直接证据，保留登记/未得/未明截点；不因K少或漏斗无法检验自动降级，也不把499未取得当499项合格未发表试验。",
+          "counterargument_zh": "不能证明没有发表偏倚；若发现该体合格登记的未发表结局或实际小样本阳性选择，需改变此判断。"
+        }
+      ],
+      "working_alternatives": {
+        "alternatives": [
+          {
+            "actual_author_disagreement": false,
+            "condition_zh": "本轮Bayes只对CORE3有这三先验拟合；不把它冒充Qigong4或TLM4的Bayes结果。此前4源Moderate等标签仅为其mKH/计分精度条件下的AI备选，不自动升级本Core3临床结论。",
+            "type": "related_extension_scope_not_approved_upgrade"
+          }
+        ]
+      },
+      "new_approval_does_not_prove_source_reading": true
+    }
+  ],
+  "old91_views_8_differences_and3_exact_Morin_targets_preserved": true,
+  "votes_are_author_adoption_not_missing_fact_certification": true
+}

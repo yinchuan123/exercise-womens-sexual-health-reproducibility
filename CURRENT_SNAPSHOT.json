@@ -1,9 +1,9 @@
 {
-  "snapshot": "snapshots/r216-2026-11-13",
-  "status": "ACTUAL_THREE_AUTHOR_APPROVAL_OF_BOUND_R215_REPORT_WITH_FIXED_FACT_LIMITS_NO_SUBMISSION_AUTHORIZATION",
+  "snapshot": "snapshots/r222-2026-11-13",
+  "status": "NEW_ANALYSIS_SCOPE_AND11_EXACT_CERTAINTY_TARGETS_ADOPTED_NO_NEW_WHOLE_MANUSCRIPT_OR_SUBMISSION_APPROVAL",
   "data_snapshot": "snapshots/r204-2026-11-12",
   "aggregate_counts": "snapshots/r215-2026-11-13/aggregate_counts.json",
-  "verify": "snapshots/r216-2026-11-13/verify_snapshot.py",
+  "verify": "snapshots/r222-2026-11-13/verify_snapshot.py",
   "source_bound_manuscript_not_public": true,
   "all_missing_facts_resolved": false,
   "formal_submission_performed": false,
@@ -34,5 +34,22 @@
   "current_exact_whole_version_author_approval_count": 3,
   "author_approved_source_journal_file_count": 80,
   "current_version_approval_is_separate_from_submission_authorization": true,
-  "whole_review_duplicate_source_work_certified": false
+  "whole_review_duplicate_source_work_certified": false,
+  "latest_analysis_snapshot": "snapshots/r222-2026-11-13",
+  "current_new_model_counts": {
+    "frequentist_views": 78,
+    "Bayesian_views": 54,
+    "MCMC_views": 51,
+    "deterministic_views": 3,
+    "input_sets": 39,
+    "source_locks": 3
+  },
+  "new_certainty_targets": "snapshots/r222-2026-11-13/data/new_certainty_targets11.json",
+  "new_certainty_target_count": 11,
+  "new_analysis_adoption_author_count": 3,
+  "nonblocking_presentation_difference_retained": true,
+  "old_K2_comparisons_preserved_not_the_only_current_comparisons": true,
+  "whole_manuscript_approval_bound_version": "R215",
+  "new_analysis_snapshot_has_whole_manuscript_approval": false,
+  "new_analysis_is_not_the_current_approved_whole_manuscript": true
 }

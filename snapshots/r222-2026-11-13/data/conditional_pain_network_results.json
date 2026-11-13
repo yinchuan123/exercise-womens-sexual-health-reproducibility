@@ -1,0 +1,1375 @@
+{
+  "schema": "R221_CONDITIONAL_PAIN_NMA_RESULTS_B_V1",
+  "status": "COMPUTED_CONDITIONAL_ASSUMPTION_STRESS_TEST_NOT_PRIMARY_NMA",
+  "model": "y~N(Xd,diag(v+tau²));d~N(0,25I);tau~HalfNormalSD1primary,.5/2sensitivity;fixedtau0",
+  "rows": [
+    {
+      "tau_prior_half_normal_SD": 1,
+      "fixed_tau": null,
+      "primary_tau_prior": true,
+      "method": "Analyticmultivariatenormald|tau plus1Dadaptivequadrature;independentMVNmarginal-gridcheck",
+      "basic_effect_order": [
+        "PT",
+        "CBCT",
+        "ICBT"
+      ],
+      "posterior_basic_means": [
+        -1.6839382708191994,
+        -0.3265899525523858,
+        -1.6813852759421855
+      ],
+      "posterior_basic_covariance": [
+        [
+          0.8448018580112842,
+          0.0017771282861756,
+          0.7642103649208285
+        ],
+        [
+          0.0017771282861756,
+          0.9862351478819322,
+          0.0025393577059312777
+        ],
+        [
+          0.7642103649208285,
+          0.0025393577059312777,
+          2.206062342390613
+        ]
+      ],
+      "posterior_tau_mean": 0.7548648185312147,
+      "posterior_tau_025_50_975": [
+        0.029583584150412925,
+        0.6370725391900268,
+        2.1272483991188684
+      ],
+      "pairs": [
+        {
+          "first": "PT",
+          "second": "LIDO",
+          "difference_definition": "PTminusLIDO;negativefavoursthefirst",
+          "posterior_mean": -1.6839382708191994,
+          "CrI025_50_975": [
+            -3.5081285870935517,
+            -1.7350663608244203,
+            0.42659522699149705
+          ],
+          "Pr_first_has_lower_mean_pain": 0.9566813133158149,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 0.8448018580112842,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "CBCT",
+          "second": "LIDO",
+          "difference_definition": "CBCTminusLIDO;negativefavoursthefirst",
+          "posterior_mean": -0.3265899525523858,
+          "CrI025_50_975": [
+            -2.3996860506822757,
+            -0.33128739006097496,
+            1.777022990337066
+          ],
+          "Pr_first_has_lower_mean_pain": 0.6736999136540088,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 0.9862351478819322,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "ICBT",
+          "second": "LIDO",
+          "difference_definition": "ICBTminusLIDO;negativefavoursthefirst",
+          "posterior_mean": -1.6813852759421855,
+          "CrI025_50_975": [
+            -4.54378634622294,
+            -1.7277319033235183,
+            1.497878433256336
+          ],
+          "Pr_first_has_lower_mean_pain": 0.8896760720328529,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 2.206062342390613,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "PT",
+          "second": "CBCT",
+          "difference_definition": "PTminusCBCT;negativefavoursthefirst",
+          "posterior_mean": -1.3573483182668136,
+          "CrI025_50_975": [
+            -4.098699085101998,
+            -1.3989137250453103,
+            1.6355355574780908
+          ],
+          "Pr_first_has_lower_mean_pain": 0.8831668001543818,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 1.8274827493208652,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "PT",
+          "second": "ICBT",
+          "difference_definition": "PTminusICBT;negativefavoursthefirst",
+          "posterior_mean": -0.002552994877013992,
+          "CrI025_50_975": [
+            -2.5111511203405823,
+            0.009404081080025509,
+            2.424075729001116
+          ],
+          "Pr_first_has_lower_mean_pain": 0.4965999857647261,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 1.52244347056024,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "CBCT",
+          "second": "ICBT",
+          "difference_definition": "CBCTminusICBT;negativefavoursthefirst",
+          "posterior_mean": 1.3547953233897996,
+          "CrI025_50_975": [
+            -2.4686783609498937,
+            1.401882310533976,
+            4.857270164295634
+          ],
+          "Pr_first_has_lower_mean_pain": 0.1852849159918395,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 3.187218774860683,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        }
+      ],
+      "grid_checks": [
+        {
+          "points": 16385,
+          "tau_upper": 24.0,
+          "pairs": [
+            {
+              "first": "PT",
+              "second": "LIDO",
+              "mean": -1.6839382708191994,
+              "CrI025_50_975": [
+                -3.5081285870935512,
+                -1.7350663608244206,
+                0.4265952269914956
+              ],
+              "Pr_lower": 0.9566813133158149
+            },
+            {
+              "first": "CBCT",
+              "second": "LIDO",
+              "mean": -0.32658995255238576,
+              "CrI025_50_975": [
+                -2.3996860506822757,
+                -0.3312873905609752,
+                1.7770229898370606
+              ],
+              "Pr_lower": 0.6736999136540089
+            },
+            {
+              "first": "ICBT",
+              "second": "LIDO",
+              "mean": -1.6813852759421857,
+              "CrI025_50_975": [
+                -4.54378634622294,
+                -1.7277319033235181,
+                1.4978784332563664
+              ],
+              "Pr_lower": 0.8896760720328531
+            },
+            {
+              "first": "PT",
+              "second": "CBCT",
+              "mean": -1.3573483182668133,
+              "CrI025_50_975": [
+                -4.098699085101998,
+                -1.3989137250453083,
+                1.635535557478094
+              ],
+              "Pr_lower": 0.883166800154382
+            },
+            {
+              "first": "PT",
+              "second": "ICBT",
+              "mean": -0.002552994877014,
+              "CrI025_50_975": [
+                -2.511151120340582,
+                0.009404081080027247,
+                2.424075729001119
+              ],
+              "Pr_lower": 0.49659998576472536
+            },
+            {
+              "first": "CBCT",
+              "second": "ICBT",
+              "mean": 1.3547953233897994,
+              "CrI025_50_975": [
+                -2.4686783609498937,
+                1.4018823110339789,
+                4.857270164295635
+              ],
+              "Pr_lower": 0.18528491599183947
+            }
+          ]
+        },
+        {
+          "points": 32769,
+          "tau_upper": 24.0,
+          "pairs": [
+            {
+              "first": "PT",
+              "second": "LIDO",
+              "mean": -1.6839382708191994,
+              "CrI025_50_975": [
+                -3.5081285870935512,
+                -1.7350663608244206,
+                0.4265952269914934
+              ],
+              "Pr_lower": 0.956681313315815
+            },
+            {
+              "first": "CBCT",
+              "second": "LIDO",
+              "mean": -0.32658995255238576,
+              "CrI025_50_975": [
+                -2.3996860506822753,
+                -0.3312873905609751,
+                1.7770229898370635
+              ],
+              "Pr_lower": 0.6736999136540088
+            },
+            {
+              "first": "ICBT",
+              "second": "LIDO",
+              "mean": -1.6813852759421852,
+              "CrI025_50_975": [
+                -4.54378634622294,
+                -1.7277319033235186,
+                1.4978784332563717
+              ],
+              "Pr_lower": 0.8896760720328531
+            },
+            {
+              "first": "PT",
+              "second": "CBCT",
+              "mean": -1.3573483182668138,
+              "CrI025_50_975": [
+                -4.098699085101998,
+                -1.3989137250453083,
+                1.635535557478085
+              ],
+              "Pr_lower": 0.883166800154382
+            },
+            {
+              "first": "PT",
+              "second": "ICBT",
+              "mean": -0.0025529948770139977,
+              "CrI025_50_975": [
+                -2.511151120340582,
+                0.009404081080027049,
+                2.4240757290011152
+              ],
+              "Pr_lower": 0.4965999857647254
+            },
+            {
+              "first": "CBCT",
+              "second": "ICBT",
+              "mean": 1.3547953233898,
+              "CrI025_50_975": [
+                -2.4686783609498932,
+                1.4018823110339789,
+                4.857270164295634
+              ],
+              "Pr_lower": 0.18528491599183944
+            }
+          ]
+        }
+      ],
+      "quad_normalisation": 1.1831483142663786,
+      "quad_normalisation_absolute_error": 1.336376900341785e-12,
+      "Rhat": null,
+      "MCMC_ESS": null,
+      "no_MCMC_or_convergence_claim": true,
+      "clinical_status": "Conditionalstressdemonstration;notprimaryNMA;notGRADEassessed;nosuitablerankingrecommendation"
+    },
+    {
+      "tau_prior_half_normal_SD": 0.5,
+      "fixed_tau": null,
+      "primary_tau_prior": false,
+      "method": "Analyticmultivariatenormald|tau plus1Dadaptivequadrature;independentMVNmarginal-gridcheck",
+      "basic_effect_order": [
+        "PT",
+        "CBCT",
+        "ICBT"
+      ],
+      "posterior_basic_means": [
+        -1.7559708053289564,
+        -0.3343450916650222,
+        -1.7851543972825537
+      ],
+      "posterior_basic_covariance": [
+        [
+          0.30733602947471983,
+          0.0001888280960932187,
+          0.2927022429180277
+        ],
+        [
+          0.0001888280960932187,
+          0.4158210083097185,
+          0.0002745572709641486
+        ],
+        [
+          0.2927022429180277,
+          0.0002745572709641486,
+          1.2404190115699043
+        ]
+      ],
+      "posterior_tau_mean": 0.39279158097644934,
+      "posterior_tau_025_50_975": [
+        0.015424516435352201,
+        0.3319975549698367,
+        1.1037325073976674
+      ],
+      "pairs": [
+        {
+          "first": "PT",
+          "second": "LIDO",
+          "difference_definition": "PTminusLIDO;negativefavoursthefirst",
+          "posterior_mean": -1.7559708053289564,
+          "CrI025_50_975": [
+            -2.8586272343577583,
+            -1.7687830970880045,
+            -0.5650764201866494
+          ],
+          "Pr_first_has_lower_mean_pain": 0.9932501838687368,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 0.30733602947471983,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "CBCT",
+          "second": "LIDO",
+          "difference_definition": "CBCTminusLIDO;negativefavoursthefirst",
+          "posterior_mean": -0.3343450916650222,
+          "CrI025_50_975": [
+            -1.625297282596328,
+            -0.3353121788656901,
+            0.9633768271088069
+          ],
+          "Pr_first_has_lower_mean_pain": 0.7218935627229677,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 0.4158210083097185,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "ICBT",
+          "second": "LIDO",
+          "difference_definition": "ICBTminusLIDO;negativefavoursthefirst",
+          "posterior_mean": -1.7851543972825537,
+          "CrI025_50_975": [
+            -3.955916446519408,
+            -1.794743728697338,
+            0.4469533058827295
+          ],
+          "Pr_first_has_lower_mean_pain": 0.9466315584849897,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 1.2404190115699043,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "PT",
+          "second": "CBCT",
+          "difference_definition": "PTminusCBCT;negativefavoursthefirst",
+          "posterior_mean": -1.4216257136639343,
+          "CrI025_50_975": [
+            -3.111895616842933,
+            -1.4315519423839265,
+            0.33897679661178276
+          ],
+          "Pr_first_has_lower_mean_pain": 0.9546505186060499,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 0.7227793815922519,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "PT",
+          "second": "ICBT",
+          "difference_definition": "PTminusICBT;negativefavoursthefirst",
+          "posterior_mean": 0.02918359195359721,
+          "CrI025_50_975": [
+            -1.908387783629855,
+            0.031414286110367694,
+            1.9530649791257744
+          ],
+          "Pr_first_has_lower_mean_pain": 0.4868854439462925,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 0.9623505552085687,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "CBCT",
+          "second": "ICBT",
+          "difference_definition": "CBCTminusICBT;negativefavoursthefirst",
+          "posterior_mean": 1.4508093056175315,
+          "CrI025_50_975": [
+            -1.1319600072121114,
+            1.4608699336562982,
+            3.967723324089664
+          ],
+          "Pr_first_has_lower_mean_pain": 0.11941688869177454,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 1.6556909053376945,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        }
+      ],
+      "grid_checks": [
+        {
+          "points": 16385,
+          "tau_upper": 24.0,
+          "pairs": [
+            {
+              "first": "PT",
+              "second": "LIDO",
+              "mean": -1.7559708053289558,
+              "CrI025_50_975": [
+                -2.8586272343577583,
+                -1.7687830970880045,
+                -0.5650764201866494
+              ],
+              "Pr_lower": 0.9932501838687365
+            },
+            {
+              "first": "CBCT",
+              "second": "LIDO",
+              "mean": -0.3343450916650222,
+              "CrI025_50_975": [
+                -1.6252972825963279,
+                -0.3353121788656895,
+                0.9633768271088126
+              ],
+              "Pr_lower": 0.7218935627229675
+            },
+            {
+              "first": "ICBT",
+              "second": "LIDO",
+              "mean": -1.7851543972825534,
+              "CrI025_50_975": [
+                -3.955916446519408,
+                -1.7947437286973382,
+                0.4469533058827363
+              ],
+              "Pr_lower": 0.9466315584849895
+            },
+            {
+              "first": "PT",
+              "second": "CBCT",
+              "mean": -1.421625713663934,
+              "CrI025_50_975": [
+                -3.111895616842933,
+                -1.4315519423839265,
+                0.3389767966117839
+              ],
+              "Pr_lower": 0.9546505186060493
+            },
+            {
+              "first": "PT",
+              "second": "ICBT",
+              "mean": 0.02918359195359741,
+              "CrI025_50_975": [
+                -1.9083877841247354,
+                0.031414285610368034,
+                1.95306497912578
+              ],
+              "Pr_lower": 0.48688544394629235
+            },
+            {
+              "first": "CBCT",
+              "second": "ICBT",
+              "mean": 1.4508093056175313,
+              "CrI025_50_975": [
+                -1.131960007212111,
+                1.4608699336562987,
+                3.967723324089668
+              ],
+              "Pr_lower": 0.1194168886917745
+            }
+          ]
+        },
+        {
+          "points": 32769,
+          "tau_upper": 24.0,
+          "pairs": [
+            {
+              "first": "PT",
+              "second": "LIDO",
+              "mean": -1.7559708053289562,
+              "CrI025_50_975": [
+                -2.8586272343577583,
+                -1.7687830970880045,
+                -0.5650764201866495
+              ],
+              "Pr_lower": 0.9932501838687366
+            },
+            {
+              "first": "CBCT",
+              "second": "LIDO",
+              "mean": -0.33434509166502224,
+              "CrI025_50_975": [
+                -1.625297282596328,
+                -0.3353121788656901,
+                0.9633768271088082
+              ],
+              "Pr_lower": 0.7218935627229676
+            },
+            {
+              "first": "ICBT",
+              "second": "LIDO",
+              "mean": -1.785154397282554,
+              "CrI025_50_975": [
+                -3.955916446519408,
+                -1.794743728697338,
+                0.44695330588273774
+              ],
+              "Pr_lower": 0.9466315584849896
+            },
+            {
+              "first": "PT",
+              "second": "CBCT",
+              "mean": -1.4216257136639343,
+              "CrI025_50_975": [
+                -3.111895616842933,
+                -1.431551942383927,
+                0.3389767966117852
+              ],
+              "Pr_lower": 0.9546505186060498
+            },
+            {
+              "first": "PT",
+              "second": "ICBT",
+              "mean": 0.029183591953597415,
+              "CrI025_50_975": [
+                -1.9083877841247356,
+                0.03141428561036781,
+                1.9530649791257708
+              ],
+              "Pr_lower": 0.4868854439462925
+            },
+            {
+              "first": "CBCT",
+              "second": "ICBT",
+              "mean": 1.4508093056175317,
+              "CrI025_50_975": [
+                -1.1319600072121114,
+                1.4608699336562985,
+                3.9677233240896683
+              ],
+              "Pr_lower": 0.11941688869177453
+            }
+          ]
+        }
+      ],
+      "quad_normalisation": 0.6168796297994483,
+      "quad_normalisation_absolute_error": 1.3332948641967238e-12,
+      "Rhat": null,
+      "MCMC_ESS": null,
+      "no_MCMC_or_convergence_claim": true,
+      "clinical_status": "Conditionalstressdemonstration;notprimaryNMA;notGRADEassessed;nosuitablerankingrecommendation"
+    },
+    {
+      "tau_prior_half_normal_SD": 2,
+      "fixed_tau": null,
+      "primary_tau_prior": false,
+      "method": "Analyticmultivariatenormald|tau plus1Dadaptivequadrature;independentMVNmarginal-gridcheck",
+      "basic_effect_order": [
+        "PT",
+        "CBCT",
+        "ICBT"
+      ],
+      "posterior_basic_means": [
+        -1.5366935878638643,
+        -0.3076944632253868,
+        -1.4758268926933678
+      ],
+      "posterior_basic_covariance": [
+        [
+          2.070899926695651,
+          0.008935265884622456,
+          1.6571294890919153
+        ],
+        [
+          0.008935265884622456,
+          2.376633017778373,
+          0.0122771813303581
+        ],
+        [
+          1.6571294890919153,
+          0.0122771813303581,
+          4.2247194472064225
+        ]
+      ],
+      "posterior_tau_mean": 1.3521688718030374,
+      "posterior_tau_025_50_975": [
+        0.05227557871889342,
+        1.1299427085451361,
+        3.8793362574285517
+      ],
+      "pairs": [
+        {
+          "first": "PT",
+          "second": "LIDO",
+          "difference_definition": "PTminusLIDO;negativefavoursthefirst",
+          "posterior_mean": -1.5366935878638643,
+          "CrI025_50_975": [
+            -4.344565799293581,
+            -1.6690730534551852,
+            1.8581127239787048
+          ],
+          "Pr_first_has_lower_mean_pain": 0.8847951592161014,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 2.070899926695651,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "CBCT",
+          "second": "LIDO",
+          "difference_definition": "CBCTminusLIDO;negativefavoursthefirst",
+          "posterior_mean": -0.3076944632253868,
+          "CrI025_50_975": [
+            -3.596269589620227,
+            -0.3226428719405315,
+            3.060357952130001
+          ],
+          "Pr_first_has_lower_mean_pain": 0.6291926849102926,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 2.376633017778373,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "ICBT",
+          "second": "LIDO",
+          "difference_definition": "ICBTminusLIDO;negativefavoursthefirst",
+          "posterior_mean": -1.4758268926933678,
+          "CrI025_50_975": [
+            -5.411867122888294,
+            -1.6032338085083115,
+            3.1792216438765637
+          ],
+          "Pr_first_has_lower_mean_pain": 0.8100636777920714,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 4.2247194472064225,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "PT",
+          "second": "CBCT",
+          "difference_definition": "PTminusCBCT;negativefavoursthefirst",
+          "posterior_mean": -1.2289991246384775,
+          "CrI025_50_975": [
+            -5.51420655103885,
+            -1.338323086985923,
+            3.5737789243146274
+          ],
+          "Pr_first_has_lower_mean_pain": 0.796819449278834,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 4.429662412704779,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "PT",
+          "second": "ICBT",
+          "difference_definition": "PTminusICBT;negativefavoursthefirst",
+          "posterior_mean": -0.06086669517049659,
+          "CrI025_50_975": [
+            -3.7535581393964064,
+            -0.02660987901124607,
+            3.4156718055816038
+          ],
+          "Pr_first_has_lower_mean_pain": 0.507889262211736,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 2.981360395718243,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "CBCT",
+          "second": "ICBT",
+          "difference_definition": "CBCTminusICBT;negativefavoursthefirst",
+          "posterior_mean": 1.168132429467981,
+          "CrI025_50_975": [
+            -4.601731147290981,
+            1.295506650238561,
+            6.243144101211509
+          ],
+          "Pr_first_has_lower_mean_pain": 0.2620911871432835,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 6.57679810232408,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        }
+      ],
+      "grid_checks": [
+        {
+          "points": 16385,
+          "tau_upper": 24.0,
+          "pairs": [
+            {
+              "first": "PT",
+              "second": "LIDO",
+              "mean": -1.5366935878638626,
+              "CrI025_50_975": [
+                -4.344565799293581,
+                -1.6690730534436082,
+                1.8581127244504256
+              ],
+              "Pr_lower": 0.8847951592161013
+            },
+            {
+              "first": "CBCT",
+              "second": "LIDO",
+              "mean": -0.3076944632253865,
+              "CrI025_50_975": [
+                -3.5962695896202264,
+                -0.32264287193597657,
+                3.0603579521300035
+              ],
+              "Pr_lower": 0.6291926849102922
+            },
+            {
+              "first": "ICBT",
+              "second": "LIDO",
+              "mean": -1.4758268926933682,
+              "CrI025_50_975": [
+                -5.411867122888293,
+                -1.603233808553246,
+                3.1792216438765752
+              ],
+              "Pr_lower": 0.8100636777920712
+            },
+            {
+              "first": "PT",
+              "second": "CBCT",
+              "mean": -1.228999124638476,
+              "CrI025_50_975": [
+                -5.514206551038849,
+                -1.3383230869861555,
+                3.5737789243146127
+              ],
+              "Pr_lower": 0.796819449278834
+            },
+            {
+              "first": "PT",
+              "second": "ICBT",
+              "mean": -0.060866695170494894,
+              "CrI025_50_975": [
+                -3.753558139396406,
+                -0.026609879006739272,
+                3.41567180558163
+              ],
+              "Pr_lower": 0.5078892622117356
+            },
+            {
+              "first": "CBCT",
+              "second": "ICBT",
+              "mean": 1.1681324294679813,
+              "CrI025_50_975": [
+                -4.60173114729098,
+                1.2955066504407196,
+                6.243144101211523
+              ],
+              "Pr_lower": 0.2620911871432835
+            }
+          ]
+        },
+        {
+          "points": 32769,
+          "tau_upper": 24.0,
+          "pairs": [
+            {
+              "first": "PT",
+              "second": "LIDO",
+              "mean": -1.5366935878638628,
+              "CrI025_50_975": [
+                -4.34456579929358,
+                -1.669073053443608,
+                1.8581127244504143
+              ],
+              "Pr_lower": 0.8847951592161015
+            },
+            {
+              "first": "CBCT",
+              "second": "LIDO",
+              "mean": -0.30769446322538657,
+              "CrI025_50_975": [
+                -3.5962695896202264,
+                -0.3226428719359769,
+                3.0603579521300017
+              ],
+              "Pr_lower": 0.6291926849102923
+            },
+            {
+              "first": "ICBT",
+              "second": "LIDO",
+              "mean": -1.4758268926933678,
+              "CrI025_50_975": [
+                -5.411867122888293,
+                -1.603233808553246,
+                3.1792216438765717
+              ],
+              "Pr_lower": 0.8100636777920713
+            },
+            {
+              "first": "PT",
+              "second": "CBCT",
+              "mean": -1.228999124638476,
+              "CrI025_50_975": [
+                -5.51420655103885,
+                -1.3383230869861555,
+                3.5737789243146123
+              ],
+              "Pr_lower": 0.796819449278834
+            },
+            {
+              "first": "PT",
+              "second": "ICBT",
+              "mean": -0.0608666951704949,
+              "CrI025_50_975": [
+                -3.753558139396406,
+                -0.02660987900673955,
+                3.4156718055816278
+              ],
+              "Pr_lower": 0.5078892622117356
+            },
+            {
+              "first": "CBCT",
+              "second": "ICBT",
+              "mean": 1.1681324294679813,
+              "CrI025_50_975": [
+                -4.601731147290981,
+                1.2955066504407196,
+                6.243144101211529
+              ],
+              "Pr_lower": 0.26209118714328344
+            }
+          ]
+        }
+      ],
+      "quad_normalisation": 2.0906611217127393,
+      "quad_normalisation_absolute_error": 3.9742090150886857e-14,
+      "Rhat": null,
+      "MCMC_ESS": null,
+      "no_MCMC_or_convergence_claim": true,
+      "clinical_status": "Conditionalstressdemonstration;notprimaryNMA;notGRADEassessed;nosuitablerankingrecommendation"
+    },
+    {
+      "tau_prior_half_normal_SD": null,
+      "fixed_tau": 0,
+      "primary_tau_prior": false,
+      "method": "Analyticmultivariatenormald|tau plus1Dadaptivequadrature;independentMVNmarginal-gridcheck",
+      "basic_effect_order": [
+        "PT",
+        "CBCT",
+        "ICBT"
+      ],
+      "posterior_basic_means": [
+        -1.788593264584343,
+        -0.337503821734452,
+        -1.8327707335809351
+      ],
+      "posterior_basic_covariance": [
+        [
+          0.07826039589858791,
+          0.0,
+          0.07594719619682522
+        ],
+        [
+          0.0,
+          0.1835425195255887,
+          0.0
+        ],
+        [
+          0.07594719619682522,
+          0.0,
+          0.8126456354328129
+        ]
+      ],
+      "posterior_tau_mean": 0.0,
+      "posterior_tau_025_50_975": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "pairs": [
+        {
+          "first": "PT",
+          "second": "LIDO",
+          "difference_definition": "PTminusLIDO;negativefavoursthefirst",
+          "posterior_mean": -1.788593264584343,
+          "CrI025_50_975": [
+            -2.3368943572168925,
+            -1.788593264576887,
+            -1.2402921720945896
+          ],
+          "Pr_first_has_lower_mean_pain": 0.9999999999189494,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 0.07826039589858791,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "CBCT",
+          "second": "LIDO",
+          "difference_definition": "CBCTminusLIDO;negativefavoursthefirst",
+          "posterior_mean": -0.337503821734452,
+          "CrI025_50_975": [
+            -1.1771888999657898,
+            -0.3375038217251689,
+            0.5021812565863695
+          ],
+          "Pr_first_has_lower_mean_pain": 0.7845901642376123,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 0.1835425195255887,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "ICBT",
+          "second": "LIDO",
+          "difference_definition": "ICBTminusLIDO;negativefavoursthefirst",
+          "posterior_mean": -1.8327707335809351,
+          "CrI025_50_975": [
+            -3.5996167213036796,
+            -1.8327707335809333,
+            -0.06592474585781569
+          ],
+          "Pr_first_has_lower_mean_pain": 0.9789785051353347,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 0.8126456354328129,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "PT",
+          "second": "CBCT",
+          "difference_definition": "PTminusCBCT;negativefavoursthefirst",
+          "posterior_mean": -1.451089442849891,
+          "CrI025_50_975": [
+            -2.4539379452353707,
+            -1.4510894428498904,
+            -0.44824094046343854
+          ],
+          "Pr_first_has_lower_mean_pain": 0.9977159111714122,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 0.2618029154241766,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "PT",
+          "second": "ICBT",
+          "difference_definition": "PTminusICBT;negativefavoursthefirst",
+          "posterior_mean": 0.04417746899659214,
+          "CrI025_50_975": [
+            -1.6407209783321748,
+            0.04417746899659223,
+            1.7290759166760967
+          ],
+          "Pr_first_has_lower_mean_pain": 0.47950753806419255,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 0.7390116389377503,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        },
+        {
+          "first": "CBCT",
+          "second": "ICBT",
+          "difference_definition": "CBCTminusICBT;negativefavoursthefirst",
+          "posterior_mean": 1.4952669118464832,
+          "CrI025_50_975": [
+            -0.4609579665697213,
+            1.4952669119830417,
+            3.451491790002013
+          ],
+          "Pr_first_has_lower_mean_pain": 0.06705039517797244,
+          "probability_not_individual_response": true,
+          "posterior_variance_using_full_basic_effect_covariance": 0.9961881549584015,
+          "pair_CrI_direct_mixture_not_subtracted_marginal_CrI": true
+        }
+      ],
+      "grid_checks": [
+        {
+          "points": 1,
+          "tau_upper": 0,
+          "pairs": [
+            {
+              "first": "PT",
+              "second": "LIDO",
+              "mean": -1.788593264584343,
+              "CrI025_50_975": [
+                -2.3368943572168925,
+                -1.788593264576887,
+                -1.2402921720945896
+              ],
+              "Pr_lower": 0.9999999999189494
+            },
+            {
+              "first": "CBCT",
+              "second": "LIDO",
+              "mean": -0.337503821734452,
+              "CrI025_50_975": [
+                -1.1771888999657898,
+                -0.3375038217251689,
+                0.5021812565863695
+              ],
+              "Pr_lower": 0.7845901642376123
+            },
+            {
+              "first": "ICBT",
+              "second": "LIDO",
+              "mean": -1.8327707335809351,
+              "CrI025_50_975": [
+                -3.5996167213036796,
+                -1.8327707335809333,
+                -0.06592474585781569
+              ],
+              "Pr_lower": 0.9789785051353347
+            },
+            {
+              "first": "PT",
+              "second": "CBCT",
+              "mean": -1.451089442849891,
+              "CrI025_50_975": [
+                -2.4539379452353707,
+                -1.4510894428498904,
+                -0.44824094046343854
+              ],
+              "Pr_lower": 0.9977159111714122
+            },
+            {
+              "first": "PT",
+              "second": "ICBT",
+              "mean": 0.04417746899659214,
+              "CrI025_50_975": [
+                -1.6407209788321755,
+                0.04417746899659223,
+                1.7290759166760967
+              ],
+              "Pr_lower": 0.47950753806419255
+            },
+            {
+              "first": "CBCT",
+              "second": "ICBT",
+              "mean": 1.4952669118464832,
+              "CrI025_50_975": [
+                -0.4609579665697213,
+                1.4952669119830417,
+                3.4514917905020144
+              ],
+              "Pr_lower": 0.06705039517797244
+            }
+          ]
+        }
+      ],
+      "quad_normalisation": 1.0,
+      "quad_normalisation_absolute_error": 0.0,
+      "Rhat": null,
+      "MCMC_ESS": null,
+      "no_MCMC_or_convergence_claim": true,
+      "clinical_status": "Conditionalstressdemonstration;notprimaryNMA;notGRADEassessed;nosuitablerankingrecommendation"
+    }
+  ],
+  "pairwise_prior_sensitivity": [
+    {
+      "first": "PT",
+      "second": "LIDO",
+      "sensitivity_rows": [
+        {
+          "tau_prior_SD": 1,
+          "fixed_tau": null,
+          "mean": -1.6839382708191994,
+          "CrI95": [
+            -3.5081285870935517,
+            0.42659522699149705
+          ],
+          "Pr_first_lower_meanpain": 0.9566813133158149
+        },
+        {
+          "tau_prior_SD": 0.5,
+          "fixed_tau": null,
+          "mean": -1.7559708053289564,
+          "CrI95": [
+            -2.8586272343577583,
+            -0.5650764201866494
+          ],
+          "Pr_first_lower_meanpain": 0.9932501838687368
+        },
+        {
+          "tau_prior_SD": 2,
+          "fixed_tau": null,
+          "mean": -1.5366935878638643,
+          "CrI95": [
+            -4.344565799293581,
+            1.8581127239787048
+          ],
+          "Pr_first_lower_meanpain": 0.8847951592161014
+        },
+        {
+          "tau_prior_SD": null,
+          "fixed_tau": 0,
+          "mean": -1.788593264584343,
+          "CrI95": [
+            -2.3368943572168925,
+            -1.2402921720945896
+          ],
+          "Pr_first_lower_meanpain": 0.9999999999189494
+        }
+      ]
+    },
+    {
+      "first": "CBCT",
+      "second": "LIDO",
+      "sensitivity_rows": [
+        {
+          "tau_prior_SD": 1,
+          "fixed_tau": null,
+          "mean": -0.3265899525523858,
+          "CrI95": [
+            -2.3996860506822757,
+            1.777022990337066
+          ],
+          "Pr_first_lower_meanpain": 0.6736999136540088
+        },
+        {
+          "tau_prior_SD": 0.5,
+          "fixed_tau": null,
+          "mean": -0.3343450916650222,
+          "CrI95": [
+            -1.625297282596328,
+            0.9633768271088069
+          ],
+          "Pr_first_lower_meanpain": 0.7218935627229677
+        },
+        {
+          "tau_prior_SD": 2,
+          "fixed_tau": null,
+          "mean": -0.3076944632253868,
+          "CrI95": [
+            -3.596269589620227,
+            3.060357952130001
+          ],
+          "Pr_first_lower_meanpain": 0.6291926849102926
+        },
+        {
+          "tau_prior_SD": null,
+          "fixed_tau": 0,
+          "mean": -0.337503821734452,
+          "CrI95": [
+            -1.1771888999657898,
+            0.5021812565863695
+          ],
+          "Pr_first_lower_meanpain": 0.7845901642376123
+        }
+      ]
+    },
+    {
+      "first": "ICBT",
+      "second": "LIDO",
+      "sensitivity_rows": [
+        {
+          "tau_prior_SD": 1,
+          "fixed_tau": null,
+          "mean": -1.6813852759421855,
+          "CrI95": [
+            -4.54378634622294,
+            1.497878433256336
+          ],
+          "Pr_first_lower_meanpain": 0.8896760720328529
+        },
+        {
+          "tau_prior_SD": 0.5,
+          "fixed_tau": null,
+          "mean": -1.7851543972825537,
+          "CrI95": [
+            -3.955916446519408,
+            0.4469533058827295
+          ],
+          "Pr_first_lower_meanpain": 0.9466315584849897
+        },
+        {
+          "tau_prior_SD": 2,
+          "fixed_tau": null,
+          "mean": -1.4758268926933678,
+          "CrI95": [
+            -5.411867122888294,
+            3.1792216438765637
+          ],
+          "Pr_first_lower_meanpain": 0.8100636777920714
+        },
+        {
+          "tau_prior_SD": null,
+          "fixed_tau": 0,
+          "mean": -1.8327707335809351,
+          "CrI95": [
+            -3.5996167213036796,
+            -0.06592474585781569
+          ],
+          "Pr_first_lower_meanpain": 0.9789785051353347
+        }
+      ]
+    },
+    {
+      "first": "PT",
+      "second": "CBCT",
+      "sensitivity_rows": [
+        {
+          "tau_prior_SD": 1,
+          "fixed_tau": null,
+          "mean": -1.3573483182668136,
+          "CrI95": [
+            -4.098699085101998,
+            1.6355355574780908
+          ],
+          "Pr_first_lower_meanpain": 0.8831668001543818
+        },
+        {
+          "tau_prior_SD": 0.5,
+          "fixed_tau": null,
+          "mean": -1.4216257136639343,
+          "CrI95": [
+            -3.111895616842933,
+            0.33897679661178276
+          ],
+          "Pr_first_lower_meanpain": 0.9546505186060499
+        },
+        {
+          "tau_prior_SD": 2,
+          "fixed_tau": null,
+          "mean": -1.2289991246384775,
+          "CrI95": [
+            -5.51420655103885,
+            3.5737789243146274
+          ],
+          "Pr_first_lower_meanpain": 0.796819449278834
+        },
+        {
+          "tau_prior_SD": null,
+          "fixed_tau": 0,
+          "mean": -1.451089442849891,
+          "CrI95": [
+            -2.4539379452353707,
+            -0.44824094046343854
+          ],
+          "Pr_first_lower_meanpain": 0.9977159111714122
+        }
+      ]
+    },
+    {
+      "first": "PT",
+      "second": "ICBT",
+      "sensitivity_rows": [
+        {
+          "tau_prior_SD": 1,
+          "fixed_tau": null,
+          "mean": -0.002552994877013992,
+          "CrI95": [
+            -2.5111511203405823,
+            2.424075729001116
+          ],
+          "Pr_first_lower_meanpain": 0.4965999857647261
+        },
+        {
+          "tau_prior_SD": 0.5,
+          "fixed_tau": null,
+          "mean": 0.02918359195359721,
+          "CrI95": [
+            -1.908387783629855,
+            1.9530649791257744
+          ],
+          "Pr_first_lower_meanpain": 0.4868854439462925
+        },
+        {
+          "tau_prior_SD": 2,
+          "fixed_tau": null,
+          "mean": -0.06086669517049659,
+          "CrI95": [
+            -3.7535581393964064,
+            3.4156718055816038
+          ],
+          "Pr_first_lower_meanpain": 0.507889262211736
+        },
+        {
+          "tau_prior_SD": null,
+          "fixed_tau": 0,
+          "mean": 0.04417746899659214,
+          "CrI95": [
+            -1.6407209783321748,
+            1.7290759166760967
+          ],
+          "Pr_first_lower_meanpain": 0.47950753806419255
+        }
+      ]
+    },
+    {
+      "first": "CBCT",
+      "second": "ICBT",
+      "sensitivity_rows": [
+        {
+          "tau_prior_SD": 1,
+          "fixed_tau": null,
+          "mean": 1.3547953233897996,
+          "CrI95": [
+            -2.4686783609498937,
+            4.857270164295634
+          ],
+          "Pr_first_lower_meanpain": 0.1852849159918395
+        },
+        {
+          "tau_prior_SD": 0.5,
+          "fixed_tau": null,
+          "mean": 1.4508093056175315,
+          "CrI95": [
+            -1.1319600072121114,
+            3.967723324089664
+          ],
+          "Pr_first_lower_meanpain": 0.11941688869177454
+        },
+        {
+          "tau_prior_SD": 2,
+          "fixed_tau": null,
+          "mean": 1.168132429467981,
+          "CrI95": [
+            -4.601731147290981,
+            6.243144101211509
+          ],
+          "Pr_first_lower_meanpain": 0.2620911871432835
+        },
+        {
+          "tau_prior_SD": null,
+          "fixed_tau": 0,
+          "mean": 1.4952669118464832,
+          "CrI95": [
+            -0.4609579665697213,
+            3.451491790002013
+          ],
+          "Pr_first_lower_meanpain": 0.06705039517797244
+        }
+      ]
+    }
+  ],
+  "topology": {
+    "nodes": 4,
+    "independent_two_arm_trials": 3,
+    "edges": 3,
+    "rank_X": 3,
+    "number_basic_effects": 3,
+    "residual_degrees_of_freedom": 0,
+    "independent_closed_loops": 0,
+    "inconsistency_not_testable": true
+  },
+  "interpretation_cn": [
+    "这是明确假设下的统计压力测试，不是通过传递性审查的主要临床网络Meta分析。",
+    "三项试验仅提供三条边，恰好对应三个基本治疗差；没有剩余对比用于可靠识别异质性。τ主要依赖其先验和有限基本效应先验的正则化，不能将τ后验当作充分数据证实。",
+    "利多卡因为参照；负的组间均数差表示第一种完整方案的平均性交痛更低。方向概率不是患者个体应答率。",
+    "六对差值的区间直接使用联合后验及协方差积分，未以两个边际区间端点相减。",
+    "Goldfinger实际8–24周、不同PT方案合并、原始终点和变化交互项可比、Morin区间等效SE均为额外条件。",
+    "没有SUCRA、最佳方案排序或临床优选推荐，也未新增GRADE。"
+  ],
+  "assumptions": [
+    "CONDITIONAL_ASSUMPTION_STRESS_TEST_ONLY: not primary clinical NMA, not treatment ranking and no SUCRA/best-treatment recommendation.",
+    "PT is a deliberately merged pragmatic category containing Morin10weekmultimodalPT and Goldfinger8sessionindividualPT; interchangeability is assumed for demonstration, not established by source fact.",
+    "Overnight5%lidocaine is a common reference despite10versus12weekexposure. CBCTandindividualCBTremainseparatenodes; all are complete packages, with bodily exercises overlapping acrossPT/CBT.",
+    "NativeMorinmodel endpoint contrast, nativeBergeronchangeinteraction andGoldfingerrawendpoint contrast are treated as a common mean-pain estimand only under an explicit additional comparability assumption.",
+    "Time target is first completed-course assessment. Goldfingeractual8–24weeksbelongs to expandedpost-courseanalysis, not a verified strict8–16weekpool.",
+    "PVDpopulations differ: Morinnulliparous/entrypain≥5 andbaseline7.3; Goldfingerpilotbaseline≈5.1; Bergeronstablecoupleswithclinicalrelationshipdistressexcluded. Transitivity remains unverified.",
+    "Three independent two-arm trials, four nodes, three independent basic effects: full-ranktree, zero residualdegreesoffreedom and no closedloop. Tau cannot be independently estimated from residual replication; finiteeffectpriorsandtaupriorregularise inference.",
+    "MorinroundedCIisconvertedtonormal-equivalentSE; it is neither source-exactSE nor permission to correct the source point to the interval midpoint.",
+    "Bayesian probabilities concern the sign of an average comparative pain difference under this model; they are not individual response probabilities.",
+    "NoGRADEfor this conditionalnetworkhasbeenassessed; existingMorinexact-targetGRADEdoesnottransfer."
+  ]
+}

@@ -1,0 +1,2403 @@
+{
+  "rows": [
+    {
+      "pool_id": "MENOPAUSE_PRINTED_SUMMARY4",
+      "tau_prior_SD": 3,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.7420659121924102,
+          "SD": 1.1434126335818178,
+          "Rhat": 1.0004787236120867,
+          "ESS_bulk": 6569.6694338644675,
+          "ESS_tail": 6166.59430096408,
+          "MCSE_mean": 0.015542076218967192
+        },
+        {
+          "parameter": "tau",
+          "mean": 1.7037276550429992,
+          "SD": 1.154776139966631,
+          "Rhat": 1.0003655660121862,
+          "ESS_bulk": 5513.6992044006565,
+          "ESS_tail": 3866.6731469328174,
+          "MCSE_mean": 0.013900249589637701
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.769458123255185,
+          "SD": 2.3332216090261753,
+          "Rhat": 1.0004274953494836,
+          "ESS_bulk": 16706.79023614829,
+          "ESS_tail": 15382.120379621258,
+          "MCSE_mean": 0.018956699166239765
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9340636956098544,
+        0.7388424964462554,
+        0.9336584369825304,
+        0.8477201265658314
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_PRINTED_SUMMARY4",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.703077804243109,
+          "SD": 0.7445435539380317,
+          "Rhat": 1.0003902033934176,
+          "ESS_bulk": 8115.955357622309,
+          "ESS_tail": 6998.641930147203,
+          "MCSE_mean": 0.008696750637822773
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.9205467547425258,
+          "SD": 0.561320082845163,
+          "Rhat": 1.0004342567603821,
+          "ESS_bulk": 5386.022143808769,
+          "ESS_tail": 4259.674012827706,
+          "MCSE_mean": 0.006933307102136161
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.7041754524661616,
+          "SD": 1.320833311846826,
+          "Rhat": 1.000064967812476,
+          "ESS_bulk": 15813.992333320099,
+          "ESS_tail": 17823.83702981339,
+          "MCSE_mean": 0.010949447930661759
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8520977268510761,
+        0.8450038185199311,
+        0.8809276394856678,
+        0.8547110672057
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_PRINTED_SUMMARY4",
+      "tau_prior_SD": 5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.735156905134402,
+          "SD": 1.3296132412470483,
+          "Rhat": 1.000456008425913,
+          "ESS_bulk": 7031.8421763691495,
+          "ESS_tail": 6404.181159548841,
+          "MCSE_mean": 0.017347698409797725
+        },
+        {
+          "parameter": "tau",
+          "mean": 2.032615612258418,
+          "SD": 1.4961117081535331,
+          "Rhat": 1.0002916509859776,
+          "ESS_bulk": 6606.459028199124,
+          "ESS_tail": 5409.413407717743,
+          "MCSE_mean": 0.017191287629641026
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.7209439767442185,
+          "SD": 2.848399185260188,
+          "Rhat": 1.0001021244711912,
+          "ESS_bulk": 16000.991250603909,
+          "ESS_tail": 15864.610190488887,
+          "MCSE_mean": 0.02328192904860661
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8994172878077511,
+        0.8495109381654562,
+        0.855211655446957,
+        0.8257497483556013
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "tau_prior_SD": 3,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.0805421972631373,
+          "SD": 1.041544276287625,
+          "Rhat": 1.0010073005846738,
+          "ESS_bulk": 9878.578824711489,
+          "ESS_tail": 8574.813565489474,
+          "MCSE_mean": 0.010861966894347874
+        },
+        {
+          "parameter": "tau",
+          "mean": 2.1543086177731596,
+          "SD": 0.9578051854255956,
+          "Rhat": 1.0004940873829504,
+          "ESS_bulk": 8634.197075422871,
+          "ESS_tail": 8045.030502436305,
+          "MCSE_mean": 0.009903777055818224
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.0738280302136043,
+          "SD": 2.5702225339336495,
+          "Rhat": 1.0002269494878029,
+          "ESS_bulk": 21896.231114776274,
+          "ESS_tail": 22186.897312742843,
+          "MCSE_mean": 0.017647790234699944
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9279422200302239,
+        0.9630589583370928,
+        0.9584213925513058,
+        0.8859961594054958
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.0853092993402655,
+          "SD": 0.7441150905400686,
+          "Rhat": 1.0003116135116614,
+          "ESS_bulk": 8100.310815923227,
+          "ESS_tail": 8611.864009506417,
+          "MCSE_mean": 0.008436775638327733
+        },
+        {
+          "parameter": "tau",
+          "mean": 1.3768183645757481,
+          "SD": 0.5406297762134108,
+          "Rhat": 1.0010829449413166,
+          "ESS_bulk": 7644.395422329945,
+          "ESS_tail": 4863.486548509112,
+          "MCSE_mean": 0.005974906854789403
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.083418384235267,
+          "SD": 1.6630571898073427,
+          "Rhat": 1.000076936487624,
+          "ESS_bulk": 19852.027979682087,
+          "ESS_tail": 22715.55768854936,
+          "MCSE_mean": 0.011898949003172905
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9362802938411473,
+        0.9127408948124691,
+        0.9288921864359325,
+        0.828765592883884
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "tau_prior_SD": 5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.089059913805383,
+          "SD": 1.1283357818089208,
+          "Rhat": 1.0004239416985394,
+          "ESS_bulk": 9281.466128866648,
+          "ESS_tail": 9199.146815341708,
+          "MCSE_mean": 0.012155247399972747
+        },
+        {
+          "parameter": "tau",
+          "mean": 2.396110386748431,
+          "SD": 1.1932784183781635,
+          "Rhat": 1.0002110604504015,
+          "ESS_bulk": 8387.625748181017,
+          "ESS_tail": 6894.53400152632,
+          "MCSE_mean": 0.012355107520301329
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.072683268552173,
+          "SD": 2.8903640046267243,
+          "Rhat": 1.0001181413159195,
+          "ESS_bulk": 22341.615390740357,
+          "ESS_tail": 21601.89421467399,
+          "MCSE_mean": 0.019605416109292194
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8913779879187461,
+        0.8450612054987271,
+        0.7853575562824525,
+        0.8689862510015655
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_RAW_ENDPOINT4",
+      "tau_prior_SD": 3,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.6450042439386,
+          "SD": 1.024374624942203,
+          "Rhat": 1.0008228393780876,
+          "ESS_bulk": 7607.342521126249,
+          "ESS_tail": 7200.96816396224,
+          "MCSE_mean": 0.012432631976084369
+        },
+        {
+          "parameter": "tau",
+          "mean": 1.5478181032704401,
+          "SD": 1.1003820973687644,
+          "Rhat": 1.0005882482187825,
+          "ESS_bulk": 6825.254977924715,
+          "ESS_tail": 5351.611384626456,
+          "MCSE_mean": 0.011954479887510803
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.6540477452862765,
+          "SD": 2.1730434282884312,
+          "Rhat": 1.0001749341397956,
+          "ESS_bulk": 17482.89447603228,
+          "ESS_tail": 17622.66075199675,
+          "MCSE_mean": 0.016849927141515165
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9331567002509794,
+        0.894710935062194,
+        0.8674587426893515,
+        0.8962099361834917
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_RAW_ENDPOINT4",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.604759286071507,
+          "SD": 0.7023998245991072,
+          "Rhat": 1.0003225910118378,
+          "ESS_bulk": 7871.616285876902,
+          "ESS_tail": 7415.704893538433,
+          "MCSE_mean": 0.008286222109516692
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.8501076621419967,
+          "SD": 0.5476699425934903,
+          "Rhat": 1.0004177623708306,
+          "ESS_bulk": 6314.809931968837,
+          "ESS_tail": 5010.405394403571,
+          "MCSE_mean": 0.0061297452567922045
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.607426951035625,
+          "SD": 1.2177177657130585,
+          "Rhat": 1.0001760528685124,
+          "ESS_bulk": 16060.510562325842,
+          "ESS_tail": 17252.334922790054,
+          "MCSE_mean": 0.009845264512774501
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9088998306198454,
+        0.8810965262332273,
+        0.9250389751284598,
+        0.8650704706250721
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_RAW_ENDPOINT4",
+      "tau_prior_SD": 5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.6446861919658455,
+          "SD": 1.2451304125654954,
+          "Rhat": 1.00074167629878,
+          "ESS_bulk": 6550.560350225962,
+          "ESS_tail": 5810.0779596327375,
+          "MCSE_mean": 0.016998324700068637
+        },
+        {
+          "parameter": "tau",
+          "mean": 1.895180590319418,
+          "SD": 1.4568464359846216,
+          "Rhat": 1.000834395594675,
+          "ESS_bulk": 6527.20799633992,
+          "ESS_tail": 4879.994575343844,
+          "MCSE_mean": 0.016567613249504804
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.6214684861569184,
+          "SD": 2.676685139537912,
+          "Rhat": 1.0004342649235727,
+          "ESS_bulk": 16945.756173121787,
+          "ESS_tail": 16341.5516398193,
+          "MCSE_mean": 0.02157817595209126
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8710090796594753,
+        0.8785814825401442,
+        0.9215173374168449,
+        0.9187935001455462
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_CHANGE3_WALD_EQUIV",
+      "tau_prior_SD": 3,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 2.696194692432337,
+          "SD": 1.8940778089872217,
+          "Rhat": 1.00036176713779,
+          "ESS_bulk": 8678.241042074758,
+          "ESS_tail": 7660.362691947318,
+          "MCSE_mean": 0.0212869914734323
+        },
+        {
+          "parameter": "tau",
+          "mean": 2.940304618473791,
+          "SD": 1.3504994440404872,
+          "Rhat": 1.000036267251246,
+          "ESS_bulk": 7318.798010184931,
+          "ESS_tail": 6689.855754698247,
+          "MCSE_mean": 0.014900221153845717
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 2.69753148664005,
+          "SD": 3.7126532098522933,
+          "Rhat": 1.0000934589835053,
+          "ESS_bulk": 19466.47218863463,
+          "ESS_tail": 19460.962345027,
+          "MCSE_mean": 0.027124727955853765
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8830041290001045,
+        0.9577028490135183,
+        0.9145058861300208,
+        0.9397796971517678
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_CHANGE3_WALD_EQUIV",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 2.8832604464930744,
+          "SD": 1.0906657018791077,
+          "Rhat": 1.0004886200113645,
+          "ESS_bulk": 8435.966205768778,
+          "ESS_tail": 9148.746898252348,
+          "MCSE_mean": 0.012020271786788054
+        },
+        {
+          "parameter": "tau",
+          "mean": 1.5660610702156736,
+          "SD": 0.5761144305150397,
+          "Rhat": 1.0002408141139019,
+          "ESS_bulk": 10216.087941597989,
+          "ESS_tail": 6699.869663299166,
+          "MCSE_mean": 0.005503274143503358
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 2.8797413130290073,
+          "SD": 2.0010577096828324,
+          "Rhat": 0.9999981480231374,
+          "ESS_bulk": 17588.63554537657,
+          "ESS_tail": 21041.4665442262,
+          "MCSE_mean": 0.015236180523438812
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9358578128948241,
+        0.9551651805474751,
+        0.9673306565218447,
+        0.929981058923223
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_CHANGE3_WALD_EQUIV",
+      "tau_prior_SD": 5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 2.65719450531393,
+          "SD": 2.374092865250073,
+          "Rhat": 1.0009090501758073,
+          "ESS_bulk": 8170.167075512124,
+          "ESS_tail": 8052.9789576755775,
+          "MCSE_mean": 0.028196525415474162
+        },
+        {
+          "parameter": "tau",
+          "mean": 3.7135642890228278,
+          "SD": 1.9951240687086444,
+          "Rhat": 1.0006325192457943,
+          "ESS_bulk": 7747.000683459112,
+          "ESS_tail": 8550.593502289024,
+          "MCSE_mean": 0.022128011487792386
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 2.6388188191805546,
+          "SD": 4.897833680023784,
+          "Rhat": 1.0001871058922276,
+          "ESS_bulk": 18034.395141181187,
+          "ESS_tail": 18771.485812389412,
+          "MCSE_mean": 0.037862776576191574
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9730841275508874,
+        0.9636949500571576,
+        0.8859174314443135,
+        0.8712170702975369
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_ENDPOINT_NO_DEPRESSED3",
+      "tau_prior_SD": 3,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.273202054633351,
+          "SD": 1.4041380387628108,
+          "Rhat": 1.0005778315956948,
+          "ESS_bulk": 6427.99184790754,
+          "ESS_tail": 5682.4256770138445,
+          "MCSE_mean": 0.01915343719669939
+        },
+        {
+          "parameter": "tau",
+          "mean": 1.7821213900751465,
+          "SD": 1.3561085362269931,
+          "Rhat": 1.0005973349421997,
+          "ESS_bulk": 5235.263685966401,
+          "ESS_tail": 4808.5056664651875,
+          "MCSE_mean": 0.016356803124681674
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.2748566804279426,
+          "SD": 2.638446354195658,
+          "Rhat": 1.0001487658068584,
+          "ESS_bulk": 13572.754408243649,
+          "ESS_tail": 13373.631212784772,
+          "MCSE_mean": 0.023819291583520304
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8932198337376068,
+        0.9241803928171773,
+        0.9786436114972429,
+        0.9303094351773228
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_ENDPOINT_NO_DEPRESSED3",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.165128882083805,
+          "SD": 0.8124850895153205,
+          "Rhat": 1.000214109874913,
+          "ESS_bulk": 7818.423036692753,
+          "ESS_tail": 7016.127392184626,
+          "MCSE_mean": 0.009569870360258154
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.7927867683465114,
+          "SD": 0.5806394685796582,
+          "Rhat": 1.000229115298834,
+          "ESS_bulk": 6169.34124800335,
+          "ESS_tail": 5483.932697724236,
+          "MCSE_mean": 0.006533729107740788
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.1649253361810845,
+          "SD": 1.2779594598080999,
+          "Rhat": 1.0001128307815859,
+          "ESS_bulk": 13558.147184640995,
+          "ESS_tail": 14048.682907298515,
+          "MCSE_mean": 0.011449591624328395
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9617690984324344,
+        0.9045642106582602,
+        0.9450727915121062,
+        0.9308167810896847
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_ENDPOINT_NO_DEPRESSED3",
+      "tau_prior_SD": 5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.2496208500858406,
+          "SD": 1.7057525606015878,
+          "Rhat": 1.0006471973294617,
+          "ESS_bulk": 6028.634341414458,
+          "ESS_tail": 5552.763832385302,
+          "MCSE_mean": 0.024440858936076514
+        },
+        {
+          "parameter": "tau",
+          "mean": 2.2926530225975896,
+          "SD": 1.9041432226230648,
+          "Rhat": 1.0002827268386272,
+          "ESS_bulk": 5141.246744350827,
+          "ESS_tail": 4953.69092192011,
+          "MCSE_mean": 0.023989637357351087
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.2571549917327283,
+          "SD": 3.478926022165906,
+          "Rhat": 1.0001304737562213,
+          "ESS_bulk": 15059.571465798981,
+          "ESS_tail": 15045.774834846381,
+          "MCSE_mean": 0.03044545293638512
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9510199141950323,
+        0.8887639748362,
+        0.9346946560555265,
+        0.96242529667228
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_DEPRESSED5",
+      "tau_prior_SD": 3,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 2.691664412581108,
+          "SD": 1.1811404683800684,
+          "Rhat": 1.0004701916591991,
+          "ESS_bulk": 7717.470835380289,
+          "ESS_tail": 7632.004393466036,
+          "MCSE_mean": 0.014452895487395083
+        },
+        {
+          "parameter": "tau",
+          "mean": 2.131861817226255,
+          "SD": 1.0970938733667264,
+          "Rhat": 1.000333931785319,
+          "ESS_bulk": 7808.526980969222,
+          "ESS_tail": 5525.029357885421,
+          "MCSE_mean": 0.011604732889894775
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 2.70176376469729,
+          "SD": 2.678258985002526,
+          "Rhat": 1.0001672062091809,
+          "ESS_bulk": 17030.96307234827,
+          "ESS_tail": 19102.189562172887,
+          "MCSE_mean": 0.02114647319710907
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.866743425385834,
+        0.8253133770185155,
+        0.9774805119448552,
+        0.8642172848552467
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_DEPRESSED5",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 2.6710744593378797,
+          "SD": 0.755158932990684,
+          "Rhat": 1.0005829204821899,
+          "ESS_bulk": 8468.925682267129,
+          "ESS_tail": 8302.84011567031,
+          "MCSE_mean": 0.008433241200216808
+        },
+        {
+          "parameter": "tau",
+          "mean": 1.2063342447963317,
+          "SD": 0.5857060841165741,
+          "Rhat": 1.0009056197767707,
+          "ESS_bulk": 6462.094911583745,
+          "ESS_tail": 4639.84404677402,
+          "MCSE_mean": 0.006960146313655949
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 2.6814935137877525,
+          "SD": 1.5473237362628867,
+          "Rhat": 1.0003397589896108,
+          "ESS_bulk": 18832.616438602945,
+          "ESS_tail": 21714.988337192466,
+          "MCSE_mean": 0.011384111191186722
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9750990385672352,
+        0.9533159921678475,
+        0.9327192783273208,
+        0.8640384525364574
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_DEPRESSED5",
+      "tau_prior_SD": 5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 2.687026804367813,
+          "SD": 1.3948090182276007,
+          "Rhat": 1.000499579184444,
+          "ESS_bulk": 7021.32107277122,
+          "ESS_tail": 6403.390714678842,
+          "MCSE_mean": 0.018780769203424228
+        },
+        {
+          "parameter": "tau",
+          "mean": 2.4981290857728427,
+          "SD": 1.429917394568093,
+          "Rhat": 1.0008744924962405,
+          "ESS_bulk": 5833.9908926197095,
+          "ESS_tail": 4983.726296779761,
+          "MCSE_mean": 0.018239851083940755
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 2.7111706412548786,
+          "SD": 3.1752799334800006,
+          "Rhat": 1.0000945664564072,
+          "ESS_bulk": 17897.825063878183,
+          "ESS_tail": 17694.39493292685,
+          "MCSE_mean": 0.024547173863250102
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8869356166898659,
+        0.7996052935874295,
+        0.7717206977603271,
+        0.8839064058763338
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_MULTICOMPONENT5",
+      "tau_prior_SD": 3,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 2.93352081817253,
+          "SD": 1.2899921052318593,
+          "Rhat": 1.0003122308237447,
+          "ESS_bulk": 9107.857651539565,
+          "ESS_tail": 8796.318692425768,
+          "MCSE_mean": 0.014746673644962635
+        },
+        {
+          "parameter": "tau",
+          "mean": 2.454686005790885,
+          "SD": 1.0828999280684324,
+          "Rhat": 1.000124154359639,
+          "ESS_bulk": 8342.219890275073,
+          "ESS_tail": 7094.516912674254,
+          "MCSE_mean": 0.011527113268696912
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 2.9392875909569907,
+          "SD": 2.98197265171605,
+          "Rhat": 1.0000769975142778,
+          "ESS_bulk": 21012.144784218548,
+          "ESS_tail": 21160.921366614333,
+          "MCSE_mean": 0.021086012074881554
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9383037319512498,
+        0.9029763582686823,
+        0.926459317870867,
+        0.8580712737459332
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_MULTICOMPONENT5",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 2.9382787572042246,
+          "SD": 0.841001281798956,
+          "Rhat": 1.0000679119745097,
+          "ESS_bulk": 10023.534812318621,
+          "ESS_tail": 11111.879873256497,
+          "MCSE_mean": 0.008504625148883746
+        },
+        {
+          "parameter": "tau",
+          "mean": 1.4737289094213029,
+          "SD": 0.55730874325645,
+          "Rhat": 1.0002198333514065,
+          "ESS_bulk": 8878.227182019667,
+          "ESS_tail": 4806.131212907991,
+          "MCSE_mean": 0.005741171145748144
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 2.9440730068157586,
+          "SD": 1.7723845324240175,
+          "Rhat": 1.0003005921893937,
+          "ESS_bulk": 20801.774677597346,
+          "ESS_tail": 23199.082350662473,
+          "MCSE_mean": 0.012364027245030126
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.864502963168636,
+        0.869127631524082,
+        0.8607147713333644,
+        0.9661260940602011
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_MULTICOMPONENT5",
+      "tau_prior_SD": 5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 2.919096364043379,
+          "SD": 1.4532238441224885,
+          "Rhat": 1.0002700204327564,
+          "ESS_bulk": 8181.595215980468,
+          "ESS_tail": 7631.573335879842,
+          "MCSE_mean": 0.017193474224584202
+        },
+        {
+          "parameter": "tau",
+          "mean": 2.8443173522605085,
+          "SD": 1.4488318363656407,
+          "Rhat": 1.0001668569644833,
+          "ESS_bulk": 8210.514126913928,
+          "ESS_tail": 7698.876668465072,
+          "MCSE_mean": 0.01552571939608244
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 2.9200841788941356,
+          "SD": 3.486158927292746,
+          "Rhat": 1.0002171490946932,
+          "ESS_bulk": 19989.656271469285,
+          "ESS_tail": 20476.235559786743,
+          "MCSE_mean": 0.02542591875387022
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8752546316838316,
+        0.8846014441727111,
+        0.8641241505622481,
+        0.9516097871789098
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "tau_prior_SD": 3,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.3743432405928453,
+          "SD": 1.073554862738745,
+          "Rhat": 1.000503482214636,
+          "ESS_bulk": 10447.460929701489,
+          "ESS_tail": 9968.259363510486,
+          "MCSE_mean": 0.010956369100396893
+        },
+        {
+          "parameter": "tau",
+          "mean": 2.8171322801349277,
+          "SD": 0.960337785118325,
+          "Rhat": 1.0002142812441561,
+          "ESS_bulk": 11072.675700793317,
+          "ESS_tail": 11622.862891898105,
+          "MCSE_mean": 0.0090663704348838
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.3570709547289312,
+          "SD": 3.1604097190373297,
+          "Rhat": 1.000003178818201,
+          "ESS_bulk": 24312.909594628454,
+          "ESS_tail": 22236.307054144057,
+          "MCSE_mean": 0.020459609519409568
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9373167242939549,
+        1.0006798516919835,
+        1.0430488582148947,
+        0.9286512503307977
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.6364630337310033,
+          "SD": 0.7687355184746293,
+          "Rhat": 1.000282344306748,
+          "ESS_bulk": 11270.911348021475,
+          "ESS_tail": 11290.910351918845,
+          "MCSE_mean": 0.007345582534343402
+        },
+        {
+          "parameter": "tau",
+          "mean": 1.8557978307941574,
+          "SD": 0.5108650357466958,
+          "Rhat": 1.0003558445490865,
+          "ESS_bulk": 12060.008956056781,
+          "ESS_tail": 10556.296039012876,
+          "MCSE_mean": 0.004574794210386419
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.631052080320964,
+          "SD": 2.061042554796073,
+          "Rhat": 1.0001346940429259,
+          "ESS_bulk": 24664.740927811334,
+          "ESS_tail": 25616.323044656627,
+          "MCSE_mean": 0.01314780567556425
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.963354480755508,
+        0.9050117094575673,
+        1.0269070496630543,
+        0.9937274606675353
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "tau_prior_SD": 5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.3257719732059874,
+          "SD": 1.156255253449292,
+          "Rhat": 1.0001561964960317,
+          "ESS_bulk": 10583.864480715378,
+          "ESS_tail": 9911.256108789434,
+          "MCSE_mean": 0.011781216077676333
+        },
+        {
+          "parameter": "tau",
+          "mean": 3.0831044001081813,
+          "SD": 1.1459846181649889,
+          "Rhat": 1.0007454203016595,
+          "ESS_bulk": 11032.698579322312,
+          "ESS_tail": 11814.566308155934,
+          "MCSE_mean": 0.01114104184265193
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.3379058705292923,
+          "SD": 3.476381354330206,
+          "Rhat": 0.9999629447576678,
+          "ESS_bulk": 26611.48363053827,
+          "ESS_tail": 24582.66366593673,
+          "MCSE_mean": 0.02144008018036252
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9749839670702538,
+        0.9548547756928971,
+        0.9258788813323514,
+        0.9200899376511398
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "BROAD_PRINTED_SUMMARY10",
+      "tau_prior_SD": 3,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.5797170246957584,
+          "SD": 0.9913073249235714,
+          "Rhat": 1.0002045333361784,
+          "ESS_bulk": 10987.587915086038,
+          "ESS_tail": 10624.07367603433,
+          "MCSE_mean": 0.009676770078986381
+        },
+        {
+          "parameter": "tau",
+          "mean": 2.6178946471559597,
+          "SD": 0.8995783534675507,
+          "Rhat": 1.0001489260840348,
+          "ESS_bulk": 12150.396290477394,
+          "ESS_tail": 12316.966778718104,
+          "MCSE_mean": 0.008125511006203444
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.596612175508625,
+          "SD": 2.9414312121261164,
+          "Rhat": 1.0000246617801158,
+          "ESS_bulk": 25487.201255764936,
+          "ESS_tail": 24673.474935715276,
+          "MCSE_mean": 0.018564259991105406
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9852950259825118,
+        1.00754795548255,
+        1.0215776350751107,
+        0.9815513295879856
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "BROAD_PRINTED_SUMMARY10",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.787215618960539,
+          "SD": 0.7229747559866978,
+          "Rhat": 1.0003079815079154,
+          "ESS_bulk": 11970.809155040304,
+          "ESS_tail": 10975.168644761465,
+          "MCSE_mean": 0.006705753896530804
+        },
+        {
+          "parameter": "tau",
+          "mean": 1.7658542980749585,
+          "SD": 0.48523930030450535,
+          "Rhat": 1.000218405603438,
+          "ESS_bulk": 12832.427947110053,
+          "ESS_tail": 11512.967279577117,
+          "MCSE_mean": 0.004222158818027399
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.7852518359648806,
+          "SD": 1.9760279527388462,
+          "Rhat": 1.0000139997710784,
+          "ESS_bulk": 23840.87590004912,
+          "ESS_tail": 26620.61009298982,
+          "MCSE_mean": 0.012857156370178854
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9581557912061122,
+        1.0217844073137736,
+        1.0092712594932947,
+        0.9840378348943188
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "BROAD_PRINTED_SUMMARY10",
+      "tau_prior_SD": 5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.557503022656983,
+          "SD": 1.0822533069317954,
+          "Rhat": 1.000549909995427,
+          "ESS_bulk": 9468.88607029653,
+          "ESS_tail": 9182.678790363188,
+          "MCSE_mean": 0.011588917035254501
+        },
+        {
+          "parameter": "tau",
+          "mean": 2.84794111913889,
+          "SD": 1.0853311152491483,
+          "Rhat": 1.0003032783919983,
+          "ESS_bulk": 9845.739443033548,
+          "ESS_tail": 11214.646164133059,
+          "MCSE_mean": 0.01100647192337695
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.528263339874664,
+          "SD": 3.230188059548124,
+          "Rhat": 1.0003297670067774,
+          "ESS_bulk": 24077.26871732814,
+          "ESS_tail": 23546.699134253406,
+          "MCSE_mean": 0.021090676967957165
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9301481291269057,
+        0.884502518212455,
+        0.9656690468482108,
+        0.9354411087481913
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "BROAD_COMPLETE_STRATEGY13_ORDINARY_CI_EQUIVALENTS",
+      "tau_prior_SD": 3,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.1687297983804887,
+          "SD": 0.8394167107777941,
+          "Rhat": 1.000212611764921,
+          "ESS_bulk": 12543.722053844369,
+          "ESS_tail": 10590.856864921228,
+          "MCSE_mean": 0.007618149477327428
+        },
+        {
+          "parameter": "tau",
+          "mean": 2.5809398482023513,
+          "SD": 0.7389702258122908,
+          "Rhat": 1.00017883478295,
+          "ESS_bulk": 12283.525915673916,
+          "ESS_tail": 12852.995654159497,
+          "MCSE_mean": 0.006605038663792562
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.158804198555634,
+          "SD": 2.7986929391917617,
+          "Rhat": 0.9999726045229551,
+          "ESS_bulk": 25346.252211906758,
+          "ESS_tail": 26735.745033210223,
+          "MCSE_mean": 0.017617638387367955
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        1.0071107151337921,
+        1.0133816861261733,
+        1.0011122592911919,
+        1.002768918923881
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "BROAD_COMPLETE_STRATEGY13_ORDINARY_CI_EQUIVALENTS",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.275221871310424,
+          "SD": 0.6607010671813319,
+          "Rhat": 1.0000608324027076,
+          "ESS_bulk": 11463.85030856867,
+          "ESS_tail": 10208.557210854062,
+          "MCSE_mean": 0.0062476477603096514
+        },
+        {
+          "parameter": "tau",
+          "mean": 1.9191047399185943,
+          "SD": 0.446130952959919,
+          "Rhat": 1.0002064748790969,
+          "ESS_bulk": 12117.36537329318,
+          "ESS_tail": 11676.694741615402,
+          "MCSE_mean": 0.004006983656626806
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.2906319463245604,
+          "SD": 2.0652114715921206,
+          "Rhat": 1.0000859583013675,
+          "ESS_bulk": 26539.001870419852,
+          "ESS_tail": 27126.053658300974,
+          "MCSE_mean": 0.012699312874991183
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9501380468019869,
+        0.9758896683274293,
+        0.909783770992335,
+        0.994033793950674
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "BROAD_COMPLETE_STRATEGY13_ORDINARY_CI_EQUIVALENTS",
+      "tau_prior_SD": 5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 3.1255648298141963,
+          "SD": 0.8833722391877368,
+          "Rhat": 1.0001084703980454,
+          "ESS_bulk": 11558.916063588576,
+          "ESS_tail": 10950.491372162436,
+          "MCSE_mean": 0.008391402856586792
+        },
+        {
+          "parameter": "tau",
+          "mean": 2.7215604528946304,
+          "SD": 0.8417227695158939,
+          "Rhat": 1.0003341187257804,
+          "ESS_bulk": 12080.225258329694,
+          "ESS_tail": 12658.441009137307,
+          "MCSE_mean": 0.007855642415977472
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 3.1344846197829987,
+          "SD": 3.003964610138847,
+          "Rhat": 1.0000017237517018,
+          "ESS_bulk": 26666.172154243297,
+          "ESS_tail": 25370.34196266103,
+          "MCSE_mean": 0.018523247178052808
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9630688576366201,
+        0.9789544887911661,
+        0.9741371369947276,
+        0.9316836239694859
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "tau_prior_SD": 3,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 4.382443524415699,
+          "SD": 1.6445619690348643,
+          "Rhat": 1.0005845817549317,
+          "ESS_bulk": 13415.009919836502,
+          "ESS_tail": 13419.545642647621,
+          "MCSE_mean": 0.014361889193545647
+        },
+        {
+          "parameter": "tau",
+          "mean": 5.1691245691793775,
+          "SD": 1.0614164002423703,
+          "Rhat": 1.000250639696837,
+          "ESS_bulk": 14133.857555814027,
+          "ESS_tail": 14175.92778168142,
+          "MCSE_mean": 0.008926176125588499
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 4.343818842637812,
+          "SD": 5.541243955380577,
+          "Rhat": 1.0002151391008895,
+          "ESS_bulk": 26737.758309483896,
+          "ESS_tail": 27452.35022501801,
+          "MCSE_mean": 0.033913951364732096
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9818825926781166,
+        0.9562788566790852,
+        0.9864564827294294,
+        1.078889797456822
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 4.654117862664291,
+          "SD": 1.1322753680121798,
+          "Rhat": 1.0001741957357042,
+          "ESS_bulk": 15198.714620778721,
+          "ESS_tail": 13371.863373073587,
+          "MCSE_mean": 0.009242275601978852
+        },
+        {
+          "parameter": "tau",
+          "mean": 3.3893919768438128,
+          "SD": 0.4867328925269511,
+          "Rhat": 1.0000747134580525,
+          "ESS_bulk": 14789.077699040477,
+          "ESS_tail": 12985.826211507703,
+          "MCSE_mean": 0.003969790758781422
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 4.684935134321217,
+          "SD": 3.594732286143232,
+          "Rhat": 1.0000245920823123,
+          "ESS_bulk": 27155.050008408976,
+          "ESS_tail": 26248.07943571796,
+          "MCSE_mean": 0.021824043875987638
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        1.0418743514704771,
+        0.9822630427763608,
+        1.0104222578355422,
+        0.992762456623628
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "tau_prior_SD": 5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 4.287465551886614,
+          "SD": 1.8432979390011426,
+          "Rhat": 1.0002852852872728,
+          "ESS_bulk": 12760.998104441911,
+          "ESS_tail": 12071.28716858215,
+          "MCSE_mean": 0.016605229986625468
+        },
+        {
+          "parameter": "tau",
+          "mean": 5.796318855250404,
+          "SD": 1.386495499984918,
+          "Rhat": 1.0002945472676763,
+          "ESS_bulk": 13115.265522733856,
+          "ESS_tail": 13450.200588672915,
+          "MCSE_mean": 0.012269220233708633
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 4.299508361632891,
+          "SD": 6.216108457928084,
+          "Rhat": 1.0003161803786393,
+          "ESS_bulk": 26731.548256478738,
+          "ESS_tail": 27314.509776468654,
+          "MCSE_mean": 0.038130776902342046
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        1.0027066547844905,
+        0.9415468045618866,
+        0.9876839479129086,
+        0.9925818237170185
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Desire_CORE3",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.33253792410118077,
+          "SD": 0.40294660964565415,
+          "Rhat": 1.0004117659578964,
+          "ESS_bulk": 6335.210283769958,
+          "ESS_tail": 6509.395892998429,
+          "MCSE_mean": 0.005620788248084581
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.5734527362921304,
+          "SD": 0.3817602251864109,
+          "Rhat": 1.0005214206203956,
+          "ESS_bulk": 6102.907695931837,
+          "ESS_tail": 5149.200212260012,
+          "MCSE_mean": 0.004498576157044915
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.33693649253427416,
+          "SD": 0.7987471276498718,
+          "Rhat": 1.0003442934312325,
+          "ESS_bulk": 15930.879808522597,
+          "ESS_tail": 16617.226248433817,
+          "MCSE_mean": 0.0067500153429077255
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9587817761930767,
+        0.8608026455770391,
+        0.9172204777751298,
+        0.881603994571177
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Desire_CORE3",
+      "tau_prior_SD": 0.5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.32482815126543646,
+          "SD": 0.3014400336444742,
+          "Rhat": 1.00054659743888,
+          "ESS_bulk": 7488.102417189222,
+          "ESS_tail": 7166.398133665275,
+          "MCSE_mean": 0.0037474883926423273
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.40819111459668,
+          "SD": 0.23373526382768955,
+          "Rhat": 1.000631315758999,
+          "ESS_bulk": 6363.924222479058,
+          "ESS_tail": 4329.966974890449,
+          "MCSE_mean": 0.002682096979248432
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.32330420787565,
+          "SD": 0.5629880224885825,
+          "Rhat": 1.0001399795281074,
+          "ESS_bulk": 15954.462748098527,
+          "ESS_tail": 15647.969223007593,
+          "MCSE_mean": 0.004655287310125206
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8667931784309467,
+        0.8692243747186166,
+        0.956001776640349,
+        0.9016857940077082
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Desire_CORE3",
+      "tau_prior_SD": 2,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.31189402040761377,
+          "SD": 0.5267937890212236,
+          "Rhat": 1.000918470214968,
+          "ESS_bulk": 5962.691999349815,
+          "ESS_tail": 5471.790971302777,
+          "MCSE_mean": 0.007669329734494514
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.7513681714645252,
+          "SD": 0.6065976716444024,
+          "Rhat": 1.0006882058568014,
+          "ESS_bulk": 6182.277772289003,
+          "ESS_tail": 7003.01075412502,
+          "MCSE_mean": 0.007424467805410373
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.31641019926072983,
+          "SD": 1.093630735504834,
+          "Rhat": 1.0003751994528265,
+          "ESS_bulk": 16105.817657699685,
+          "ESS_tail": 13483.195455672878,
+          "MCSE_mean": 0.009043721548302124
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8373002087172031,
+        0.8611641330637274,
+        0.8948247725772966,
+        0.869521111226356
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Arousal_CORE3",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.6700229025196258,
+          "SD": 0.3011035252138528,
+          "Rhat": 1.0005962169035956,
+          "ESS_bulk": 5347.011253099656,
+          "ESS_tail": 4405.455105766172,
+          "MCSE_mean": 0.004880446530469649
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.3315112643350401,
+          "SD": 0.3328891373542914,
+          "Rhat": 1.0008567698358086,
+          "ESS_bulk": 4841.577878325197,
+          "ESS_tail": 5406.813768956906,
+          "MCSE_mean": 0.0045735946566572054
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.6706602873191333,
+          "SD": 0.5570363847046619,
+          "Rhat": 1.0003360271483706,
+          "ESS_bulk": 13370.456894008728,
+          "ESS_tail": 10907.584245855953,
+          "MCSE_mean": 0.005483193500936745
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8560831603143472,
+        0.8475683482996903,
+        0.8745943085528411,
+        0.8543001558220575
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Arousal_CORE3",
+      "tau_prior_SD": 0.5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.678023704843599,
+          "SD": 0.20942528196410576,
+          "Rhat": 1.0005009072635762,
+          "ESS_bulk": 6825.752886979258,
+          "ESS_tail": 5990.839147898744,
+          "MCSE_mean": 0.0028039834819823875
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.2296112582514738,
+          "SD": 0.2027542093754333,
+          "Rhat": 1.000581846154194,
+          "ESS_bulk": 6637.433569008758,
+          "ESS_tail": 6029.415059630078,
+          "MCSE_mean": 0.002240272020579418
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.681470655606629,
+          "SD": 0.3717074437907534,
+          "Rhat": 1.0002140966558142,
+          "ESS_bulk": 14694.701511719199,
+          "ESS_tail": 15340.787170290074,
+          "MCSE_mean": 0.0032418268421945803
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8614472439166534,
+        0.9317936010409703,
+        0.8441780142697052,
+        0.9746577919279914
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Arousal_CORE3",
+      "tau_prior_SD": 2,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.660730505643795,
+          "SD": 0.3702227135829349,
+          "Rhat": 1.0011280689040905,
+          "ESS_bulk": 4968.683356782203,
+          "ESS_tail": 3867.1751152605693,
+          "MCSE_mean": 0.006446576760928258
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.4206248391568035,
+          "SD": 0.4923348413561952,
+          "Rhat": 1.0009350320142474,
+          "ESS_bulk": 4836.685712575161,
+          "ESS_tail": 6200.220249027931,
+          "MCSE_mean": 0.007026445467852651
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.6609927283850671,
+          "SD": 0.7518249544084079,
+          "Rhat": 1.00040742507841,
+          "ESS_bulk": 13923.549220545636,
+          "ESS_tail": 9994.65718168658,
+          "MCSE_mean": 0.007575648902802326
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8293225573279812,
+        0.8144591420018451,
+        0.7653506128744112,
+        0.787108448313794
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Lubrication_CORE3",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.27789429911882724,
+          "SD": 0.2975164582144385,
+          "Rhat": 1.0006885627531674,
+          "ESS_bulk": 6306.517014644305,
+          "ESS_tail": 5726.334417896353,
+          "MCSE_mean": 0.004321121138476627
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.33558058066401086,
+          "SD": 0.33587329836632324,
+          "Rhat": 1.0004176374356877,
+          "ESS_bulk": 5974.123006957639,
+          "ESS_tail": 5501.823897775452,
+          "MCSE_mean": 0.003900950473096995
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.2854687417456205,
+          "SD": 0.5563002830693143,
+          "Rhat": 1.000131781575493,
+          "ESS_bulk": 14288.565441877498,
+          "ESS_tail": 14340.630430307838,
+          "MCSE_mean": 0.004940838302573313
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8442150666814489,
+        0.9177425256321412,
+        0.8994349631857395,
+        0.9001653388670865
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Lubrication_CORE3",
+      "tau_prior_SD": 0.5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.2677705707046652,
+          "SD": 0.22852771534958646,
+          "Rhat": 1.001172944178625,
+          "ESS_bulk": 6191.008252061135,
+          "ESS_tail": 5283.898212209285,
+          "MCSE_mean": 0.0031939366766168785
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.23615751448572492,
+          "SD": 0.209085942199519,
+          "Rhat": 1.000562452193034,
+          "ESS_bulk": 6527.171305696267,
+          "ESS_tail": 6268.654530238267,
+          "MCSE_mean": 0.00233656430033292
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.26980219262635513,
+          "SD": 0.3882082162661055,
+          "Rhat": 1.0002693968337522,
+          "ESS_bulk": 12154.543293907049,
+          "ESS_tail": 12292.328359374931,
+          "MCSE_mean": 0.0037366728314402295
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9260694244676011,
+        0.9128363282261586,
+        1.0266408712003248,
+        0.8744297856019736
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Lubrication_CORE3",
+      "tau_prior_SD": 2,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.2639698191798346,
+          "SD": 0.3947290396629138,
+          "Rhat": 1.000952023313091,
+          "ESS_bulk": 4763.408940064473,
+          "ESS_tail": 3812.3660952596983,
+          "MCSE_mean": 0.007057617372222937
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.44138786925483975,
+          "SD": 0.5097959334750334,
+          "Rhat": 1.000156467783489,
+          "ESS_bulk": 5161.239460730022,
+          "ESS_tail": 6173.987356435745,
+          "MCSE_mean": 0.007196303987994527
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.26151483438587125,
+          "SD": 0.7712122915259818,
+          "Rhat": 1.0002746470204,
+          "ESS_bulk": 12234.262334314948,
+          "ESS_tail": 9459.233277996838,
+          "MCSE_mean": 0.00819066022037789
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.7955233691920756,
+        0.7867318734573563,
+        0.8633925973482204,
+        0.8513015348540716
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Orgasm_CORE3",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.4868482398349634,
+          "SD": 0.36072765737977674,
+          "Rhat": 1.001676234532231,
+          "ESS_bulk": 5126.85981531908,
+          "ESS_tail": 3884.34491276092,
+          "MCSE_mean": 0.006467194338708419
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.4213363268688778,
+          "SD": 0.36241715083235215,
+          "Rhat": 1.0018968417967578,
+          "ESS_bulk": 4889.649695964264,
+          "ESS_tail": 4761.39374912161,
+          "MCSE_mean": 0.00483043503469078
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.48376711381980536,
+          "SD": 0.660868968542491,
+          "Rhat": 1.0009272916570482,
+          "ESS_bulk": 11907.559436195204,
+          "ESS_tail": 10761.514731305502,
+          "MCSE_mean": 0.007122337989778829
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.731546617948055,
+        0.822128558778013,
+        0.8993241075501444,
+        0.9202405429436813
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Orgasm_CORE3",
+      "tau_prior_SD": 0.5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.5008037638953123,
+          "SD": 0.25652745659664905,
+          "Rhat": 1.0003727072836273,
+          "ESS_bulk": 7012.879917078998,
+          "ESS_tail": 6279.449283635126,
+          "MCSE_mean": 0.0033698271621399097
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.2960621214788985,
+          "SD": 0.22484250667359876,
+          "Rhat": 1.0002089341482834,
+          "ESS_bulk": 5246.773577641203,
+          "ESS_tail": 5097.926191268015,
+          "MCSE_mean": 0.002804554311153931
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.5050485432554721,
+          "SD": 0.44939713671444914,
+          "Rhat": 1.000103573778032,
+          "ESS_bulk": 14909.21896359999,
+          "ESS_tail": 14250.889345147698,
+          "MCSE_mean": 0.003953073071149756
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8993337686005364,
+        0.8531458432912834,
+        0.8973701473503356,
+        0.9282579725739114
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Orgasm_CORE3",
+      "tau_prior_SD": 2,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.4773504342000119,
+          "SD": 0.4511413808700883,
+          "Rhat": 1.0009894122779344,
+          "ESS_bulk": 5371.6798448524305,
+          "ESS_tail": 4628.433004380946,
+          "MCSE_mean": 0.007394948102355219
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.5631478878895261,
+          "SD": 0.5763701796370843,
+          "Rhat": 1.0015808238462156,
+          "ESS_bulk": 4454.041048749931,
+          "ESS_tail": 4654.690638572804,
+          "MCSE_mean": 0.008270408842194916
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.477196722480849,
+          "SD": 0.9293223088834601,
+          "Rhat": 1.0009117276831692,
+          "ESS_bulk": 13546.227121004682,
+          "ESS_tail": 10476.948884530786,
+          "MCSE_mean": 0.008865308688838159
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8183247469541205,
+        0.7895027697435675,
+        0.8907190727203073,
+        0.8104481705239109
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Satisfaction_CORE3",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.4409643098409754,
+          "SD": 0.262609036984475,
+          "Rhat": 1.000969636821786,
+          "ESS_bulk": 5943.60194957653,
+          "ESS_tail": 5266.966062552378,
+          "MCSE_mean": 0.0039477075939911965
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.2961225924610817,
+          "SD": 0.3099232880758196,
+          "Rhat": 1.0004345637098357,
+          "ESS_bulk": 5342.76820892848,
+          "ESS_tail": 5804.477922649968,
+          "MCSE_mean": 0.003967638057104016
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.4426710827683108,
+          "SD": 0.5062306697224364,
+          "Rhat": 1.0003872383190184,
+          "ESS_bulk": 14754.056274256753,
+          "ESS_tail": 11949.889253952586,
+          "MCSE_mean": 0.004558580594304855
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.794861832827022,
+        0.8582059492921458,
+        0.8698399637385498,
+        0.8798568715591578
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Satisfaction_CORE3",
+      "tau_prior_SD": 0.5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.440539063007449,
+          "SD": 0.2159908327257682,
+          "Rhat": 1.000175291479369,
+          "ESS_bulk": 6771.202266559317,
+          "ESS_tail": 5578.578019296761,
+          "MCSE_mean": 0.0029115386699226802
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.21881709325732038,
+          "SD": 0.19650148080226484,
+          "Rhat": 1.0004729584137142,
+          "ESS_bulk": 6322.167195813539,
+          "ESS_tail": 5873.525015443963,
+          "MCSE_mean": 0.00223829630541235
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.4391841906830874,
+          "SD": 0.36320071241952606,
+          "Rhat": 1.0001499162523022,
+          "ESS_bulk": 13823.979037010598,
+          "ESS_tail": 12613.523712689832,
+          "MCSE_mean": 0.0033483866756277864
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8955237824036347,
+        0.8864077673150232,
+        0.8619800903249424,
+        0.8571267454877763
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Satisfaction_CORE3",
+      "tau_prior_SD": 2,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.44163848817484613,
+          "SD": 0.3520161840256426,
+          "Rhat": 1.0005122819184902,
+          "ESS_bulk": 5102.966192408153,
+          "ESS_tail": 4280.746900474329,
+          "MCSE_mean": 0.0062932308405002696
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.38805631435239785,
+          "SD": 0.46431855229631935,
+          "Rhat": 1.0012029561876257,
+          "ESS_bulk": 5295.818154626786,
+          "ESS_tail": 5764.13188993886,
+          "MCSE_mean": 0.006528970798720809
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.4436905477032665,
+          "SD": 0.6922851514215759,
+          "Rhat": 1.0002594236417042,
+          "ESS_bulk": 13725.763202146014,
+          "ESS_tail": 10771.504585326502,
+          "MCSE_mean": 0.00702648990781959
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.7783423642909573,
+        0.7964023970890199,
+        0.8650838627008585,
+        0.8509464613504543
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Pain_CORE3",
+      "tau_prior_SD": 1,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.448822979006183,
+          "SD": 0.30083735467487993,
+          "Rhat": 1.0005756091051097,
+          "ESS_bulk": 6167.21788672722,
+          "ESS_tail": 5065.918272187626,
+          "MCSE_mean": 0.004435221703770725
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.32056650432086126,
+          "SD": 0.3256980373118936,
+          "Rhat": 1.0005321674679417,
+          "ESS_bulk": 6597.1222273103995,
+          "ESS_tail": 7712.124557652468,
+          "MCSE_mean": 0.003929101148436319
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.4419740654817769,
+          "SD": 0.5435646688673301,
+          "Rhat": 1.0003067972214699,
+          "ESS_bulk": 13815.38838653629,
+          "ESS_tail": 12441.68154641967,
+          "MCSE_mean": 0.005163381206464001
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8718440252213903,
+        0.8376394663307881,
+        0.930269620708603,
+        0.8844365631454144
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Pain_CORE3",
+      "tau_prior_SD": 0.5,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.44796520818384483,
+          "SD": 0.2314945525720383,
+          "Rhat": 1.0002684601809413,
+          "ESS_bulk": 7713.271853856353,
+          "ESS_tail": 6977.561135806648,
+          "MCSE_mean": 0.0028684722478150896
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.2253829822236927,
+          "SD": 0.19928962071637688,
+          "Rhat": 1.0001926093156,
+          "ESS_bulk": 7592.550409818706,
+          "ESS_tail": 7608.61787104831,
+          "MCSE_mean": 0.002060638747500257
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.44742889891546966,
+          "SD": 0.38220093473014993,
+          "Rhat": 0.999998092387458,
+          "ESS_bulk": 14728.924988180715,
+          "ESS_tail": 14650.874855384714,
+          "MCSE_mean": 0.003345804474184412
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.9067482584129266,
+        0.9218628357172222,
+        0.9293216136487735,
+        0.9235385753615173
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    },
+    {
+      "pool_id": "DOMAIN_Pain_CORE3",
+      "tau_prior_SD": 2,
+      "chains": 4,
+      "iterations_per_chain": 10000,
+      "warmup_per_chain": 2500,
+      "parameters": [
+        {
+          "parameter": "mu",
+          "mean": 0.4359620053501397,
+          "SD": 0.35466681271499056,
+          "Rhat": 1.0002606148838349,
+          "ESS_bulk": 6215.9153276093175,
+          "ESS_tail": 4504.606733110461,
+          "MCSE_mean": 0.005362655045510217
+        },
+        {
+          "parameter": "tau",
+          "mean": 0.3983015552112619,
+          "SD": 0.4746413247318713,
+          "Rhat": 1.000283006147731,
+          "ESS_bulk": 5154.208006412474,
+          "ESS_tail": 6634.621665963333,
+          "MCSE_mean": 0.006406309605123531
+        },
+        {
+          "parameter": "theta_new",
+          "mean": 0.43816534124398343,
+          "SD": 0.7182587645659504,
+          "Rhat": 1.0001117255071204,
+          "ESS_bulk": 15003.414946764977,
+          "ESS_tail": 12269.18320349162,
+          "MCSE_mean": 0.006621004999021639
+        }
+      ],
+      "divergences": 0,
+      "treedepth_hits": 0,
+      "E_BFMI": [
+        0.8341105840777568,
+        0.8443922362654267,
+        0.8735526687267957,
+        0.8025503644174481
+      ],
+      "warnings": [],
+      "pass": true,
+      "old_fit_not_reused": true
+    }
+  ],
+  "count": 51,
+  "deterministic_views_have_no_Rhat_or_ESS": true
+}

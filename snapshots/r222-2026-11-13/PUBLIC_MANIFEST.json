@@ -1,0 +1,109 @@
+{
+  "schema": "public.r222.snapshot_manifest.v1",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3310,
+      "sha256": "a36a0328ccbe7d2769c3c25c42a2394d8acff5794f3371d5925de34d06c6fa06"
+    },
+    {
+      "path": "analysis/actual_normal_random_effects.stan",
+      "bytes": 468,
+      "sha256": "dbbb41313cd573ef367c326e9c33571e5a13e1338394c9889aa65042dba1d904"
+    },
+    {
+      "path": "analysis/environment.txt",
+      "bytes": 854,
+      "sha256": "8d6f0ce16020f564bb069720303d8b6c146fd658fb20afb2b0f380e5d8fb9a1c"
+    },
+    {
+      "path": "analysis/reproduce_conditional_network.py",
+      "bytes": 7919,
+      "sha256": "a39d473aee1f9dae44fbfe9adc23ee37e9af3943aa3c1cc93d493651b386ad8f"
+    },
+    {
+      "path": "analysis/reproduce_deterministic.py",
+      "bytes": 5705,
+      "sha256": "ed62879fe7a17aeca7e58e9e0f9c7f590c0dead349b5ff87ba56187d07b1c18e"
+    },
+    {
+      "path": "analysis/reproduce_frequentist.R",
+      "bytes": 2917,
+      "sha256": "6cf4a4f0b01465d92b65126d6ecdd4c384d9335a29a64f24f27bf66b76b53bdd"
+    },
+    {
+      "path": "analysis/reproduce_mcmc.R",
+      "bytes": 3712,
+      "sha256": "8637d09d2e28dc3f534e231a038f7bdb0e8bad63688e89d4d3b6c6f9da95b939"
+    },
+    {
+      "path": "data/author_adoption_aggregate.json",
+      "bytes": 1351,
+      "sha256": "d67931d6e80a99e65b6223fb1db8707dfa07439cd38b324813a36419b3ed136a"
+    },
+    {
+      "path": "data/bayesian_results54.json",
+      "bytes": 108449,
+      "sha256": "2febc84aaf0e8cba9136444640f32be4f7591f843cfd4c66fcc96afb62795832"
+    },
+    {
+      "path": "data/conditional_pain_network_results.json",
+      "bytes": 45193,
+      "sha256": "7320050858cd07c530754e3a43682fb06b0a6da6d07807a4a760536c000d5d4a"
+    },
+    {
+      "path": "data/dose_prescription_map8.json",
+      "bytes": 8854,
+      "sha256": "8dacd6c4cad433bd32a1672c8ccf9949ac6c261990145dd3063dd1fc602c51bb"
+    },
+    {
+      "path": "data/frequentist_results78.json",
+      "bytes": 156075,
+      "sha256": "f9621b5b99128d0ffcea55414365ee113b33f379743ee34c62000b0e883bf8cb"
+    },
+    {
+      "path": "data/leave_one_family_out45.json",
+      "bytes": 81470,
+      "sha256": "7ed043e28cdf20655149d78e06a6d23f18ef26e6fef3e945fab3c7cbb8004ca7"
+    },
+    {
+      "path": "data/new_certainty_targets11.json",
+      "bytes": 69464,
+      "sha256": "4d45b9b96ed3272c3aa7bed38b765f96c921b97a9857ab575a2d7cf65519755d"
+    },
+    {
+      "path": "inputs/conditional_pain_network.json",
+      "bytes": 5323,
+      "sha256": "479b5f1ead08246be360331ec08481df05a5f9a79d3d4bd99051001ec6185c80"
+    },
+    {
+      "path": "inputs/pool_sets39.json",
+      "bytes": 519554,
+      "sha256": "5a94e90e5aff883efabaf6723fe9a51b7b85a630cdf8368dbe13a82fd016bb72"
+    },
+    {
+      "path": "inputs/source_assets.json",
+      "bytes": 5286,
+      "sha256": "04c718954edeb5b5bffbc6780547307fb8015c84174e6e272c3d08556a827941"
+    },
+    {
+      "path": "qa/independent_validation_summary.json",
+      "bytes": 2797,
+      "sha256": "6106df9dc721bd839d95581dc42383223364ff6d20b3d2129c87d687b4c8c87b"
+    },
+    {
+      "path": "qa/mcmc_diagnostics51.json",
+      "bytes": 68431,
+      "sha256": "c385e8099c2b2110d1eeddb7e0d2f62e594ceae71ffc3e24267601e34e586ee8"
+    },
+    {
+      "path": "verify_snapshot.py",
+      "bytes": 7037,
+      "sha256": "3ee50c3d440f63ffc2ae2bf8b4e4c13e32ef9223e193d38d91eceeacee492a66"
+    }
+  ],
+  "file_count_including_manifest": 21,
+  "excludes_personal_records_and_licensed_source_carriers": true,
+  "immutable_prior_snapshots_preserved": true,
+  "model_view_counts_not_independent_studies": true
+}

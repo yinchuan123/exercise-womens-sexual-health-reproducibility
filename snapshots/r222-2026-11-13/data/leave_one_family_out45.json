@@ -1,0 +1,2628 @@
+{
+  "rows": [
+    {
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "K": 5,
+      "role": "Expanded sensitivity with two source-CI Wald-equivalent precision approximations",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.323690775084546,
+      "CI95": [
+        0.3405864158131653,
+        6.3067951343559265
+      ],
+      "SE": 1.0744330416209917,
+      "df": 4,
+      "tau2": 4.434610088347132,
+      "I2": 83.66062432980823,
+      "Q": 19.449483405600503,
+      "Q_p": 0.0006411876988868831,
+      "prediction95": [
+        -3.240131072299813,
+        9.887512622468904
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "families": [
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648"
+      ],
+      "weights_percent": [
+        22.749781488343338,
+        16.098122225540973,
+        20.919325673297536,
+        19.435361686777508,
+        20.79740892604064
+      ],
+      "omitted_input": "R221-Franco2021",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "K": 5,
+      "role": "Expanded sensitivity with two source-CI Wald-equivalent precision approximations",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.2251682919936346,
+      "CI95": [
+        0.10495747003757128,
+        6.345379113949698
+      ],
+      "SE": 1.123815059809648,
+      "df": 4,
+      "tau2": 4.928091114766763,
+      "I2": 80.4280760404543,
+      "Q": 19.686140919773518,
+      "Q_p": 0.0005759185858742689,
+      "prediction95": [
+        -3.683133412589836,
+        10.133469996577105
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648"
+      ],
+      "weights_percent": [
+        19.096078474299734,
+        17.09994402056352,
+        21.780241742603987,
+        20.35955731970055,
+        21.6641784428322
+      ],
+      "omitted_input": "R221-Khosravi2022",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "K": 5,
+      "role": "Expanded sensitivity with two source-CI Wald-equivalent precision approximations",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 2.719891095837942,
+      "CI95": [
+        0.18437626157112152,
+        5.255405930104763
+      ],
+      "SE": 0.9132234703722659,
+      "df": 4,
+      "tau2": 3.136584184452079,
+      "I2": 79.14053024102215,
+      "Q": 16.6045876416217,
+      "Q_p": 0.002306479821214734,
+      "prediction95": [
+        -2.81252763946257,
+        8.252309831138454
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648"
+      ],
+      "weights_percent": [
+        17.11784089322613,
+        23.087640638251887,
+        20.617998573274996,
+        18.71796289627072,
+        20.458556998976274
+      ],
+      "omitted_input": "R221-CarcelenFraile2022_Qigong",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "K": 5,
+      "role": "Expanded sensitivity with two source-CI Wald-equivalent precision approximations",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 2.719558900731252,
+      "CI95": [
+        -0.055932734121680205,
+        5.495050535584184
+      ],
+      "SE": 0.9996565859187789,
+      "df": 4,
+      "tau2": 3.4355005961162837,
+      "I2": 77.51458820352244,
+      "Q": 14.535638537189692,
+      "Q_p": 0.005767892674905054,
+      "prediction95": [
+        -3.1273562371236854,
+        8.56647403858619
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648"
+      ],
+      "weights_percent": [
+        18.318396903266105,
+        24.206648780234765,
+        15.911427264713108,
+        19.920402887029333,
+        21.64312416475668
+      ],
+      "omitted_input": "R221-Elgayar_breathing2026",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "K": 5,
+      "role": "Expanded sensitivity with two source-CI Wald-equivalent precision approximations",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.749027501111217,
+      "CI95": [
+        2.013405100813699,
+        5.484649901408735
+      ],
+      "SE": 0.6251239749160724,
+      "df": 4,
+      "tau2": 0.8328257917803219,
+      "I2": 47.81368174051508,
+      "Q": 7.943168609086414,
+      "Q_p": 0.09368232498006987,
+      "prediction95": [
+        0.6778151168329427,
+        6.8202398853894906
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026",
+        "R221-Wang2025_TLM"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384",
+        "ChiCTR2300070648"
+      ],
+      "weights_percent": [
+        14.860405165821339,
+        29.871495006861625,
+        11.322120301634705,
+        22.17725019256733,
+        21.768729333114997
+      ],
+      "omitted_input": "R221-Reed_MsFLASH2014",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "K": 5,
+      "role": "Expanded sensitivity with two source-CI Wald-equivalent precision approximations",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 2.9916975173499205,
+      "CI95": [
+        -0.07170347998374549,
+        6.0550985146835865
+      ],
+      "SE": 1.1033537063630974,
+      "df": 4,
+      "tau2": 4.682107510244864,
+      "I2": 82.59265567632329,
+      "Q": 19.35062777571553,
+      "Q_p": 0.0006705717004533492,
+      "prediction95": [
+        -3.7519766784923254,
+        9.735371713192166
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384",
+        "PILOT-FAM-NCT01178892"
+      ],
+      "weights_percent": [
+        18.691838343198377,
+        23.221076016137502,
+        16.669826833950395,
+        21.436998185292826,
+        19.9802606214209
+      ],
+      "omitted_input": "R221-Wang2025_TLM",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "MENOPAUSE_RAW_ENDPOINT4",
+      "K": 3,
+      "role": "Main raw-endpoint exploratory working comparison; unadjusted, selected observed denominators",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.105898160369882,
+      "CI95": [
+        0.27661841271651655,
+        7.935177908023247
+      ],
+      "SE": 0.8899811321459675,
+      "df": 2,
+      "tau2": 1.4620449183250994,
+      "I2": 63.82586276865814,
+      "Q": 5.597531107585229,
+      "Q_p": 0.06088517572840075,
+      "prediction95": [
+        -2.3539747904258315,
+        10.565771111165596
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "weights_percent": [
+        42.95434101577045,
+        20.658249153239293,
+        36.38740983099025
+      ],
+      "omitted_input": "R221-Franco2021",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "MENOPAUSE_RAW_ENDPOINT4",
+      "K": 3,
+      "role": "Main raw-endpoint exploratory working comparison; unadjusted, selected observed denominators",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.173990749517887,
+      "CI95": [
+        -0.3391337141647188,
+        8.687115213200492
+      ],
+      "SE": 1.0489167374531287,
+      "df": 2,
+      "tau2": 1.620251577794128,
+      "I2": 53.31575332946981,
+      "Q": 4.252224345278635,
+      "Q_p": 0.11930021202479504,
+      "prediction95": [
+        -2.9227492816518703,
+        11.270730780687643
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "weights_percent": [
+        31.329723995879384,
+        25.341365263277606,
+        43.32891074084302
+      ],
+      "omitted_input": "R221-Khosravi2022",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "MENOPAUSE_RAW_ENDPOINT4",
+      "K": 3,
+      "role": "Main raw-endpoint exploratory working comparison; unadjusted, selected observed denominators",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.277114223718981,
+      "CI95": [
+        0.11099022729535868,
+        6.443238220142604
+      ],
+      "SE": 0.7358539476198863,
+      "df": 2,
+      "tau2": 0.8461643965690904,
+      "I2": 52.91146065135403,
+      "Q": 4.246409930729052,
+      "Q_p": 0.11964754711198841,
+      "prediction95": [
+        -1.7913402506501175,
+        8.34556869808808
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-Elgayar_RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "weights_percent": [
+        21.871762314163572,
+        43.725341305632284,
+        34.402896380204155
+      ],
+      "omitted_input": "R221-CarcelenFraile2022_Qigong",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "MENOPAUSE_RAW_ENDPOINT4",
+      "K": 3,
+      "role": "Main raw-endpoint exploratory working comparison; unadjusted, selected observed denominators",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.2829906982076924,
+      "CI95": [
+        -1.0831369634579744,
+        7.649118359873359
+      ],
+      "SE": 1.0147525110444828,
+      "df": 2,
+      "tau2": 1.3135761284315977,
+      "I2": 51.77971505787962,
+      "Q": 4.1620246942463455,
+      "Q_p": 0.12480380345322648,
+      "prediction95": [
+        -3.3034400388107974,
+        9.869421435226183
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453"
+      ],
+      "weights_percent": [
+        28.435938856447912,
+        49.01561599785037,
+        22.548445145701727
+      ],
+      "omitted_input": "R221-Elgayar_RAW_ENDPOINT12",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 9,
+      "role": "POSTHOC_EXPLORATORY_BROAD_SCOPE_NOT_A_UNIVERSAL_EXERCISE_ASSIGNMENT_EFFECT; Cross-population complete trainingstrategy vs noaddedtraining, firstplanned8–16weekFSFI endpoint; all10haveprintedoutcomeN and rawendpoint means/SDs",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.5277958824214655,
+      "CI95": [
+        0.6913783057654546,
+        6.364213459077476
+      ],
+      "SE": 1.2300140894608083,
+      "df": 8,
+      "tau2": 8.213036488496122,
+      "I2": 85.66561135169013,
+      "Q": 43.24149528682513,
+      "Q_p": 7.910639148756175e-07,
+      "prediction95": [
+        -3.66382144647442,
+        10.71941321131735
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "weights_percent": [
+        13.70319858612287,
+        11.126785955936242,
+        5.789065465229553,
+        9.52368501715434,
+        11.891760164760214,
+        12.980458465575786,
+        11.648664842420105,
+        13.192404643339772,
+        10.143976859461105
+      ],
+      "omitted_input": "R221-Franco2021",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 9,
+      "role": "POSTHOC_EXPLORATORY_BROAD_SCOPE_NOT_A_UNIVERSAL_EXERCISE_ASSIGNMENT_EFFECT; Cross-population complete trainingstrategy vs noaddedtraining, firstplanned8–16weekFSFI endpoint; all10haveprintedoutcomeN and rawendpoint means/SDs",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.4318863793802117,
+      "CI95": [
+        0.5325239548866167,
+        6.331248803873807
+      ],
+      "SE": 1.2573101583952253,
+      "df": 8,
+      "tau2": 8.837003727750917,
+      "I2": 83.15567368480133,
+      "Q": 39.73278976460496,
+      "Q_p": 3.592546166881774e-06,
+      "prediction95": [
+        -4.011126462137668,
+        10.87489922089809
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "weights_percent": [
+        12.159397028844841,
+        11.33160564580484,
+        6.057386192871991,
+        9.777411390399322,
+        12.064489522647072,
+        13.097933530060187,
+        11.832198432210381,
+        13.297827137458249,
+        10.381751119703104
+      ],
+      "omitted_input": "R221-Khosravi2022",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 9,
+      "role": "POSTHOC_EXPLORATORY_BROAD_SCOPE_NOT_A_UNIVERSAL_EXERCISE_ASSIGNMENT_EFFECT; Cross-population complete trainingstrategy vs noaddedtraining, firstplanned8–16weekFSFI endpoint; all10haveprintedoutcomeN and rawendpoint means/SDs",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.1132172227277386,
+      "CI95": [
+        0.36715442278033183,
+        5.859280022675145
+      ],
+      "SE": 1.1908316893387874,
+      "df": 8,
+      "tau2": 7.864984045733101,
+      "I2": 85.57384954798931,
+      "Q": 44.1085058841726,
+      "Q_p": 5.427208236845475e-07,
+      "prediction95": [
+        -3.9127441492080126,
+        10.13917859466349
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "weights_percent": [
+        11.899321193704884,
+        13.66984047907485,
+        5.637560563798614,
+        9.379761850313487,
+        11.796996467627933,
+        12.920100372822382,
+        11.547240879355138,
+        13.139619053562921,
+        10.009559139739778
+      ],
+      "omitted_input": "R221-CarcelenFraile2022_Qigong",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 9,
+      "role": "POSTHOC_EXPLORATORY_BROAD_SCOPE_NOT_A_UNIVERSAL_EXERCISE_ASSIGNMENT_EFFECT; Cross-population complete trainingstrategy vs noaddedtraining, firstplanned8–16weekFSFI endpoint; all10haveprintedoutcomeN and rawendpoint means/SDs",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.013543477194218,
+      "CI95": [
+        2.1472007249368863,
+        5.879886229451549
+      ],
+      "SE": 0.8093405921373561,
+      "df": 8,
+      "tau2": 4.207665813116338,
+      "I2": 77.14008275879998,
+      "Q": 35.417026921584466,
+      "Q_p": 2.2443727355141274e-05,
+      "prediction95": [
+        -1.0715475465269844,
+        9.09863450091542
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "weights_percent": [
+        11.261301262545368,
+        14.272116896472783,
+        9.95525670032161,
+        7.833875820977725,
+        11.104422672036831,
+        12.924473949557619,
+        10.728504872192651,
+        13.30722406557365,
+        8.612823760321765
+      ],
+      "omitted_input": "R221X-Denig2022",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 9,
+      "role": "POSTHOC_EXPLORATORY_BROAD_SCOPE_NOT_A_UNIVERSAL_EXERCISE_ASSIGNMENT_EFFECT; Cross-population complete trainingstrategy vs noaddedtraining, firstplanned8–16weekFSFI endpoint; all10haveprintedoutcomeN and rawendpoint means/SDs",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.5199537869833426,
+      "CI95": [
+        0.7279776942832856,
+        6.311929879683399
+      ],
+      "SE": 1.2107420147591645,
+      "df": 8,
+      "tau2": 7.946203791468405,
+      "I2": 86.09622926968481,
+      "Q": 44.619942459328506,
+      "Q_p": 4.3434619120284366e-07,
+      "prediction95": [
+        -3.554669976419815,
+        10.5945775503865
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "weights_percent": [
+        11.706877410064463,
+        13.431775012155384,
+        10.84108749381505,
+        5.571306448399731,
+        11.607055950887357,
+        12.701885977361702,
+        11.363349077897178,
+        12.915673273083994,
+        9.860989356335145
+      ],
+      "omitted_input": "R221X-Kim2013",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 9,
+      "role": "POSTHOC_EXPLORATORY_BROAD_SCOPE_NOT_A_UNIVERSAL_EXERCISE_ASSIGNMENT_EFFECT; Cross-population complete trainingstrategy vs noaddedtraining, firstplanned8–16weekFSFI endpoint; all10haveprintedoutcomeN and rawendpoint means/SDs",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.3252452999420945,
+      "CI95": [
+        0.4456152717427191,
+        6.20487532814147
+      ],
+      "SE": 1.2487531935602632,
+      "df": 8,
+      "tau2": 8.823023889923705,
+      "I2": 86.58575953920754,
+      "Q": 45.573564979722356,
+      "Q_p": 2.864459917720084e-07,
+      "prediction95": [
+        -4.105102392745005,
+        10.755592992629193
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "weights_percent": [
+        11.955118055523412,
+        13.548801947735905,
+        11.140217309632044,
+        5.951619070845659,
+        9.610627020059335,
+        12.879219236339948,
+        11.63299693212181,
+        13.076063043398149,
+        10.20533738434374
+      ],
+      "omitted_input": "R221X-Lopes2018",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 9,
+      "role": "POSTHOC_EXPLORATORY_BROAD_SCOPE_NOT_A_UNIVERSAL_EXERCISE_ASSIGNMENT_EFFECT; Cross-population complete trainingstrategy vs noaddedtraining, firstplanned8–16weekFSFI endpoint; all10haveprintedoutcomeN and rawendpoint means/SDs",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.0610253301292403,
+      "CI95": [
+        0.9928045151204348,
+        5.129246145138046
+      ],
+      "SE": 0.8968851284499938,
+      "df": 8,
+      "tau2": 2.43449188990302,
+      "I2": 61.736119974125096,
+      "Q": 21.746975891377218,
+      "Q_p": 0.005406800559369015,
+      "prediction95": [
+        -1.08907412466648,
+        7.2111247849249605
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "weights_percent": [
+        12.408587366088195,
+        17.814820590026738,
+        10.438592737327468,
+        3.4444916420616667,
+        7.615554415872773,
+        12.16143204341171,
+        11.58122790947402,
+        15.932272091011034,
+        8.603021204726387
+      ],
+      "omitted_input": "R221X-Pourkhiz2017",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 9,
+      "role": "POSTHOC_EXPLORATORY_BROAD_SCOPE_NOT_A_UNIVERSAL_EXERCISE_ASSIGNMENT_EFFECT; Cross-population complete trainingstrategy vs noaddedtraining, firstplanned8–16weekFSFI endpoint; all10haveprintedoutcomeN and rawendpoint means/SDs",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.1511565365174,
+      "CI95": [
+        0.3459541167333233,
+        5.956358956301477
+      ],
+      "SE": 1.2164776189942579,
+      "df": 8,
+      "tau2": 8.300892638838237,
+      "I2": 86.00060132693044,
+      "Q": 44.787133840240514,
+      "Q_p": 4.038101734088142e-07,
+      "prediction95": [
+        -4.060670170739993,
+        10.362983243774792
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "weights_percent": [
+        11.947046341722519,
+        13.635423839786121,
+        11.092857102647095,
+        5.794293776476029,
+        9.505918317652938,
+        11.848793084847575,
+        12.923155005161616,
+        13.132109251024362,
+        10.120403280681753
+      ],
+      "omitted_input": "R221X-Kurt2023_Sjogren",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 9,
+      "role": "POSTHOC_EXPLORATORY_BROAD_SCOPE_NOT_A_UNIVERSAL_EXERCISE_ASSIGNMENT_EFFECT; Cross-population complete trainingstrategy vs noaddedtraining, firstplanned8–16weekFSFI endpoint; all10haveprintedoutcomeN and rawendpoint means/SDs",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.180744228386596,
+      "CI95": [
+        0.31489883512576133,
+        6.046589621647431
+      ],
+      "SE": 1.2427754788076744,
+      "df": 8,
+      "tau2": 8.746381356949811,
+      "I2": 84.80144414051131,
+      "Q": 44.93979004048433,
+      "Q_p": 3.777952192302657e-07,
+      "prediction95": [
+        -4.216776234499603,
+        10.578264691272794
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "weights_percent": [
+        12.106358210000902,
+        13.733753321636136,
+        11.275460046593809,
+        6.0045938786917885,
+        9.718102588286818,
+        12.01104426213816,
+        13.049615524073488,
+        11.777813307532469,
+        10.323258861046423
+      ],
+      "omitted_input": "R221-Elgayar_RAW_ENDPOINT12",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 9,
+      "role": "POSTHOC_EXPLORATORY_BROAD_SCOPE_NOT_A_UNIVERSAL_EXERCISE_ASSIGNMENT_EFFECT; Cross-population complete trainingstrategy vs noaddedtraining, firstplanned8–16weekFSFI endpoint; all10haveprintedoutcomeN and rawendpoint means/SDs",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.798287745101892,
+      "CI95": [
+        1.204382946337927,
+        6.392192543865857
+      ],
+      "SE": 1.1248482859005406,
+      "df": 8,
+      "tau2": 6.179359108856838,
+      "I2": 82.66574247019493,
+      "Q": 40.78585331770367,
+      "Q_p": 2.2858594942324756e-06,
+      "prediction95": [
+        -2.4936151792421746,
+        10.090190669445958
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "weights_percent": [
+        11.811018769808301,
+        14.019878586727405,
+        10.757051965182864,
+        5.023584479543512,
+        8.902199242804999,
+        11.687701208179217,
+        13.066825140666225,
+        11.388621254445344,
+        13.343119352642116
+      ],
+      "omitted_input": "R221X-deBemFretta2026-RAW_ENDPOINT12",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 10,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.660311891580279,
+      "CI95": [
+        0.17797579811304498,
+        9.142647985047514
+      ],
+      "SE": 1.9814432733412517,
+      "df": 9,
+      "tau2": 34.72389170780583,
+      "I2": 96.1467527952642,
+      "Q": 152.01908951579873,
+      "Q_p": 3.3655828675380014e-28,
+      "prediction95": [
+        -9.403322728215148,
+        18.723946511375708
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "weights_percent": [
+        10.658422121971212,
+        10.08660685298563,
+        7.9856121995844545,
+        9.624336534081076,
+        10.275215214441372,
+        10.515081350518942,
+        10.217222678526541,
+        10.558334091468687,
+        9.815255561277397,
+        10.263913395144694
+      ],
+      "omitted_input": "R221-Franco2021",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 10,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.59432016832886,
+      "CI95": [
+        0.0839802478646785,
+        9.104660088793041
+      ],
+      "SE": 1.9938225312714601,
+      "df": 9,
+      "tau2": 35.25118216715726,
+      "I2": 95.2105464786707,
+      "Q": 139.12103986150805,
+      "Q_p": 1.5666027754753853e-25,
+      "prediction95": [
+        -9.573812402566043,
+        18.76245273922376
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "weights_percent": [
+        10.33158255135111,
+        10.122031513609185,
+        8.037120527044026,
+        9.664345177104375,
+        10.308600752828081,
+        10.545732421275282,
+        10.251245607145293,
+        10.58847527215727,
+        9.853442301804206,
+        10.29742387568116
+      ],
+      "omitted_input": "R221-Khosravi2022",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 10,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.269529796247496,
+      "CI95": [
+        -0.23336757543080378,
+        8.772427167925795
+      ],
+      "SE": 1.9905325084082053,
+      "df": 9,
+      "tau2": 35.330404867909145,
+      "I2": 96.32514080230449,
+      "Q": 157.21594267830352,
+      "Q_p": 2.811894412420483e-29,
+      "prediction95": [
+        -9.910537544012456,
+        18.44959713650745
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "weights_percent": [
+        10.273031468135962,
+        10.626011578496323,
+        7.99538074558495,
+        9.610906640161273,
+        10.250228812107327,
+        10.485501586835886,
+        10.19331979917473,
+        10.527906909514329,
+        9.798573480211003,
+        10.239138979778216
+      ],
+      "omitted_input": "R221-CarcelenFraile2022_Qigong",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 10,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 5.333509505865436,
+      "CI95": [
+        1.6445562038724044,
+        9.022462807858467
+      ],
+      "SE": 1.6307237015442078,
+      "df": 9,
+      "tau2": 24.670751415513564,
+      "I2": 95.0825445333091,
+      "Q": 145.4350527037341,
+      "Q_p": 7.769395453765969e-27,
+      "prediction95": [
+        -6.4926213193278794,
+        17.159640331058753
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "weights_percent": [
+        10.086060504902248,
+        10.580072193967501,
+        9.801451425876328,
+        9.195582112773167,
+        10.054620240309719,
+        10.381758385498042,
+        9.976400372316897,
+        10.441374464407069,
+        9.443330267339633,
+        10.039350032609404
+      ],
+      "omitted_input": "R221X-Denig2022",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 10,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.661082051335391,
+      "CI95": [
+        0.19739515488159665,
+        9.124768947789185
+      ],
+      "SE": 1.9731992851161495,
+      "df": 9,
+      "tau2": 34.456017122040834,
+      "I2": 96.33970145799992,
+      "Q": 155.27658549454827,
+      "Q_p": 7.104016556402049e-29,
+      "prediction95": [
+        -9.347778473890191,
+        18.669942576560974
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "weights_percent": [
+        10.230806538971997,
+        10.591158739701527,
+        10.018819161016562,
+        7.919945128623489,
+        10.20754828702585,
+        10.447642192115849,
+        10.149513152611156,
+        10.490944846425895,
+        9.747384168401519,
+        10.196237785106172
+      ],
+      "omitted_input": "R221X-Kim2013",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 10,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.502916728992604,
+      "CI95": [
+        -0.014691936237801073,
+        9.020525394223009
+      ],
+      "SE": 1.9970357230362765,
+      "df": 9,
+      "tau2": 35.46357428803899,
+      "I2": 96.24147349872568,
+      "Q": 156.3351996023403,
+      "Q_p": 4.283724858133843e-29,
+      "prediction95": [
+        -9.70583016467967,
+        18.71166362266488
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "weights_percent": [
+        10.291225316625987,
+        10.643516888571783,
+        10.083664555861175,
+        8.015924821196455,
+        9.630157442832912,
+        10.503291399682855,
+        10.2116570997386,
+        10.545612312216115,
+        9.817555798793336,
+        10.257394364480794
+      ],
+      "omitted_input": "R221X-Lopes2018",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 10,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.02847300365461,
+      "CI95": [
+        -0.38930910500917104,
+        8.44625511231839
+      ],
+      "SE": 1.9529068012229298,
+      "df": 9,
+      "tau2": 33.843168627529025,
+      "I2": 95.72267023484615,
+      "Q": 143.64191302353524,
+      "Q_p": 1.8246143440854483e-26,
+      "prediction95": [
+        -9.853324716372608,
+        17.91027072368183
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "weights_percent": [
+        10.327442457660151,
+        10.697711956222228,
+        10.109831520090726,
+        7.963658872052068,
+        9.635757301733323,
+        10.303559602114689,
+        10.243974110648574,
+        10.594694783067311,
+        9.831423362978382,
+        10.291946033432552
+      ],
+      "omitted_input": "R221X-Pourkhiz2017",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 10,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.329427891140056,
+      "CI95": [
+        -0.1869458329742919,
+        8.845801615254404
+      ],
+      "SE": 1.996489809986394,
+      "df": 9,
+      "tau2": 35.53747087315325,
+      "I2": 96.28587236709559,
+      "Q": 157.53551083939703,
+      "Q_p": 2.4135277361638046e-29,
+      "prediction95": [
+        -9.892227670489266,
+        18.55108345276938
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "weights_percent": [
+        10.284919945279675,
+        10.63627134879025,
+        10.077890703109107,
+        8.014538495534163,
+        9.625487113358156,
+        10.262217876167474,
+        10.4964258155192,
+        10.538632853843136,
+        9.812439088222682,
+        10.25117676017616
+      ],
+      "omitted_input": "R221X-Kurt2023_Sjogren",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 10,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.388527958499281,
+      "CI95": [
+        -0.14058106481198696,
+        8.91763698181055
+      ],
+      "SE": 2.0021195245819823,
+      "df": 9,
+      "tau2": 35.72948808253785,
+      "I2": 95.80459041465197,
+      "Q": 157.4206699380687,
+      "Q_p": 2.549737880173141e-29,
+      "prediction95": [
+        -9.871672042725397,
+        18.64872795972396
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "weights_percent": [
+        10.317907704508421,
+        10.668511777043065,
+        10.111261132138681,
+        8.049382100995075,
+        9.659544815941398,
+        10.295249686086876,
+        10.528978454308168,
+        10.2386969578055,
+        9.846237563020642,
+        10.284229808152178
+      ],
+      "omitted_input": "R221-Elgayar_RAW_ENDPOINT12",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 10,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.866337053528158,
+      "CI95": [
+        0.49798364952147267,
+        9.234690457534843
+      ],
+      "SE": 1.9310565489637304,
+      "df": 9,
+      "tau2": 32.67795502653917,
+      "I2": 96.1159780352064,
+      "Q": 150.0197056692102,
+      "Q_p": 8.737119849890403e-28,
+      "prediction95": [
+        -8.783102823672044,
+        18.515776930728357
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "weights_percent": [
+        10.260393316753019,
+        10.641224527577648,
+        10.037007830040755,
+        7.85088865499678,
+        9.551458683974639,
+        10.235861074997949,
+        10.48938496963578,
+        10.174672232182607,
+        10.535175588717909,
+        10.223933121122913
+      ],
+      "omitted_input": "R221X-deBemFretta2026-RAW_ENDPOINT12",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 10,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.425506959210093,
+      "CI95": [
+        0.9638237566889027,
+        5.887190161731283
+      ],
+      "SE": 1.08820167007149,
+      "df": 9,
+      "tau2": 7.005614752298909,
+      "I2": 83.52384205498927,
+      "Q": 45.6893453445666,
+      "Q_p": 6.876722778484415e-07,
+      "prediction95": [
+        -3.048294248340544,
+        9.89930816676073
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "weights_percent": [
+        10.748077149334376,
+        12.53333357524687,
+        9.873468967281397,
+        4.838154692414564,
+        8.297027534241558,
+        10.64651928077773,
+        11.770827667569735,
+        10.39936495967443,
+        11.993081267275375,
+        8.90014490618397
+      ],
+      "omitted_input": "R221A-Basgol2016",
+      "is_leave_one_family_out": true
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 13,
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.177481839648627,
+      "CI95": [
+        0.8475870817845546,
+        7.5073765975127
+      ],
+      "SE": 1.5283069351021188,
+      "df": 12,
+      "tau2": 26.556742571185847,
+      "I2": 95.28529813364416,
+      "Q": 178.05442631340912,
+      "Q_p": 1.0695671961282676e-31,
+      "prediction95": [
+        -7.534009976440728,
+        15.888973655737981
+      ],
+      "members": [
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": null,
+      "weights_percent": [
+        8.240952135237665,
+        7.674013356505117,
+        5.738117105144048,
+        7.228781484125864,
+        7.858996890695579,
+        8.097108705695208,
+        7.801910200751319,
+        8.114009957415725,
+        7.902337004558823,
+        7.997111065468621,
+        8.104913986166485,
+        7.393891113484161,
+        7.84785699475138
+      ],
+      "omitted_input": "R221-Franco2021",
+      "omitted_family": "PILOT-FAM-RBR-3S3FF7",
+      "scope": "All14leave-one-family-out;notdirection-selected"
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 13,
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.127258643250458,
+      "CI95": [
+        0.7799950588617777,
+        7.474522227639138
+      ],
+      "SE": 1.5362786278919442,
+      "df": 12,
+      "tau2": 26.891480824537535,
+      "I2": 94.44984141278306,
+      "Q": 172.78233064741391,
+      "Q_p": 1.2868610022356543e-30,
+      "prediction95": [
+        -7.656802324178176,
+        15.91131961067909
+      ],
+      "members": [
+        "R221-Franco2021",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": null,
+      "weights_percent": [
+        7.90833539042125,
+        7.702112309794719,
+        5.775794317997662,
+        7.260068361268943,
+        7.885598856151139,
+        8.12163488232441,
+        7.828984935801394,
+        8.138382429619105,
+        7.928573612329504,
+        8.022529389388362,
+        8.129369284319804,
+        7.424064257696197,
+        7.874551972887519
+      ],
+      "omitted_input": "R221-Khosravi2022",
+      "omitted_family": "PILOT-FAM-IRCT20150128020854N7",
+      "scope": "All14leave-one-family-out;notdirection-selected"
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 13,
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.8821911674425884,
+      "CI95": [
+        0.553734328720866,
+        7.210648006164311
+      ],
+      "SE": 1.5276469797710441,
+      "df": 12,
+      "tau2": 26.667467643761345,
+      "I2": 95.40223040278806,
+      "Q": 180.37138907337328,
+      "Q_p": 3.5796168897010175e-32,
+      "prediction95": [
+        -7.851312284560013,
+        15.61569461944519
+      ],
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": null,
+      "weights_percent": [
+        7.8650949928166565,
+        8.221887925302534,
+        5.731968850044818,
+        7.215686571888714,
+        7.842304154575018,
+        8.078954495734795,
+        7.785559528088703,
+        8.095749883707331,
+        7.885382425084891,
+        7.979577436259119,
+        8.086710921605091,
+        7.379891553234742,
+        7.831231261657594
+      ],
+      "omitted_input": "R221-CarcelenFraile2022_Qigong",
+      "omitted_family": "NCT03989453",
+      "scope": "All14leave-one-family-out;notdirection-selected"
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 13,
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.654607197965386,
+      "CI95": [
+        1.8141716583602392,
+        7.495042737570532
+      ],
+      "SE": 1.3036620222416884,
+      "df": 12,
+      "tau2": 20.395851285084767,
+      "I2": 94.28176601930218,
+      "Q": 170.50622741372388,
+      "Q_p": 3.7612574270298684e-30,
+      "prediction95": [
+        -5.587061427939802,
+        14.896275823870575
+      ],
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": null,
+      "weights_percent": [
+        7.719868910094961,
+        8.175780501502555,
+        7.4611276751742315,
+        6.919613179389106,
+        7.691146925497802,
+        7.991713061433709,
+        7.619840448076591,
+        8.01324220307858,
+        7.745475936637468,
+        7.864865237553014,
+        8.00165234069372,
+        7.118464083329079,
+        7.6772094975391845
+      ],
+      "omitted_input": "R221X-Denig2022",
+      "omitted_family": "PILOT-FAM-NCT03194997",
+      "scope": "All14leave-one-family-out;notdirection-selected"
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 13,
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.177447705319815,
+      "CI95": [
+        0.8605605451959528,
+        7.494334865443677
+      ],
+      "SE": 1.5223368960225252,
+      "df": 12,
+      "tau2": 26.35895274382255,
+      "I2": 95.44007131282137,
+      "Q": 179.9562450620335,
+      "Q_p": 4.3554967003969054e-32,
+      "prediction95": [
+        -7.490183974292472,
+        15.845079384932102
+      ],
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": null,
+      "weights_percent": [
+        7.831413294990737,
+        8.190777051082577,
+        7.623410934364118,
+        5.690397754972112,
+        7.808470460770243,
+        8.046770539987962,
+        7.751353766120548,
+        8.063689025786546,
+        7.8518372615428325,
+        7.946681433151263,
+        8.05458371566543,
+        7.343290511332774,
+        7.7973242502328715
+      ],
+      "omitted_input": "R221X-Kim2013",
+      "omitted_family": "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+      "scope": "All14leave-one-family-out;notdirection-selected"
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 13,
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.05807454014728,
+      "CI95": [
+        0.709617134122051,
+        7.406531946172509
+      ],
+      "SE": 1.5368265508802323,
+      "df": 12,
+      "tau2": 26.960433436463394,
+      "I2": 95.36734584991845,
+      "Q": 181.02807471388599,
+      "Q_p": 2.624461684522342e-32,
+      "prediction95": [
+        -7.740205841659287,
+        15.856354921953848
+      ],
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": null,
+      "weights_percent": [
+        7.8781839081902,
+        8.231741308490102,
+        7.673230002725695,
+        5.757520519880231,
+        7.233819626827862,
+        8.090143534634082,
+        7.799324859996155,
+        8.106784711943192,
+        7.898296186292466,
+        7.9916640163756565,
+        8.097828833665378,
+        7.39685231737409,
+        7.8446101736049
+      ],
+      "omitted_input": "R221X-Lopes2018",
+      "omitted_family": "PILOT-FAM-ISRCTN10416750",
+      "scope": "All14leave-one-family-out;notdirection-selected"
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 13,
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.6946556451427957,
+      "CI95": [
+        0.43767500504624124,
+        6.95163628523935
+      ],
+      "SE": 1.4948418678990851,
+      "df": 12,
+      "tau2": 25.337370627010518,
+      "I2": 94.79065182761282,
+      "Q": 162.2072175065421,
+      "Q_p": 1.8639751887648749e-28,
+      "prediction95": [
+        -7.746066838572554,
+        15.135378128858145
+      ],
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": null,
+      "weights_percent": [
+        7.905917289220499,
+        8.28310973164121,
+        7.688194595485859,
+        5.685604207924059,
+        7.223696967870587,
+        7.8818807822433765,
+        7.822064547759975,
+        8.149566477881388,
+        7.927319348039624,
+        8.026761043145509,
+        8.140004993373967,
+        7.395674850901395,
+        7.87020516451255
+      ],
+      "omitted_input": "R221X-Pourkhiz2017",
+      "omitted_family": "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+      "scope": "All14leave-one-family-out;notdirection-selected"
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 13,
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.926663208236869,
+      "CI95": [
+        0.5861731243483264,
+        7.267153292125412
+      ],
+      "SE": 1.5331698245987382,
+      "df": 12,
+      "tau2": 26.866618864189466,
+      "I2": 95.38340058777331,
+      "Q": 180.9407765887883,
+      "Q_p": 2.735025185191253e-32,
+      "prediction95": [
+        -7.850465815974637,
+        15.703792232448375
+      ],
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": null,
+      "weights_percent": [
+        7.874185236298297,
+        8.228779836140333,
+        7.668678081846545,
+        5.749499360958018,
+        7.228200262654805,
+        7.851527175434715,
+        8.086754080630799,
+        8.103444683877086,
+        7.894353703222853,
+        7.987986823805741,
+        8.09446217688647,
+        7.391610117541941,
+        7.840518460702391
+      ],
+      "omitted_input": "R221X-Kurt2023_Sjogren",
+      "omitted_family": "KURT-ANTALYA-2021-2022-49",
+      "scope": "All14leave-one-family-out;notdirection-selected"
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 13,
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.9427592570287184,
+      "CI95": [
+        0.5940264835321196,
+        7.291492030525317
+      ],
+      "SE": 1.5369529350595525,
+      "df": 12,
+      "tau2": 27.00476784348614,
+      "I2": 95.05665711558255,
+      "Q": 180.80241887511602,
+      "Q_p": 2.9198681181574153e-32,
+      "prediction95": [
+        -7.864515177691443,
+        15.75003369174888
+      ],
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": null,
+      "weights_percent": [
+        7.8977805692849845,
+        8.251643656145095,
+        7.692626927101521,
+        5.7742503979804445,
+        7.252732579446208,
+        7.875164020643292,
+        8.109929364058928,
+        7.81884662700752,
+        7.917911556586403,
+        8.011364155248966,
+        8.117621189745831,
+        7.415953708423772,
+        7.864175248327033
+      ],
+      "omitted_input": "R221-Elgayar_breathing2026",
+      "omitted_family": "PILOT-FAM-NCT06741384",
+      "scope": "All14leave-one-family-out;notdirection-selected"
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 13,
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.194302157082875,
+      "CI95": [
+        0.8685123747508396,
+        7.520091939414911
+      ],
+      "SE": 1.5264228928034183,
+      "df": 12,
+      "tau2": 26.470073709193024,
+      "I2": 95.25598292690451,
+      "Q": 177.23428923610828,
+      "Q_p": 1.5753974395595332e-31,
+      "prediction95": [
+        -7.49844270961626,
+        15.88704702378201
+      ],
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": null,
+      "weights_percent": [
+        7.883966615819905,
+        8.244244785302607,
+        7.675375192545394,
+        5.734788171074705,
+        7.22880403402158,
+        7.860960959113323,
+        8.099887554523065,
+        7.803685549340195,
+        8.116848333375703,
+        7.999542311181765,
+        8.10772029771571,
+        7.394392160701821,
+        7.849784035284231
+      ],
+      "omitted_input": "R221X-deBemFretta2026",
+      "omitted_family": "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+      "scope": "All14leave-one-family-out;notdirection-selected"
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 13,
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.402018208405289,
+      "CI95": [
+        1.1648544562335261,
+        7.6391819605770515
+      ],
+      "SE": 1.4857465992945518,
+      "df": 12,
+      "tau2": 24.684667178991507,
+      "I2": 94.83493994067088,
+      "Q": 160.22130328636223,
+      "Q_p": 4.73446153188727e-28,
+      "prediction95": [
+        -6.896782916735499,
+        15.700819333546075
+      ],
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": null,
+      "weights_percent": [
+        7.901336790113961,
+        8.288126635234356,
+        7.678491052382932,
+        5.642970096004859,
+        7.204079963600433,
+        7.876719740278526,
+        8.13285788592096,
+        7.815474916374282,
+        8.15108062101056,
+        7.923258890581154,
+        8.141272756630933,
+        7.379567184545835,
+        7.8647634673212075
+      ],
+      "omitted_input": "R221-Reed_MsFLASH2014",
+      "omitted_family": "PILOT-FAM-NCT01178892",
+      "scope": "All14leave-one-family-out;notdirection-selected"
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 13,
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.039085096780378,
+      "CI95": [
+        0.6855015024126843,
+        7.392668691148073
+      ],
+      "SE": 1.5391792946646796,
+      "df": 12,
+      "tau2": 27.060077085558255,
+      "I2": 95.08831378872681,
+      "Q": 181.01849714607602,
+      "Q_p": 2.6363702518829147e-32,
+      "prediction95": [
+        -7.7806782997005355,
+        15.858848493261291
+      ],
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": null,
+      "weights_percent": [
+        7.8967720178531655,
+        8.249876797742155,
+        7.69203005151415,
+        5.776509443877313,
+        7.25294924149265,
+        7.874201859618205,
+        8.108473518614813,
+        7.817998898899997,
+        8.125092754105241,
+        7.91686150328035,
+        8.01011885336742,
+        7.415879522504321,
+        7.863235537130229
+      ],
+      "omitted_input": "R221-Wang2025_TLM",
+      "omitted_family": "ChiCTR2300070648",
+      "scope": "All14leave-one-family-out;notdirection-selected"
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 13,
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.187056408583591,
+      "CI95": [
+        0.8695414356711919,
+        7.504571381495991
+      ],
+      "SE": 1.5226250404560395,
+      "df": 12,
+      "tau2": 26.357550693022425,
+      "I2": 95.41644609172982,
+      "Q": 179.545569822078,
+      "Q_p": 5.288233056950868e-32,
+      "prediction95": [
+        -7.480468535572299,
+        15.85458135273948
+      ],
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": null,
+      "weights_percent": [
+        7.844364913302407,
+        8.204341860360264,
+        7.636008390033056,
+        5.699730435010619,
+        7.190089221375961,
+        7.8213829874205345,
+        8.060089428644817,
+        7.764169002535238,
+        8.077036792436331,
+        7.8648236853665,
+        7.959829555817882,
+        8.067915940096926,
+        7.810217787599466
+      ],
+      "omitted_input": "R221X-AbrilCoello2026",
+      "omitted_family": "PILOT-FAM-NCT05679063",
+      "scope": "All14leave-one-family-out;notdirection-selected"
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 13,
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.199075749269714,
+      "CI95": [
+        1.3562919893719563,
+        5.041859509167471
+      ],
+      "SE": 0.845774237607381,
+      "df": 12,
+      "tau2": 5.756113711899022,
+      "I2": 81.48761394189813,
+      "Q": 60.84422041732176,
+      "Q_p": 1.583123838928453e-08,
+      "prediction95": [
+        -2.343615014014071,
+        8.741766512553498
+      ],
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063"
+      ],
+      "N_layers": null,
+      "weights_percent": [
+        8.043470951784945,
+        9.651461528625436,
+        7.288329708753224,
+        3.3117640771268673,
+        5.977919410869443,
+        7.954717126083709,
+        8.953399006012349,
+        7.739905478023629,
+        9.031350534204924,
+        8.12371348768951,
+        8.51234242110076,
+        8.989270805903661,
+        6.422355463821546
+      ],
+      "omitted_input": "R221A-Basgol2016",
+      "omitted_family": "BASGOL-ISTANBUL-2013-2014-36",
+      "scope": "All14leave-one-family-out;notdirection-selected"
+    }
+  ],
+  "count": 45,
+  "no_significance_selection": true
+}

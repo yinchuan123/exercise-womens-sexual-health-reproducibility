@@ -1,0 +1,5249 @@
+{
+  "rows": [
+    {
+      "pool_id": "MENOPAUSE_PRINTED_SUMMARY4",
+      "K": 4,
+      "role": "Exploratory current-data synthesis; no universal or isolated-component clinical claim",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.785422155727758,
+      "CI95": [
+        1.1124997183679568,
+        6.458344593087559
+      ],
+      "SE": 0.8398955334837974,
+      "df": 3,
+      "tau2": 1.5768971920287145,
+      "I2": 61.80150348618928,
+      "Q": 7.85734064447678,
+      "Q_p": 0.049053914331673755,
+      "prediction95": [
+        -1.0224123999847587,
+        8.593256711440274
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 416,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 241,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        20.95710687505652,
+        34.08531594833192,
+        16.90739125392447,
+        28.050185922687092
+      ]
+    },
+    {
+      "pool_id": "MENOPAUSE_PRINTED_SUMMARY4",
+      "K": 4,
+      "role": "Exploratory current-data synthesis; no universal or isolated-component clinical claim",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 3.5215341841919225,
+      "CI95": [
+        2.6366642439420964,
+        4.406404124441749
+      ],
+      "SE": 0.4514725511435757,
+      "df": null,
+      "tau2": 0,
+      "I2": 61.819142942354006,
+      "Q": 7.85734064447678,
+      "Q_p": 0.049053914331673755,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 416,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 241,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        12.667963910540978,
+        53.36803387970732,
+        8.592715101603261,
+        25.371287108148437
+      ]
+    },
+    {
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "K": 6,
+      "role": "Expanded sensitivity with two source-CI Wald-equivalent precision approximations",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.130057390133679,
+      "CI95": [
+        0.8143927406699638,
+        5.445722039597394
+      ],
+      "SE": 0.9008328843537874,
+      "df": 5,
+      "tau2": 3.513546396813742,
+      "I2": 78.94642459835475,
+      "Q": 20.120318755240707,
+      "Q_p": 0.0011863929287964535,
+      "prediction95": [
+        -2.215916262061908,
+        8.476031042329266
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 450,
+          "known_families": 5,
+          "model_families": 6,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 865,
+          "known_families": 6,
+          "model_families": 6,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 583,
+          "known_families": 5,
+          "model_families": 6,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        15.068843487133313,
+        19.81551747961984,
+        13.115108560716052,
+        17.880978460983176,
+        16.364860167688537,
+        17.754691843859092
+      ]
+    },
+    {
+      "pool_id": "MENOPAUSE_ALL6_WITH_WALD_EQUIV",
+      "K": 6,
+      "role": "Expanded sensitivity with two source-CI Wald-equivalent precision approximations",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 3.091290414576181,
+      "CI95": [
+        2.34708723975561,
+        3.8354935893967514
+      ],
+      "SE": 0.37970247447950595,
+      "df": null,
+      "tau2": 0,
+      "I2": 75.14949906696852,
+      "Q": 20.120318755240707,
+      "Q_p": 0.0011863929287964535,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 450,
+          "known_families": 5,
+          "model_families": 6,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 865,
+          "known_families": 6,
+          "model_families": 6,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 583,
+          "known_families": 5,
+          "model_families": 6,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        8.960473716232277,
+        37.74899172772349,
+        6.077914206474889,
+        17.945958236459685,
+        11.981359987301591,
+        17.285302125808062
+      ]
+    },
+    {
+      "pool_id": "MENOPAUSE_RAW_ENDPOINT4",
+      "K": 4,
+      "role": "Main raw-endpoint exploratory working comparison; unadjusted, selected observed denominators",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.6784875128991064,
+      "CI95": [
+        1.1879474985992151,
+        6.169027527198997
+      ],
+      "SE": 0.7825866567379097,
+      "df": 3,
+      "tau2": 1.1940381102330282,
+      "I2": 56.07563275499847,
+      "Q": 6.93308312742342,
+      "Q_p": 0.07406150247560128,
+      "prediction95": [
+        -0.5988907890770228,
+        7.955865814875235
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 416,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 241,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        19.86827755961812,
+        35.338023500561114,
+        15.616778089504397,
+        29.176920850316364
+      ]
+    },
+    {
+      "pool_id": "MENOPAUSE_RAW_ENDPOINT4",
+      "K": 4,
+      "role": "Main raw-endpoint exploratory working comparison; unadjusted, selected observed denominators",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 3.4729482132382823,
+      "CI95": [
+        2.6016832907875704,
+        4.344213135688994
+      ],
+      "SE": 0.4445310879807682,
+      "df": null,
+      "tau2": 0,
+      "I2": 56.729207700775014,
+      "Q": 6.93308312742342,
+      "Q_p": 0.07406150247560128,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 416,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 241,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        12.281414591725337,
+        51.739565620055494,
+        8.330517625137626,
+        27.648502163081556
+      ]
+    },
+    {
+      "pool_id": "MENOPAUSE_CHANGE3_WALD_EQUIV",
+      "K": 3,
+      "role": "Exploratory current-data synthesis; no universal or isolated-component clinical claim",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 2.8280196739027468,
+      "CI95": [
+        -4.323280726104732,
+        9.979320073910227
+      ],
+      "SE": 1.662067763582651,
+      "df": 2,
+      "tau2": 7.229522927216713,
+      "I2": 88.60782458194885,
+      "Q": 15.913753632756261,
+      "Q_p": 0.0003502452913999021,
+      "prediction95": [
+        -10.772714047335636,
+        16.42875339514113
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "families": [
+        "PILOT-FAM-NCT06741384",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 240,
+          "known_families": 2,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 513,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 406,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        33.91249615069852,
+        32.30414421968901,
+        33.783359629612455
+      ]
+    },
+    {
+      "pool_id": "MENOPAUSE_CHANGE3_WALD_EQUIV",
+      "K": 3,
+      "role": "Exploratory current-data synthesis; no universal or isolated-component clinical claim",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 3.1760242024560026,
+      "CI95": [
+        2.0929393900420434,
+        4.259109014869962
+      ],
+      "SE": 0.5526044462843165,
+      "df": null,
+      "tau2": 0,
+      "I2": 87.43225485228528,
+      "Q": 15.913753632756261,
+      "Q_p": 0.0003502452913999021,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "families": [
+        "PILOT-FAM-NCT06741384",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 240,
+          "known_families": 2,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 513,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 406,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        38.010934583984344,
+        25.377451830865986,
+        36.61161358514966
+      ]
+    },
+    {
+      "pool_id": "MENOPAUSE_PFMT2_REFERENCE",
+      "K": 2,
+      "role": "Exploratory current-data synthesis; no universal or isolated-component clinical claim",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 2.6414710748064776,
+      "CI95": [
+        -4.417750727098255,
+        9.70069287671121
+      ],
+      "SE": 0.5555728046634612,
+      "df": 1,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 0.2254728113143308,
+      "Q_p": 0.6349011808166499,
+      "prediction95": [
+        -4.417750727098255,
+        9.70069287671121
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 164,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 227,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 177,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        19.18342167067503,
+        80.81657832932497
+      ]
+    },
+    {
+      "pool_id": "MENOPAUSE_PFMT2_REFERENCE",
+      "K": 2,
+      "role": "Exploratory current-data synthesis; no universal or isolated-component clinical claim",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 2.6414710748064776,
+      "CI95": [
+        1.5525683868761873,
+        3.730373762736768
+      ],
+      "SE": 0.5555728046634612,
+      "df": null,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 0.2254728113143308,
+      "Q_p": 0.6349011808166499,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 164,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 227,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 177,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        19.18342167067503,
+        80.81657832932497
+      ]
+    },
+    {
+      "pool_id": "MENOPAUSE_ENDPOINT_NO_DEPRESSED3",
+      "K": 3,
+      "role": "Depression/antidepressant context excluded because source eligibility differs.",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.2829906982076924,
+      "CI95": [
+        -1.0831369634579744,
+        7.649118359873359
+      ],
+      "SE": 1.0147525110444828,
+      "df": 2,
+      "tau2": 1.3135761284315977,
+      "I2": 51.77971505787962,
+      "Q": 4.1620246942463455,
+      "Q_p": 0.12480380345322648,
+      "prediction95": [
+        -3.3034400388107974,
+        9.869421435226183
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 210,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 352,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 177,
+          "known_families": 2,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        28.435938856447912,
+        49.01561599785037,
+        22.548445145701727
+      ]
+    },
+    {
+      "pool_id": "MENOPAUSE_ENDPOINT_NO_DEPRESSED3",
+      "K": 3,
+      "role": "Depression/antidepressant context excluded because source eligibility differs.",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 3.0155051760505462,
+      "CI95": [
+        1.991206842221434,
+        4.0398035098796585
+      ],
+      "SE": 0.5226107938251147,
+      "df": null,
+      "tau2": 0,
+      "I2": 51.94646483561632,
+      "Q": 4.1620246942463455,
+      "Q_p": 0.12480380345322648,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 210,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 352,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 177,
+          "known_families": 2,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        16.97465147080695,
+        71.51139529505993,
+        11.513953234133117
+      ]
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_DEPRESSED5",
+      "K": 5,
+      "role": "Depression/antidepressant context sensitivity.",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 2.719558900731252,
+      "CI95": [
+        -0.055932734121680205,
+        5.495050535584184
+      ],
+      "SE": 0.9996565859187789,
+      "df": 4,
+      "tau2": 3.4355005961162837,
+      "I2": 77.51458820352244,
+      "Q": 14.535638537189692,
+      "Q_p": 0.005767892674905054,
+      "prediction95": [
+        -3.1273562371236854,
+        8.56647403858619
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 389,
+          "known_families": 4,
+          "model_families": 5,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 801,
+          "known_families": 5,
+          "model_families": 5,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 519,
+          "known_families": 4,
+          "model_families": 5,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        18.318396903266105,
+        24.206648780234765,
+        15.911427264713108,
+        19.920402887029333,
+        21.64312416475668
+      ]
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_DEPRESSED5",
+      "K": 5,
+      "role": "Depression/antidepressant context sensitivity.",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 2.6716513407674993,
+      "CI95": [
+        1.8500870973972368,
+        3.493215584137762
+      ],
+      "SE": 0.4191731326956295,
+      "df": null,
+      "tau2": 0,
+      "I2": 72.48142907677618,
+      "Q": 14.535638537189692,
+      "Q_p": 0.005767892674905054,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 389,
+          "known_families": 4,
+          "model_families": 5,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 801,
+          "known_families": 5,
+          "model_families": 5,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 519,
+          "known_families": 4,
+          "model_families": 5,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        10.92021005138805,
+        46.00503633508616,
+        7.407208805131075,
+        14.601791367973002,
+        21.065753440421712
+      ]
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_MULTICOMPONENT5",
+      "K": 5,
+      "role": "Inseparable PFMT/TaiChi/education/diet strategy sensitivity.",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 2.9916975173499205,
+      "CI95": [
+        -0.07170347998374549,
+        6.0550985146835865
+      ],
+      "SE": 1.1033537063630974,
+      "df": 4,
+      "tau2": 4.682107510244864,
+      "I2": 82.59265567632329,
+      "Q": 19.35062777571553,
+      "Q_p": 0.0006705717004533492,
+      "prediction95": [
+        -3.7519766784923254,
+        9.735371713192166
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384",
+        "PILOT-FAM-NCT01178892"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 450,
+          "known_families": 5,
+          "model_families": 5,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 771,
+          "known_families": 5,
+          "model_families": 5,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 489,
+          "known_families": 4,
+          "model_families": 5,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        18.691838343198377,
+        23.221076016137502,
+        16.669826833950395,
+        21.436998185292826,
+        19.9802606214209
+      ]
+    },
+    {
+      "pool_id": "MENOPAUSE_EXPANDED_NO_MULTICOMPONENT5",
+      "K": 5,
+      "role": "Inseparable PFMT/TaiChi/education/diet strategy sensitivity.",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 2.9390083453702758,
+      "CI95": [
+        2.120731665173008,
+        3.7572850255675436
+      ],
+      "SE": 0.4174957737242776,
+      "df": null,
+      "tau2": 0,
+      "I2": 79.32883601316603,
+      "Q": 19.35062777571553,
+      "Q_p": 0.0006705717004533492,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221-Elgayar_breathing2026",
+        "R221-Reed_MsFLASH2014"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384",
+        "PILOT-FAM-NCT01178892"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 450,
+          "known_families": 5,
+          "model_families": 5,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 771,
+          "known_families": 5,
+          "model_families": 5,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 489,
+          "known_families": 4,
+          "model_families": 5,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        10.832988509322792,
+        45.63758642404673,
+        7.348046190919204,
+        21.696214454842437,
+        14.485164420868823
+      ]
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 10,
+      "role": "POSTHOC_EXPLORATORY_BROAD_SCOPE_NOT_A_UNIVERSAL_EXERCISE_ASSIGNMENT_EFFECT; Cross-population complete trainingstrategy vs noaddedtraining, firstplanned8–16weekFSFI endpoint; all10haveprintedoutcomeN and rawendpoint means/SDs",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.425506959210093,
+      "CI95": [
+        0.9638237566889027,
+        5.887190161731283
+      ],
+      "SE": 1.08820167007149,
+      "df": 9,
+      "tau2": 7.005614752298909,
+      "I2": 83.52384205498927,
+      "Q": 45.6893453445666,
+      "Q_p": 6.876722778484415e-07,
+      "prediction95": [
+        -3.048294248340544,
+        9.89930816676073
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 564,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 838,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 638,
+          "known_families": 9,
+          "model_families": 10,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        10.748077149334376,
+        12.53333357524687,
+        9.873468967281397,
+        4.838154692414564,
+        8.297027534241558,
+        10.64651928077773,
+        11.770827667569735,
+        10.39936495967443,
+        11.993081267275375,
+        8.90014490618397
+      ]
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT10_PRINTED_OUTCOME_N",
+      "K": 10,
+      "role": "POSTHOC_EXPLORATORY_BROAD_SCOPE_NOT_A_UNIVERSAL_EXERCISE_ASSIGNMENT_EFFECT; Cross-population complete trainingstrategy vs noaddedtraining, firstplanned8–16weekFSFI endpoint; all10haveprintedoutcomeN and rawendpoint means/SDs",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 4.005520145037248,
+      "CI95": [
+        3.31075769823316,
+        4.700282591841336
+      ],
+      "SE": 0.35447714972534466,
+      "df": null,
+      "tau2": 0,
+      "I2": 80.3017532159272,
+      "Q": 45.6893453445666,
+      "Q_p": 6.876722778484415e-07,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 564,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 838,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 638,
+          "known_families": 9,
+          "model_families": 10,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        7.809452818002336,
+        32.89993131621784,
+        5.297173534625358,
+        1.0357276973991618,
+        3.0249888190906336,
+        7.429985942960745,
+        14.602653165458001,
+        6.620809977756021,
+        17.581010030920858,
+        3.698266697569038
+      ]
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT11_ADD_COMMON_EOT_N",
+      "K": 11,
+      "role": "DENOMINATOR_ASSUMPTION_SENSITIVITY; Same broadrawendpointscope plusAbril19/21commonEOTNassumption",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.168898194419343,
+      "CI95": [
+        0.8556372534606393,
+        5.482159135378046
+      ],
+      "SE": 1.038203224586541,
+      "df": 10,
+      "tau2": 7.226907304438754,
+      "I2": 82.94264678404309,
+      "Q": 48.76871209315272,
+      "Q_p": 4.4906274044407196e-07,
+      "prediction95": [
+        -3.252153122403263,
+        9.589949511241949
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221X-AbrilCoello2026-RAW_ENDPOINT8_COMMON_EOT_N"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT05679063"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 604,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 878,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 678,
+          "known_families": 10,
+          "model_families": 11,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        9.986828397943098,
+        11.597397046370544,
+        9.192900541134359,
+        4.558257031445402,
+        7.753661758633468,
+        9.894805080701389,
+        10.911137998483714,
+        9.670672214009345,
+        11.111418408605719,
+        8.305542149715434,
+        7.0173793729575396
+      ]
+    },
+    {
+      "pool_id": "BROAD_RAW_ENDPOINT11_ADD_COMMON_EOT_N",
+      "K": 11,
+      "role": "DENOMINATOR_ASSUMPTION_SENSITIVITY; Same broadrawendpointscope plusAbril19/21commonEOTNassumption",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 3.911272671213617,
+      "CI95": [
+        3.224531105021506,
+        4.598014237405728
+      ],
+      "SE": 0.3503847885007282,
+      "df": null,
+      "tau2": 0,
+      "I2": 79.4950500622221,
+      "Q": 48.76871209315272,
+      "Q_p": 4.4906274044407196e-07,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221X-AbrilCoello2026-RAW_ENDPOINT8_COMMON_EOT_N"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT05679063"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 604,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 878,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 678,
+          "known_families": 10,
+          "model_families": 11,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        7.630176825182946,
+        32.144671250261844,
+        5.1755701308161415,
+        1.0119512414080654,
+        2.9555463259418304,
+        7.259421098329399,
+        14.267430557031469,
+        6.468820803905764,
+        17.177415425573432,
+        3.6133682482962275,
+        2.2956280932528825
+      ]
+    },
+    {
+      "pool_id": "BROAD_PRINTED_SUMMARY10",
+      "K": 10,
+      "role": "MIXED_ESTIMATOR_EXPLORATORY_SENSITIVITY; Same10directtrainingfamilieswithElgayaranddeBemprintedchanges, otherrawendpoints",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.6531287007120685,
+      "CI95": [
+        1.3474509940726191,
+        5.958806407351518
+      ],
+      "SE": 1.0192385147048808,
+      "df": 9,
+      "tau2": 5.764046602568573,
+      "I2": 81.23469546048484,
+      "Q": 44.4890426275336,
+      "Q_p": 1.1467296474079258e-06,
+      "prediction95": [
+        -2.247110494192418,
+        9.553367895616555
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 561,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 838,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 638,
+          "known_families": 9,
+          "model_families": 10,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        10.572874716453605,
+        12.6837965983421,
+        9.581234510185457,
+        4.355960635124113,
+        7.8599476837568165,
+        10.456334906909373,
+        11.767512546984134,
+        10.174261149088041,
+        11.869841011340048,
+        10.678236241816311
+      ]
+    },
+    {
+      "pool_id": "BROAD_PRINTED_SUMMARY10",
+      "K": 10,
+      "role": "MIXED_ESTIMATOR_EXPLORATORY_SENSITIVITY; Same10directtrainingfamilieswithElgayaranddeBemprintedchanges, otherrawendpoints",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 4.021322717402848,
+      "CI95": [
+        3.33522148160578,
+        4.707423953199916
+      ],
+      "SE": 0.3500580833162992,
+      "df": null,
+      "tau2": 0,
+      "I2": 79.77029967727371,
+      "Q": 44.4890426275336,
+      "Q_p": 1.1467296474079258e-06,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 561,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 838,
+          "known_families": 10,
+          "model_families": 10,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 638,
+          "known_families": 9,
+          "model_families": 10,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        7.6159544260721805,
+        32.084754638330026,
+        5.165923038001296,
+        1.0100649975154679,
+        2.950037284618021,
+        7.245889775721934,
+        14.2408365348592,
+        6.456763134292457,
+        15.25316678441654,
+        7.976609386172896
+      ]
+    },
+    {
+      "pool_id": "BROAD_PRINTED_SUMMARY11_ADD_COMMON_EOT_CHANGE",
+      "K": 11,
+      "role": "ESTIMATOR_AND_DENOMINATOR_SENSITIVITY; Same10plusAbrilunadjustedchangeundercommonEOTN",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.534094017070651,
+      "CI95": [
+        1.460228041890831,
+        5.607959992250471
+      ],
+      "SE": 0.9307615516560256,
+      "df": 10,
+      "tau2": 5.275995559463038,
+      "I2": 78.98751176767355,
+      "Q": 45.893048437436185,
+      "Q_p": 1.499658774123293e-06,
+      "prediction95": [
+        -1.9880561179247564,
+        9.056244152066059
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221X-AbrilCoello2026-RAW_CHANGE8_COMMON_EOT_N"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT05679063"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 601,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 878,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 678,
+          "known_families": 10,
+          "model_families": 11,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        9.728049970051371,
+        11.837836688946588,
+        8.75742310711476,
+        3.8475272067590516,
+        7.10270864492287,
+        9.613310952660411,
+        10.914651131407187,
+        9.336336064893043,
+        11.017182772368312,
+        9.831937869947572,
+        8.013035590928828
+      ]
+    },
+    {
+      "pool_id": "BROAD_PRINTED_SUMMARY11_ADD_COMMON_EOT_CHANGE",
+      "K": 11,
+      "role": "ESTIMATOR_AND_DENOMINATOR_SENSITIVITY; Same10plusAbrilunadjustedchangeundercommonEOTN",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 3.9402186969924866,
+      "CI95": [
+        3.2673610511905173,
+        4.613076342794455
+      ],
+      "SE": 0.34330102548280717,
+      "df": null,
+      "tau2": 0,
+      "I2": 78.21020755761622,
+      "Q": 45.893048437436185,
+      "Q_p": 1.499658774123293e-06,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221X-AbrilCoello2026-RAW_CHANGE8_COMMON_EOT_N"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT05679063"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 601,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 878,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 678,
+          "known_families": 10,
+          "model_families": 11,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        7.32477547524627,
+        30.858065943724238,
+        4.968415547002772,
+        0.9714474257984308,
+        2.837249219803484,
+        6.968859417521244,
+        13.696370062356667,
+        6.209903264866439,
+        14.669996133361371,
+        7.6716416011422055,
+        3.8232759091769015
+      ]
+    },
+    {
+      "pool_id": "BROAD_COMPLETE_STRATEGY13_ORDINARY_CI_EQUIVALENTS",
+      "K": 13,
+      "role": "BROAD_WALD_EQUIVALENT_SENSITIVITY_ONLY; Currentbroad13firstplanned8–16weeksources:10printedsummary plusReed,WangTLM,AbrilmodelCIapproximations",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.199075729850721,
+      "CI95": [
+        1.3562919556758137,
+        5.041859504025628
+      ],
+      "SE": 0.8457742441586211,
+      "df": 12,
+      "tau2": 5.756114256933611,
+      "I2": 81.48761537029428,
+      "Q": 60.84422041732175,
+      "Q_p": 1.5831238389284528e-08,
+      "prediction95": [
+        -2.343615271595093,
+        8.741766731296535
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 740,
+          "known_families": 11,
+          "model_families": 13,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1327,
+          "known_families": 13,
+          "model_families": 13,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1020,
+          "known_families": 12,
+          "model_families": 13,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        8.043470950856019,
+        9.651461384727414,
+        7.288329758547266,
+        3.3117642209155447,
+        5.977919523781385,
+        7.954717131660536,
+        8.953398930024113,
+        7.739905498746447,
+        9.031350451078039,
+        8.123713480753953,
+        8.512342383397572,
+        8.989270726644245,
+        6.422355558867466
+      ]
+    },
+    {
+      "pool_id": "BROAD_COMPLETE_STRATEGY13_ORDINARY_CI_EQUIVALENTS",
+      "K": 13,
+      "role": "BROAD_WALD_EQUIVALENT_SENSITIVITY_ONLY; Currentbroad13firstplanned8–16weeksources:10printedsummary plusReed,WangTLM,AbrilmodelCIapproximations",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 3.579973543373802,
+      "CI95": [
+        2.974505567708676,
+        4.185441519038927
+      ],
+      "SE": 0.3089179089212762,
+      "df": null,
+      "tau2": 0,
+      "I2": 80.27750225462053,
+      "Q": 60.84422041732175,
+      "Q_p": 1.5831238389284528e-08,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 740,
+          "known_families": 11,
+          "model_families": 13,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1327,
+          "known_families": 13,
+          "model_families": 13,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1020,
+          "known_families": 12,
+          "model_families": 13,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        5.931032287916925,
+        24.986456728046626,
+        4.023035672376173,
+        0.7866024109401876,
+        2.2973832834044363,
+        5.6428392044170845,
+        11.090252983401506,
+        5.028295664929614,
+        11.878619491426443,
+        6.211897441971941,
+        7.930588849237975,
+        11.441324226960003,
+        2.751671754971107
+      ]
+    },
+    {
+      "pool_id": "BROAD_COMPLETE_STRATEGY14_ADD_MULTIPLICITY_CI",
+      "K": 14,
+      "role": "STRONGER_MULTIPLICITY_AND_MI_CI_ASSUMPTION_SENSITIVITY_ONLY; 13sourcebroadscopeplusPhysioEndEAadjustedBonferroni/MI95CIequivalent",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.0490387271981128,
+      "CI95": [
+        1.3077773163650668,
+        4.790300138031158
+      ],
+      "SE": 0.8060019782383078,
+      "df": 13,
+      "tau2": 5.673806586456472,
+      "I2": 80.50855762786705,
+      "Q": 63.15896944362719,
+      "Q_p": 1.4210275223561564e-08,
+      "prediction95": [
+        -2.3835242188667793,
+        8.481601673263004
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221X-SalinasAsensio2025"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "PILOT-FAM-NCT03979183"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 740,
+          "known_families": 11,
+          "model_families": 14,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1358,
+          "known_families": 14,
+          "model_families": 14,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1051,
+          "known_families": 13,
+          "model_families": 14,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        7.576048513008775,
+        9.111180608013974,
+        6.857514105288137,
+        3.0987094731867573,
+        5.614236585167508,
+        7.491518126088641,
+        8.443894355995365,
+        7.287015729255847,
+        8.518344132633745,
+        7.652490777262895,
+        8.022958377785784,
+        8.47815268858228,
+        6.035392127246762,
+        5.812544400483534
+      ]
+    },
+    {
+      "pool_id": "BROAD_COMPLETE_STRATEGY14_ADD_MULTIPLICITY_CI",
+      "K": 14,
+      "role": "STRONGER_MULTIPLICITY_AND_MI_CI_ASSUMPTION_SENSITIVITY_ONLY; 13sourcebroadscopeplusPhysioEndEAadjustedBonferroni/MI95CIequivalent",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 3.5065851458728345,
+      "CI95": [
+        2.9085439006140317,
+        4.104626391131637
+      ],
+      "SE": 0.3051286911270186,
+      "df": null,
+      "tau2": 0,
+      "I2": 79.41701691063341,
+      "Q": 63.15896944362719,
+      "Q_p": 1.4210275223561564e-08,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221X-SalinasAsensio2025"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "PILOT-FAM-NCT03979183"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 740,
+          "known_families": 11,
+          "model_families": 14,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1358,
+          "known_families": 14,
+          "model_families": 14,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1051,
+          "known_families": 13,
+          "model_families": 14,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        5.786423390574648,
+        24.377243393751602,
+        3.9249470557054833,
+        0.767423674124916,
+        2.2413690775700634,
+        5.5052569564005065,
+        10.819853299615625,
+        4.905697058764918,
+        11.588998059065812,
+        6.06044056298699,
+        7.737227280274735,
+        11.162364814790413,
+        2.684581204959279,
+        2.438174171415034
+      ]
+    },
+    {
+      "pool_id": "BROAD_COMPLETE_STRATEGY15_ADD_LATE4MONTH",
+      "K": 15,
+      "role": "LATE_WINDOW_SENSITIVITY_NOT8TO16WEEK_PRIMARY; 14plusGabrielsen4calendar-monthEOT",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.1014939020419643,
+      "CI95": [
+        1.5011676395181566,
+        4.701820164565772
+      ],
+      "SE": 0.746147051144481,
+      "df": 14,
+      "tau2": 5.082064285820298,
+      "I2": 78.25853953537671,
+      "Q": 63.15904214894965,
+      "Q_p": 3.252129966209897e-08,
+      "prediction95": [
+        -1.9915502334940873,
+        8.194538037578017
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221X-SalinasAsensio2025",
+        "R221X-Gabrielsen2026"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "PILOT-FAM-NCT03979183",
+        "PILOT-FAM-NCT05091268"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 740,
+          "known_families": 11,
+          "model_families": 15,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1439,
+          "known_families": 15,
+          "model_families": 15,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1132,
+          "known_families": 14,
+          "model_families": 15,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        7.101289303950582,
+        8.696055294668408,
+        6.374316656009767,
+        2.760260103210131,
+        5.144600064856442,
+        7.015133891944367,
+        7.995753057261148,
+        6.807400995278286,
+        8.073339733251258,
+        7.17934763976621,
+        7.559631234460534,
+        8.031437916971774,
+        5.557234818381161,
+        5.3384004899329565,
+        6.3657988000569725
+      ]
+    },
+    {
+      "pool_id": "BROAD_COMPLETE_STRATEGY15_ADD_LATE4MONTH",
+      "K": 15,
+      "role": "LATE_WINDOW_SENSITIVITY_NOT8TO16WEEK_PRIMARY; 14plusGabrielsen4calendar-monthEOT",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 3.5070897448230176,
+      "CI95": [
+        2.920403949880081,
+        4.093775539765954
+      ],
+      "SE": 0.29933498756642435,
+      "df": null,
+      "tau2": 0,
+      "I2": 77.83373603579447,
+      "Q": 63.15904214894965,
+      "Q_p": 3.252129966209897e-08,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221X-SalinasAsensio2025",
+        "R221X-Gabrielsen2026"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "PILOT-FAM-NCT03979183",
+        "PILOT-FAM-NCT05091268"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 740,
+          "known_families": 11,
+          "model_families": 15,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1439,
+          "known_families": 15,
+          "model_families": 15,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1132,
+          "known_families": 14,
+          "model_families": 15,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        5.568767414556471,
+        23.460294815093803,
+        3.7773104027048103,
+        0.7385570776910649,
+        2.15706011134576,
+        5.298177039291777,
+        10.41286515316624,
+        4.721169551995501,
+        11.15307857765914,
+        5.832477447120682,
+        7.446191930510013,
+        10.742493117812344,
+        2.583600840591673,
+        2.3464623931434914,
+        3.7614941273172673
+      ]
+    },
+    {
+      "pool_id": "BROAD16_ADD_ACTIVE_BACKGROUND_REFERENCE",
+      "K": 16,
+      "role": "DIAGNOSTIC_COMPARATOR_SCOPE_EXPANSION_NOT_SINGLE_PRIMARY_TRAINING_VS_NO_TRAINING_EFFECT; 15pluswithin-PFMTTrAaddon",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 3.027508852263475,
+      "CI95": [
+        1.5229716215801843,
+        4.532046082946765
+      ],
+      "SE": 0.7058751326380373,
+      "df": 15,
+      "tau2": 4.831912757732357,
+      "I2": 76.69065605156872,
+      "Q": 64.27107621232555,
+      "Q_p": 4.5836859374519965e-08,
+      "prediction95": [
+        -1.8934041517153783,
+        7.948421856242328
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221X-SalinasAsensio2025",
+        "R221X-Gabrielsen2026",
+        "R221X-Konstantinidou2024"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "PILOT-FAM-NCT03979183",
+        "PILOT-FAM-NCT05091268",
+        "SOURCE-CANDIDATE-DOI-10.5173_ceju.2023.225"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 800,
+          "known_families": 12,
+          "model_families": 16,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1511,
+          "known_families": 16,
+          "model_families": 16,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1204,
+          "known_families": 15,
+          "model_families": 16,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        6.741387755615161,
+        8.327965588613498,
+        6.027294933674845,
+        2.559597802153624,
+        4.832154984480788,
+        6.656462304319928,
+        7.627833975723215,
+        6.452023614361176,
+        7.705136162527924,
+        6.81840085858096,
+        7.19453516982754,
+        7.66337979932854,
+        5.231410352632115,
+        5.019449286890267,
+        6.018961510344562,
+        5.1240059009258605
+      ]
+    },
+    {
+      "pool_id": "BROAD16_ADD_ACTIVE_BACKGROUND_REFERENCE",
+      "K": 16,
+      "role": "DIAGNOSTIC_COMPARATOR_SCOPE_EXPANSION_NOT_SINGLE_PRIMARY_TRAINING_VS_NO_TRAINING_EFFECT; 15pluswithin-PFMTTrAaddon",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 3.4581769034239196,
+      "CI95": [
+        2.8785774009867717,
+        4.0377764058610675
+      ],
+      "SE": 0.29571946577026664,
+      "df": null,
+      "tau2": 0,
+      "I2": 76.66135237809604,
+      "Q": 64.27107621232555,
+      "Q_p": 4.5836859374519965e-08,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221X-SalinasAsensio2025",
+        "R221X-Gabrielsen2026",
+        "R221X-Konstantinidou2024"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "PILOT-FAM-NCT03979183",
+        "PILOT-FAM-NCT05091268",
+        "SOURCE-CANDIDATE-DOI-10.5173_ceju.2023.225"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 800,
+          "known_families": 12,
+          "model_families": 16,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1511,
+          "known_families": 16,
+          "model_families": 16,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1204,
+          "known_families": 15,
+          "model_families": 16,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        5.435054976000976,
+        22.896986456989772,
+        3.6866128842905086,
+        0.7208234823513935,
+        2.105266645013354,
+        5.170961783368063,
+        10.162840419085963,
+        4.607808902028123,
+        10.885280477468843,
+        5.6924330307861295,
+        7.26740039427559,
+        10.484553641440316,
+        2.521565646278021,
+        2.2901211626324356,
+        3.671176375661657,
+        2.401113722328898
+      ]
+    },
+    {
+      "pool_id": "ENDOMETRIOSIS_EARLY2_ORDINARY_SOURCE_CI_PLUS_MULTIPLICITY",
+      "K": 2,
+      "role": "EXISTING_TWO_FAMILY_COMPARISON_WITH_DISCLOSED_CI_ASSUMPTIONS_NOT_K3; Endometriosis8/9weekcompleteprogramcomparisons",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 1.2407843123244995,
+      "CI95": [
+        -15.888810338472883,
+        18.370378963121883
+      ],
+      "SE": 1.3481283362316083,
+      "df": 1,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 0.2248492798439969,
+      "Q_p": 0.6353695937057033,
+      "prediction95": [
+        -15.888810338472883,
+        18.370378963121883
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221X-AbrilCoello2026",
+        "R221X-SalinasAsensio2025"
+      ],
+      "families": [
+        "PILOT-FAM-NCT05679063",
+        "PILOT-FAM-NCT03979183"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 2,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 71,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 71,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        52.40502440035153,
+        47.59497559964846
+      ]
+    },
+    {
+      "pool_id": "ENDOMETRIOSIS_EARLY2_ORDINARY_SOURCE_CI_PLUS_MULTIPLICITY",
+      "K": 2,
+      "role": "EXISTING_TWO_FAMILY_COMPARISON_WITH_DISCLOSED_CI_ASSUMPTIONS_NOT_K3; Endometriosis8/9weekcompleteprogramcomparisons",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 1.2407843123244995,
+      "CI95": [
+        -1.4014986732273569,
+        3.883067297876356
+      ],
+      "SE": 1.3481283362316083,
+      "df": null,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 0.2248492798439969,
+      "Q_p": 0.6353695937057033,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221X-AbrilCoello2026",
+        "R221X-SalinasAsensio2025"
+      ],
+      "families": [
+        "PILOT-FAM-NCT05679063",
+        "PILOT-FAM-NCT03979183"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 2,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 71,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 71,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        52.40502440035153,
+        47.59497559964846
+      ]
+    },
+    {
+      "pool_id": "CANCER_PFMT_OR_DANCE2_ENDPOINTS",
+      "K": 2,
+      "role": "CROSS_CANCER_EXPLORATORY_RAW_ENDPOINT_SENSITIVITY; Differentbreastendocrine vs gynecologicalcancertrainingcontext",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": -2.9349076772440474,
+      "CI95": [
+        -47.359698052421024,
+        41.48988269793293
+      ],
+      "SE": 3.4963068278523104,
+      "df": 1,
+      "tau2": 17.44019744960921,
+      "I2": 69.19340388656701,
+      "Q": 3.2460580724916785,
+      "Q_p": 0.07159544976581698,
+      "prediction95": [
+        -72.13924784664056,
+        66.26943249215248
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221X-Denig2022",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-NCT03194997",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 59,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 138,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 113,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        41.33672784850772,
+        58.66327215149227
+      ]
+    },
+    {
+      "pool_id": "CANCER_PFMT_OR_DANCE2_ENDPOINTS",
+      "K": 2,
+      "role": "CROSS_CANCER_EXPLORATORY_RAW_ENDPOINT_SENSITIVITY; Differentbreastendocrine vs gynecologicalcancertrainingcontext",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": -1.553374600390384,
+      "CI95": [
+        -4.746547731805771,
+        1.6397985310250027
+      ],
+      "SE": 1.629199901938367,
+      "df": null,
+      "tau2": 0,
+      "I2": 69.193403886567,
+      "Q": 3.2460580724916785,
+      "Q_p": 0.07159544976581698,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221X-Denig2022",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-NCT03194997",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 59,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 138,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 113,
+          "known_families": 2,
+          "model_families": 2,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        21.878515498456125,
+        78.12148450154388
+      ]
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 11,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.442550137293452,
+      "CI95": [
+        0.42993454999547254,
+        8.455165724591431
+      ],
+      "SE": 1.800882195344753,
+      "df": 10,
+      "tau2": 31.39607719810303,
+      "I2": 95.73465399683431,
+      "Q": 157.58244128131153,
+      "Q_p": 1.0219575777275378e-28,
+      "prediction95": [
+        -8.671188263769391,
+        17.556288538356295
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 600,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 874,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 674,
+          "known_families": 10,
+          "model_families": 11,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        9.35674647348677,
+        9.71804656158412,
+        9.145301729256895,
+        7.0947409513490864,
+        8.68693693856724,
+        9.333508089353076,
+        9.573869199057215,
+        9.27556521530201,
+        9.617331639270397,
+        8.875742414609412,
+        9.322210788163785
+      ]
+    },
+    {
+      "pool_id": "BROAD_ENDPOINT11_ADD_BASGOL",
+      "K": 11,
+      "role": "POSTHOC_BROAD_SOURCE_SUMMARY_EXPLORATORY_PLUS_WITH_AND_WITHOUT_BASGOL_INFLUENCE; Previouslyspecifiedcross-phenotype10rawendpointfamiliesplusBasgolprimaryFSD",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 4.980915773382014,
+      "CI95": [
+        4.310071547392897,
+        5.651759999371131
+      ],
+      "SE": 0.34227375159985135,
+      "df": null,
+      "tau2": 0,
+      "I2": 93.65411531977202,
+      "Q": 157.58244128131153,
+      "Q_p": 1.0219575777275378e-28,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_RAW_ENDPOINT12",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 600,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 874,
+          "known_families": 11,
+          "model_families": 11,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 674,
+          "known_families": 10,
+          "model_families": 11,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        7.281004603769922,
+        30.673666511551062,
+        4.938725643321236,
+        0.9656423194761482,
+        2.8202945880381725,
+        6.927215403867597,
+        13.614524269851774,
+        6.172794567322657,
+        16.391342384318847,
+        3.448013257586608,
+        6.766776450895974
+      ]
+    },
+    {
+      "pool_id": "POSTMENOPAUSAL_PFMT3_CANCER_SCOPE_SENSITIVITY",
+      "K": 3,
+      "role": "CANCER_SCOPE_EXTENSION_SENSITIVITY_NOT_UNCOMPLICATED_NATURAL_MENOPAUSE_PRIMARY; All3sourcecohortsarepostmenopausal,PFMTeducation/training vsinactive/usualactivity; thirdiscancertreatment-inducedmenopause",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 2.4214881231934817,
+      "CI95": [
+        0.07174347828993355,
+        4.77123276809703
+      ],
+      "SE": 0.5461153368611206,
+      "df": 2,
+      "tau2": 2.3851060932930563e-06,
+      "I2": 0.00017417422166379946,
+      "Q": 2.1080387131034284,
+      "Q_p": 0.34853404740515714,
+      "prediction95": [
+        0.07173408259818759,
+        4.771242163788775
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 199,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 291,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 241,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        17.585888284931222,
+        74.08608192093597,
+        8.328029794132807
+      ]
+    },
+    {
+      "pool_id": "POSTMENOPAUSAL_PFMT3_CANCER_SCOPE_SENSITIVITY",
+      "K": 3,
+      "role": "CANCER_SCOPE_EXTENSION_SENSITIVITY_NOT_UNCOMPLICATED_NATURAL_MENOPAUSE_PRIMARY; All3sourcecohortsarepostmenopausal,PFMTeducation/training vsinactive/usualactivity; thirdiscancertreatment-inducedmenopause",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 2.421489510243381,
+      "CI95": [
+        1.3789141994229637,
+        3.4640648210637988
+      ],
+      "SE": 0.5319359534379808,
+      "df": null,
+      "tau2": 0,
+      "I2": 5.125082022064724,
+      "Q": 2.1080387131034284,
+      "Q_p": 0.34853404740515714,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221X-deBemFretta2026-RAW_ENDPOINT12"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 199,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 291,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 241,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        17.585827378222717,
+        74.08617816970049,
+        8.327994452076789
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Desire_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.3305290685022964,
+      "CI95": [
+        -0.7232872853104242,
+        1.384345422315017
+      ],
+      "SE": 0.24492247457630228,
+      "df": 2,
+      "tau2": 0.12911135314391267,
+      "I2": 72.18486165156682,
+      "Q": 7.5936002481113825,
+      "Q_p": 0.022442470202612946,
+      "prediction95": [
+        -1.5404985139998366,
+        2.2015566510044295
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Desire-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Desire-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Desire-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        30.79546202794438,
+        38.196285022333136,
+        31.008252949722458
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Desire_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.23525125744227998,
+      "CI95": [
+        -0.004985990499659809,
+        0.4754885053842198
+      ],
+      "SE": 0.12257227675452233,
+      "df": null,
+      "tau2": 0,
+      "I2": 73.66203204471525,
+      "Q": 7.5936002481113825,
+      "Q_p": 0.022442470202612946,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Desire-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Desire-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Desire-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        22.874349700923744,
+        53.776086437064976,
+        23.34956386201129
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Desire_LABELLED_QIGONG4",
+      "K": 4,
+      "role": "As-labelledQigong scoring/selection sensitivity;not silently harmonised",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.42013727980381466,
+      "CI95": [
+        -0.24945862472684643,
+        1.0897331843344757
+      ],
+      "SE": 0.21040289145458743,
+      "df": 3,
+      "tau2": 0.11791947032826387,
+      "I2": 67.74732682462657,
+      "Q": 10.20495125625787,
+      "Q_p": 0.01690195515493369,
+      "prediction95": [
+        -0.8615190247718169,
+        1.701793584379446
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Desire-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Desire-RAW-ENDPOINT",
+        "R221-DOM-Qigong-Desire-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Desire-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        24.111878771282935,
+        30.35112060617749,
+        21.24828263269594,
+        24.28871798984362
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Desire_LABELLED_QIGONG4",
+      "K": 4,
+      "role": "As-labelledQigong scoring/selection sensitivity;not silently harmonised",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.3100162598515303,
+      "CI95": [
+        0.08755056450626456,
+        0.5324819551967961
+      ],
+      "SE": 0.11350499146925495,
+      "df": null,
+      "tau2": 0,
+      "I2": 70.60250534601678,
+      "Q": 10.20495125625787,
+      "Q_p": 0.01690195515493369,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Desire-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Desire-RAW-ENDPOINT",
+        "R221-DOM-Qigong-Desire-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Desire-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        19.615264596376804,
+        46.11419245628048,
+        14.247771618247684,
+        20.022771329095022
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Desire_CORE3_PLUS_WEIGHTED_TLM4",
+      "K": 4,
+      "role": "Source-specified exact linear TLM scaling; mixed estimator and Wald-equivalent variance sensitivity",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.43278240820053326,
+      "CI95": [
+        -0.18497878367834275,
+        1.0505436000794093
+      ],
+      "SE": 0.19411519712154382,
+      "df": 3,
+      "tau2": 0.11115935064973698,
+      "I2": 76.62753311170705,
+      "Q": 14.373174997558621,
+      "Q_p": 0.002438792933053502,
+      "prediction95": [
+        -0.7949988613505684,
+        1.660563677751635
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Desire-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Desire-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Desire-RAW-ENDPOINT",
+        "R221-DOM-TLM-Desire-WEIGHTED-NORMAL-APPROX"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        21.307828627142396,
+        27.08945179582905,
+        21.470122074436382,
+        30.132597502592184
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Desire_CORE3_PLUS_WEIGHTED_TLM4",
+      "K": 4,
+      "role": "Source-specified exact linear TLM scaling; mixed estimator and Wald-equivalent variance sensitivity",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.4653051697316321,
+      "CI95": [
+        0.2987952379166211,
+        0.6318151015466431
+      ],
+      "SE": 0.08495560792362518,
+      "df": null,
+      "tau2": 0,
+      "I2": 79.12778491523571,
+      "Q": 14.373174997558621,
+      "Q_p": 0.002438792933053502,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Desire-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Desire-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Desire-RAW-ENDPOINT",
+        "R221-DOM-TLM-Desire-WEIGHTED-NORMAL-APPROX"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        10.988751541181383,
+        25.833829614405918,
+        11.217042636373966,
+        51.96037620803874
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Arousal_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.7042524793161921,
+      "CI95": [
+        0.24778890110832896,
+        1.1607160575240552
+      ],
+      "SE": 0.1060888728136891,
+      "df": 2,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 1.3660551905355542,
+      "Q_p": 0.5050854807254871,
+      "prediction95": [
+        0.24778890110832896,
+        1.1607160575240552
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Arousal-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        13.821677413421222,
+        67.43468505020435,
+        18.743637536374422
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Arousal_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.7042524793161921,
+      "CI95": [
+        0.496322109440911,
+        0.9121828491914732
+      ],
+      "SE": 0.1060888728136891,
+      "df": null,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 1.3660551905355542,
+      "Q_p": 0.5050854807254871,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Arousal-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        13.821677413421222,
+        67.43468505020435,
+        18.743637536374422
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Arousal_LABELLED_QIGONG4",
+      "K": 4,
+      "role": "As-labelledQigong scoring/selection sensitivity;not silently harmonised",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.7128847689076061,
+      "CI95": [
+        0.3927077060074728,
+        1.0330618318077394
+      ],
+      "SE": 0.10060721601761326,
+      "df": 3,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 1.4318221710229144,
+      "Q_p": 0.6980926826094643,
+      "prediction95": [
+        0.3927077060074728,
+        1.0330618318077394
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Qigong-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Arousal-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        12.43023517555501,
+        60.64596713489934,
+        10.067101092339788,
+        16.85669659720586
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Arousal_LABELLED_QIGONG4",
+      "K": 4,
+      "role": "As-labelledQigong scoring/selection sensitivity;not silently harmonised",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.7128847689076061,
+      "CI95": [
+        0.5156982489282429,
+        0.9100712888869693
+      ],
+      "SE": 0.10060721601761326,
+      "df": null,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 1.4318221710229144,
+      "Q_p": 0.6980926826094643,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Qigong-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Arousal-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        12.43023517555501,
+        60.64596713489934,
+        10.067101092339788,
+        16.85669659720586
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Arousal_CORE3_PLUS_WEIGHTED_TLM4",
+      "K": 4,
+      "role": "Source-specified exact linear TLM scaling; mixed estimator and Wald-equivalent variance sensitivity",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.7061453510202899,
+      "CI95": [
+        0.4197686219431203,
+        0.9925220800974595
+      ],
+      "SE": 0.08998635062646866,
+      "df": 3,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 1.3671900072753516,
+      "Q_p": 0.713243271393387,
+      "prediction95": [
+        0.4197686219431203,
+        0.9925220800974595
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Arousal-RAW-ENDPOINT",
+        "R221-DOM-TLM-Arousal-WEIGHTED-NORMAL-APPROX"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        9.944303292610567,
+        48.51733552468399,
+        13.485513436124267,
+        28.05284774658118
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Arousal_CORE3_PLUS_WEIGHTED_TLM4",
+      "K": 4,
+      "role": "Source-specified exact linear TLM scaling; mixed estimator and Wald-equivalent variance sensitivity",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.7061453510202899,
+      "CI95": [
+        0.529775344692218,
+        0.8825153573483617
+      ],
+      "SE": 0.08998635062646866,
+      "df": null,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 1.3671900072753516,
+      "Q_p": 0.713243271393387,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Arousal-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Arousal-RAW-ENDPOINT",
+        "R221-DOM-TLM-Arousal-WEIGHTED-NORMAL-APPROX"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        9.944303292610567,
+        48.51733552468399,
+        13.485513436124267,
+        28.05284774658118
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Lubrication_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.2656057124555354,
+      "CI95": [
+        -0.25684861978262746,
+        0.7880600446936983
+      ],
+      "SE": 0.1214260980501172,
+      "df": 2,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 0.7251976165404096,
+      "Q_p": 0.6958655530100485,
+      "prediction95": [
+        -0.25684861978262746,
+        0.7880600446936983
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Lubrication-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        16.88158970485128,
+        72.9915707310727,
+        10.126839564076024
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Lubrication_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.2656057124555354,
+      "CI95": [
+        0.027614933494076427,
+        0.5035964914169944
+      ],
+      "SE": 0.1214260980501172,
+      "df": null,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 0.7251976165404096,
+      "Q_p": 0.6958655530100485,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Lubrication-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        16.88158970485128,
+        72.9915707310727,
+        10.126839564076024
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Lubrication_LABELLED_QIGONG4",
+      "K": 4,
+      "role": "As-labelledQigong scoring/selection sensitivity;not silently harmonised",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.39408984285675974,
+      "CI95": [
+        -0.13523031256617546,
+        0.9234099982796949
+      ],
+      "SE": 0.1663249288901191,
+      "df": 3,
+      "tau2": 0.03596563524366218,
+      "I2": 33.76287857195135,
+      "Q": 4.619968671689971,
+      "Q_p": 0.20183574579380456,
+      "prediction95": [
+        -0.40867942872860785,
+        1.1968591144421272
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Qigong-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Lubrication-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        20.9728638530867,
+        46.04349185413129,
+        18.740224442867465,
+        14.24341984991454
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Lubrication_LABELLED_QIGONG4",
+      "K": 4,
+      "role": "As-labelledQigong scoring/selection sensitivity;not silently harmonised",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.35075717854172667,
+      "CI95": [
+        0.1282979948788071,
+        0.5732163622046462
+      ],
+      "SE": 0.11350166912129471,
+      "df": null,
+      "tau2": 0,
+      "I2": 35.06449473600849,
+      "Q": 4.619968671689971,
+      "Q_p": 0.20183574579380456,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Qigong-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Lubrication-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        14.750059026458844,
+        63.7753905609894,
+        12.626362301530719,
+        8.848188111021031
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Lubrication_CORE3_PLUS_WEIGHTED_TLM4",
+      "K": 4,
+      "role": "Source-specified exact linear TLM scaling; mixed estimator and Wald-equivalent variance sensitivity",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.3839290756306561,
+      "CI95": [
+        -0.053804488810278384,
+        0.8216626400715905
+      ],
+      "SE": 0.13754625292944617,
+      "df": 3,
+      "tau2": 0.02131297742242332,
+      "I2": 27.157529330303067,
+      "Q": 3.8428013089048907,
+      "Q_p": 0.27894671962001794,
+      "prediction95": [
+        -0.25440293192002733,
+        1.0222610831813395
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-TLM-Lubrication-WEIGHTED-NORMAL-APPROX"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        17.412369102960263,
+        45.573632318437475,
+        11.334887537737114,
+        25.67911104086515
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Lubrication_CORE3_PLUS_WEIGHTED_TLM4",
+      "K": 4,
+      "role": "Source-specified exact linear TLM scaling; mixed estimator and Wald-equivalent variance sensitivity",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.3661029790745724,
+      "CI95": [
+        0.15587707746782933,
+        0.5763288806813155
+      ],
+      "SE": 0.10726008399387855,
+      "df": null,
+      "tau2": 0,
+      "I2": 21.9319512292211,
+      "Q": 3.8428013089048907,
+      "Q_p": 0.27894671962001794,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Lubrication-RAW-ENDPOINT",
+        "R221-DOM-TLM-Lubrication-WEIGHTED-NORMAL-APPROX"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        13.172418716665948,
+        56.9540872196727,
+        7.901801509615793,
+        21.971692554045568
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Orgasm_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.5186133960626751,
+      "CI95": [
+        -0.20001908988573336,
+        1.2372458820110834
+      ],
+      "SE": 0.16702079649134344,
+      "df": 2,
+      "tau2": 0.032691383898918104,
+      "I2": 38.69750226830752,
+      "Q": 3.313730177907671,
+      "Q_p": 0.19073598417895601,
+      "prediction95": [
+        -0.54046279208281,
+        1.5776895842081602
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Orgasm-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        23.951358973733225,
+        51.2755447145247,
+        24.77309631174208
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Orgasm_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.5660552451430261,
+      "CI95": [
+        0.34234301586375426,
+        0.7897674744222979
+      ],
+      "SE": 0.11414098985689808,
+      "df": null,
+      "tau2": 0,
+      "I2": 39.64505579440918,
+      "Q": 3.313730177907671,
+      "Q_p": 0.19073598417895601,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Orgasm-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        16.422308967345845,
+        66.34836812748269,
+        17.229322905171454
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Orgasm_LABELLED_QIGONG4",
+      "K": 4,
+      "role": "As-labelledQigong scoring/selection sensitivity;not silently harmonised",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.6379778828791317,
+      "CI95": [
+        -0.01023230880300352,
+        1.286188074561267
+      ],
+      "SE": 0.20368299399299636,
+      "df": 3,
+      "tau2": 0.08710490678510732,
+      "I2": 61.058299763543694,
+      "Q": 7.0621382019914964,
+      "Q_p": 0.06994336859652898,
+      "prediction95": [
+        -0.5032371954815212,
+        1.7791929612397848
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Qigong-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Orgasm-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        21.962431398892043,
+        34.245181666053874,
+        21.328423931044398,
+        22.463963004009678
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Orgasm_LABELLED_QIGONG4",
+      "K": 4,
+      "role": "As-labelledQigong scoring/selection sensitivity;not silently harmonised",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.6469150919288877,
+      "CI95": [
+        0.4387167753438621,
+        0.8551134085139134
+      ],
+      "SE": 0.10622558283073948,
+      "df": null,
+      "tau2": 0,
+      "I2": 57.51994772413246,
+      "Q": 7.0621382019914964,
+      "Q_p": 0.06994336859652898,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Qigong-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Orgasm-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        14.223589007795672,
+        57.465239599359776,
+        13.388616448040974,
+        14.92255494480358
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Orgasm_CORE3_PLUS_WEIGHTED_TLM4",
+      "K": 4,
+      "role": "Source-specified exact linear TLM scaling; mixed estimator and Wald-equivalent variance sensitivity",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.4948640634148245,
+      "CI95": [
+        0.12376090251980254,
+        0.8659672243098464
+      ],
+      "SE": 0.11660940210645244,
+      "df": 3,
+      "tau2": 0.014017360253614764,
+      "I2": 25.229708106309747,
+      "Q": 3.9937191275953428,
+      "Q_p": 0.2621431498960649,
+      "prediction95": [
+        -0.033988357268441516,
+        1.0237164840980904
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-TLM-Orgasm-WEIGHTED-NORMAL-APPROX"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        14.566500939270046,
+        40.40533413944529,
+        15.170374885245488,
+        29.857790036039173
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Orgasm_CORE3_PLUS_WEIGHTED_TLM4",
+      "K": 4,
+      "role": "Source-specified exact linear TLM scaling; mixed estimator and Wald-equivalent variance sensitivity",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.515157562559716,
+      "CI95": [
+        0.3269761559422848,
+        0.7033389691771472
+      ],
+      "SE": 0.09601268599922352,
+      "df": null,
+      "tau2": 0,
+      "I2": 24.88204843272668,
+      "Q": 3.9937191275953428,
+      "Q_p": 0.2621431498960649,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Orgasm-RAW-ENDPOINT",
+        "R221-DOM-TLM-Orgasm-WEIGHTED-NORMAL-APPROX"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        11.620055128812181,
+        46.94660762265986,
+        12.1910799747032,
+        29.24225727382475
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Satisfaction_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.4247184640553539,
+      "CI95": [
+        -0.07983812095947257,
+        0.9292750490701804
+      ],
+      "SE": 0.11726639743110431,
+      "df": 2,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 0.41092161474767475,
+      "Q_p": 0.8142720074001565,
+      "prediction95": [
+        -0.07983812095947257,
+        0.9292750490701804
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Satisfaction-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        13.22407360284871,
+        67.24404873579314,
+        19.531877661358134
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Satisfaction_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.4247184640553539,
+      "CI95": [
+        0.19488054849362915,
+        0.6545563796170787
+      ],
+      "SE": 0.11726639743110431,
+      "df": null,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 0.41092161474767475,
+      "Q_p": 0.8142720074001565,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Satisfaction-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        13.22407360284871,
+        67.24404873579314,
+        19.531877661358134
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Satisfaction_LABELLED_QIGONG4",
+      "K": 4,
+      "role": "As-labelledQigong scoring/selection sensitivity;not silently harmonised",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.6693647672070132,
+      "CI95": [
+        -0.01586588536489819,
+        1.3545954197789247
+      ],
+      "SE": 0.21531569957181865,
+      "df": 3,
+      "tau2": 0.12740245987496165,
+      "I2": 70.82682114109919,
+      "Q": 10.78177096716184,
+      "Q_p": 0.012966391959995677,
+      "prediction95": [
+        -0.6572356384421613,
+        1.9959651728561876
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Qigong-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Satisfaction-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        20.035793037529004,
+        31.35615770025666,
+        25.170680867643647,
+        23.437368394570697
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Satisfaction_LABELLED_QIGONG4",
+      "K": 4,
+      "role": "As-labelledQigong scoring/selection sensitivity;not silently harmonised",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.5914633011765363,
+      "CI95": [
+        0.38524335338172555,
+        0.7976832489713471
+      ],
+      "SE": 0.10521619245121211,
+      "df": null,
+      "tau2": 0,
+      "I2": 72.17525757932408,
+      "Q": 10.78177096716184,
+      "Q_p": 0.012966391959995677,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Qigong-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Satisfaction-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        10.64592137306849,
+        54.134215911640624,
+        19.495900485799172,
+        15.723962229491717
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Satisfaction_CORE3_PLUS_WEIGHTED_TLM4",
+      "K": 4,
+      "role": "Source-specified exact linear TLM scaling; mixed estimator and Wald-equivalent variance sensitivity",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.47739764220797676,
+      "CI95": [
+        0.21115484030704884,
+        0.7436404441089046
+      ],
+      "SE": 0.0836597938695443,
+      "df": 3,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 0.8218979422841154,
+      "Q_p": 0.8442224822482098,
+      "prediction95": [
+        0.21115484030704884,
+        0.7436404441089046
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-TLM-Satisfaction-WEIGHTED-NORMAL-APPROX"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        6.730567305667176,
+        34.22474870559728,
+        9.941007676901394,
+        49.10367631183416
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Satisfaction_CORE3_PLUS_WEIGHTED_TLM4",
+      "K": 4,
+      "role": "Source-specified exact linear TLM scaling; mixed estimator and Wald-equivalent variance sensitivity",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.47739764220797676,
+      "CI95": [
+        0.3134274592696251,
+        0.6413678251463284
+      ],
+      "SE": 0.0836597938695443,
+      "df": null,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 0.8218979422841154,
+      "Q_p": 0.8442224822482098,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Satisfaction-RAW-ENDPOINT",
+        "R221-DOM-TLM-Satisfaction-WEIGHTED-NORMAL-APPROX"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        6.730567305667176,
+        34.22474870559728,
+        9.941007676901394,
+        49.10367631183416
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Pain_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.4663981003574533,
+      "CI95": [
+        -0.16565544431125634,
+        1.098451645026163
+      ],
+      "SE": 0.14689857266391868,
+      "df": 2,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 0.23441386814577178,
+      "Q_p": 0.8894011267216771,
+      "prediction95": [
+        -0.16565544431125634,
+        1.098451645026163
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Pain-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Pain-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Pain-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        16.793144475250266,
+        55.359647641602336,
+        27.847207883147394
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Pain_CORE3",
+      "K": 3,
+      "role": "Conservative source-domain scoring route;3source table denominators",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.4663981003574533,
+      "CI95": [
+        0.17848218855583264,
+        0.754314012159074
+      ],
+      "SE": 0.14689857266391868,
+      "df": null,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 0.23441386814577178,
+      "Q_p": 0.8894011267216771,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Pain-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Pain-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Pain-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 3,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 3,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        16.793144475250266,
+        55.359647641602336,
+        27.847207883147394
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Pain_LABELLED_QIGONG4",
+      "K": 4,
+      "role": "As-labelledQigong scoring/selection sensitivity;not silently harmonised",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.5210111384901256,
+      "CI95": [
+        0.08129421379417978,
+        0.9607280631860714
+      ],
+      "SE": 0.13816947169411736,
+      "df": 3,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 1.4330148269843064,
+      "Q_p": 0.6978144458676592,
+      "prediction95": [
+        0.08129421379417978,
+        0.9607280631860714
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Pain-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Pain-RAW-ENDPOINT",
+        "R221-DOM-Qigong-Pain-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Pain-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        14.856655959713224,
+        48.97589253009619,
+        11.531422946971226,
+        24.636028563219355
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Pain_LABELLED_QIGONG4",
+      "K": 4,
+      "role": "As-labelledQigong scoring/selection sensitivity;not silently harmonised",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.5210111384901256,
+      "CI95": [
+        0.25020395020672914,
+        0.791818326773522
+      ],
+      "SE": 0.13816947169411736,
+      "df": null,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 1.4330148269843064,
+      "Q_p": 0.6978144458676592,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Pain-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Pain-RAW-ENDPOINT",
+        "R221-DOM-Qigong-Pain-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Pain-RAW-ENDPOINT"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT06741384"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 271,
+          "known_families": 4,
+          "model_families": 4,
+          "complete": true,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": null,
+          "known_families": 0,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        14.856655959713224,
+        48.97589253009619,
+        11.531422946971226,
+        24.636028563219355
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Pain_CORE3_PLUS_WEIGHTED_TLM4",
+      "K": 4,
+      "role": "Source-specified exact linear TLM scaling; mixed estimator and Wald-equivalent variance sensitivity",
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 0.5622920350582671,
+      "CI95": [
+        0.1631887643756461,
+        0.961395305740888
+      ],
+      "SE": 0.12540769973714974,
+      "df": 3,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 1.8057553527862786,
+      "Q_p": 0.6136833080696195,
+      "prediction95": [
+        0.1631887643756461,
+        0.961395305740888
+      ],
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Pain-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Pain-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Pain-RAW-ENDPOINT",
+        "R221-DOM-TLM-Pain-WEIGHTED-NORMAL-APPROX"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        12.23898144230592,
+        40.34656529852003,
+        20.29527352689538,
+        27.11917973227867
+      ]
+    },
+    {
+      "pool_id": "DOMAIN_Pain_CORE3_PLUS_WEIGHTED_TLM4",
+      "K": 4,
+      "role": "Source-specified exact linear TLM scaling; mixed estimator and Wald-equivalent variance sensitivity",
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 0.5622920350582671,
+      "CI95": [
+        0.3164974601894404,
+        0.8080866099270938
+      ],
+      "SE": 0.12540769973714974,
+      "df": null,
+      "tau2": 0,
+      "I2": 0,
+      "Q": 1.8057553527862786,
+      "Q_p": 0.6136833080696195,
+      "prediction95": null,
+      "prediction_label": "New true effect PI; t(K-1) for modifiedKH",
+      "members": [
+        "R221-DOM-Franco-Pain-RAW-ENDPOINT",
+        "R221-DOM-Khosravi-Pain-RAW-ENDPOINT",
+        "R221-DOM-Elgayar-Pain-RAW-ENDPOINT",
+        "R221-DOM-TLM-Pain-WEIGHTED-NORMAL-APPROX"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "PILOT-FAM-NCT06741384",
+        "ChiCTR2300070648"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 225,
+          "known_families": 3,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 94,
+          "known_families": 1,
+          "model_families": 4,
+          "complete": false,
+          "not_unique_whole_review_N": true
+        }
+      },
+      "weights_percent": [
+        12.23898144230592,
+        40.34656529852003,
+        20.29527352689538,
+        27.11917973227867
+      ]
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 14,
+      "method": "REML_modified_Hartung_Knapp_q_ge1",
+      "estimate": 4.038953760430706,
+      "CI95": [
+        0.9740556218262775,
+        7.103851899035135
+      ],
+      "SE": 1.418692189149403,
+      "df": 13,
+      "tau2": 24.52369307512075,
+      "I2": 94.86444679115395,
+      "Q": 181.40374537241672,
+      "Q_p": 8.77391139109795e-32,
+      "prediction95": [
+        -7.089855820004587,
+        15.167763340866
+      ],
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 776,
+          "known_families": 12,
+          "model_families": 14,
+          "complete": false,
+          "not_unique_whole_review_N": true,
+          "not_complete_observed_outcome_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1363,
+          "known_families": 14,
+          "model_families": 14,
+          "complete": true,
+          "not_unique_whole_review_N": true,
+          "not_complete_observed_outcome_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1056,
+          "known_families": 13,
+          "model_families": 14,
+          "complete": false,
+          "not_unique_whole_review_N": true,
+          "not_complete_observed_outcome_N": true
+        }
+      },
+      "weights_percent": [
+        7.315098915426857,
+        7.675505455985722,
+        7.1075523688636935,
+        5.215109392988918,
+        6.665951416774666,
+        7.29216837484586,
+        7.530801618161624,
+        7.235123240288917,
+        7.547782613571676,
+        7.335519877988703,
+        7.43044822447811,
+        7.538643019982344,
+        6.829263939300592,
+        7.2810315413423226
+      ]
+    },
+    {
+      "pool_id": "BROAD_INCLUSIVE14_ORDINARY_CI_WITH_BASGOL",
+      "K": 14,
+      "method": "COMMON_EFFECT_NORMAL",
+      "estimate": 4.3552436271522454,
+      "CI95": [
+        3.765803162222475,
+        4.944684092082015
+      ],
+      "SE": 0.3007404572630934,
+      "df": null,
+      "tau2": 0.0,
+      "I2": 92.83366505288444,
+      "Q": 181.40374537241672,
+      "Q_p": 8.77391139109795e-32,
+      "prediction95": null,
+      "members": [
+        "R221-Franco2021",
+        "R221-Khosravi2022",
+        "R221-CarcelenFraile2022_Qigong",
+        "R221X-Denig2022",
+        "R221X-Kim2013",
+        "R221X-Lopes2018",
+        "R221X-Pourkhiz2017",
+        "R221X-Kurt2023_Sjogren",
+        "R221-Elgayar_breathing2026",
+        "R221X-deBemFretta2026",
+        "R221-Reed_MsFLASH2014",
+        "R221-Wang2025_TLM",
+        "R221X-AbrilCoello2026",
+        "R221A-Basgol2016"
+      ],
+      "families": [
+        "PILOT-FAM-RBR-3S3FF7",
+        "PILOT-FAM-IRCT20150128020854N7",
+        "NCT03989453",
+        "PILOT-FAM-NCT03194997",
+        "PILOT-FAM-LOCAL-KIM-KOREA-METS41",
+        "PILOT-FAM-ISRCTN10416750",
+        "SOURCE-CANDIDATE-DOI-10.5812_ircmj.63218",
+        "KURT-ANTALYA-2021-2022-49",
+        "PILOT-FAM-NCT06741384",
+        "SOURCE-CANDIDATE-DOI-10.1016_j.jphys.2025.12.007",
+        "PILOT-FAM-NCT01178892",
+        "ChiCTR2300070648",
+        "PILOT-FAM-NCT05679063",
+        "BASGOL-ISTANBUL-2013-2014-36"
+      ],
+      "N_layers": {
+        "n_analysis_source": {
+          "known_sum": 776,
+          "known_families": 12,
+          "model_families": 14,
+          "complete": false,
+          "not_unique_whole_review_N": true,
+          "not_complete_observed_outcome_N": true
+        },
+        "N_randomized_family_source": {
+          "known_sum": 1363,
+          "known_families": 14,
+          "model_families": 14,
+          "complete": true,
+          "not_unique_whole_review_N": true,
+          "not_complete_observed_outcome_N": true
+        },
+        "N_randomized_selected_source": {
+          "known_sum": 1056,
+          "known_families": 13,
+          "model_families": 14,
+          "complete": false,
+          "not_unique_whole_review_N": true,
+          "not_complete_observed_outcome_N": true
+        }
+      },
+      "weights_percent": [
+        5.621184329614069,
+        23.681118596912118,
+        3.812864941759038,
+        0.745508864455462,
+        2.177363785069858,
+        5.348046979110548,
+        10.51087791390985,
+        4.765608316439602,
+        11.258058715796663,
+        5.887376575089636,
+        7.516280404469954,
+        10.84360855455896,
+        2.6079193972349324,
+        5.224182625579332
+      ]
+    }
+  ],
+  "count": 78,
+  "new_posthoc_views_not_independent_new_studies": true
+}

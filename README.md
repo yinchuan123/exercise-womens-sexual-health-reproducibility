@@ -1,5 +1,40 @@
 # Exercise interventions and women's sexual health
 
+## Current R222 analysis and certainty adoption
+
+[R222](snapshots/r222-2026-11-13/README.md) adds the actual R221 source-bound
+posthoc computations: 78 frequentist views from 39 overlapping input sets,
+54 Bayesian views (51 fresh four-chain Stan fits and three deterministic
+inclusive14 integrations), 45 leave-one-family-out views and a conditional
+pain-network stress test. These are overlapping method/scope views, not 39
+independent clinical questions or new independent trials. The three earlier
+K=2 comparisons remain valid earlier restricted comparisons; current evidence
+also contains the explicitly defined wider K4/6/10/11/13/14 sets.
+
+All three authors adopted 11 new exact certainty targets and four scope uses.
+One display-order difference is retained anonymously; all source-qualified
+results remain visible. This is not whole-manuscript approval, original-source
+rereading, journal submission authorization, or a claim of universal benefit.
+The full numerical inputs, outputs, actual Stan model, portable R/Python replay
+and diagnostics are provided. The 340/194 catalogue, 40 unclassifiable reports,
+499 unretrieved reports, eight initial-N gaps and two suspected dependencies
+remain fixed-cutoff facts. No whole-review unique female N/global independent K
+is claimed. Licensed originals, signed personal records and manuscript text
+are excluded. Earlier snapshots remain immutable.
+
+```sh
+python3 snapshots/r222-2026-11-13/verify_snapshot.py
+Rscript snapshots/r222-2026-11-13/analysis/reproduce_frequentist.R out-r222
+python3 snapshots/r222-2026-11-13/analysis/reproduce_deterministic.py --output out-r222
+```
+
+## Historical public states
+
+The following earlier descriptions refer to their own dated snapshots. In
+particular, older statements that only K=2 fits existed or that Bayesian fitting
+was not implemented do not describe the R221/R222 computations above.
+
+
 This repository documents the search, study-selection accounting, extraction
 scope, certainty assessment, and aggregate statistical verification for a
 focused review of exercise and exercise-containing interventions. The
@@ -8,7 +43,7 @@ covers a broader intervention question. The focused manuscript scope was
 selected after some results had been seen. The dated decisions and evidence
 limits are documented in [Scope changes](methods/scope_changes.txt).
 
-## Current actual approval of the bound report
+## Historical R216 approval of the bound R215 report
 
 The [R216 update](snapshots/r216-2026-11-13/README.md) records three actual
 current-version author approvals of the R215 disclosure revision and its
